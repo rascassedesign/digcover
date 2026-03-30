@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import { Barlow_Condensed, Hanken_Grotesk } from 'next/font/google'
+import { Analytics } from '@vercel/analytics/react'
 import './globals.css'
 
 // ── Fonts chargées côté serveur ─────────────────────────────
@@ -25,7 +26,7 @@ export const metadata: Metadata = {
     template: '%s | DiscCover',
   },
   description: 'Un album par jour. Une immersion visuelle et sonore dans l\'univers d\'un artiste.',
-  metadataBase: new URL('https://disccover.fr'),
+  metadataBase: new URL('https://digcover.fr'),
   openGraph: {
     type: 'website',
     locale: 'fr_FR',
@@ -56,7 +57,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="fr" className={`${barlowCondensed.variable} ${hankenGrotesk.variable}`}>
-      <body>{children}</body>
+      <body>
+        {children}
+        <Analytics />
+      </body>
     </html>
   )
 }

@@ -31,7 +31,7 @@ export async function generateMetadata(
 
   // OG image : pochette locale → URL absolue | Cover Art Archive → directement
   const ogImage = coverUrl.startsWith('/')
-    ? `https://disccover.fr${coverUrl}`
+    ? `https://digcover.fr${coverUrl}`
     : coverUrl
 
   const title = `${artistName} — ${albumTitle} (${albumYear})`
