@@ -1,65 +1,67 @@
-import Image from "next/image";
+import { Metadata } from 'next'
+import fs from 'fs'
+import path from 'path'
+import HomeClient from './HomeClient'
 
+// ── Helper : charger l'artiste du jour côté serveur ──────────
+function getArtistForDate(date?: string) {
+  try {
+    const dir = path.join(process.cwd(), 'data', 'artists')
+    const files = fs.readdirSync(dir).filter(f => f.endsWith('.json')).sort().reverse()
+    if (!files.length) return null
+    const target = date && files.includes(`${date}.json`) ? `${date}.json` : files[0]
+    return JSON.parse(fs.readFileSync(path.join(dir, target), 'utf-8'))
+  } catch { return null }
+}
+
+// ── generateMetadata — dynamique par album ────────────────────
+export async function generateMetadata(
+  { searchParams }: { searchParams: { date?: string } }
+): Promise<Metadata> {
+  const raw = getArtistForDate(searchParams.date)
+  if (!raw) return { title: 'DiscCover — Album du jour' }
+
+  const artistName = raw.artist?.name ?? raw.name ?? 'Artiste'
+  const albumTitle = raw.featuredAlbum?.title ?? ''
+  const albumYear  = raw.featuredAlbum?.year ?? ''
+  const genres     = (raw.featuredAlbum?.genres ?? []).slice(0, 2).join(', ')
+  const editorial  = (raw.editorial ?? [])[0] ?? ''
+  const description = editorial.slice(0, 155) + (editorial.length > 155 ? '…' : '')
+  const coverUrl   = raw.featuredAlbum?.coverUrl ?? ''
+
+  // OG image : pochette locale → URL absolue | Cover Art Archive → directement
+  const ogImage = coverUrl.startsWith('/')
+    ? `https://disccover.fr${coverUrl}`
+    : coverUrl
+
+  const title = `${artistName} — ${albumTitle} (${albumYear})`
+
+  return {
+    title,
+    description,
+    openGraph: {
+      title: `${artistName} — ${albumTitle}`,
+      description,
+      type: 'article',
+      locale: 'fr_FR',
+      siteName: 'DiscCover',
+      images: ogImage ? [{ url: ogImage, width: 1200, height: 1200, alt: `Pochette de ${albumTitle} par ${artistName}` }] : [],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `${artistName} — ${albumTitle}`,
+      description,
+      images: ogImage ? [ogImage] : [],
+    },
+    other: {
+      'music:musician': artistName,
+      'music:release_date': String(albumYear),
+      'music:genre': genres,
+    },
+  }
+}
+
+// ── Page — wrapper serveur ────────────────────────────────────
 export default function Home() {
-  return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
-  );
+  return <HomeClient />
 }

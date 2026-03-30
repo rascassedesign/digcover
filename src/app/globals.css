@@ -1,26 +1,257 @@
-@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600;700;800;900&family=Hanken+Grotesk:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --font-display: var(--font-display-loaded, 'Barlow Condensed'), sans-serif;
+  --font-body:    var(--font-body-loaded, 'Hanken Grotesk'), sans-serif;
+
+  --color-text-primary:   #2C2C2A;
+  --color-text-secondary: #5F5E5A;
+  --color-text-tertiary:  #888780;
+  --color-border:         #D3D1C7;
+  --color-border-strong:  #888780;
+
+  --radius-sm:   4px;
+  --radius-md:   8px;
+  --radius-lg:   12px;
+  --radius-xl:   16px;
+  --radius-2xl:  24px;
+  --radius-pill: 999px;
+
+  /* Thème dynamique */
+  --theme-accent:      44, 44, 42;
+  --theme-light:       241, 239, 232;
+  --theme-mid:         200, 198, 190;
+  --theme-dark:        20, 20, 18;
+  --theme-contrast:    #FFDE42;
+  --theme-accent-hex:  #2C2C2A;
+  --theme-light-hex:   #F1EFE8;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; -webkit-font-smoothing: antialiased; }
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-body);
+  font-size: 16px; /* base +4 : 12→16 */
+  color: var(--color-text-primary);
+  background: #fff;
+  line-height: 1.7;
+}
+
+/* ═══════════════════════════════════
+   HERO ZONE — fond coloré
+═══════════════════════════════════ */
+.hero-zone {
+  background: rgb(var(--theme-light));
+  transition: background 0.65s cubic-bezier(0.4,0,0.2,1);
+  position: relative;
+}
+.hero-zone::after {
+  content: '';
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  height: 80px;
+  background: linear-gradient(to bottom, rgba(255,255,255,0) 0%, #ffffff 100%);
+  pointer-events: none;
+}
+
+/* ═══════════════════════════════════
+   SECTION VIDÉO
+═══════════════════════════════════ */
+.section-video-inner {
+  background: rgba(var(--theme-light), 0.6);
+  border-radius: 24px;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  transition: background 0.65s cubic-bezier(0.4,0,0.2,1);
+}
+
+/* ═══════════════════════════════════
+   DIVIDERS
+═══════════════════════════════════ */
+.divider-accent {
+  height: 2px;
+  background: var(--theme-contrast);
+  transition: background 0.65s cubic-bezier(0.4,0,0.2,1);
+  flex-shrink: 0;
+}
+.divider-soft {
+  height: 1px;
+  background: rgba(var(--theme-mid), 0.3);
+  transition: background 0.65s cubic-bezier(0.4,0,0.2,1);
+}
+
+/* ═══════════════════════════════════
+   VINYL BANNER
+═══════════════════════════════════ */
+.vinyl-banner {
+  background: var(--theme-contrast);
+  transition: background 0.65s cubic-bezier(0.4,0,0.2,1);
+}
+
+/* ═══════════════════════════════════
+   TYPOGRAPHIE — Règle de 4 + 4px
+═══════════════════════════════════ */
+
+/* Display/Hero : 80 → 84px */
+.text-hero {
+  font-family: var(--font-display);
+  font-size: 84px;
+  font-weight: 900;
+  line-height: 0.88;
+  letter-spacing: -0.02em;
+}
+
+/* Display/Subtitle : 26 → 28 → 32px */
+.text-display-subtitle {
+  font-family: var(--font-display);
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 1.05;
+  letter-spacing: 0.03em;
+}
+
+/* Kicker : 11 → 12 → 16px */
+.text-kicker {
+  font-family: var(--font-display);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--color-text-tertiary);
+  display: block;
+  margin-bottom: 16px;
+}
+
+/* ═══════════════════════════════════
+   STREAM BUTTON
+═══════════════════════════════════ */
+.stream-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 0 20px;
+  height: 52px;
+  background: rgba(var(--theme-light), 0.7);
+  border: 0.5px solid rgba(var(--theme-mid), 0.6);
+  border-radius: var(--radius-lg);
+  font-family: var(--font-body);
+  font-size: 16px; /* 12→16 */
+  font-weight: 700;
+  color: var(--color-text-primary);
+  cursor: pointer;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: background 0.2s, border-color 0.2s, color 0.2s,
+              transform 0.2s, box-shadow 0.2s,
+              background-color 0.45s cubic-bezier(0.4,0,0.2,1);
+}
+.stream-btn:hover {
+  background: rgba(var(--theme-mid), 0.5);
+  border-color: rgba(var(--theme-accent), 0.6);
+  color: var(--color-text-primary);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(var(--theme-accent), 0.15);
+}
+
+/* ═══════════════════════════════════
+   SHARE BUTTON
+═══════════════════════════════════ */
+.share-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 8px 16px;
+  background: rgba(var(--theme-light), 0.6);
+  border: 0.5px solid rgba(var(--theme-mid), 0.5);
+  border-radius: var(--radius-pill);
+  font-family: var(--font-body);
+  font-size: 16px; /* 12→16 */
+  font-weight: 400;
+  color: var(--color-text-primary);
+  cursor: pointer;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: background 0.2s, border-color 0.2s, color 0.2s,
+              transform 0.2s, box-shadow 0.2s,
+              background-color 0.45s cubic-bezier(0.4,0,0.2,1);
+}
+.share-btn:hover {
+  background: rgba(var(--theme-mid), 0.35);
+  border-color: rgba(var(--theme-mid), 0.8);
+}
+
+/* ═══════════════════════════════════
+   DISCO ROW
+═══════════════════════════════════ */
+.disco-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 8px;
+  min-height: 64px;
+  width: 100%;
+  cursor: pointer;
+  transition: background 0.15s, padding 0.15s;
+  border-radius: 4px;
+}
+.disco-row:hover {
+  background: rgba(var(--theme-light), 0.7);
+}
+
+/* ═══════════════════════════════════
+   IMAGES
+═══════════════════════════════════ */
+.album-cover-hero {
+  width: 428px;
+  height: 428px;
+  border-radius: var(--radius-xl);
+  object-fit: cover;
+  flex-shrink: 0;
+  display: block;
+  box-shadow: 0 8px 40px rgba(0,0,0,0.25);
+  transition: transform 0.4s cubic-bezier(0.4,0,0.2,1), box-shadow 0.4s;
+}
+.album-cover-hero:hover {
+  transform: scale(1.02) translateY(-2px);
+  box-shadow: 0 16px 60px rgba(0,0,0,0.3);
+}
+.album-cover-disco {
+  width: 48px;
+  height: 48px;
+  min-width: 48px;
+  border-radius: var(--radius-sm);
+  object-fit: cover;
+  background: rgba(var(--theme-light), 0.8);
+  transition: background 0.65s;
+}
+
+/* ═══════════════════════════════════
+   YOUTUBE
+═══════════════════════════════════ */
+.youtube-embed {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border-radius: var(--radius-xl);
+  background: #1a1a18;
+  border: none;
+  display: block;
+}
+
+/* ═══════════════════════════════════
+   MOBILE — max-width: 768px
+═══════════════════════════════════ */
+@media (max-width: 768px) {
+  /* Hero mobile : 48 → 52px */
+  .text-hero { font-size: 52px; }
+  /* Subtitle mobile : 20 → 24px */
+  .text-display-subtitle { font-size: 24px; }
+  .album-cover-hero { width: 100%; height: auto; aspect-ratio: 1 / 1; border-radius: var(--radius-lg); }
+  .stream-btn { justify-content: center; }
 }

@@ -1,0 +1,103 @@
+{
+  "id": "fontaines-dc-romance",
+  "number": "003",
+  "publishedAt": "2026-03-28",
+  "artist": {
+    "name": "FONTAINES D.C.",
+    "origin": "Dublin, Irlande"
+  },
+  "featuredAlbum": {
+    "id": "romance",
+    "title": "Romance",
+    "year": 2024,
+    "label": "XL Recordings",
+    "genres": [
+      "Post-Punk",
+      "Indie Rock",
+      "Art Rock"
+    ],
+    "trackCount": 11,
+    "type": "Album",
+    "coverUrl": "/covers/fontaines-dc-romance.jpg"
+  },
+  "meta": "2024 · XL Recordings · Post-Punk · Indie Rock · Dublin",
+  "editorial": [
+    "Grian Chatten a écrit Starburster au milieu d'une crise de panique dans une gare de Londres. On l'entend dans les respirations entre les mots, dans le beat trip-hop qui pulse comme un cœur qui s'emballe, dans les paroles qui sortent trop vite et pas assez en même temps. Romance s'ouvre là-dessus — sur une urgence, sur quelque chose d'incontrôlable — et il ne ralentit jamais vraiment. Produit par James Ford dans un château parisien, c'est leur premier album qui sonne résolument futuriste.",
+    "Ce qui m'a poussé à l'écouter en boucle, c'est la rupture franche avec tout ce que Fontaines D.C. avaient fait avant. Les trois premiers albums regardaient vers Dublin, vers l'Irlande, vers Behan et les rues mouillées. Romance regarde vers Tokyo, vers Akira, vers Nicolas Winding Refn. Nommé aux Grammys 2025 pour Best Rock Album et Best Alternative Music Performance, c'est leur disque le plus ambitieux — et celui qui prouve qu'ils n'ont pas fini de surprendre.",
+    "Lance Starburster fort. Après ça, tu veux tout le reste."
+  ],
+  "video": {
+    "youtubeId": "KHocVRUlvkk",
+    "title": "Starburster (Official Video) — Fontaines D.C. · Romance, 2024"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5",
+    "appleMusic": "https://music.apple.com/fr/album/romance/1737990072",
+    "deezer": "https://link.deezer.com/s/32Q3qgtpQZUyw4Z8XFAfI",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lycod1YzvaYYWS4LD390vh2_taIOb-a4o&si=d2xIuMXKw6xKipsO"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/SearchResult/ResultList.aspx?Search=fontaines+dc+romance+vinyle",
+      "format": "Vinyle 180g",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/SearchResult/ResultList.aspx?Search=fontaines+dc+romance+cd",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/s?k=fontaines+dc+romance+vinyl",
+      "format": "Vinyle — Cotton Candy",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Vinyl Collector",
+      "url": "https://www.vinylcollector.de/en/search?search=fontaines+romance",
+      "format": "Vinyle — import",
+      "logo": "/logos/shops/vinyl-collector.webp",
+      "color": "#1A1A1A"
+    }
+  ],
+  "discography": [
+    {
+      "id": "romance",
+      "title": "Romance",
+      "year": 2024,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "/covers/fontaines-dc-romance.jpg"
+    },
+    {
+      "id": "skinty-fia",
+      "title": "Skinty Fia",
+      "year": 2022,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/aa2f908a-5aba-40c1-a198-3d0ad4f43486/front"
+    },
+    {
+      "id": "a-heros-death",
+      "title": "A Hero's Death",
+      "year": 2020,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/f62e0e97-cb8d-4d6f-9c77-95efec0eb5f2/front"
+    },
+    {
+      "id": "dogrel",
+      "title": "Dogrel",
+      "year": 2019,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/c7a79ca0-3bd6-4e7e-abb0-17b5d95ef3de/front"
+    }
+  ]
+}
