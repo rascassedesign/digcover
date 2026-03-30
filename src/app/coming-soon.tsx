@@ -145,7 +145,7 @@ export default function ComingSoon() {
       }}>
         <div style={{
           display: 'flex', flexDirection: 'column', alignItems: 'center',
-          justifyContent: 'center', gap: 48, width: '100%', maxWidth: 720,
+          justifyContent: 'center', gap: 48, width: '100%', maxWidth: 962,
         }}>
 
           <img src="/logos/digcover-logo.svg" alt="DigCover"
