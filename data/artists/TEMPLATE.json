@@ -1,0 +1,101 @@
+{
+  "_instructions": {
+    "_comment": "Dupliquer ce fichier, renommer en YYYY-MM-DD.json, supprimer ce bloc _instructions",
+    "coverUrl_local": "Mettre la pochette dans public/covers/ et pointer vers /covers/slug.jpg",
+    "coverUrl_discography": "Utiliser https://coverartarchive.org/release-group/[MBID]/front pour les albums secondaires",
+    "youtubeId": "Récupérer depuis l'URL : youtube.com/watch?v=XXXX",
+    "number": "Incrémenter par rapport au dernier album publié",
+    "mbid": "Trouver sur https://musicbrainz.org — chercher l'artiste puis le release-group"
+  },
+
+  "id": "artiste-slug-titre-slug",
+  "number": "007",
+  "publishedAt": "2026-04-01",
+
+  "artist": {
+    "name": "NOM ARTISTE EN MAJUSCULES",
+    "origin": "Ville, Pays"
+  },
+
+  "featuredAlbum": {
+    "id": "titre-slug",
+    "title": "Titre de l'Album",
+    "year": 2026,
+    "label": "Nom du Label",
+    "genres": ["Genre 1", "Genre 2", "Genre 3"],
+    "trackCount": 12,
+    "type": "Album",
+    "coverUrl": "/covers/artiste-titre.jpg"
+  },
+
+  "meta": "2026 · Nom du Label · Genre 1 · Genre 2 · Pays",
+
+  "editorial": [
+    "§1 INTRO — Entrée immédiate dans l'univers. Image concrète, présent de narration. 3-4 phrases. Jamais de biographie en ouverture.",
+    "§2 POURQUOI J'AI ÉCOUTÉ — Ton lien personnel + contexte artistique. Ce qui t'a amené à cet album maintenant. 3-4 phrases.",
+    "§3 CONCLUSION — Ce que l'album laisse. Finir par une phrase courte et directe qui invite à écouter. 2-3 phrases."
+  ],
+
+  "video": {
+    "youtubeId": "XXXXXXXXXXX",
+    "title": "Titre du Clip — Artiste · Album, Année"
+  },
+
+  "streaming": {
+    "spotify":      "https://open.spotify.com/album/XXXX",
+    "appleMusic":   "https://music.apple.com/fr/album/XXXX",
+    "deezer":       "https://www.deezer.com/fr/album/XXXX",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=XXXX"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/SearchResult/ResultList.aspx?Search=artiste+titre+vinyle",
+      "format": "Vinyle 180g",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/SearchResult/ResultList.aspx?Search=artiste+titre+cd",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/s?k=artiste+titre+vinyl",
+      "format": "Vinyle",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+
+  "discography": [
+    {
+      "id": "titre-slug",
+      "title": "Album Featuté (même que featuredAlbum)",
+      "year": 2026,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "/covers/artiste-titre.jpg"
+    },
+    {
+      "id": "album-precedent",
+      "title": "Album Précédent",
+      "year": 2024,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-ICI]/front"
+    },
+    {
+      "id": "encore-avant",
+      "title": "Encore Avant",
+      "year": 2022,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-ICI]/front"
+    }
+  ]
+}

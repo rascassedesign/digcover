@@ -1,0 +1,93 @@
+{
+  "id": "boy-golden-best-of-our-possible-lives",
+  "number": "002",
+  "publishedAt": "2026-04-02",
+
+  "artist": {
+    "name": "BOY GOLDEN",
+    "origin": "Brandon, Canada"
+  },
+
+  "featuredAlbum": {
+    "id": "best-of-our-possible-lives",
+    "title": "Best of Our Possible Lives",
+    "year": 2026,
+    "label": "Six Shooter Records",
+    "genres": ["Alternative", "Folk", "Country"],
+    "trackCount": 12,
+    "type": "Album",
+    "coverUrl": "/covers/boy-golden-best-of-our-possible-lives.webp"
+  },
+
+  "meta": "2026 · Six Shooter Records · Alternative · Folk · Country",
+
+  "editorial": [
+    "“Suffer” s'ouvre sur des guitares poussiéreuses et une batterie qui traîne. Liam Duncan alias Boy Golden arrive direct, sans préambule : les prix qui montent, les nuits à compter ce qu'il reste, un président qu'on voudrait changer. Ce cowboy de Winnipeg ne pose pas de décors, il vous met dedans.",
+    "Un post Instagram, une pochette, un extrait de trente secondes et j'ai tout écouté dans la foulée. Je ne connaissais pas Boy Golden. C'est quelque chose entre le folk et la country, mais avec une production qui respire vraiment bien, jamais coincée dans un genre. Certains titres évoquent Fleetwood Mac, d'autres sont plus rugueux, plus directs. Il y a une cohérence là-dedans qui surprend pour une première écoute.",
+    "C'est un album qui sonne juste, Best of Our Possible Lives ancre dans l’instant. Si vous aimez la folk indie avec une grosse pointe de country, vous allez passer un bon moment !"
+  ],
+
+  "video": {
+    "youtubeId": "3c5PzrPsEPE",
+    "title": "Boy Golden - Suffer (Official Video) - 2025"
+  },
+
+  "streaming": {
+    "spotify":      "https://open.spotify.com/intl-fr/album/7sMzhU19W3Kmjj8SAm3lVC",
+    "appleMusic":   "https://music.apple.com/us/album/best-of-our-possible-lives/1834678403",
+    "deezer":       "https://link.deezer.com/s/32QY0SDfEgkUD6qzUpLTq",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_l9CtWUofdUpS38O84Aj34eT2rlVNVxI6s&si=vqipTzEc5QwKYOpG"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Best-Our-Possible-Lives-Golden/dp/B0G2M9WYY4/",
+      "format": "Vinyle",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Best-Our-Possible-Lives-Golden/dp/B0GFF5ZDM8/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+
+  "discography": [
+    {
+      "id": "best-of-our-possible-lives",
+      "title": "Best of Our Possible Lives",
+      "year": 2026,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "/covers/boy-golden-best-of-our-possible-lives.webp"
+    },
+    {
+      "id": "for-eden",
+      "title": "For Eden",
+      "year": 2024,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-ICI]/front"
+    },
+    {
+      "id": "for-jimmy",
+      "title": "For Jimmy",
+      "year": 2023,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-ICI]/front"
+    },
+    {
+      "id": "church-of-better-daze",
+      "title": "Church of Better Daze",
+      "year": 2021,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-ICI]/front"
+    }
+  ]
+}

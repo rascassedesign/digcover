@@ -1,0 +1,92 @@
+{
+  "id": "alfa-mist-variables",
+  "number": "001",
+  "publishedAt": "2026-04-01",
+  "artist": {
+    "name": "ALFA MIST",
+    "origin": "Londres, Royaume-Uni"
+  },
+  "featuredAlbum": {
+    "id": "variables",
+    "title": "Variables",
+    "year": 2023,
+    "label": "ANTI-",
+    "genres": ["Nu Jazz", "Hip-Hop", "Jazz Fusion"],
+    "trackCount": 10,
+    "type": "Album",
+    "coverUrl": "/covers/alfa-mist-variables.jpg"
+  },
+  "meta": "2023 · ANTI- · Nu Jazz · Hip-Hop · Royaume-Uni",
+  "editorial": [
+    "Le piano s'installe en premier... discret, presque hésitant. Puis la voix arrive, posée sur le rythme comme quelqu'un qui prend le temps de choisir ses mots. Sur Variables, Alfa Mist ne cherche pas à en mettre plein la vue : il construit un espace habitable, quelque part entre le jazz de chambre et le boom-bap londonien, où chaque note semble avoir sa raison d'être.",
+    "J'y suis revenu ce printemps, en cherchant quelque chose qui tienne compagnie sans envahir. L'album sort en 2019, enregistré à Londres avec un groupe serré de musiciens de la scène jazz britannique naissante. Alfa Mist fait tout à la fois: il joue, il rappe, il compose. Ce qui frappe, c'est la cohérence ! Pas une seconde qui semble remplie pour remplir, pas un effet gratuit. Le disque respire.",
+    "À l'écoute, c'est une sorte de calme actif, comme après une conversation qui t'a laissé quelque chose sans que tu saches exactement quoi. Variables ne fait pas de bruit, mais il s'installe. Lance-le."
+  ],
+  "video": {
+    "youtubeId": "X99HNJPhq78",
+    "title": "Alfa Mist - Variables"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/0sW6bNCjzPlrJM100nIST6?si=V-fenKk7RfuI9e9g-pNY1g",
+    "appleMusic": "https://music.apple.com/fr/album/variables/1663352117",
+    "deezer": "https://link.deezer.com/s/32QW3uXZhwaE2KH2QRbx7",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_l5O08cVRrcrM0Mj1eunMFvZOE_haIBaLM&si=P6pquI3XfRFCpVIq"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a17767139/Alfa-Mist-Variables-Vinyle-album?oref=1273a12e-5f69-f399-6328-b0d8a3b74502",
+      "format": "Vinyle",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a17767140/Alfa-Mist-Variables-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Variables-Alfa-Mist/dp/B0BTKCPLWK/ref=sr_1_1?dib=eyJ2IjoiMSJ9.ccm-njpNudL476HxKPZw7A.3cCUm5HnDnIYRolsGyevpUWQWGz5wBJs9EebAI-FwbQ&dib_tag=se&keywords=alfa+mist+variable+vinyl&qid=1774877044&sr=8-1",
+      "format": "Vinyle",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "variables",
+      "title": "Variables",
+      "year": 2023,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "/covers/alfa-mist-variables.jpg"
+    },
+    {
+      "id": "bring-backs",
+      "title": "Bring Backs",
+      "year": 2021,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "https://coverartarchive.org/release-group/84b3e69f-78c0-4886-a129-2d70b9b955f8/front"
+    },
+    {
+      "id": "structuralism",
+      "title": "Structuralism",
+      "year": 2019,
+      "type": "Album",
+      "trackCount": 8,
+      "coverUrl": "https://coverartarchive.org/release-group/588aaaa9-6ace-435a-84f7-6927186f184f/front"
+    },
+    {
+      "id": "antiphon",
+      "title": "Antiphon",
+      "year": 2017,
+      "type": "Album",
+      "trackCount": 8,
+      "coverUrl": "https://coverartarchive.org/release-group/7ffacf95-1f20-45da-accb-57c3c7cd17dd/front"
+    }
+  ]
+}

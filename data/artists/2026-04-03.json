@@ -1,0 +1,77 @@
+{
+  "id": "archy-marshall-and-king-krule-a-new-place-2-drown-(instrumentals)",
+  "number": "003",
+  "publishedAt": "2026-04-03",
+
+  "artist": {
+    "name": "ARCHY MARSHALL & KING KRULE",
+    "origin": "London, United Kingdom"
+  },
+
+  "featuredAlbum": {
+    "id": "a-new-place-2-drown-(instrumentals)",
+    "title": "A New Place 2 Drown (Instrumentals)",
+    "year": 2025,
+    "label": "XL Recordings",
+    "genres": ["Alternative", "Instrumentals", "Trip Hop"],
+    "trackCount": 12,
+    "type": "Album",
+    "coverUrl": "/covers/archy-marshall-and-king-krule-a-new-place-2-drown-(instrumentals).jpg"
+  },
+
+  "meta": "2025 · XL Recordings · Alternative · Instrumentals · Trip-Hop",
+
+  "editorial": [
+    "Un piano égrène trois notes, hésitantes. Une basse répond, lente, presque distraite. Puis le silence reprend ses droits et c'est là qu'Archy Marshall, alias King Krule, t’attrape. A New Place 2 Drown (Instrumentals) ne cherche pas à convaincre : il s'installe, comme quelqu'un qui connaît déjà la maison.",
+    "J'écoutais King Krule quand cette réédition instrumentale pour les dix ans de l'album original est tombée. Le projet avait été sorti sous son vrai nom, une façon de marquer une autre facette de lui-même, loin du personnage. À l'époque accompagné d'un livre de photos et de poèmes avec son frère Jack, il révèle ici sa colonne vertébrale sonore : textures lo-fi, nappes suspendues, atmosphère de South London gris et hanté. Les titres inédits publiés sous le nom King Krule complètent le tableau comme When And Why, un morceau mythique pour les fans, enfin officialisé.",
+    "Sans les voix, plus rien ne vient te distraire de la matière elle-même, les couches de production, cette profondeur atmosphérique qui fait le charme discret de cet album. C'est le genre de disque qui crée un état plutôt qu'une émotion, qui meuble le silence sans le remplir. Écoutez-le sans plus attendre !"
+  ],
+
+  "video": {
+    "youtubeId": "-zBis1jvvxg",
+    "title": "TArchy Marshall - Swell (Instrumental) - King Krule - 2025"
+  },
+
+  "streaming": {
+    "spotify":      "https://open.spotify.com/intl-fr/album/7zAyARwgpMxYlRIS8gIoP1?si=KP6zihVzTyyeW21OxloNNA",
+    "appleMusic":   "https://music.apple.com/fr/album/a-new-place-2-drown-instrumentals/1849235013",
+    "deezer":       "https://link.deezer.com/s/32R3bOTvCA2SHOJahzBPG",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kQgs368W6ilMijoEAW2G_55g6bsZuDGL4&si=7o3QWWv5hvqN1y0J"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a22278127/Archy-Marshall-A-New-Place-2-Drown-Instrumentals-Vinyle-album",
+      "format": "Vinyle",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/New-Place-Drown-Instrumentals/dp/B0G67L7VVQ/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=9WL69YUQEGAM&dib=eyJ2IjoiMSJ9.bdOUY0C-cE-w2mx6L4rGFUErmmjZuhjusWGFCjt7airGjHj071QN20LucGBJIEps.zkurKDuo5rl_pehMroe5-gKvuTQXAm3QuZvzHOTLejg&dib_tag=se&keywords=A+New+Place+2+Drown+%28Instrumentals%29&qid=1774894374&sprefix=a+new+place+2+drown+instrumentals+%2Caps%2C244&sr=8-1",
+      "format": "Vinyle",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+
+  "discography": [
+    {
+      "id": "a-new-place-2-drown-(instrumentals)",
+      "title": "A New Place 2 Drown (Instrumentals)",
+      "year": 2025,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "/covers/archy-marshall-and-king-krule-a-new-place-2-drown-(instrumentals).jpg"
+    },
+    {
+      "id": "a-new-place-2-drown",
+      "title": "A New Place 2 Drown",
+      "year": 2015,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-ICI]/front"
+    }
+  ]
+}
