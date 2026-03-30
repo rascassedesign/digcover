@@ -171,7 +171,7 @@ function ArchiveCard({ entry, onMouseEnter, onMouseLeave, isMobile }: CardProps)
         <div style={{ padding: '14px 20px 16px', display: 'flex', flexDirection: 'column', gap: 4 }}>
           {/* Nom artiste : 20 → 24px */}
           <p style={{
-            fontFamily: 'var(--font-display)', fontSize: 24, fontWeight: 800,
+            fontFamily: 'var(--font-display)', fontSize: isMobile ? 18 : 24, fontWeight: 800,
             lineHeight: 1, color: '#2C2C2A', letterSpacing: '-0.005em',
             whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis',
           }}>
@@ -179,7 +179,7 @@ function ArchiveCard({ entry, onMouseEnter, onMouseLeave, isMobile }: CardProps)
           </p>
           {/* Titre album : 13 → 16px */}
           <p style={{
-            fontFamily: 'var(--font-body)', fontSize: 16, color: '#444441', lineHeight: 1.4,
+            fontFamily: 'var(--font-body)', fontSize: isMobile ? 14 : 16, color: '#444441', lineHeight: 1.4,
             whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis',
           }}>
             {entry.albumTitle}
@@ -274,7 +274,7 @@ export default function ArchiveClient() {
       <div style={{ height: 1, background: 'rgba(var(--theme-accent), 0.6)', margin: `0 ${px}px`, transition: 'background 0.65s cubic-bezier(0.4,0,0.2,1)' }} />
 
       {/* Grille */}
-      <section style={{ padding: `40px ${px}px 80px` }}>
+      <section style={{ padding: `32px ${px}px 64px`, overflow: 'hidden' }}>
         {entries.length === 0 ? (
           <p style={{ fontFamily: 'var(--font-body)', fontSize: 20, color: '#888780', padding: '32px 0' }}>
             Aucun album dans l&apos;archive pour le moment.
@@ -282,8 +282,9 @@ export default function ArchiveClient() {
         ) : (
           <div style={{
             display: 'grid',
-            gridTemplateColumns: isMobile ? '1fr 1fr' : 'repeat(auto-fill, minmax(200px, 1fr))',
+            gridTemplateColumns: isMobile ? 'repeat(2, minmax(0, 1fr))' : 'repeat(auto-fill, minmax(200px, 1fr))',
             gap: isMobile ? 12 : 20,
+            width: '100%',
           }}>
             {entries.map(entry => (
               <ArchiveCard

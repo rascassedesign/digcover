@@ -253,5 +253,17 @@ body {
   /* Subtitle mobile : 20 → 24px */
   .text-display-subtitle { font-size: 24px; }
   .album-cover-hero { width: 100%; height: auto; aspect-ratio: 1 / 1; border-radius: var(--radius-lg); }
-  .stream-btn { justify-content: center; }
+
+  /* Boutons streaming — grille 2x2 pleine largeur */
+  .stream-btn {
+    justify-content: center;
+    flex: 1 1 calc(50% - 5px);
+    min-width: 0;
+  }
+
+  /* Section vidéo — bord à bord sur mobile */
+  .section-video-inner {
+    border-radius: 0;
+    padding: 16px;
+  }
 }

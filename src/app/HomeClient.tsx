@@ -159,7 +159,7 @@ export default function HomeClient() {
         </section>
       </div>
 
-      <section style={{ padding: `16px ${isNarrow ? `${videoX}px` : '0'} 40px`, display: 'flex', justifyContent: 'center' }}>
+      <section style={{ padding: `16px ${isMobile ? '0' : isTablet ? `${videoX}px` : '0'} 40px`, display: 'flex', justifyContent: 'center' }}>
         <div style={{ width: isNarrow ? '100%' : 962, flexShrink: 0 }}>
           <div className="section-video-inner">
             <p style={{ fontFamily: 'var(--font-body)', fontSize: 20, fontWeight: 500, color: 'rgba(var(--theme-accent), 0.6)' }}>Dernier titre</p>
@@ -169,12 +169,24 @@ export default function HomeClient() {
         </div>
       </section>
 
-      <section style={{ padding: `0 ${videoX}px 48px`, display: 'flex', flexDirection: 'column', gap: 16 }}>
+      <section style={{ padding: `0 ${isMobile ? '20px' : `${videoX}px`} 48px`, display: 'flex', flexDirection: 'column', gap: 16 }}>
         <p className="text-kicker" style={{ textAlign: 'center' }}>Écouter l&apos;album</p>
-        <div style={{ display: 'flex', flexWrap: 'wrap', gap: 10, justifyContent: isMobile ? 'flex-start' : 'center' }}>
+        <div style={{
+          display: 'flex',
+          flexWrap: 'wrap',
+          gap: 10,
+          justifyContent: isMobile ? 'flex-start' : 'center',
+        }}>
           {streaming.map(s => (
-            <a key={s.platform} href={s.url} target="_blank" rel="noopener noreferrer" className="stream-btn">
-              <img src={s.logoSrc} alt={s.label} width={20} height={20} style={{ flexShrink: 0 }} />
+            <a key={s.platform} href={s.url} target="_blank" rel="noopener noreferrer" className="stream-btn"
+              style={isMobile ? { flex: '1 1 calc(50% - 5px)', minWidth: 0, justifyContent: 'center' } : undefined}>
+              <img
+                src={s.logoSrc}
+                alt={s.label}
+                width={20} height={20}
+                style={{ flexShrink: 0 }}
+                onError={(e) => { (e.target as HTMLImageElement).style.display = 'none' }}
+              />
               {s.label}
             </a>
           ))}
