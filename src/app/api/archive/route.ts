@@ -13,8 +13,11 @@ export async function GET() {
       return NextResponse.json([])
     }
 
+    const today = new Date().toISOString().split('T')[0]
+
     const files = fs.readdirSync(dir)
-      .filter(f => f.endsWith('.json'))
+      .filter(f => f.endsWith('.json') && f !== 'TEMPLATE.json')
+      .filter(f => f.replace('.json', '') <= today) // uniquement les dates passées ou aujourd'hui
       .sort()
       .reverse() // plus récent en premier
 
