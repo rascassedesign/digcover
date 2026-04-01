@@ -4,7 +4,6 @@ import { useState, useEffect } from 'react'
 import { useColorTheme } from '@/hooks/useColorTheme'
 import { useIsMobile } from '@/hooks/useIsMobile'
 import Nav from '@/components/Nav'
-import { track } from '@vercel/analytics'
 import Footer from '@/components/Footer'
 import type { Artist } from '@/types'
 
@@ -76,7 +75,7 @@ function ShopRow({ shop, isFirst }: { shop: ShopPartner; isFirst: boolean }) {
             {shop.format && <p style={{ fontFamily: 'var(--font-body)', fontSize: 16, color: 'rgba(var(--theme-accent), 0.6)', transition: 'color 0.45s' }}>{shop.format}</p>}
           </div>
         </div>
-        <a href={shop.url} target="_blank" rel="noopener noreferrer" onMouseEnter={() => setBtnHovered(true)} onMouseLeave={() => setBtnHovered(false)} onClick={() => track('shop_click', { shop: shop.name, format: shop.format ?? '' })}
+        <a href={shop.url} target="_blank" rel="noopener noreferrer" onMouseEnter={() => setBtnHovered(true)} onMouseLeave={() => setBtnHovered(false)}
           style={{ padding: '8px 20px', background: btnHovered ? 'rgba(var(--theme-accent), 0.75)' : 'rgb(var(--theme-accent))', color: '#fff', borderRadius: 8, fontFamily: 'var(--font-body)', fontWeight: 600, fontSize: 16, textDecoration: 'none', whiteSpace: 'nowrap', flexShrink: 0, transform: btnHovered ? 'scale(1.04)' : 'scale(1)', transition: 'background 0.2s, transform 0.15s, background-color 0.45s' }}>
           Voir le produit
         </a>
@@ -85,11 +84,11 @@ function ShopRow({ shop, isFirst }: { shop: ShopPartner; isFirst: boolean }) {
   )
 }
 
-function ShareButton({ href, onClick, onClickExtra, lineIcon, fillIcon, label }: { href?: string; onClick?: () => void; onClickExtra?: () => void; lineIcon: React.ReactNode; fillIcon: React.ReactNode; label: string }) {
+function ShareButton({ href, onClick, lineIcon, fillIcon, label }: { href?: string; onClick?: () => void; lineIcon: React.ReactNode; fillIcon: React.ReactNode; label: string }) {
   const [hovered, setHovered] = useState(false)
   const content = <>{hovered ? fillIcon : lineIcon}{label}</>
   if (onClick) return <button onClick={onClick} onMouseEnter={() => setHovered(true)} onMouseLeave={() => setHovered(false)} className="share-btn">{content}</button>
-  return <a href={href} target="_blank" rel="noopener noreferrer" onClick={onClickExtra} onMouseEnter={() => setHovered(true)} onMouseLeave={() => setHovered(false)} className="share-btn">{content}</a>
+  return <a href={href} target="_blank" rel="noopener noreferrer" onMouseEnter={() => setHovered(true)} onMouseLeave={() => setHovered(false)} className="share-btn">{content}</a>
 }
 
 export default function HomeClient() {
@@ -120,7 +119,6 @@ export default function HomeClient() {
   const handleCopyLink = async () => {
     await navigator.clipboard.writeText(pageUrl)
     setCopied(true)
-    track('share_click', { method: 'copy_link', artist: artist?.name ?? '', album: artist?.featuredAlbum?.title ?? '' })
     setTimeout(() => setCopied(false), 2000)
   }
 
@@ -181,8 +179,7 @@ export default function HomeClient() {
         }}>
           {streaming.map(s => (
             <a key={s.platform} href={s.url} target="_blank" rel="noopener noreferrer" className="stream-btn"
-              style={isMobile ? { flex: '1 1 calc(50% - 5px)', minWidth: 0, justifyContent: 'center' } : undefined}
-              onClick={() => track('streaming_click', { platform: s.platform, artist: artist.name, album: featuredAlbum.title })}>
+              style={isMobile ? { flex: '1 1 calc(50% - 5px)', minWidth: 0, justifyContent: 'center' } : undefined}>
               <img
                 src={s.logoSrc}
                 alt={s.label}
@@ -246,8 +243,8 @@ export default function HomeClient() {
         <span style={{ fontFamily: 'var(--font-body)', fontWeight: 500, fontSize: 16, color: 'rgba(var(--theme-accent), 0.5)', width: isMobile ? '100%' : 'auto' }}>Partager :</span>
         <ShareButton onClick={handleCopyLink} lineIcon={<IconLinkLine />} fillIcon={<IconLinkFill />} label={copied ? 'Lien copié !' : 'Copier le lien'} />
         <ShareButton href="https://www.instagram.com/" lineIcon={<IconInstagramLine />} fillIcon={<IconInstagramFill />} label="Instagram" />
-        <ShareButton href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(pageUrl)}&text=${encodeURIComponent(`${artist.name} — ${featuredAlbum.title}`)}`} lineIcon={<IconXLine />} fillIcon={<IconXFill />} label="X / Twitter" onClickExtra={() => track('share_click', { method: 'twitter', artist: artist.name })} />
-        <ShareButton href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(pageUrl)}`} lineIcon={<IconFacebookLine />} fillIcon={<IconFacebookFill />} label="Facebook" onClickExtra={() => track('share_click', { method: 'facebook', artist: artist.name })} />
+        <ShareButton href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(pageUrl)}&text=${encodeURIComponent(`${artist.name} — ${featuredAlbum.title}`)}`} lineIcon={<IconXLine />} fillIcon={<IconXFill />} label="X / Twitter" />
+        <ShareButton href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(pageUrl)}`} lineIcon={<IconFacebookLine />} fillIcon={<IconFacebookFill />} label="Facebook" />
       </section>
 
       <Footer />

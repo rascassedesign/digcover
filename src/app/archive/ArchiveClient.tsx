@@ -4,7 +4,6 @@ import { useState, useEffect, useRef, useCallback } from 'react'
 import Link from 'next/link'
 import { useIsMobile } from '@/hooks/useIsMobile'
 import Nav from '@/components/Nav'
-import { track } from '@vercel/analytics'
 import Footer from '@/components/Footer'
 
 interface ArchiveEntry {
@@ -129,7 +128,7 @@ function ArchiveCard({ entry, onMouseEnter, onMouseLeave, isMobile }: CardProps)
   const genres = parts.slice(2, 4).join(' · ')
 
   return (
-    <Link href={`/?date=${entry.date}`} onClick={() => track('archive_album_click', { artist: entry.artistName, album: entry.albumTitle, date: entry.date })} style={{ textDecoration: 'none', display: 'block' }}>
+    <Link href={`/?date=${entry.date}`} style={{ textDecoration: 'none', display: 'block' }}>
       <div
         onMouseEnter={() => { setHovered(true); onMouseEnter() }}
         onMouseLeave={() => { setHovered(false); onMouseLeave() }}
