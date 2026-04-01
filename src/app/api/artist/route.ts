@@ -14,7 +14,7 @@ export async function GET(req: NextRequest) {
     }
 
     const files = fs.readdirSync(dir)
-      .filter(f => f.endsWith('.json'))
+      .filter(f => f.endsWith('.json') && f !== 'TEMPLATE.json')
       .sort()
       .reverse()
 

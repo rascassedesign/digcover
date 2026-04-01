@@ -7,7 +7,7 @@ import HomeClient from './HomeClient'
 function getArtistForDate(date?: string) {
   try {
     const dir = path.join(process.cwd(), 'data', 'artists')
-    const files = fs.readdirSync(dir).filter(f => f.endsWith('.json')).sort().reverse()
+    const files = fs.readdirSync(dir).filter(f => f.endsWith('.json') && f !== 'TEMPLATE.json').sort().reverse()
     if (!files.length) return null
     const target = date && files.includes(`${date}.json`) ? `${date}.json` : files[0]
     return JSON.parse(fs.readFileSync(path.join(dir, target), 'utf-8'))
@@ -31,7 +31,7 @@ export async function generateMetadata(
 
   // OG image : pochette locale → URL absolue | Cover Art Archive → directement
   const ogImage = coverUrl.startsWith('/')
-    ? `https://digcover.fr${coverUrl}`
+    ? `https://disccover.fr${coverUrl}`
     : coverUrl
 
   const title = `${artistName} — ${albumTitle} (${albumYear})`
