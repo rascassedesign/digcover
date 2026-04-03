@@ -1,0 +1,69 @@
+{
+  "id": "new-german-cinema-pain-will-polish-me",
+  "number": "008",
+  "publishedAt": "2026-04-10",
+
+  "artist": {
+    "name": "NEW GERMAN CINEMA",
+    "origin": "Brighton, Royaume-Uni"
+  },
+
+  "featuredAlbum": {
+    "id": "pain-will-polish-me",
+    "title": "Pain Will Polish Me",
+    "year": 2026,
+    "label": "Felte",
+    "genres": ["Dark Pop", "Synth-Pop", "Art Pop"],
+    "trackCount": 12,
+    "type": "Album",
+    "coverUrl": "/covers/new-german-cinema-pain-will-polish-me.jpg"
+  },
+
+  "meta": "2026 · Felte · Dark Pop · Synth-Pop · Royaume-Uni",
+
+  "editorial": [
+    "Sub Rosa s'ouvre sur quelques secondes de silence avant qu'une voix surgisse, à peine posée sur les synthés, comme une confidence murmurée dans une pièce mal éclairée. Jessica Weiss construit ici quelque chose de plus dense, de plus hanté. L'atmosphère est celle d'un film : des émotions retenues à l'extrême, prêtes à déborder.",
+    "Cinq ans de travail entre Londres, Los Angeles et des fragments enregistrés à Berlin. Le disque a mûri lentement. C'est cette lenteur-là qui se sent à l'écoute : rien n'est précipité, chaque couche de guitare et de voix trouve sa place. My Mistake, en duo avec Carson Cox de Merchandise, est le moment où tout bascule, une urgence gothique qui tranche sur le reste, et qu'on n'oublie pas vite.",
+    "Ce que l'album laisse, c'est une impression étrange de proximité, comme si la douleur, ici, polissait vraiment quelque chose."
+  ],
+
+  "video": {
+    "youtubeId": "3TVLCRnr2KM",
+    "title": "New German Cinema - My Mistake feat. Carson Cox (Official Video)"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/2gQRYx8YxrWvmS93clqLrI?si=UA3e9eekRSiEC5DhTjP8Vg",
+    "appleMusic": "https://music.apple.com/fr/album/pain-will-polish-me/1868745188",
+    "deezer": "https://link.deezer.com/s/32TgdI2ouwhdskUH32jQh",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nC4EgQiWuZmIje1lrMu7DK1BtaebLUUi0&si=gSZquBaZqgP6pkIM"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a22603497/New-German-Cinema-Pain-Will-Polish-Me-Vinyle-Vert-Vinyle-album",
+      "format": "Vinyle Vert",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Pain-Will-Polish-Me-Vinyle/dp/B0GK38HCBM/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=18WFPGRJLES6C&dib=eyJ2IjoiMSJ9.YAbP7SMCZpA7jm778q5u_yDHBJHIAa5TNYj3wo49K6pF1TL9pd1vvlss1cX3OT_0Zb37ZLpFmRgpv3HtTjtPA2Gd1QehB3ddM76e11bCWHiDOqvYwmqhqAGc6DlOpQqFL93PncMFAVo1_BDB3DKHIy8E0qCXszeXM116deLTFnfZgPMi9VeM1EHy72GpkIbiuKwJt6QTIwPq7jyh-bVGr3vKtEKwLh1fCMha5f59dXsX3mBvDA62i7ZQC6wyZ4vQ9EldUz1iXFYVvA3ytQ80Hlmsq-sbbL5x4eN1-YIa3ck.wobSHBQfdXUUDlH8GmLYkTQdZYURle-ynqGxLAOXOFg&dib_tag=se&keywords=new+german+cinema&qid=1775229507&sprefix=new+german+cinema%2Caps%2C341&sr=8-1",
+      "format": "Vinyle Vert",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+
+  "discography": [
+    {
+      "id": "pain-will-polish-me",
+      "title": "Pain Will Polish Me",
+      "year": 2026,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "/covers/new-german-cinema-pain-will-polish-me.jpg"
+    }
+  ]
+}

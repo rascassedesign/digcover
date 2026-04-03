@@ -1,0 +1,85 @@
+{
+  "id": "cleopatrick-bummer",
+  "number": "004",
+  "publishedAt": "2026-04-06",
+
+  "artist": {
+    "name": "CLEOPATRICK",
+    "origin": "Cobourg, Canada"
+  },
+
+  "featuredAlbum": {
+    "id": "bummer",
+    "title": "BUMMER",
+    "year": 2021,
+    "label": "Nowhere Special Recordings",
+    "genres": ["Alternative Rock", "Garage Rock", "Hard Rock"],
+    "trackCount": 10,
+    "type": "Album",
+    "coverUrl": "/covers/cleopatrick-bummer.jpg"
+  },
+
+  "meta": "2021 · Nowhere Special Recordings · Alternative Rock · Garage Rock · Canada",
+
+  "editorial": [
+    "La guitare s'écrase dès les premières secondes comme quelqu'un qui claque une porte. Luke Gruntz chante avec une urgence brute qui ne cherche pas à plaire, elle cherche juste à tenir debout. BUMMER, sorti en 2021, sonne comme un garage mal isolé en plein hiver canadien : bruyant, honnête, légèrement rude sur les bords.",
+    "J'ai mis cet album sur mes oreilles après avoir cherché quelque chose qui ne s'excuse pas d'être fort. Cleopatrick, c'est un duo de l’Ontario, Luke et Ian, deux amis qui ont tout produit eux-mêmes, sans label pour lisser les angles. On entend cette liberté dans chaque piste. Le rock garage y retrouve une tension qu'on croyait un peu éteinte, une façon d'être à la fois lo-fi et massif sans que ça sonne comme une posture.",
+    "BUMMER laisse cette sensation d'avoir crié quelque chose de vrai dans une pièce vide et d'avoir été entendu malgré tout. Mets-le fort."
+  ],
+
+  "video": {
+    "youtubeId": "QWnV4wo3zNQ",
+    "title": "cleopatrick - FAMILY VAN (Official Video)"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/3o0iNid084ArLzRpaF5xfz?si=0OdnAa0DQf-a72R5o3QsrQ",
+    "appleMusic": "https://music.apple.com/fr/album/bummer/1559808477",
+    "deezer": "https://link.deezer.com/s/32Tee9bcPoz8E93y4F2k2",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nS0uXc38Nzsi3orF_D9KmyzJxgsJ7hiyk&si=IkpmZ8p0ghoIbLZc"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a15930026/Cleopatrick-Bummer-Vinyle-album",
+      "format": "Vinyle",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a15930015/Cleopatrick-Bummer-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    }
+  ],
+
+  "discography": [
+    {
+      "id": "bummer",
+      "title": "BUMMER",
+      "year": 2021,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "/covers/cleopatrick-bummer.jpg"
+    },
+    {
+      "id": "fake-moon",
+      "title": "FAKE MOON",
+      "year": 2025,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/7b81c9f9-2fde-4149-b63b-9f1fb9e48243/front"
+    },
+    {
+      "id": "doom",
+      "title": "DOOM",
+      "year": 2022,
+      "type": "EP",
+      "trackCount": 5,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-DOOM-A-VERIFIER]/front"
+    }
+  ]
+}

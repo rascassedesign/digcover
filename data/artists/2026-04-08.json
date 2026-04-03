@@ -1,0 +1,107 @@
+{
+  "id": "black-honey-soak",
+  "number": "006",
+  "publishedAt": "2026-04-08",
+
+  "artist": {
+    "name": "BLACK HONEY",
+    "origin": "Brighton, Royaume-Uni"
+  },
+
+  "featuredAlbum": {
+    "id": "soak",
+    "title": "Soak",
+    "year": 2025,
+    "label": "Foxfive",
+    "genres": ["Indie Rock", "Alternative Rock"],
+    "trackCount": 12,
+    "type": "Album",
+    "coverUrl": "/covers/black-honey-soak.jpg"
+  },
+
+  "meta": "2025 · Foxfive · Indie Rock · Alternative Rock · Royaume-Uni",
+
+  "editorial": [
+    "La guitare d'Izzy Phillips vrille dans l'espace comme une lame chauffée à blanc. Dès les premières secondes, SOAK t'attrape par le col et refuse de lâcher. Ce troisième album du groupe de Brighton joue sur des textures quasi cinématographiques, du grunge tamisé, de la dream pop avec des dents où chaque couche sonore en cache une autre, plus sombre, plus tendre.",
+    "Je suis revenu à Black Honey après une longue période à chercher un rock qui ne se contente pas de refermer les vieilles portes. SOAK les rouvre autrement. L'album porte une tension à fleur de peau : les arrangements sont à la fois généreux et urgents, comme quelqu'un qui parle vite parce qu'il a trop attendu.",
+    "Ce que SOAK laisse, c'est une impression de profondeur qu'on n'avait pas vue venir. Mets le casque, monte le son."
+  ],
+
+  "video": {
+    "youtubeId": "iGIekMH6JJw",
+    "title": "Black Honey - Soak"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/1PGXOxv1Gb6NiWHmei4lWe?si=0gJRLVCyR6ScndvdDIkqsg",
+    "appleMusic": "https://music.apple.com/fr/album/soak/1807094034",
+    "deezer": "https://link.deezer.com/s/32Tfn9GCnxifJmPJtArUi",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mmknoJxBxpZ0D1-1sjZLC4GZ46gkakQKY&si=VMVFfWeqKp0bkZW-"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21547337/Black-Honey-Soak-Vinyle-album",
+      "format": "Vinyle",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21547308/Black-Honey-Soak-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Black-Honey-Soak-Honey/dp/B0F4ZYGPP1/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=30N5NCM848U6G&dib=eyJ2IjoiMSJ9.vBCTZ3YKB14XpKNNLC4_4lZse_bCs0FqxrmHp5STQXQ.pPijSHLSutGqTWpMbrEXVcd1fcFTXn9IUb7K3r5fRV4&dib_tag=se&keywords=black+honey+soak+album&qid=1775227834&sprefix=black+honey+soak+albu%2Caps%2C258&sr=8-1",
+      "format": "Vinyle",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Black-Honey-Soak-Honey/dp/B0F516LDQP/ref=tmm_acd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.vBCTZ3YKB14XpKNNLC4_4lZse_bCs0FqxrmHp5STQXQ.pPijSHLSutGqTWpMbrEXVcd1fcFTXn9IUb7K3r5fRV4&qid=1775227834&sr=8-1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+
+  "discography": [
+    {
+      "id": "soak",
+      "title": "Soak",
+      "year": 2025,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "/covers/black-honey-soak.jpg"
+    },
+    {
+      "id": "a-fistful-of-peaches",
+      "title": "A Fistful of Peaches",
+      "year": 2023,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://coverartarchive.org/release-group/a9d481c5-66f9-4ee0-b01f-ca5b3d53b0aa/front"
+    },
+    {
+      "id": "written-and-directed",
+      "title": "Written & Directed",
+      "year": 2021,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/3a4214b5-20f6-41a5-8090-d2f5f55f2a8e/front"
+    },
+    {
+      "id": "black-honey",
+      "title": "Black Honey",
+      "year": 2018,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-BLACK-HONEY-2018-A-VERIFIER]/front"
+    }
+  ]
+}

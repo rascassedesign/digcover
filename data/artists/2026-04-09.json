@@ -1,0 +1,85 @@
+{
+  "id": "xxxtentacion-17",
+  "number": "007",
+  "publishedAt": "2026-04-09",
+
+  "artist": {
+    "name": "XXXTENTACION",
+    "origin": "Plantation, États-Unis"
+  },
+
+  "featuredAlbum": {
+    "id": "17",
+    "title": "17",
+    "year": 2017,
+    "label": "Bad Vibes Forever / Empire",
+    "genres": ["Rap", "Lo-Fi"],
+    "trackCount": 11,
+    "type": "Album",
+    "coverUrl": "/covers/xxxtentacion-17.jpg"
+  },
+
+  "meta": "2017 · Bad Vibes Forever · Rap · Lo-Fi · États-Unis",
+
+  "editorial": [
+    "La voix arrive seule, presque sans production. Une guitare acoustique enregistrée à ras, des harmonies qui s'effondrent sur elles-mêmes. En vingt-deux minutes, 17 installe un silence particulier, celui qu'on connaît à trois heures du matin quand on ne trouve pas les mots pour ce qu'on ressent.",
+    "Enregistré en grande partie pendant son incarcération, Jahseh Onfroy y capte une douleur sans artifice, pas de bravade, pas de posture. C'est du rap qui frôle l'emo, du lo-fi qui ressemble à un journal intime laissé ouvert. L'influence sur toute une génération d'artistes qui ont suivi est difficile à ignorer.",
+    "17 ne résout rien. Il accompagne. Il pose juste à côté de toi sans chercher à remplir le vide. Si tu ne l'as jamais écouté d'une traite, c'est le moment."
+  ],
+
+  "video": {
+    "youtubeId": "FAucVNRx_mU",
+    "title": "XXXTENTACION - Jocelyn Flores (Audio)"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/5VdyJkLe3yvOs0l4xXbWp0?si=K0AG009qQZ-EwO_BhdglTA",
+    "appleMusic": "https://music.apple.com/fr/album/17/1274653476",
+    "deezer": "https://link.deezer.com/s/32TfYYvIUxn9uxAckHYdM",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kW9hN-oBmekJ06jhhfStpwRd5pcRKIztY&si=Tkot9dt8wbkUTJP2"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21976130/XXXTentacion-17-Edition-Limitee-Zoetrope-Picture-Disc-Vinyle-album",
+      "format": "Vinyle Édition Limitée Zoetrope",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a13180043/Xxxtentacion-17-Vinyle-colore-Inclus-coupon-MP3-Vinyle-album",
+      "format": "Vinyle Édition Coloré",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    }
+  ],
+
+  "discography": [
+    {
+      "id": "17",
+      "title": "17",
+      "year": 2017,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "/covers/xxxtentacion-17.jpg"
+    },
+    {
+      "id": "question-mark",
+      "title": "?",
+      "year": 2018,
+      "type": "Album",
+      "trackCount": 18,
+      "coverUrl": "https://coverartarchive.org/release-group/311ae629-ee9e-443e-9c38-d7a5c97679d5/front"
+    },
+    {
+      "id": "skins",
+      "title": "Skins",
+      "year": 2018,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://coverartarchive.org/release-group/7bc37d64-765c-4bd9-bc0a-cd568efd98bd/front"
+    }
+  ]
+}

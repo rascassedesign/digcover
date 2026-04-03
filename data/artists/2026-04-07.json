@@ -1,0 +1,114 @@
+{
+  "id": "little-simz-lotus",
+  "number": "005",
+  "publishedAt": "2026-04-07",
+
+  "artist": {
+    "name": "LITTLE SIMZ",
+    "origin": "Londres, Royaume-Uni"
+  },
+
+  "featuredAlbum": {
+    "id": "lotus",
+    "title": "Lotus",
+    "year": 2025,
+    "label": "AWAL / Forever Living Originals",
+    "genres": ["Hip-Hop"],
+    "trackCount": 13,
+    "type": "Album",
+    "coverUrl": "/covers/little-simz-lotus.jpg"
+  },
+
+  "meta": "2025 · AWAL · Hip-Hop · Royaume-Uni",
+
+  "editorial": [
+    "Les cordes s'ouvrent, et avant même que la voix arrive, quelque chose se resserre doucement dans la poitrine. LOTUS ne s'annonce pas… il s'installe, avec la certitude de quelqu'un qui n'a plus rien à prouver. Little Simz construit ici un espace sonore dense et respirant à la fois, quelque part entre le recueillement et la déclaration silencieuse.",
+    "J'y suis venu après No Thank You, album qu'elle avait largué presque sans prévenir, comme une confidence jetée dans la nuit. LOTUS va plus loin dans la mise à nu. Le son a muté, il est plus organique, plus charnel. Simz parle de cycles, de ce qu'on abandonne pour renaître. Pas de démonstration technique gratuite, juste une présence qui remplit la pièce.",
+    "En sortant de l'écoute, on a l'impression d'avoir assisté à quelque chose d'intime, quelque chose qui n'était pas censé être partagé mais qui l'est quand même, pleinement. Trouve un moment calme, et laisse-le venir à toi."
+  ],
+
+  "video": {
+    "youtubeId": "s07gWh37Xcc",
+    "title": "Little Simz - Young (Official Music Video)"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/0ofdTvYtx4LpsVjemJt71X",
+    "appleMusic": "https://music.apple.com/fr/album/lotus/1794880972",
+    "deezer": "https://link.deezer.com/s/32Tf8K5NyBTqk88Fy1Knd",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lw534cg-yxOhfdRgOZPxeQDAx-4_VxIBA&si=gLTb8g4ap6-jDSQ9"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a22752317/Little-Simz-Lotus-Vinyle-Rose-Vinyle-album",
+      "format": "Vinyle Rose",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a20865425/Little-Simz-Lotus-Vinyle-album",
+      "format": "Vinyle",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a20829617/Little-Simz-Lotus-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Little-Simz-Lotus-Simz/dp/B0DYL2GBPQ/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=15XN8VA756IIC&dib=eyJ2IjoiMSJ9.j5QU_mJn77bBXv91zbFPS-Ejgnw3nyt3eofkg4_0c2KmnZ-97Nq8KoosTW5LkikqmtDLzBf1-VcUfUr1WqMW3g.Kf-L4H0b0ariy689hib_G5OhfbLAWjC05fNcjoKUsr4&dib_tag=se&keywords=little+simz+lotus&qid=1775227368&sprefix=little+simz+lotus+%2Caps%2C238&sr=8-1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Little-Simz-Lotus-Simz/dp/B0DYKRVSFD/ref=tmm_vnl_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.j5QU_mJn77bBXv91zbFPS-Ejgnw3nyt3eofkg4_0c2KmnZ-97Nq8KoosTW5LkikqmtDLzBf1-VcUfUr1WqMW3g.Kf-L4H0b0ariy689hib_G5OhfbLAWjC05fNcjoKUsr4&qid=1775227368&sr=8-1",
+      "format": "Vinyle",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+
+  "discography": [
+    {
+      "id": "lotus",
+      "title": "Lotus",
+      "year": 2025,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "/covers/little-simz-lotus.jpg"
+    },
+    {
+      "id": "no-thank-you",
+      "title": "NO THANK YOU",
+      "year": 2022,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/f8ab53bd-395c-4763-98ca-0c19ab059e64/front"
+    },
+    {
+      "id": "sometimes-i-might-be-introvert",
+      "title": "Sometimes I Might Be Introvert",
+      "year": 2021,
+      "type": "Album",
+      "trackCount": 19,
+      "coverUrl": "https://coverartarchive.org/release-group/e95de3f4-84db-4d24-8d06-fd970576a6ef/front"
+    },
+    {
+      "id": "grey-area",
+      "title": "Grey Area",
+      "year": 2019,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "https://coverartarchive.org/release-group/c41347b7-c93c-42d8-825b-529c7de0bed2/front"
+    }
+  ]
+}
