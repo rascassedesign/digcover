@@ -13,8 +13,11 @@ export async function GET(req: NextRequest) {
       return NextResponse.json({ error: `Dossier introuvable : ${dir}` }, { status: 404 })
     }
 
+    const today = new Date().toISOString().split('T')[0]
+
     const files = fs.readdirSync(dir)
       .filter(f => f.endsWith('.json') && f !== 'TEMPLATE.json')
+      .filter(f => f.replace('.json', '') <= today)
       .sort()
       .reverse()
 
