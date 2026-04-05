@@ -94,7 +94,7 @@ export default function Nav({ activePage = 'home' }: NavProps) {
               fontFamily: 'var(--font-display)', fontSize: 16, fontWeight: 600,
               letterSpacing: '0.14em', color: '#5F5E5A', textTransform: 'uppercase',
             }}>
-              {dateStr}
+              Un jour. Un album. Du lundi au vendredi.
             </span>
             <div style={{ fontFamily: 'var(--font-body)', fontSize: 20 }}>
               <Link href="/archive" style={{

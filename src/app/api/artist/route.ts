@@ -37,6 +37,7 @@ export async function GET(req: NextRequest) {
     const artist = {
       id:       raw.id       ?? '',
       number:   raw.number   ?? '001',
+      publishedAt: raw.publishedAt ?? '',
       name:     raw.artist?.name ?? raw.name ?? 'Artiste inconnu',
       meta:     raw.meta     ?? '',
       editorial: Array.isArray(raw.editorial) ? raw.editorial : [],

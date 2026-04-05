@@ -116,12 +116,12 @@ export default function HomeClient() {
         )}
         <section style={{ display: 'flex', flexDirection: isMobile ? 'column-reverse' : 'row', gap: heroGap, alignItems: isMobile ? 'stretch' : 'flex-end', justifyContent: (!isMobile && !isTablet) ? 'center' : 'flex-start', padding: `${isMobile ? 24 : 56}px ${px}px ${heroPadBottom}px`, width: '100%', position: 'relative', zIndex: 1 }}>
           <div style={{ display: 'flex', flexDirection: 'column', gap: isMobile ? 8 : 12, width: isMobile ? '100%' : isTablet ? 'auto' : 520, flexGrow: isTablet ? 1 : 0, flexShrink: 0, flexBasis: 'auto' }}>
-            <p style={{ fontFamily: 'var(--font-display)', fontSize: 16, fontWeight: 600, letterSpacing: '0.14em', textTransform: 'uppercase', color: 'rgba(var(--theme-accent), 0.7)', marginBottom: 4 }}>
-              Album du Jour · <span style={{ color: 'rgb(var(--theme-accent))' }}>No. {artist.number}</span>
+            <p style={{ fontFamily: 'var(--font-display)', fontSize: 16, fontWeight: 600, letterSpacing: '0.14em', textTransform: 'uppercase', color: 'rgba(var(--theme-accent), 0.6)', margin: 0, padding : 0, lineHeight : 1, transition: 'color 0.45s' }}>
+              No. {artist.number} · {new Date(artist.publishedAt + 'T12:00:00').toLocaleDateString('fr-FR', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' })}
             </p>
-            <h1 className="text-hero" style={{ color: '#2C2C2A', marginBottom: 4 }}>{artist.name}</h1>
-            <p className="text-display-subtitle" style={{ color: '#444441', marginBottom: 8 }}>{featuredAlbum.title}</p>
-            <p style={{ fontFamily: 'var(--font-body)', fontSize: 20, color: '#5F5E5A', lineHeight: 1.5 }}>{artist.meta}</p>
+            <h1 className="text-hero" style={{ color: '#2C2C2A', margin: 0, paddingTop: '0.1em' }}>{artist.name}</h1>
+            <p className="text-display-subtitle" style={{ color: '#444441', margin: 0 }}>{featuredAlbum.title}</p>
+            <p style={{ fontFamily: 'var(--font-body)', fontSize: 20, color: '#5F5E5A', lineHeight: 1.5, margin: 0 }}>{artist.meta}</p>
           </div>
           <div style={{ flexShrink: 0, width: isMobile ? '100%' : 'auto' }}>
             <img src={featuredAlbum.coverUrl} alt={`Pochette de ${featuredAlbum.title}`} className="album-cover-hero" crossOrigin="anonymous" style={!isMobile ? { width: 428, height: 428 } : undefined} onError={(e) => { (e.target as HTMLImageElement).style.display = 'none' }} />
@@ -169,10 +169,10 @@ export default function HomeClient() {
           <div style={{ height: 1, background: 'rgba(var(--theme-accent), 0.6)', marginBottom: 24, transition: 'background 0.45s' }} />
           <div style={{ display: 'flex', flexDirection: 'column', gap: 20, width: '100%' }}>
             {editorial.map((para, i) => (
-              <p key={i} style={{ fontFamily: 'var(--font-body)', fontSize: i === 0 ? 20 : 18, color: i === 0 ? '#2C2C2A' : i === editorial.length - 1 ? '#444441' : '#5F5E5A', lineHeight: i === 0 ? 1.75 : 1.7, fontStyle: i === editorial.length - 1 ? 'normal' : 'normal' }}>
-                {para}
+              <p key={i} style={{ fontFamily: 'var(--font-body)', fontSize: 20, color: '#2C2C2A', lineHeight: 1.75 }}>
+              {para}
               </p>
-            ))}
+          ))}
           </div>
         </div>
       </section>

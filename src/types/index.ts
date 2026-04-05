@@ -38,6 +38,7 @@ export interface Artist {
   id: string
   /** Numéro du jour (ex: "001") */
   number: string
+  publishedAt: string
   name: string
   /** Album mis en avant */
   featuredAlbum: Album
