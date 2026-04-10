@@ -2,6 +2,8 @@ import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { getAllSlugs, getArtistBySlug } from '@/lib/getArtistBySlug'
 import AlbumClient from './AlbumClient'
+export const dynamic = 'force-static'
+export const dynamicParams = true
 
 // ── Génération statique — une page par album ──────────────────
 export async function generateStaticParams() {
