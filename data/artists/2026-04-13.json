@@ -1,0 +1,98 @@
+{
+  "id": "kneecap-fine-art",
+  "number": "009",
+  "publishedAt": "2026-04-13",
+
+  "artist": {
+    "name": "KNEECAP",
+    "origin": "Belfast, Irlande du Nord"
+  },
+
+  "featuredAlbum": {
+    "id": "fine-art",
+    "title": "Fine Art",
+    "year": 2024,
+    "label": "Heavenly Recordings",
+    "genres": ["Hip-Hop", "Rave", "Post-Punk"],
+    "trackCount": 12,
+    "type": "Album",
+    "coverUrl": "/covers/kneecap-fine-art.jpg"
+  },
+
+  "meta": "2024 · Heavenly Recordings · Hip-Hop · Rave · Irlande du Nord",
+
+  "editorial": [
+    "Le pub s'appelle The Rutz, et ça sent déjà la Guinness renversée et le karaoké qui part en vrille. Mo Chara, Moglaí Bap et DJ Provaí construisent leur premier album autour de ce bar imaginaire de Belfast-Ouest, un décor qui accueille fous du foot, folkeux irlandais, clubbers du jeudi soir, et les interludes enregistrées avec des amis qui font le liant.",
+    "Je suis arrivé à Fine Art par Better Way To Live avec Grian Chatten (Leader de Fountain D.C.) et je n'ai plus décroché. Ce que Toddla T réussit ici, c'est de donner à l'énergie live de Kneecap une production à la hauteur  drum & bass, rave des années 90 et un soupçon de drill sans jamais écraser la gouaille bilingue irlandais-anglais du groupe. L'album porte quelque chose de rare : une cause politique qui danse.",
+    "Fine Art prouve que le hip-hop peut être à la fois activiste et jouissif, sans que l'un écrase l'autre. Lance Rhino Ket fort et ouvre les fenêtres."
+  ],
+
+  "video": {
+    "youtubeId": "KSnF7RaeoXE",
+    "title": "KNEECAP feat . GRIAN CHATTEN - BETTER WAY TO LIVE (OFFICIAL MUSIC VIDEO)"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/6Wt3uI8G0yhXSvC0jAl9Cg?si=3Z-0pbwCR52-UMlSgvKBHg",
+    "appleMusic": "https://music.apple.com/fr/album/fine-art/1727141293",
+    "deezer": "https://link.deezer.com/s/32XhWS0YMsiVQgXziEy5Z",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_l4yIsGr_V2gcbF9SqMTJ6_6ZwFOfM_p4g&si=FA2_i0DOykuQ-yst"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a19857134/Kneecap-Fine-Art-Vinyle-Colore-Vinyle-album",
+      "format": "Vinyle coloré",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21884787/Kneecap-Fine-Art-Vinyle-Or-Vinyle-album",
+      "format": "Vinyle Or",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a19857133/Kneecap-Fine-Art-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },        
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Fine-Art-Kneecap/dp/B0CW1XWSSB/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1V5JL76TZFAMC&dib=eyJ2IjoiMSJ9.WDigPV-X6Ib-FgadxshWQoDIb8R3LOa2seObPMHd6hz56IjaNEji_1pO_jyzrxu_n9NJG7K8JK2KmYBbGHn1Jyw-HA_V_bHNBuZAvHxG_3Q.JmKzxkeIhWVYesCIWxTip2AC-58rr7EZFN_xpJs3GkQ&dib_tag=se&keywords=knee+cap+vinyle&qid=1775840491&sprefix=kneecap+vinyl%2Caps%2C238&sr=8-1",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Fine-Art-Kneecap/dp/B0CW1WQ3JC/ref=tmm_acd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.WDigPV-X6Ib-FgadxshWQoDIb8R3LOa2seObPMHd6hz56IjaNEji_1pO_jyzrxu_n9NJG7K8JK2KmYBbGHn1Jyw-HA_V_bHNBuZAvHxG_3Q.JmKzxkeIhWVYesCIWxTip2AC-58rr7EZFN_xpJs3GkQ&qid=1775840491&sr=8-1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+
+  "discography": [
+    {
+      "id": "fine-art",
+      "title": "Fine Art",
+      "year": 2024,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "/covers/kneecap-fine-art.jpg"
+    },
+    {
+      "id": "3cag",
+      "title": "3CAG",
+      "year": 2018,
+      "type": "Mixtape",
+      "trackCount": 8,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-3CAG]/front"
+    }
+  ]
+}

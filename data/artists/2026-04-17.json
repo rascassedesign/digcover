@@ -1,0 +1,106 @@
+{
+  "id": "limperatrice-pulsar",
+  "number": "013",
+  "publishedAt": "2026-04-17",
+
+  "artist": {
+    "name": "L'IMPÉRATRICE",
+    "origin": "Paris, France"
+  },
+
+  "featuredAlbum": {
+    "id": "pulsar",
+    "title": "Pulsar",
+    "year": 2024,
+    "label": "microqlima",
+    "genres": ["Nu-Disco", "French Touch", "Synth-Pop"],
+    "trackCount": 10,
+    "type": "Album",
+    "coverUrl": "/covers/limperatrice-pulsar.jpg"
+  },
+
+  "meta": "2024 · microqlima · Nu-Disco · French Touch · France",
+
+  "editorial": [
+    "Un synthé qui clignote, une basse qui serpente, et la voix de Flore Benguigui qui flotte dessus comme si la nuit n'allait jamais finir. Pulsar commence comme une invitation à danser lentement dans une pièce vide, lumières tamisées, et il tient cette promesse jusqu'au dernier morceau.",
+    "Ce deuxième album, L'Impératrice l'a construit à Paris en plongeant dans les archives du funk et de la pop électronique des années 70-80 : Giorgio Moroder, Chic, Cerrone, sans jamais faire du pastiche. La production est dense mais légère, les arrangements débordent de détails qu'on découvre au troisième écoute. Le groupe maîtrise quelque chose de rare : la nostalgie sans mélancolie.",
+    "Pulsar est l'album à mettre le vendredi soir quand tu n'as pas encore décidé de la suite. Il décide pour toi."
+  ],
+
+  "video": {
+    "youtubeId": "hDYiiOBLh8M",
+    "title": "L'Impératrice - Sweet & Sublime (feat Erick the Architect) Official Music Video"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/1I2vgUWhcovQKIgQK0jHPB?si=65msEUI6Tn2Xh-LQn4KTMQ",
+    "appleMusic": "https://music.apple.com/fr/album/pulsar/1736766809",
+    "deezer": "https://link.deezer.com/s/32Xks2dSGbqqVdpcpFG4H",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lri3wPecP0MJqev5wgAYZIcD7_OHIBEjQ&si=c2Lqb1cNUt37It3c"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a20265830/L-Imperatrice-Pulsar-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a20265831/L-Imperatrice-Pulsar-Edition-Limitee-Exclusivite-Fnac-Vinyle-Bleu-Cobalt-Vinyle-album",
+      "format": "Vinyle Bleu",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a20265829/L-Imperatrice-Pulsar-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },                                   
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Pulsar-LImp%C3%A9ratrice/dp/B0CZ4JBQ6L/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=29J0WEQCL934J&dib=eyJ2IjoiMSJ9.v0napT90qFRJB0clEKXWKSU4WKilnONhSPWI8A2EVSTGjHj071QN20LucGBJIEps.uzmezDoZGh9nBK29-wPsa0tV_2D56FVH_6J_4Rp33OE&dib_tag=se&keywords=l%27imp%C3%A9ratrice+pulsar&qid=1775846189&sprefix=l%27imp%C3%A9ratrice+pulsa%2Caps%2C287&sr=8-1",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Pulsar-LImp%C3%A9ratrice/dp/B0CZ4JXTMS/ref=tmm_acd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.v0napT90qFRJB0clEKXWKSU4WKilnONhSPWI8A2EVSTGjHj071QN20LucGBJIEps.uzmezDoZGh9nBK29-wPsa0tV_2D56FVH_6J_4Rp33OE&qid=1775846189&sr=8-1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }        
+  ],
+
+  "discography": [
+    {
+      "id": "pulsar",
+      "title": "Pulsar",
+      "year": 2024,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "/covers/limperatrice-pulsar.jpg"
+    },
+    {
+      "id": "tako-tsubo",
+      "title": "Tako Tsubo",
+      "year": 2021,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-TAKO-TSUBO]/front"
+    },
+    {
+      "id": "matahari",
+      "title": "Matahari",
+      "year": 2018,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-MATAHARI]/front"
+    }
+  ]
+}

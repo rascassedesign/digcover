@@ -1,0 +1,85 @@
+{
+  "id": "tvam-ruins",
+  "number": "012",
+  "publishedAt": "2026-04-16",
+
+  "artist": {
+    "name": "TVAM",
+    "origin": "Manchester, Royaume-Uni"
+  },
+
+  "featuredAlbum": {
+    "id": "ruins",
+    "title": "Ruins",
+    "year": 2026,
+    "label": "Invada Records",
+    "genres": ["Darkwave", "Post-Punk", "Shoegaze"],
+    "trackCount": 11,
+    "type": "Album",
+    "coverUrl": "/covers/tvam-ruins.jpg"
+  },
+
+  "meta": "2026 · Invada Records · Darkwave · Post-Punk · Royaume-Uni",
+
+  "editorial": [
+    "Une pédale de reverb qui ouvre grand, une caisse claire qui claque comme un coup de poing dans du coton et Joseph Oxley est de retour avec ses fantômes. Ruins commence comme une pièce dont on n'a pas encore allumé les lumières, et il ne se presse jamais d'appuyer sur l'interrupteur.",
+    "Enregistré seul dans son studio de Wigan, comme ses deux précédents albums, Ruins est né d'une pause forcée et d'un deuil traversé. Oxley cite Boards of Canada, Killing Joke, The Cure  mais le résultat n'a rien d'un album de références, c'est un disque personnel, tenu, où les synthés reverb-drenched croisent des guitares retenues et une batterie marteau. Powder Blue, le single, est peut-être la chanson la plus directement accrocheuse qu'il ait jamais écrite.",
+    "Ruins est l'album qui sonne juste quand il fait froid dehors et que tu as besoin de quelque chose qui tient compagnie. Lance The Haunted en dernier."
+  ],
+
+  "video": {
+    "youtubeId": "masXWpzil_Q",
+    "title": "TVAM - POWDER BLUE"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/6dF7HPwvy0UwWtHPZ4WM0q?si=8VbPajV0QUidfIgNi1LFoQ",
+    "appleMusic": "https://music.apple.com/fr/album/ruins/1862291193",
+    "deezer": "https://link.deezer.com/s/32XkJYbOb8xBhgVbIBzdV",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lkCLqVoE3nevCLzMMsxKIzRl-1fDpst8E&si=QZtkXJBGTnuEPzpm"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a22589596/TVAM-Ruins-Vinyle-Transparent-Vinyle-album",
+      "format": "Vinyle Transparent",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },                                   
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Ruins-Vinyle-Transparent-Tvam/dp/B0G62BZZN8/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1AU00INRDNUT4&dib=eyJ2IjoiMSJ9.0iPP4Z6LmkLa_a8p52y03w.g04Z_gNbnGSYwLChbZe98xqoCH3kv-kWNGNE3VFIR-4&dib_tag=se&keywords=tvam+ruins&qid=1775847161&sprefix=tvam+ruins%2Caps%2C244&sr=8-1",
+      "format": "Vinyle Transparent",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+
+  "discography": [
+    {
+      "id": "ruins",
+      "title": "Ruins",
+      "year": 2026,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "/covers/tvam-ruins.jpg"
+    },
+    {
+      "id": "high-art-lite",
+      "title": "High Art Lite",
+      "year": 2022,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-HIGH-ART-LITE]/front"
+    },
+    {
+      "id": "psychic-data",
+      "title": "Psychic Data",
+      "year": 2018,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-PSYCHIC-DATA]/front"
+    }
+  ]
+}

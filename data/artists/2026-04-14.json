@@ -1,0 +1,129 @@
+{
+  "id": "bon-iver-sable-fable",
+  "number": "010",
+  "publishedAt": "2026-04-14",
+
+  "artist": {
+    "name": "BON IVER",
+    "origin": "Eau Claire, Wisconsin, USA"
+  },
+
+  "featuredAlbum": {
+    "id": "sable-fable",
+    "title": "SABLE, fABLE",
+    "year": 2025,
+    "label": "Jagjaguwar",
+    "genres": ["Indie Folk", "Art Pop", "Pop Soul"],
+    "trackCount": 13,
+    "type": "Album",
+    "coverUrl": "/covers/bon-iver-sable-fable.jpg"
+  },
+
+  "meta": "2025 · Jagjaguwar · Indie Folk · Art Pop · USA",
+
+  "editorial": [
+    "L'album s'ouvre sur une voix qui se regarde dans un miroir et voit un rival ! Things Behind Things Behind Things. C'est la couleur de SABLE, la première moitié : noire comme le plus noir des noirs, à faire le compte de ce qu'on a perdu. Puis quelque chose bascule, et FABLE entre, lumière saumon, guitares ouvertes, la joie comme une décision consciente.",
+    "Justin Vernon a mis six ans à revenir. L'April Base studio au Wisconsin, longtemps en chantier, a rouvert ses portes. C'est là que cet album  a été enregistré comme une promesse faite à quelqu'un, et à soi-même. Après des années où le son Bon Iver se construisait couche sur couche jusqu'à l'abstraction, ici tout respire.",
+    "C'est un album sur la guérison qui n'a rien d'une carte de vœux. Il sonne vrai parce qu'il coûtait quelque chose. Écoute-le du début à la fin, une fois."
+  ],
+
+  "video": {
+    "youtubeId": "th4u1yrpuRE",
+    "title": "Bon Iver - S P E Y S I D E (Official Video)"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/3L3UjpXtom6T0Plt1j6l1T?si=1qjGLiiIRDO2fGfWoEKKMA",
+    "appleMusic": "https://music.apple.com/fr/album/sable-fable/1791161215",
+    "deezer": "https://link.deezer.com/s/32Xiy7XukehrTBPc1cfQr",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mxPcDF6PkoNTfDzi7SI69_U5BtA2VYqYM&si=SHIco6OiXKs79AVj"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21310972/Bon-Iver-SABLE-fABLE-Coffret-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21310971/Bon-Iver-SABLE-fABLE-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21310973/Bon-Iver-SABLE-fABLE-K7",
+      "format": "K7",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },                 
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Sable-Fable-Black-Salmon-Vinyl/dp/B0DWYW15D5/ref=tmm_vnl_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.IsaGkUeo7zwzL3hGHBehayTyCj_385TFXH7EMlvg_14JxzwMYnFXbuwQol6h9wMsXhnizVkLHmrOoVPpvsp1ItswEwtO99v6gtTqw8SLV6Dh_xx28GbK-ez2psldTzMWpYXnWjCFVZLZU4yaGcRgmQ.3MBxBlLeOdmc3WbVSbo8uQXqRuktnL7SWBDN78ajRCs&qid=1775841570&sr=8-1",
+      "format": "Vinyle Black and Salmon",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Sable-Fable-Bon-Iver/dp/B0DWT7H17M/ref=tmm_acd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.IsaGkUeo7zwzL3hGHBehayTyCj_385TFXH7EMlvg_14JxzwMYnFXbuwQol6h9wMsXhnizVkLHmrOoVPpvsp1ItswEwtO99v6gtTqw8SLV6Dh_xx28GbK-ez2psldTzMWpYXnWjCFVZLZU4yaGcRgmQ.3MBxBlLeOdmc3WbVSbo8uQXqRuktnL7SWBDN78ajRCs&qid=1775841570&sr=8-1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },  
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Sable-Fable-Bon-Iver/dp/B0DWT7NQY1/ref=tmm_acs_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.IsaGkUeo7zwzL3hGHBehayTyCj_385TFXH7EMlvg_14JxzwMYnFXbuwQol6h9wMsXhnizVkLHmrOoVPpvsp1ItswEwtO99v6gtTqw8SLV6Dh_xx28GbK-ez2psldTzMWpYXnWjCFVZLZU4yaGcRgmQ.3MBxBlLeOdmc3WbVSbo8uQXqRuktnL7SWBDN78ajRCs&qid=1775841570&sr=8-1",
+      "format": "K7",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }      
+  ],
+
+  "discography": [
+    {
+      "id": "sable-fable",
+      "title": "SABLE, fABLE",
+      "year": 2025,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "/covers/bon-iver-sable-fable.jpg"
+    },
+    {
+      "id": "i-i",
+      "title": "i,i",
+      "year": 2019,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://coverartarchive.org/release-group/e53d381a-3b37-4154-9a6e-7d343b3e182e/front"
+    },
+    {
+      "id": "22-a-million",
+      "title": "22, A Million",
+      "year": 2016,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/f0e8f425-a941-48df-b5d7-2ceeaaf77c71/front"
+    },
+    {
+      "id": "bon-iver-bon-ver",
+      "title": "Bon Iver, Bon Iver",
+      "year": 2011,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/2cb36662-3560-4b90-a0a5-7924ac039490/front"
+    },
+    {
+      "id": "for-emma-for-ever-ago",
+      "title": "For Emma, For Ever Ago",
+      "year": 2007,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "https://coverartarchive.org/release-group/187935b5-a0a4-3e6f-9684-48b67a5190a1/front"
+    }        
+  ]
+}

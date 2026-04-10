@@ -1,0 +1,99 @@
+{
+  "id": "crosby-stills-nash-crosby-stills-nash",
+  "number": "011",
+  "publishedAt": "2026-03-15",
+
+  "artist": {
+    "name": "CROSBY, STILLS & NASH",
+    "origin": "Los Angeles, USA"
+  },
+
+  "featuredAlbum": {
+    "id": "crosby-stills-nash",
+    "title": "Crosby, Stills & Nash",
+    "year": 1969,
+    "label": "Atlantic Records",
+    "genres": ["Folk Rock", "Soft Rock", "Country Rock"],
+    "trackCount": 10,
+    "type": "Album",
+    "coverUrl": "/covers/crosby-stills-nash-crosby-stills-nash.jpg"
+  },
+
+  "meta": "1969 · Atlantic Records · Folk Rock · Soft Rock · USA",
+
+  "editorial": [
+    "Trois voix qui se posent l'une sur l'autre comme des mains, Crosby, Stills et Nash chantent ensemble pour la première fois, et on sent immédiatement qu'ils le savent. Suite: Judy Blue Eyes, quatre minutes d'ouverture, pose d'emblée quelque chose d'inédit : des harmonies vocales qui ont la précision du folk et l'instinct du rock.",
+    "Je reviens toujours à ce disque quand j'ai besoin d'un truc qui sent bon les années 60-70 sans forcément que cela soit les Beatles ! Trois musiciens qui sortent de groupes devenus trop étroits : The Byrds, Buffalo Springfield, The Hollies et qui trouvent ici une liberté nouvelle. Enregistré à Los Angeles en 1969, l'album est à la fois acoustique et électrique, intime et politique.",
+    "Wooden Ships, Helplessly Hoping où encore Marrakesh Express, des chansons qui ont traversé cinquante ans sans vieillir. L'origine de tout, à (ré)écouter."
+  ],
+
+  "video": {
+    "youtubeId": "nS3l_TwPNRY",
+    "title": "Crosby, Stills & Nash : Long Time Gone (2005 Remaster)"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/6vUWpE8qciYHOhf7mgaGny?si=c6k16z7MSA2l_bXjX9j_sQ",
+    "appleMusic": "https://music.apple.com/fr/album/crosby-stills-nash-deluxe-version/118113531",
+    "deezer": "https://link.deezer.com/s/32XjefZ2zBY5VHNZ7nnCT",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_n8qpx6yjQvAaffZd2OB_3Qt0aoSNKGsu8&si=y3LmJZ2Q9uhyIDQJ"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a2744107/Crosby-Stills-Nash-Crosby-Stills-and-Nash-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a20647724/Crosby-Stills-and-Nash-Crosby-Stills-And-Nash-Edition-Limitee-Exclusivite-Fnac-Vinyle-Bleu-Vinyle-album",
+      "format": "Vinyle Bleu",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a1793799/Crosby-Stills-and-Nash-Crosby-Stills-and-Nash-Remasterise-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },                          
+    {
+      "shop": "Amazon",
+      "url": "http://amazon.fr/Crosby-Stills-Nash/dp/B002F3BOSM/ref=sr_1_3?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1GWW7X4WMCYZN&dib=eyJ2IjoiMSJ9.p_0palgPqYCyeyB4Ust0LRE6VAR3xpI65TwADB3r3P0t8L52mz2F1-7L5COZ9L8bMLPhHXsqArWQyOnHwvJ2jnqckG88_0cx71m6cPmqNGpz0gBqwtkm_HYfqMxgDAbUjMtfw5-QViBoAzbeFJmQQr9e83SSNYZkbmVHGZ9CLsY_-xDWIt37kJkx9b6-cOuu_jDKL-NPK4Ilc5Knbz61bb891HX5_96RVJsCIU_ESdt45pDnSsHIiDTZDTGaoErk2n9ckeDB6UdzsjaiW-Y4pqGauhGJ8PshamoZiCyULaQ.gTZBfHN0L6BKQHVMjzLcqyqDWTH2bLRH2SHp4UUIZaw&dib_tag=se&keywords=crosby+still+and+nash&qid=1775843526&sprefix=crosby+still+and+nash%2Caps%2C234&sr=8-3",
+      "format": "Vinyle 180gr",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }    
+  ],
+
+  "discography": [
+    {
+      "id": "crosby-stills-nash",
+      "title": "Crosby, Stills & Nash",
+      "year": 1969,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "/covers/crosby-stills-nash-crosby-stills-nash.jpg"
+    },
+    {
+      "id": "csn",
+      "title": "CSN",
+      "year": 1977,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-CSN-1977]/front"
+    },
+    {
+      "id": "daylight-again",
+      "title": "Daylight Again",
+      "year": 1982,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-DAYLIGHT-AGAIN]/front"
+    }
+  ]
+}
