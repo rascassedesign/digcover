@@ -4,7 +4,6 @@ import { getAllSlugs, getArtistBySlug } from '@/lib/getArtistBySlug'
 import AlbumClient from './AlbumClient'
 
 // ── Génération statique + pages futures à la volée ────────────
-export const dynamic = 'force-static'
 export const dynamicParams = true
 
 export async function generateStaticParams() {
