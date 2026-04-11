@@ -1,31 +1,58 @@
 import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
-import { getAllSlugs, getArtistBySlug } from '@/lib/getArtistBySlug'
+import { getAllArtistsData, getArtistBySlug } from '@/lib/getArtistBySlug'
 import AlbumClient from './AlbumClient'
 
-// ── Génération statique + pages futures à la volée ────────────
-export const dynamicParams = true
-
-export async function generateStaticParams() {
-  const slugs = getAllSlugs()
-  return slugs.map(slug => ({ slug }))
+// ── Typage local pour éviter les erreurs TypeScript ───────────
+interface RawArtist {
+  id: string
+  number?: string
+  publishedAt?: string
+  artist?: { name?: string; origin?: string }
+  featuredAlbum?: {
+    id?: string
+    title?: string
+    year?: number
+    label?: string
+    genres?: string[]
+    trackCount?: number
+    type?: string
+    coverUrl?: string
+  }
+  meta?: string
+  editorial?: string[]
+  video?: { title?: string; youtubeId?: string }
+  streaming?: {
+    spotify?: string
+    appleMusic?: string
+    deezer?: string
+    youtubeMusic?: string
+  }
+  vinyl?: unknown[]
+  discography?: unknown[]
 }
 
-// ── Métadonnées dynamiques par album ──────────────────────────
+// ── Génération statique au build ──────────────────────────────
+export async function generateStaticParams() {
+  const allArtists = getAllArtistsData()
+  return allArtists.map(({ slug }) => ({ slug }))
+}
+
+// ── Métadonnées par album ─────────────────────────────────────
 export async function generateMetadata(
   { params }: { params: { slug: string } }
 ): Promise<Metadata> {
   const result = getArtistBySlug(params.slug)
   if (!result) return { title: 'Album — DigCover' }
 
-  const { raw } = result
-  const artistName = raw.artist?.name ?? ''
-  const albumTitle = raw.featuredAlbum?.title ?? ''
-  const albumYear  = raw.featuredAlbum?.year ?? ''
-  const editorial  = (raw.editorial ?? [])[0] ?? ''
-  const description = editorial.slice(0, 155) + (editorial.length > 155 ? '…' : '')
-  const coverUrl   = raw.featuredAlbum?.coverUrl ?? ''
-  const ogImage    = coverUrl.startsWith('/') ? `https://digcover.fr${coverUrl}` : coverUrl
+  const raw = result.raw as RawArtist
+  const artistName  = raw.artist?.name ?? ''
+  const albumTitle  = raw.featuredAlbum?.title ?? ''
+  const albumYear   = raw.featuredAlbum?.year ?? ''
+  const editorial   = raw.editorial ?? []
+  const description = (editorial[0] ?? '').slice(0, 155) + ((editorial[0]?.length ?? 0) > 155 ? '…' : '')
+  const coverUrl    = raw.featuredAlbum?.coverUrl ?? ''
+  const ogImage     = coverUrl.startsWith('/') ? `https://digcover.fr${coverUrl}` : coverUrl
 
   return {
     title: `${artistName} — ${albumTitle} (${albumYear})`,
@@ -47,18 +74,19 @@ export async function generateMetadata(
   }
 }
 
-// ── Page serveur ──────────────────────────────────────────────
+// ── Page statique ─────────────────────────────────────────────
 export default function AlbumPage({ params }: { params: { slug: string } }) {
   const result = getArtistBySlug(params.slug)
   if (!result) notFound()
 
-  const { raw, date } = result
+  const raw      = result.raw as RawArtist
+  const { date } = result
 
-  const coverUrl = raw.featuredAlbum?.coverUrl ?? ''
-  const ogImage  = coverUrl.startsWith('/') ? `https://digcover.fr${coverUrl}` : coverUrl
-  const editorial = (raw.editorial ?? []) as string[]
+  const coverUrl    = raw.featuredAlbum?.coverUrl ?? ''
+  const ogImage     = coverUrl.startsWith('/') ? `https://digcover.fr${coverUrl}` : coverUrl
+  const editorial   = raw.editorial ?? []
 
-  // ── JSON-LD — données structurées pour Google et les IA ──────
+  // ── JSON-LD ──────────────────────────────────────────────────
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Review',
@@ -80,9 +108,7 @@ export default function AlbumPage({ params }: { params: { slug: string } }) {
         'foundingLocation': raw.artist?.origin,
       },
       'datePublished': String(raw.featuredAlbum?.year ?? ''),
-      'genre': Array.isArray(raw.featuredAlbum?.genres)
-        ? (raw.featuredAlbum.genres as string[]).join(', ')
-        : '',
+      'genre': (raw.featuredAlbum?.genres ?? []).join(', '),
       'numTracks': raw.featuredAlbum?.trackCount,
       'recordLabel': raw.featuredAlbum?.label,
       'image': ogImage,
@@ -95,7 +121,7 @@ export default function AlbumPage({ params }: { params: { slug: string } }) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <AlbumClient slug={params.slug} date={date} raw={raw} />
+      <AlbumClient slug={params.slug} date={date} raw={result.raw} />
     </>
   )
 }
