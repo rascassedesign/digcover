@@ -9,7 +9,7 @@ const OUT_FILE = path.join(ROOT, 'src', 'lib', 'albums.generated.ts');
 
 const files = fs
   .readdirSync(DATA_DIR)
-  .filter((f) => f.endsWith('.json'))
+  .filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))
   .sort();
 
 const albums = files.map((file) => {
