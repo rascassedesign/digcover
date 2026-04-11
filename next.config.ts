@@ -1,6 +1,9 @@
 import type { NextConfig } from 'next'
 
 const nextConfig: NextConfig = {
+  outputFileTracingIncludes: {
+    '/album/[slug]': ['./data/artists/**/*.json'],
+  },
   images: {
     unoptimized: true,
     remotePatterns: [
