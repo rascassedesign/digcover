@@ -1,19 +1,13 @@
 import { MetadataRoute } from 'next'
-import { getAllSlugs, getArtistBySlug } from '@/lib/getArtistBySlug'
+import { getAllAlbums } from '@/lib/getArtistBySlug'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const slugs = getAllSlugs()
-
-  const albumPages = slugs.map(slug => {
-    const result = getArtistBySlug(slug)
-    const date = result?.date ?? '2026-01-01'
-    return {
-      url: `https://digcover.fr/album/${slug}`,
-      lastModified: new Date(date),
-      changeFrequency: 'never' as const,
-      priority: 0.7,
-    }
-  })
+  const albumPages = getAllAlbums().map(album => ({
+    url: `https://digcover.fr/album/${album.slug}`,
+    lastModified: new Date(album.date),
+    changeFrequency: 'never' as const,
+    priority: 0.7,
+  }))
 
   return [
     {
