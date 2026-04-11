@@ -1,7 +1,7 @@
 import fs from 'fs'
 import path from 'path'
 
-const ARTISTS_DIR = path.join(process.cwd(), 'data', 'artists')
+const ARTISTS_DIR = path.resolve('./data/artists')
 
 export function getAllSlugs(): string[] {
   if (!fs.existsSync(ARTISTS_DIR)) return []
