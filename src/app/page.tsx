@@ -1,30 +1,36 @@
 import { Metadata } from 'next'
-import fs from 'fs'
-import path from 'path'
+import { getAllAlbums } from '@/lib/getArtistBySlug'
 import HomeClient from './HomeClient'
+
+// Revalide toutes les 5 minutes pour capter le changement d'album du jour
+export const revalidate = 300
 
 // ── Helper : charger l'artiste du jour côté serveur ──────────
 function getArtistForDate(date?: string) {
-  try {
-    const dir = path.join(process.cwd(), 'data', 'artists')
-    const today = new Date().toISOString().split('T')[0]
-    const files = fs.readdirSync(dir)
-      .filter(f => f.endsWith('.json') && f !== 'TEMPLATE.json')
-      .filter(f => f.replace('.json', '') <= today)
-      .sort()
-      .reverse()
-    if (!files.length) return null
-    const target = date && files.includes(`${date}.json`) ? `${date}.json` : files[0]
-    return JSON.parse(fs.readFileSync(path.join(dir, target), 'utf-8'))
-  } catch { return null }
+  const today = new Date().toISOString().split('T')[0]
+
+  const candidates = getAllAlbums()
+    .filter(a => a.date <= today)
+    .slice()
+    .sort((a, b) => b.date.localeCompare(a.date)) // plus récent d'abord
+
+  if (!candidates.length) return null
+
+  if (date) {
+    const match = candidates.find(a => a.date === date)
+    if (match) return match.data
+  }
+
+  return candidates[0].data
 }
 
 // ── generateMetadata — dynamique par album ────────────────────
 export async function generateMetadata(
-  { searchParams }: { searchParams: { date?: string } }
+  { searchParams }: { searchParams: Promise<{ date?: string }> }
 ): Promise<Metadata> {
-  const raw = getArtistForDate(searchParams.date)
-  if (!raw) return { title: 'DiscCover — Album du jour' }
+  const { date } = await searchParams
+  const raw = getArtistForDate(date) as any
+  if (!raw) return { title: 'DigCover — Album du jour' }
 
   const artistName = raw.artist?.name ?? raw.name ?? 'Artiste'
   const albumTitle = raw.featuredAlbum?.title ?? ''
@@ -34,9 +40,8 @@ export async function generateMetadata(
   const description = editorial.slice(0, 155) + (editorial.length > 155 ? '…' : '')
   const coverUrl   = raw.featuredAlbum?.coverUrl ?? ''
 
-  // OG image : pochette locale → URL absolue | Cover Art Archive → directement
   const ogImage = coverUrl.startsWith('/')
-    ? `https://disccover.fr${coverUrl}`
+    ? `https://digcover.fr${coverUrl}`
     : coverUrl
 
   const title = `${artistName} — ${albumTitle} (${albumYear})`
@@ -49,7 +54,7 @@ export async function generateMetadata(
       description,
       type: 'article',
       locale: 'fr_FR',
-      siteName: 'DiscCover',
+      siteName: 'DigCover',
       images: ogImage ? [{ url: ogImage, width: 1200, height: 1200, alt: `Pochette de ${albumTitle} par ${artistName}` }] : [],
     },
     twitter: {

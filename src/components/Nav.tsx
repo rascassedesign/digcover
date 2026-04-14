@@ -5,7 +5,7 @@ import Link from 'next/link'
 import { useIsMobile } from '@/hooks/useIsMobile'
 
 interface NavProps {
-  activePage?: 'home' | 'archive'
+  activePage?: 'home' | 'archive' | 'about'
 }
 
 // ── Logo DiscCover — 48px de haut, dynamique via CSS vars ─────
@@ -94,15 +94,22 @@ export default function Nav({ activePage = 'home' }: NavProps) {
               fontFamily: 'var(--font-display)', fontSize: 16, fontWeight: 600,
               letterSpacing: '0.14em', color: '#5F5E5A', textTransform: 'uppercase',
             }}>
-              Un jour. Un album. Du lundi au vendredi.
+              {dateStr}
             </span>
-            <div style={{ fontFamily: 'var(--font-body)', fontSize: 20 }}>
+            <div style={{ fontFamily: 'var(--font-body)', fontSize: 20, display: 'flex', gap: 32 }}>
               <Link href="/archive" style={{
                 color: activePage === 'archive' ? '#2C2C2A' : '#5F5E5A',
                 textDecoration: 'none',
                 fontWeight: activePage === 'archive' ? 600 : 400,
               }}>
                 Archive
+              </Link>
+              <Link href="/about" style={{
+                color: activePage === 'about' ? '#2C2C2A' : '#5F5E5A',
+                textDecoration: 'none',
+                fontWeight: activePage === 'about' ? 600 : 400,
+              }}>
+                À propos
               </Link>
             </div>
           </>
@@ -144,6 +151,13 @@ export default function Nav({ activePage = 'home' }: NavProps) {
             textDecoration: 'none', fontWeight: activePage === 'archive' ? 600 : 400,
           }}>
             Archive
+          </Link>
+          <Link href="/about" onClick={() => setMenuOpen(false)} style={{
+            fontFamily: 'var(--font-body)', fontSize: 20,
+            color: activePage === 'about' ? '#2C2C2A' : '#5F5E5A',
+            textDecoration: 'none', fontWeight: activePage === 'about' ? 600 : 400,
+          }}>
+            À propos
           </Link>
         </div>
       )}
