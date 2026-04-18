@@ -1,0 +1,78 @@
+{
+  "id": "da-youngstas-no-mercy",
+  "number": "018",
+  "publishedAt": "2026-04-24",
+
+  "artist": {
+    "name": "DA YOUNGSTA'S",
+    "origin": "Philadelphie, États-Unis"
+  },
+
+  "featuredAlbum": {
+    "id": "no-mercy",
+    "title": "No Mercy",
+    "year": 1994,
+    "label": "EastWest Records",
+    "genres": ["East Coast Hip Hop", "Hardcore Hip Hop", "Boom Bap"],
+    "trackCount": 13,
+    "type": "Album",
+    "coverUrl": "/covers/da-youngstas-no-mercy.jpg"
+  },
+
+  "meta": "1994 · EastWest Records · East Coast Hip Hop · Boom Bap · États-Unis",
+
+  "editorial": [
+    "Tu mets Hip Hop Ride et t'es direct dedans. Cette basse souple, ces synthés presque G-funk qui roulent pendant que les trois gamins balancent leurs name-droppings à Tribe, Das EFX, Nas. Le genre d'intro qui te fait baisser la vitre même en plein centre-ville.",
+    "J'y retourne souvent quand j'ai besoin d'un boom bap qui fait pas la gueule. Un truc solide, bien taillé, sans prise de tête. Ces trois-là : Taji, Qu'ran et son cousin Tarik avaient entre 16 et 18 ans quand ils ont enregistré ça à House of Hitz, le studio de Marley Marl à Chestnut Ridge. Marley et son protégé K-Def se partagent quasi toute la prod, le même duo qui venait de signer Here Come the Lords des Lords of the Underground. Résultat : des drums qui claquent sec, des samples soul et jazz (Quincy Jones, Michael Jackson, les Temptations) et zéro place pour le gimmick rappeurs ados qui avait collé à leurs débuts.",
+    "Sorti le 20 septembre 94 chez EastWest, l'album s'est fait éclipser dans une année déjà pleine à craquer. C'est ça qui est cool à le réécouter aujourd'hui : aucune couche de nostalgie, juste une prod qui tient debout trente ans plus tard. À glisser entre deux classiques de 94, quand t'as fait le tour des évidences."
+  ],
+
+  "video": {
+    "youtubeId": "W5MwTjAxERU",
+    "title": "Hip Hop Ride — Da Youngsta's · No Mercy, 1994"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/3IQn3GlPoFHuOPho4sftI1?si=9n34piRUTRCtoh8So9Wq8g",
+    "appleMusic": "https://music.apple.com/fr/album/no-mercy/272493923",
+    "deezer": "https://link.deezer.com/s/331GQadBtLtPmLNk6loOD",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kFZo3Q6hO1ADO9JG7-4yhKb6N6x0qjVns&si=U8HKZSaSnTg0RSHx"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a9089210/Da-Youngsta-s-No-mercy-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    }                                                
+  ],
+
+  "discography": [
+    {
+      "id": "no-mercy",
+      "title": "No Mercy",
+      "year": 1994,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "/covers/da-youngstas-no-mercy.jpg"
+    },
+    {
+      "id": "the-aftermath",
+      "title": "The Aftermath",
+      "year": 1993,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "https://coverartarchive.org/release-group/81cdd767-e070-4c3f-9ca0-1baefa940eb1/front"
+    },
+    {
+      "id": "somethin-4-da-youngstas",
+      "title": "Somethin 4 Da Youngsta's",
+      "year": 1992,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://coverartarchive.org/release-group/1f48dec8-19a8-3d22-b512-9d3a1eb76f8d/front"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "dope-lemon-golden-wolf",
+  "number": "014",
+  "publishedAt": "2026-04-20",
+
+  "artist": {
+    "name": "DOPE LEMON",
+    "origin": "Byron Bay, Australie"
+  },
+
+  "featuredAlbum": {
+    "id": "golden-wolf",
+    "title": "Golden Wolf",
+    "year": 2025,
+    "label": "BMG Rights Management",
+    "genres": ["Indie Rock", "Psychedelic Rock"],
+    "trackCount": 10,
+    "type": "Album",
+    "coverUrl": "/covers/dope-lemon-golden-wolf.jpg"
+  },
+
+  "meta": "2025 · BMG · Indie Rock · Psychedelic Rock · Australie",
+
+  "editorial": [
+    "Y'a ce moment sur Golden Wolf, le morceau-titre, où la guitare se met à traîner comme si elle avait tout son temps, et t'as juste envie de baisser la vitre. C'est pas un disque qui te saute à la gorge. Il s'installe, il fume un truc, il te laisse venir.",
+    "Je l'ai mis un soir en rentrant, fatigué, sans chercher à écouter quelque chose de précis et je l'ai laissé tourner jusqu'au bout. Depuis, j'y reviens souvent, surtout quand j'ai pas envie de réfléchir. C'est le cinquième album d'Angus Stone sous le nom Dope Lemon, sorti en mai 2025 chez BMG. Un détail qui m'a fait sourire : Yamasuki - Yama Yama est né parce qu'il a entendu le morceau original dans un film de Guy Ritchie, The Gentlemen, et qu'il a voulu en faire sa version. Le résultat part sur des percus bizarres, une voix en japonais, et ça marche. She's All Time avec Nina Nesbitt, c'est la pop chaude de l'album, celle qu'on fredonne direct.",
+    "Ça laisse une sensation de route, de fin d'après-midi, de fenêtre ouverte. Un disque à mettre quand tu rentres d'un week-end et que t'as pas envie que ça se termine."
+  ],
+
+  "video": {
+    "youtubeId": "141homvXcro",
+    "title": "DOPE LEMON - SUGARCAT (OFFICIAL MUSIC VIDEO)"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/5aa9sxMdhMppfnRWJQNT9C?si=UrZw3Lo5R9WHbNGTKrobNQ",
+    "appleMusic": "https://music.apple.com/fr/album/golden-wolf/1790766426",
+    "deezer": "https://link.deezer.com/s/331ELzL806c3h0OVKoTwU",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nZbvQ92FDxgf-5Cthvwf_SVUPz51sL8bA&si=xEKxhoh1Sa4tQK-O"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21279092/Dope-Lemon-Golden-Wolf-Edition-Limitee-Vinyle-Or-Marbre-Vinyle-album",
+      "format": "Vinyle Or Marbré",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21279091/Dope-Lemon-Golden-Wolf-Edition-Limitee-Vinyle-Zoetrope-Picture-Disc-Vinyle-album",
+      "format": "Vinyle Zoetrope Picture",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21279087/Dope-Lemon-Golden-Wolf-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },                                           
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Golden-Wolf-Dope-Lemon/dp/B0DVPC4T4L/ref=sr_1_6?crid=13Y2WAD50O8C4&dib=eyJ2IjoiMSJ9.2PK9m1nrffHQOw0v2Bm7sPTgvpHrfTPS_C-LwKMbnjPKmSC7O8eKusXLzWrsJf3ejpysY63pPBTDE3L9fydOojOY02M_3QWHg_lJ-L7AH4o.2BPLE1tNHyxfA5Ib1bmyR-mlSrQyp05_lNRHZRF0V7g&dib_tag=se&keywords=dope+lemon+vinyle&qid=1776502439&sprefix=dope+lemon%2Caps%2C307&sr=8-6",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Golden-Wolf-Dope-Lemon/dp/B0DVP9MSJ5/ref=tmm_acd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.2PK9m1nrffHQOw0v2Bm7sPTgvpHrfTPS_C-LwKMbnjPKmSC7O8eKusXLzWrsJf3ejpysY63pPBTDE3L9fydOojOY02M_3QWHg_lJ-L7AH4o.2BPLE1tNHyxfA5Ib1bmyR-mlSrQyp05_lNRHZRF0V7g&qid=1776502439&sr=8-6",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }       
+  ],
+
+  "discography": [
+    {
+      "id": "golden-wolf",
+      "title": "Golden Wolf",
+      "year": 2025,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "/covers/dope-lemon-golden-wolf.jpg"
+    },
+    {
+      "id": "kimosabe",
+      "title": "Kimosabè",
+      "year": 2023,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-À-VÉRIFIER]/front"
+    },
+    {
+      "id": "rose-pink-cadillac",
+      "title": "Rose Pink Cadillac",
+      "year": 2022,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/d40df769-bce5-48dd-99c3-1822970ebd48/front"
+    },
+    {
+      "id": "smooth-big-cat",
+      "title": "Smooth Big Cat",
+      "year": 2019,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-À-VÉRIFIER]/front"
+    },
+    {
+      "id": "honey-bones",
+      "title": "Honey Bones",
+      "year": 2016,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-À-VÉRIFIER]/front"
+    }
+  ]
+}

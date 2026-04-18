@@ -1,0 +1,99 @@
+{
+  "id": "guns-n-roses-appetite-for-destruction",
+  "number": "017",
+  "publishedAt": "2026-04-23",
+
+  "artist": {
+    "name": "GUNS N' ROSES",
+    "origin": "Los Angeles, États-Unis"
+  },
+
+  "featuredAlbum": {
+    "id": "appetite-for-destruction",
+    "title": "Appetite for Destruction",
+    "year": 1987,
+    "label": "Geffen Records",
+    "genres": ["Hard Rock", "Glam Metal", "Heavy Metal"],
+    "trackCount": 12,
+    "type": "Album",
+    "coverUrl": "/covers/guns-n-roses-appetite-for-destruction.jpg"
+  },
+
+  "meta": "1987 · Geffen Records · Hard Rock · Glam Metal · États-Unis",
+
+  "editorial": [
+    "Y'a ce moment où l'intro de Welcome to the Jungle démarre, ce petit sifflement qui monte, et tu sais déjà que tu vas passer 50 minutes à ne penser à rien d'autre. C'est un des rares albums où tu n'as pas envie de skipper. Pas un seul morceau. Tu mets, tu laisses tourner, tu lèves le son.",
+    "C'est pas un disque intelligent, c'est un disque nerveux, et c'est exactement ça qui est bon. Petit détail que j'aime bien : ils l'ont enregistré en janvier 1987 aux Rumbo Recorders à Canoga Park, un studio perdu dans la Vallée de LA, loin de Hollywood. Leur manager avait choisi cet endroit exprès pour les éloigner des boîtes, des soirées et des embrouilles. Ça n'a pas totalement marché, Slash avait paumé la plupart de ses guitares au mont-de-piété avant d’arriver. Mais le disque, lui, est sorti.",
+    "Ce qui reste, c'est cette sensation d'un groupe qui joue comme si tout pouvait s'écrouler demain. Mets-le fort, au moment où la semaine se décroche enfin."
+  ],
+
+  "video": {
+    "youtubeId": "Rbm6GXllBiw",
+    "title": "Guns N' Roses - Paradise City (Official Music Video)"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/28yHV3Gdg30AiB8h8em1eW?si=hSfahrvXRR22T3SrCRnfSw",
+    "appleMusic": "https://music.apple.com/fr/album/appetite-for-destruction-super-deluxe/1377826053",
+    "deezer": "https://link.deezer.com/s/3318tnOiOiFZ8F9wQj7qP",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_ltQiuNnoBifeiEYSjm5Ac1Z-x3ydiYrq4&si=lj7xPY8GFQx247_A"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a2324184/Guns-N-Roses-Appetite-for-destruction-Edition-limitee-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21429917/Guns-N-Roses-Appetite-For-Destruction-Edition-Limitee-Exclusivite-Fnac-Vinyle-Rouge-Transparent-Vinyle-album",
+      "format": "Vinyle Rouge",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a12135593/Guns-N-Roses-Appetite-For-Destruction-Edition-Deluxe-CD-album",
+      "format": "Cd Deluxe",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },                                                        
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Appetite-Destruction-Guns-N-Roses/dp/B000057DON/ref=sr_1_1?crid=20V081QJMV7EM&dib=eyJ2IjoiMSJ9.7m3TO_hHzQNTEO1LJuj1xdKszu5HMX9qGxfAFXvwHtwROoKt5kpRJeJ5xWWoYzt-6y3UVtM6p2F9RiN7btz9_lDauFhnSzzMackdaUfberJdzLxVaoLrQhahKbFNWktTSjqqFgQGTXX57h8t6vPUS_3f0hSejWcIbPa7lDHeDck.kosegsln7xK5f95-pwftTng5x42n1fBe0gAqd4ezLos&dib_tag=se&keywords=appetite+for+destruction+vinyle&qid=1776506293&sprefix=appetite+for+destruction+%2Caps%2C258&sr=8-1",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }    
+  ],
+
+  "discography": [
+    {
+      "id": "appetite-for-destruction",
+      "title": "Appetite for Destruction",
+      "year": 1987,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "/covers/guns-n-roses-appetite-for-destruction.jpg"
+    },
+    {
+      "id": "gnr-lies",
+      "title": "G N' R Lies",
+      "year": 1988,
+      "type": "Album",
+      "trackCount": 8,
+      "coverUrl": "https://coverartarchive.org/release-group/b1b42d92-bbd0-349d-b2f8-ee4e6ef1bd9c/front"
+    },
+    {
+      "id": "use-your-illusion-i",
+      "title": "Use Your Illusion I",
+      "year": 1991,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "https://coverartarchive.org/release-group/642b183a-3e59-3cb9-9187-aeeefa0d8818/front"
+    }
+  ]
+}

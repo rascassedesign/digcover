@@ -1,0 +1,99 @@
+{
+  "id": "beastie-boys-check-your-head",
+  "number": "015",
+  "publishedAt": "2026-04-21",
+
+  "artist": {
+    "name": "BEASTIE BOYS",
+    "origin": "New York, États-Unis"
+  },
+
+  "featuredAlbum": {
+    "id": "check-your-head",
+    "title": "Check Your Head",
+    "year": 1992,
+    "label": "Capitol Records",
+    "genres": ["Rap Rock", "Hip Hop", "Funk", "Punk Rock"],
+    "trackCount": 20,
+    "type": "Album",
+    "coverUrl": "/covers/beastie-boys-check-your-head.jpg"
+  },
+
+  "meta": "1992 · Capitol Records · Rap Rock · Hip Hop · États-Unis",
+
+  "editorial": [
+    "Tu mets So What'cha Want un peu fort dans la voiture et voilà, t'es parti. Cette basse qui traîne, la voix filtrée comme si elle sortait d'un mégaphone pourri, les trois mecs qui se passent le mic à tour de rôle comme dans une cour d'école. C'est bordélique, ça groove, ça cogne. Et au milieu du disque, d'un coup, un instrumental jazz-funk qui dure deux minutes et qui part nulle part. Puis ça repart en hip-hop. Puis en punk. Tu suis.",
+    "C'est le disque où les Beastie Boys ont ressorti les instruments : guitare, basse, batterie, eux trois qui jouent vraiment. Ils l'ont enregistré dans leur propre studio, le G-Son, à Atwater Village à L.A., un endroit qu'ils avaient monté eux-mêmes et qui ressemblait, paraît-il, à un skatepark avec du matos dedans. Sorti le 21 avril 1992, j’étais obligé de le partager aujourd’hui ! ",
+    "Ce qui reste, c'est l'impression d'un groupe qui s'amuse vraiment, sans calculer. Trente-quatre ans jour pour jour aujourd'hui, et ça n'a pas bougé d'un poil. Mets-le fort, c'est tout."
+  ],
+
+  "video": {
+    "youtubeId": "ZdJ5e70Q8mw",
+    "title": "Beastie Boys - Gratitude"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/0cXrT5A2aHEQEG0f1ZBS05?si=CoC3EnqVQfG1GYovRPy5LQ",
+    "appleMusic": "https://music.apple.com/fr/album/check-your-head-deluxe-edition-remastered-2009/724303425",
+    "deezer": "https://link.deezer.com/s/331FoDXe4JvPt3gehuqz6",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mnwCE7rNsmUAYP1iJFOECyvTTrNZWfacg&si=PgTUReR8EscNxQ_M"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a2621585/Beastie-Boys-Check-Your-Head-Edition-Deluxe-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a546670/Beastie-Boys-Check-your-head-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },                                               
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Check-Your-Head-Caldato-Mario/dp/B001Q8FSQG/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=KBEY4FUNP6M5&dib=eyJ2IjoiMSJ9.lvS-FUweuk9FEIVk8T9043aft5PgpdPvmdfhhN9YurL-QzNeR9PY9VXwa-XloYheIPaPgWMIb2L1HJ-VMqWgRHvqL6tGNAfKxJ0t5J1zQp8YqjVmUjBUr8tlZW3Vmq9V5h6gQF4bZQ-LSodAkGgWNWuoV6Gsei4O66p2cmsx6b_SITIO6gEXmxgzxLOWPyH4Q5eEksGXLj2yTU8k4Dk2AM5zfDVJnkXED7sMWkeovN73s1pzuvENk1Z6B2zE2IMVgVD11cNgY1MOg3KwvbaHjHSg6sZ3ulSQ2CS5Dp5bz5U.f05dryvJxYbGmOwBzKScvcFC9vv-579aWDWHUjRFXwg&dib_tag=se&keywords=beastie+boys+-+check+your+head&qid=1776503779&sprefix=beastie+boys+-+check+your+hea%2Caps%2C248&sr=8-1&ufe=app_do%3Aamzn1.fos.bb6ea7e0-0ef7-4fc8-9adc-4bf1477881dd",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Check-Your-Head-Beastie-Boys/dp/B000002V1I/ref=tmm_acd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.lvS-FUweuk9FEIVk8T9043aft5PgpdPvmdfhhN9YurL-QzNeR9PY9VXwa-XloYheIPaPgWMIb2L1HJ-VMqWgRHvqL6tGNAfKxJ0t5J1zQp8YqjVmUjBUr8tlZW3Vmq9V5h6gQF4bZQ-LSodAkGgWNWuoV6Gsei4O66p2cmsx6b_SITIO6gEXmxgzxLOWPyH4Q5eEksGXLj2yTU8k4Dk2AM5zfDVJnkXED7sMWkeovN73s1pzuvENk1Z6B2zE2IMVgVD11cNgY1MOg3KwvbaHjHSg6sZ3ulSQ2CS5Dp5bz5U.f05dryvJxYbGmOwBzKScvcFC9vv-579aWDWHUjRFXwg&qid=1776503779&sr=8-1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }        
+  ],
+
+  "discography": [
+    {
+      "id": "check-your-head",
+      "title": "Check Your Head",
+      "year": 1992,
+      "type": "Album",
+      "trackCount": 20,
+      "coverUrl": "/covers/beastie-boys-check-your-head.jpg"
+    },
+    {
+      "id": "pauls-boutique",
+      "title": "Paul's Boutique",
+      "year": 1989,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "https://coverartarchive.org/release-group/b534aa01-d621-31ba-9278-38a500e3cdca/front"
+    },
+    {
+      "id": "licensed-to-ill",
+      "title": "Licensed to Ill",
+      "year": 1986,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://coverartarchive.org/release-group/57f5e7c8-2a6e-34a0-b4cd-0e77695bc36f/front"
+    }
+  ]
+}

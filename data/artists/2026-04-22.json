@@ -1,0 +1,85 @@
+{
+  "id": "astrud-gilberto-the-astrud-gilberto-album",
+  "number": "016",
+  "publishedAt": "2026-04-22",
+
+  "artist": {
+    "name": "ASTRUD GILBERTO",
+    "origin": "Salvador, Brésil"
+  },
+
+  "featuredAlbum": {
+    "id": "the-astrud-gilberto-album",
+    "title": "The Astrud Gilberto Album",
+    "year": 1965,
+    "label": "Verve Records",
+    "genres": ["Bossa Nova", "Jazz Vocal", "Latin Jazz"],
+    "trackCount": 11,
+    "type": "Album",
+    "coverUrl": "/covers/astrud-gilberto-the-astrud-gilberto-album.jpg"
+  },
+
+  "meta": "1965 · Verve Records · Bossa Nova · Jazz · Brésil",
+
+  "editorial": [
+    "Tu mets Once I Loved, et la voix arrive presque en retard sur la guitare de Jobim, comme si elle n'avait rien à prouver à personne. Pas de vibrato, pas d'envolée. Juste cette fille de 25 ans qui chante sans forcer, en portugais ou en anglais, et qui te fait croire qu'il fait 22 degrés dans la pièce. C'est fou comme un disque peut baisser ta tension d'un cran.",
+    "Je l'ai redécouvert cet hiver, un peu par hasard, et je l'écoute depuis comme un café du matin. Aucune fatigue. Ce qui est marrant, c'est que c'est son premier album solo enregistré sur deux jours seulement, les 27 et 28 janvier 1965 aux studios RCA de Hollywood. Jobim à la guitare, Marty Paich aux arrangements, Creed Taylor qui produit. Astrud venait de sortir du tube The Girl from Ipanema avec Getz, et au lieu d'en faire des tonnes, Taylor a gardé l'idée : des arrangements fins, peu de cuivres, beaucoup d'air autour de la voix.",
+    "Ce qui reste, c'est une sensation de bien-être très simple, presque banale dans le bon sens. Rien ne crie. À garder pour un dimanche après-midi, fenêtre entrouverte."
+  ],
+
+  "video": {
+    "youtubeId": "AcoKBiei5mQ",
+    "title": "Astrud Gilberto - Água de Beber (Water To Drink) (Official Video)"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/6haDxdERWK3rdVCGc2jr8E?si=lazfZOgbSNa6b7UlDOK8EQ",
+    "appleMusic": "https://music.apple.com/fr/album/the-astrud-gilberto-album/1469584204",
+    "deezer": "https://link.deezer.com/s/331G0pp8v1NeljUvM19fM",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nc-yspNlHO2y8I1BMWWkigo5ShX5xYJ4E&si=LVWvJM24ePWB7-zV"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a22599256/Astrud-Gilberto-The-Astrud-Gilberto-Album-Edition-Limitee-Exclusivite-Fnac-Vinyle-Bleu-Vinyle-album",
+      "format": "Vinyle Bleu",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21896580/Astrud-Gilberto-Astrud-Gilberto-Album-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    }                                                      
+  ],
+
+  "discography": [
+    {
+      "id": "the-astrud-gilberto-album",
+      "title": "The Astrud Gilberto Album",
+      "year": 1965,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "/covers/astrud-gilberto-the-astrud-gilberto-album.jpg"
+    },
+    {
+      "id": "the-shadow-of-your-smile",
+      "title": "The Shadow of Your Smile",
+      "year": 1965,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-À-VÉRIFIER]/front"
+    },
+    {
+      "id": "look-to-the-rainbow",
+      "title": "Look to the Rainbow",
+      "year": 1966,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/d3e22866-7a89-37ab-95df-009acc4c7106/front"
+    }
+  ]
+}
