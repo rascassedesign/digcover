@@ -1,0 +1,78 @@
+{
+  "id": "morcheeba-charango",
+  "number": "019",
+  "publishedAt": "2026-04-27",
+
+  "artist": {
+    "name": "MORCHEEBA",
+    "origin": "Londres, Royaume-Uni"
+  },
+
+  "featuredAlbum": {
+    "id": "charango",
+    "title": "Charango",
+    "year": 2002,
+    "label": "China Records",
+    "genres": ["Trip Hop", "Downtempo", "Electronic"],
+    "trackCount": 12,
+    "type": "Album",
+    "coverUrl": "/covers/morcheeba-charango.jpg"
+  },
+
+  "meta": "2002 · China Records · Trip Hop · Downtempo · Royaume-Uni",
+
+  "editorial": [
+    "Il y a ce truc bizarre sur Otherwise, le morceau d'ouverture (enfin, le deuxième), où la voix de Skye glisse au-dessus d'un beat presque trop sucré, et tu comprends que Morcheeba a décidé de faire un disque qui assume le soleil. Pas de brume, pas de spleen londonien. Une espèce de pop trip-hop qui se laisse traverser par la lumière, avec des cordes qui débarquent à des endroits inattendus et te désarment complètement.",
+    "Je suis revenu vers cet album l'été dernier, un peu par hasard, et il a tenu toute la saison. C'est devenu un disque de fin d'après-midi quand on a pas envie de penser. Petit détail qui change tout : presque tout a été enregistré dans leur propre studio à South London, le Heads Quarter, sauf Women Lose Weight  celui-là, ils sont allés le faire à Electric Lady à New York, avec Slick Rick au micro. Oui, ce Slick Rick. Et Pace Won qui pose un couplet sur le morceau-titre. Sur le papier, ça paraît chelou. À l'oreille, ça marche.",
+    "Ce qui reste, c'est cette sensation tranquille de disque qui ne force rien. Laisse-le tourner pendant que tu fais autre chose. Il fera le boulot."
+  ],
+
+  "video": {
+    "youtubeId": "2YEQIAk5ECI",
+    "title": "Otherwise — Morcheeba · Charango, 2002"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/0LtBG81oAbMoKVwHts66MQ?si=oKBJBia9TKKkOeuDLff-dA",
+    "appleMusic": "https://music.apple.com/fr/album/charango/79671448",
+    "deezer": "https://link.deezer.com/s/335EBy0xJJTxA5F12trix",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nz7D5cx8qJkOluDk9fvx7OeZcnZnLXS6g&si=U5OuWsuVkZYqNTxG"
+  },
+
+  "vinyl": [],
+
+  "discography": [
+    {
+      "id": "charango",
+      "title": "Charango",
+      "year": 2002,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "/covers/morcheeba-charango.jpg"
+    },
+    {
+      "id": "fragments-of-freedom",
+      "title": "Fragments of Freedom",
+      "year": 2000,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://coverartarchive.org/release-group/46737baf-db59-3d37-887a-4b335ed0926f/front"
+    },
+    {
+      "id": "big-calm",
+      "title": "Big Calm",
+      "year": 1998,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/033ad45d-fdf5-3a94-ba34-d50e3716cf95/front"
+    },
+    {
+      "id": "the-antidote",
+      "title": "The Antidote",
+      "year": 2005,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/18050893-32f3-3420-aedb-a263f24692d2/front"
+    }
+  ]
+}

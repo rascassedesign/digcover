@@ -1,0 +1,107 @@
+{
+  "id": "the-black-keys-turn-blue",
+  "number": "021",
+  "publishedAt": "2026-04-29",
+
+  "artist": {
+    "name": "THE BLACK KEYS",
+    "origin": "Akron, Ohio, États-Unis"
+  },
+
+  "featuredAlbum": {
+    "id": "turn-blue",
+    "title": "Turn Blue",
+    "year": 2014,
+    "label": "Nonesuch Records",
+    "genres": ["Blues Rock", "Psychedelic Rock", "Alternative Rock"],
+    "trackCount": 11,
+    "type": "Album",
+    "coverUrl": "/covers/the-black-keys-turn-blue.jpg"
+  },
+
+  "meta": "2014 · Nonesuch Records · Blues Rock · Psychedelic Rock · États-Unis",
+
+  "editorial": [
+    "Il y a ce moment au début de Weight of Love, presque sept minutes au compteur, où tu te demandes encore si t'écoutes vraiment les Black Keys. La guitare prend son temps, les nappes s'étirent, et puis Auerbach arrive avec sa voix un peu cassée. Tout le disque tient là-dedans : un groupe qu'on connaissait râpeux et frontal qui décide soudain de ralentir, de baisser la lumière, de laisser la mélancolie passer devant.",
+    "Je remets cet album à chaque fois que j'ai besoin d'un truc qui groove sans m'agiter. C'est de la pop psychédélique avec du blues qui traîne dessous, et ça marche surtout en fin de journée. L'enregistrement s'est fait à Sunset Sound à Hollywood pendant l'été 2013, avec Danger Mouse à la coproduction pour la quatrième fois. Pendant les sessions, Auerbach divorçait. Tu l'entends partout dans les textes, dans la lenteur, dans cette façon qu'a le disque de tourner autour de la même tristesse douce sans jamais tomber dans le drame.",
+    "C'est leur disque le moins immédiat, et probablement le plus beau à long terme. Les tubes attendus arrivent quand même (Fever, Gotta Get Away) mais le cœur bat ailleurs, dans les morceaux qui prennent leur temps. À garder pour une fin de soirée calme, quand t'as plus envie de parler fort."
+  ],
+
+  "video": {
+    "youtubeId": "C5a1Cl_JOJM",
+    "title": "Turn Blue — The Black Keys · Turn Blue, 2014"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/6TvxpBzf9c8H1fsrAaQ8t3?si=3OZhFJ27TUumQ7lhri_sLQ",
+    "appleMusic": "https://music.apple.com/fr/album/turn-blue/841098321",
+    "deezer": "https://link.deezer.com/s/335EPPZKy4jSLOg3ZXUam",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_klwW1Hw08DzD1sD6hoTvKFZnUb5AkZ7VQ&si=8n_lftmLbdbc5I2q"
+  },
+
+  "vinyl": [
+  {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a7079950/The-Black-Keys-Turn-blue-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a7079948/The-Black-Keys-Turn-blue-CD-album?oref=00000000-0000-0000-0000-000000000000",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },                                                            
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Turn-Blue-Black-Keys/dp/B00J7UL8QY/ref=sr_1_1_mod_primary_new?crid=3FFE3481VMK95&dib=eyJ2IjoiMSJ9.O36Scec3zIWR5AIZCk2kqQmzdI49TUJtKFXZlsdTm7vGjHj071QN20LucGBJIEps.YMhaYleuFwH4pnCmfwRvS9f9c-Jw2-Vw0JjupCeuBM0&dib_tag=se&keywords=black+keys+turn+blue&qid=1777127309&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=black+keys+tu%2Caps%2C302&sr=8-1",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Turn-Blue-Black-Keys/dp/B00J7UL6V6/ref=tmm_acd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.O36Scec3zIWR5AIZCk2kqQmzdI49TUJtKFXZlsdTm7vGjHj071QN20LucGBJIEps.YMhaYleuFwH4pnCmfwRvS9f9c-Jw2-Vw0JjupCeuBM0&qid=1777127309&sr=8-1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }     
+  ],
+
+  "discography": [
+    {
+      "id": "turn-blue",
+      "title": "Turn Blue",
+      "year": 2014,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "/covers/the-black-keys-turn-blue.jpg"
+    },
+    {
+      "id": "el-camino",
+      "title": "El Camino",
+      "year": 2011,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/c2eed4c1-5cd9-469a-9075-b82077093967/front"
+    },
+    {
+      "id": "brothers",
+      "title": "Brothers",
+      "year": 2010,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "https://coverartarchive.org/release-group/2a2b851c-bba6-4584-80c0-19af4a55e286/front"
+    },
+    {
+      "id": "attack-and-release",
+      "title": "Attack & Release",
+      "year": 2008,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/11344dd5-7739-3cf9-9a9c-7328362e2892/front"
+    }
+  ]
+}

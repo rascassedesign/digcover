@@ -1,0 +1,99 @@
+{
+  "id": "logic-no-pressure",
+  "number": "022",
+  "publishedAt": "2026-04-30",
+
+  "artist": {
+    "name": "LOGIC",
+    "origin": "Gaithersburg, Maryland, États-Unis"
+  },
+
+  "featuredAlbum": {
+    "id": "no-pressure",
+    "title": "No Pressure",
+    "year": 2020,
+    "label": "Def Jam Recordings",
+    "genres": ["Hip Hop", "Boom Bap", "East Coast Hip Hop"],
+    "trackCount": 15,
+    "type": "Album",
+    "coverUrl": "/covers/logic-no-pressure.jpg"
+  },
+
+  "meta": "2020 · Def Jam Recordings · Hip Hop · Boom Bap · États-Unis",
+
+  "editorial": [
+    "Tu vois ce moment où un rappeur sort un disque comme s'il refermait une porte derrière lui ? No Pressure commence comme ça. Une voix d'Orson Welles qui grésille à la radio, Logic qui s'incruste dans le sample, qui répond, qui s'amuse à terminer ses phrases. C'est lo-fi, c'est posé, ça respire le mec qui n'a plus rien à prouver. Tu mets play et tu sens direct que c'est pas un album d'adieu triste, c'est un mec qui range ses affaires en sifflotant.",
+    "Je l'ai redécouvert récemment et ça m'a frappé à quel point il vieillit bien, ce disque. Quand j'ai besoin d'un truc rap mais calme, sans flex inutile, je reviens dessus. Et il a rappelé No I.D. à la prod, le même qui avait produit son tout premier album, Under Pressure, six ans avant. La boucle est bouclée, littéralement : la pochette de Sam Spratt reprend le décor du premier disque, mais immergé sous l'eau.",
+    "Ce qui reste, c'est un rap chaud, sans urgence, où un mec se dit que c'est bon, il a fait ce qu'il avait à faire. Parfait pour un dimanche qui traîne."
+  ],
+
+  "video": {
+    "youtubeId": "3CyWixndEYE",
+    "title": "Hit My Line — Logic · No Pressure, 2020"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/5pF05wJrbrIvqunE41vWP8?si=YZkzBNSDQ1GWihT6s0J_HA",
+    "appleMusic": "https://music.apple.com/fr/album/no-pressure/1523964228",
+    "deezer": "https://link.deezer.com/s/335EZo1SXSjVHEwVww1ME",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kPF6zFpmqs00fb-Z8kGOkVHTVJ8ZI-QjM&si=fNbfRSyEeWQCcO5B"
+  },
+
+  "vinyl": [
+  {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a15040591/Logic-No-Pressure-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a15037560/Logic-No-Pressure-CD-album?oref=00000000-0000-0000-0000-000000000000",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },                                                            
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/No-Pressure-Logic/dp/B08DC5VZ13/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=SNX7HXQGQCMV&dib=eyJ2IjoiMSJ9.hoRJ5WizTS4Jn2nzENiaUN83HJr5mziOEe7anO1yVfXo0SveuGY8yYa5BupL-YLO.D2DOL2M9jPI017K47i7swNzpHkZD1xntRgfWGnI8G8s&dib_tag=se&keywords=logic+no+pressure&qid=1777127439&sprefix=logic+no+pressur%2Caps%2C240&sr=8-1",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/No-Pressure-Logic/dp/B08DC5YFZ7/ref=tmm_acd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.hoRJ5WizTS4Jn2nzENiaUN83HJr5mziOEe7anO1yVfXo0SveuGY8yYa5BupL-YLO.D2DOL2M9jPI017K47i7swNzpHkZD1xntRgfWGnI8G8s&qid=1777127439&sr=8-1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }     
+  ],
+
+  "discography": [
+    {
+      "id": "no-pressure",
+      "title": "No Pressure",
+      "year": 2020,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "/covers/logic-no-pressure.jpg"
+    },
+    {
+      "id": "confessions-of-a-dangerous-mind",
+      "title": "Confessions of a Dangerous Mind",
+      "year": 2019,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://coverartarchive.org/release-group/840fc543-ea4e-457d-9050-1c64ccd0ac89/front"
+    },
+    {
+      "id": "ysiv",
+      "title": "YSIV",
+      "year": 2018,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://coverartarchive.org/release-group/565e15de-15b5-42f6-8516-fa90b763e454/front"
+    }
+  ]
+}

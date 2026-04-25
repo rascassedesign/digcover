@@ -1,0 +1,107 @@
+{
+  "id": "the-roots-rising-down",
+  "number": "020",
+  "publishedAt": "2026-04-28",
+
+  "artist": {
+    "name": "THE ROOTS",
+    "origin": "Philadelphie, Pennsylvanie, États-Unis"
+  },
+
+  "featuredAlbum": {
+    "id": "rising-down",
+    "title": "Rising Down",
+    "year": 2008,
+    "label": "Def Jam Recordings",
+    "genres": ["Hip Hop", "Conscious Hip Hop", "Alternative Rap"],
+    "trackCount": 14,
+    "type": "Album",
+    "coverUrl": "/covers/the-roots-rising-down.webp"
+  },
+
+  "meta": "2008 · Def Jam Recordings · Hip Hop · Conscious Hip Hop · États-Unis",
+
+  "editorial": [
+    "Tu lances 75 Bars et t'as plus le choix : Black Thought balance soixante-quinze mesures sans respirer, Questlove derrière qui cogne comme s'il voulait défoncer la table, et toi t'es là, scotché, à essayer de suivre. Il y a pas de refrain, pas de pause, pas de moment où le morceau te laisse souffler. C'est trois minutes d'apnée. Et c'est le deuxième titre de l'album.",
+    "J'y reviens quand le monde me gonfle et que j'ai besoin que quelqu'un dise les choses sans tourner autour. Cette semaine c'est aussi son anniversaire de sortie : il fête ses 18 ans le 28 avril. Petit détail : Def Jam l'a sorti en 2008 ce jour-là précisément, qui tombait sur les seize ans des émeutes de Los Angeles après l'acquittement des flics qui avaient tabassé Rodney King. Le titre vient d'un essai de William T. Vollmann sur la violence. Tu vois le genre. Enregistré à Philadelphie, avec Mos Def, Styles P, Common, Talib Kweli qui passent en feature, c'est le disque le plus politique des Roots.",
+    "C'est une rage froide. Pas un énervement vite passé, la vraie."
+  ],
+
+  "video": {
+    "youtubeId": "5pcu6dbTb00",
+    "title": "The Roots - 75 Bars (Black's Reconstruction) · Rising Down, 2008"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/0R4PYloBBgEpBVTjZgXfa8?si=9ZvGpMXWRkKgO8xu7KFD5g",
+    "appleMusic": "https://music.apple.com/fr/album/rising-down-bonus-version/1443194995",
+    "deezer": "https://link.deezer.com/s/335EMvSTfb5ydq72OlHva",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_m0D3UajdhSVUz0nzdAsUVCsX_rZgHlag0&si=WyWHZVHvJfMkAxPK"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21603592/The-Roots-Rising-Down-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21274497/The-Roots-Rising-Down-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },                                                            
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Rising-Down-allemand-Roots/dp/B0016CP1PK/ref=tmm_vnl_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.CZqqEe4-hXziz4qxblviX032VAgvZpPNFQKEkH5UuAbGjHj071QN20LucGBJIEps.3vHm69c0VstIUD9hg0GUqfvrY5BHf-O5AGLEmlofIXY&qid=1777125184&sr=8-1",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Rising-Down-Roots/dp/B0017H8JQM/ref=tmm_acd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.CZqqEe4-hXziz4qxblviX032VAgvZpPNFQKEkH5UuAbGjHj071QN20LucGBJIEps.3vHm69c0VstIUD9hg0GUqfvrY5BHf-O5AGLEmlofIXY&qid=1777125184&sr=8-1",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }            
+  ],
+
+  "discography": [
+    {
+      "id": "rising-down",
+      "title": "Rising Down",
+      "year": 2008,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "/covers/the-roots-rising-down.jpg"
+    },
+    {
+      "id": "game-theory",
+      "title": "Game Theory",
+      "year": 2006,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://coverartarchive.org/release-group/28f24dc6-8fd8-3635-a1cb-5a394fcf542d/front"
+    },
+    {
+      "id": "the-tipping-point",
+      "title": "The Tipping Point",
+      "year": 2004,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/b27a6c72-6b57-3e53-8c8f-e6a52c4697b4/front"
+    },
+    {
+      "id": "how-i-got-over",
+      "title": "How I Got Over",
+      "year": 2010,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://coverartarchive.org/release-group/9b643b98-ea0d-4c17-9dd1-8cfe2a92248f/front"
+    }
+  ]
+}
