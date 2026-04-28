@@ -22,15 +22,15 @@ const hankenGrotesk = Hanken_Grotesk({
 // ── Métadonnées par défaut ──────────────────────────────────
 export const metadata: Metadata = {
   title: {
-    default: 'DiscCover — Album du jour',
-    template: '%s | DiscCover',
+    default: 'DigCover — Album du jour',
+    template: '%s | DigCover',
   },
   description: 'Un album par jour. Une immersion visuelle et sonore dans l\'univers d\'un artiste.',
   metadataBase: new URL('https://digcover.fr'),
   openGraph: {
     type: 'website',
     locale: 'fr_FR',
-    siteName: 'DiscCover',
+    siteName: 'DigCover',
   },
   twitter: {
     card: 'summary_large_image',
