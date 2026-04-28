@@ -1,0 +1,231 @@
+/* ═══════════════════════════════════════════════
+   /archive — styles spécifiques de la page Archive
+═══════════════════════════════════════════════ */
+
+.dc-archive-loading {
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.dc-archive-loading p {
+  font-family: var(--font-display);
+  font-size: 13px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--dc-text-tertiary);
+}
+
+/* ═══════════════════════════════════════════════
+   HEADER
+═══════════════════════════════════════════════ */
+.dc-archive-header {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: clamp(100px, 11vw, 140px) var(--dc-pad-x) clamp(20px, 3vw, 32px);
+}
+
+.dc-archive-kicker {
+  font-family: var(--font-display);
+  font-size: var(--dc-font-kicker);
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--dc-text-tertiary);
+  margin-bottom: 16px;
+}
+
+.dc-archive-h1 {
+  font-family: var(--font-display);
+  font-size: var(--dc-font-hero);
+  font-weight: 900;
+  line-height: 0.9;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  color: var(--dc-text-primary);
+  margin: 0;
+}
+
+/* ═══════════════════════════════════════════════
+   COMPTEUR EN PILL BORDERED
+═══════════════════════════════════════════════ */
+.dc-archive-counter-wrapper {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: clamp(16px, 2vw, 24px) var(--dc-pad-x) 0;
+}
+
+.dc-archive-counter,
+span.dc-archive-counter {
+  display: inline-block;
+  width: 100%;
+  padding: 14px 20px;
+  font-family: var(--font-display);
+  font-size: var(--dc-font-kicker);
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--dc-text-secondary);
+  background: var(--dc-surface-card);
+  border: 0.5px solid var(--dc-border-soft);
+  border-radius: 10px;
+  transition: border-color 0.45s, background 0.45s;
+}
+
+/* ═══════════════════════════════════════════════
+   GRILLE — taille de card fluide, le navigateur
+   gère le nombre de colonnes via auto-fill
+═══════════════════════════════════════════════ */
+.dc-archive-grid-wrapper {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: clamp(20px, 3vw, 32px) var(--dc-pad-x) clamp(64px, 8vw, 96px);
+}
+
+.dc-archive-empty {
+  font-family: var(--font-body);
+  font-size: var(--dc-font-body);
+  color: var(--dc-text-tertiary);
+  padding: 32px 0;
+}
+
+.dc-archive-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(clamp(160px, 18vw, 220px), 1fr));
+  gap: clamp(12px, 1.4vw, 18px);
+  width: 100%;
+}
+
+/* ═══════════════════════════════════════════════
+   CARD
+═══════════════════════════════════════════════ */
+.dc-archive-card-link {
+  text-decoration: none;
+  display: block;
+}
+
+.dc-archive-card {
+  background: var(--dc-surface-card);
+  border: 0.5px solid var(--dc-border-subtle);
+  border-radius: 14px;
+  overflow: hidden;
+  cursor: pointer;
+  transition:
+    background 0.3s,
+    border-color 0.3s,
+    transform 0.2s,
+    box-shadow 0.2s;
+}
+
+.dc-archive-card.is-hovered {
+  background: rgba(241, 239, 232, 0.06);
+  border-color: rgba(var(--theme-accent), 0.45);
+  transform: translateY(-3px);
+  box-shadow:
+    0 12px 32px rgba(0, 0, 0, 0.35),
+    0 0 28px rgba(var(--theme-accent), 0.16);
+}
+
+/* Thumbnail */
+.dc-archive-thumb {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1;
+  background: rgba(241, 239, 232, 0.04);
+  overflow: hidden;
+}
+
+.dc-archive-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.dc-archive-card.is-hovered .dc-archive-thumb img {
+  transform: scale(1.05);
+}
+
+.dc-archive-number {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  padding: 4px 10px;
+  font-family: var(--font-display);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--dc-text-primary);
+  background: rgba(0, 0, 0, 0.55);
+  border-radius: 999px;
+  -webkit-backdrop-filter: blur(6px);
+  backdrop-filter: blur(6px);
+}
+
+/* Texte card */
+.dc-archive-meta {
+  padding: 14px 16px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.dc-archive-artist {
+  font-family: var(--font-display);
+  font-size: clamp(17px, 1.6vw, 20px);
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.005em;
+  text-transform: uppercase;
+  color: var(--dc-text-primary);
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.dc-archive-title {
+  font-family: var(--font-body);
+  font-size: var(--dc-font-body);
+  color: var(--dc-text-secondary);
+  line-height: 1.4;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.dc-archive-genres {
+  font-family: var(--font-body);
+  font-size: var(--dc-font-small);
+  color: var(--dc-text-tertiary);
+  line-height: 1.4;
+  margin: 0;
+}
+
+/* ═══════════════════════════════════════════════
+   ANIMATION FADE-UP STAGGER (cards Archives)
+   Le delay est calculé via --card-index (set en JSX)
+   et plafonné à 18 cards pour ne pas avoir un dernier
+   item qui apparaît trop tard sur de grosses grilles.
+═══════════════════════════════════════════════ */
+.dc-archive-card-link {
+  animation: dc-fade-up 0.5s cubic-bezier(0.22, 0.61, 0.36, 1) both;
+  animation-delay: calc(min(var(--card-index, 0), 18) * 35ms);
+}
+
+/* ═══════════════════════════════════════════════
+   RESPONSIVE — 2 breakpoints structurels uniquement
+   La fluidité de tailles/paddings/typo est gérée
+   par les clamp() au-dessus.
+═══════════════════════════════════════════════ */
+
+/* Tablette portrait et mobile : la grille passe en 2 colonnes
+   pour conserver des cards lisibles, et on libère l'auto-fill. */
+@media (max-width: 768px) {
+  .dc-archive-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}

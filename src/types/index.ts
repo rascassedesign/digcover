@@ -32,6 +32,8 @@ export interface StreamingLink {
 export interface VinylPartner {
   name: string
   url: string
+  logo?: string
+  format?: string
 }
 
 export interface Artist {

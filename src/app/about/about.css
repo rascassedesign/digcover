@@ -1,0 +1,141 @@
+/* ═══════════════════════════════════════════════
+   /about — styles spécifiques de la page À propos
+═══════════════════════════════════════════════ */
+
+.dc-about-hero {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: clamp(100px, 11vw, 140px) var(--dc-pad-x) clamp(40px, 5vw, 60px);
+}
+
+.dc-about-kicker {
+  font-family: var(--font-display);
+  font-size: var(--dc-font-kicker);
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--dc-text-tertiary);
+  margin-bottom: clamp(16px, 2vw, 24px);
+}
+
+.dc-about-title {
+  font-family: var(--font-display);
+  font-size: var(--dc-font-hero);
+  font-weight: 900;
+  line-height: 0.92;
+  letter-spacing: -0.02em;
+  color: var(--dc-text-primary);
+  text-transform: uppercase;
+  margin: 0;
+}
+
+/* ═══════════════════════════════════════════════
+   BLOCS ÉDITORIAUX
+═══════════════════════════════════════════════ */
+.dc-about-block {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 var(--dc-pad-x) clamp(40px, 5vw, 56px);
+}
+
+/* Label en pill bordered — motif chassis */
+.dc-about-label,
+span.dc-about-label {
+  display: block;
+  width: 100%;
+  padding: 12px 18px;
+  margin-bottom: 24px;
+  font-family: var(--font-display);
+  font-size: var(--dc-font-kicker);
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--dc-text-secondary);
+  background: var(--dc-surface-card);
+  border: 0.5px solid var(--dc-border-soft);
+  border-radius: 10px;
+  transition: border-color 0.45s, background 0.45s;
+}
+
+.dc-about-block p {
+  font-family: var(--font-body);
+  font-size: var(--dc-font-body-lg);
+  line-height: 1.75;
+  color: var(--dc-text-primary);
+  margin-bottom: 20px;
+}
+
+.dc-about-block p:last-child {
+  margin-bottom: 0;
+}
+
+.dc-about-block p strong {
+  font-weight: 600;
+  color: var(--dc-text-primary);
+}
+
+/* ═══════════════════════════════════════════════
+   CTA Voir l'album du jour
+═══════════════════════════════════════════════ */
+.dc-about-cta-wrapper {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: clamp(16px, 2vw, 24px) var(--dc-pad-x) clamp(64px, 8vw, 96px);
+  display: flex;
+  justify-content: center;
+}
+
+.dc-about-cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 14px 28px;
+  background: rgb(var(--theme-tint));
+  color: rgb(var(--theme-dark));
+  border-radius: 12px;
+  font-family: var(--font-body);
+  font-size: var(--dc-font-body);
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform 0.15s, box-shadow 0.2s, background 0.45s;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+}
+
+@media (max-width: 768px) {
+  .dc-about-cta {
+    min-height: var(--dc-tap-min);
+  }
+}
+
+.dc-about-cta svg {
+  transition: transform 0.25s cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+.dc-about-cta:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+}
+
+.dc-about-cta:hover svg {
+  transform: translateX(4px);
+}
+
+/* ═══════════════════════════════════════════════
+   ANIMATIONS DE PRÉSENCE — au load uniquement
+   Fade-up séquentiel sur kicker + titre.
+   Réutilise le keyframe dc-fade-up défini dans globals.css
+═══════════════════════════════════════════════ */
+.dc-about-kicker {
+  animation: dc-fade-up 0.5s cubic-bezier(0.22, 0.61, 0.36, 1) both;
+  animation-delay: 0.05s;
+}
+.dc-about-title {
+  animation: dc-fade-up 0.5s cubic-bezier(0.22, 0.61, 0.36, 1) both;
+  animation-delay: 0.14s;
+}
+
+/* Pas de bloc @media nécessaire ici : tous les tailles, paddings et
+   font-sizes scalent fluidement via clamp() en consommant les tokens
+   --dc-pad-x, --dc-font-hero, --dc-font-body-lg, etc. définis dans
+   globals.css. La fluidité couvre 375px → 1440px+ sans saut. */
