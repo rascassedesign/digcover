@@ -1,0 +1,101 @@
+{
+  "id": "iron-maiden-the-number-of-the-beast",
+  "number": "028",
+  "publishedAt": "2026-05-08",
+
+  "artist": {
+    "name": "IRON MAIDEN",
+    "origin": "Londres, Angleterre"
+  },
+
+  "featuredAlbum": {
+    "id": "the-number-of-the-beast",
+    "title": "The Number of the Beast",
+    "year": 1982,
+    "label": "EMI Records",
+    "genres": ["Heavy Metal", "NWOBHM", "Hard Rock"],
+    "trackCount": 8,
+    "type": "Album",
+    "coverUrl": "/covers/iron-maiden-the-number-of-the-beast.jpg"
+  },
+
+  "meta": "1982 · EMI Records · Heavy Metal · NWOBHM · Angleterre",
+
+  "editorial": [
+    "Run to the Hills qui démarre, ce galop de batterie, les guitares jumelles qui se répondent, et ce chant qui monte dans des aigus pas possibles ! En trente secondes t'as compris pourquoi ce disque a tout changé pour le heavy metal. Huit morceaux qui enchaîne les ambiances : du speed pur, des passages presque mélancoliques, des montées épiques et sans jamais se répéter.",
+    "C'est un de ces albums où tu reviens des années après et il a pas pris une ride. La pochette avec Eddie, la mascotte zombie d'Iron Maiden, qui tire les ficelles du diable en personne, t'as vu ça gamin, tu l'oublies jamais. Elle a d'ailleurs tellement choqué à l'époque que des groupes religieux aux États-Unis ont organisé des autodafés de l'album. Certains cassaient les vinyles au marteau plutôt que de les brûler, de peur des fumées toxiques. Le groupe n'avait rien de sataniste, mais le mal était fait et la légende avec.",
+    "Cet album parfait d’Iron Maiden est parfait pour bouger la tête en ce vendredi de pont du 8 mai !"
+  ],
+
+  "video": {
+    "youtubeId": "WxnN05vOuSM",
+    "title": "Iron Maiden - The Number Of The Beast (Official Video)"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/5S3gls8Kjn8KVmqlIDEBbO?si=4ATL9yinSVOIj-EYs-Oi0A",
+    "appleMusic": "https://music.apple.com/fr/album/the-number-of-the-beast/979953728",
+    "deezer": "https://link.deezer.com/s/337qYWTwodEEoXBwe6aDO",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_k-RPCaUE9MJcd5OSVh1k1dRTPnvbneE_k&si=1_gxNr62ORps2E_I"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a20776547/Iron-Maiden-The-Number-Of-The-Beast-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },   
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a12960979/Iron-Maiden-The-Number-Of-The-Beast-Digipack-Edition-remasterisee-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    }                                                                        
+  ],
+
+  "discography": [
+    {
+      "id": "the-number-of-the-beast",
+      "title": "The Number of the Beast",
+      "year": 1982,
+      "type": "Album",
+      "trackCount": 8,
+      "coverUrl": "/covers/iron-maiden-the-number-of-the-beast.jpg"
+    },
+    {
+      "id": "powerslave",
+      "title": "Powerslave",
+      "year": 1984,
+      "type": "Album",
+      "trackCount": 8,
+      "coverUrl": "https://coverartarchive.org/release-group/60a20bc8-acac-3cbb-99f9-ce458317233a/front"
+    },
+    {
+      "id": "piece-of-mind",
+      "title": "Piece of Mind",
+      "year": 1983,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "https://coverartarchive.org/release-group/169361b5-af6f-34ca-b8f2-13605a7f9691/front"
+    },
+    {
+      "id": "killers",
+      "title": "Killers",
+      "year": 1981,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/cf1e9a98-3ea7-33e5-a8b6-8665dd9a206b/front"
+    },
+    {
+      "id": "iron-maiden",
+      "title": "Iron Maiden",
+      "year": 1980,
+      "type": "Album",
+      "trackCount": 8,
+      "coverUrl": "https://coverartarchive.org/release-group/88a735ad-1f8a-3f96-b410-7e5058dff7f6/front"
+    }
+  ]
+}

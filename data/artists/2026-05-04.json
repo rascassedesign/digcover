@@ -1,0 +1,107 @@
+{
+  "id": "bar-italia-some-like-it-hot",
+  "number": "024",
+  "publishedAt": "2026-05-04",
+
+  "artist": {
+    "name": "BAR ITALIA",
+    "origin": "Londres, Angleterre"
+  },
+
+  "featuredAlbum": {
+    "id": "some-like-it-hot",
+    "title": "Some Like It Hot",
+    "year": 2025,
+    "label": "Matador Records",
+    "genres": ["Indie Rock", "Slacker Rock", "Post-Punk"],
+    "trackCount": 12,
+    "type": "Album",
+    "coverUrl": "/covers/bar-italia-some-like-it-hot.jpg"
+  },
+
+  "meta": "2025 · Matador Records · Indie Rock · Slacker Rock · Angleterre",
+
+  "editorial": [
+    "I Make My Own Dust où les guitares accélèrent et où Nina lâche ses mots comme si elle les arrachait à quelqu'un. C'est sec, c'est nerveux, et ça fait un bien fou. Tu sens que le morceau pourrait partir dans tous les sens, mais non ! Il tient, il pousse, il embarque. C'est un peu le résumé de tout le disque : un truc qui a l'air nonchalant mais qui sait très bien où il va.",
+    "Je ne connaissais pas du tout bar italia avant de tomber sur cet album. Et en deux morceaux, c'était plié, j'avais pas envie de sortir du truc. Le trio londonien : Nina Cristante, Jezmi Tarik Fehmi et Sam Fenton s'est auto-produit, avec le mix confié à Marta Salogni au Studio Zona et le mastering signé Heba Kadry. Le son est net, frontal, sans perdre cette désinvolture un peu brumeuse qui rend le tout addictif. C'est leur cinquième album, sorti en octobre 2025, et franchement, quelle porte d'entrée.",
+    "Ce qui reste après l'écoute, c'est cette tension entre le cool et le sincère. Ils jouent les détachés, mais les refrains collent. Mets-le pour une belle entrée dans la semaine !"
+  ],
+
+  "video": {
+    "youtubeId": "HI6BT5flClw",
+    "title": "Bar Italia - Rooster"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/2CVovXC4S92eRgjtZazNEU?si=OBcN-jCmQ7CniUOldu_rcg",
+    "appleMusic": "https://music.apple.com/fr/album/some-like-it-hot/1828640923",
+    "deezer": "https://link.deezer.com/s/339R8Ind6KJaRYlyQfrkD",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kpAOl3o89Wn4iLTKNek_VlzXtjq7ECSkI&si=MfsjYRV3JSQ71C5W"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21875687/Bar-Italia-Some-Like-It-Hot-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21875686/Bar-Italia-Some-Like-It-Hot-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },                                                                 
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Some-Like-Hot-Bar-Italia/dp/B0FLTWGT7X/ref=tmm_vnl_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.Vkc__Alx41QGefCuKVNeDg8YtnPqXoJMmvlbJ7fdTKPU6zNtWsZ50by7kNjctjY-5Rda9QNc57ccCWg0cyILq70q0lfsgDAW8OUHrr70C4sm6DgBFynL3Ms1hcBqOQSPPQFcgFMnfVbKegZgddg2V_fw993RxdruLbwv4bWZvZOIUaOMi2Sh7DHzwF7zfsR8_zBQEI66j2NiWIHlxegy_vnebQP2V8FqC34Spyz7IjREp3Negtsy32xIPdtUa5apBJYZ6rNULAoGB1lnr_stYpwuU-desxW48iivi08ezr8.p6EYeS2iL7TMTh_qqoZXxKL8efgs_AekDVEXKP-zyXo&qid=1777745145&sr=8-1",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+        {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Some-Like-Hot-Bar-Italia/dp/B0FLTT2ZBD/ref=tmm_acd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.Vkc__Alx41QGefCuKVNeDg8YtnPqXoJMmvlbJ7fdTKPU6zNtWsZ50by7kNjctjY-5Rda9QNc57ccCWg0cyILq70q0lfsgDAW8OUHrr70C4sm6DgBFynL3Ms1hcBqOQSPPQFcgFMnfVbKegZgddg2V_fw993RxdruLbwv4bWZvZOIUaOMi2Sh7DHzwF7zfsR8_zBQEI66j2NiWIHlxegy_vnebQP2V8FqC34Spyz7IjREp3Negtsy32xIPdtUa5apBJYZ6rNULAoGB1lnr_stYpwuU-desxW48iivi08ezr8.p6EYeS2iL7TMTh_qqoZXxKL8efgs_AekDVEXKP-zyXo&qid=1777745145&sr=8-1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+
+  "discography": [
+    {
+      "id": "some-like-it-hot",
+      "title": "Some Like It Hot",
+      "year": 2025,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "/covers/bar-italia-some-like-it-hot.jpg"
+    },
+    {
+      "id": "the-twits",
+      "title": "The Twits",
+      "year": 2023,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-THE-TWITS]/front"
+    },
+    {
+      "id": "tracey-denim",
+      "title": "Tracey Denim",
+      "year": 2023,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "https://coverartarchive.org/release-group/ba68dbcf-f386-44ee-b69f-c84c1aa40853/front"
+    },
+    {
+      "id": "quarrel",
+      "title": "Quarrel",
+      "year": 2020,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-QUARREL]/front"
+    }
+  ]
+}
