@@ -1,0 +1,85 @@
+{
+  "id": "chartreuse-morning-ritual",
+  "number": "026",
+  "publishedAt": "2026-05-06",
+
+  "artist": {
+    "name": "CHARTREUSE",
+    "origin": "West Midlands, Angleterre"
+  },
+
+  "featuredAlbum": {
+    "id": "morning-ritual",
+    "title": "Morning Ritual",
+    "year": 2023,
+    "label": "Communion Records",
+    "genres": ["Indie Rock", "Art Pop", "Folk"],
+    "trackCount": 12,
+    "type": "Album",
+    "coverUrl": "/covers/chartreuse-morning-ritual.jpg"
+  },
+
+  "meta": "2023 · Communion Records · Indie Rock · Art Pop · Angleterre",
+
+  "editorial": [
+    "Sur All Seeing All The Time, les voix de Mike Wagstaff et Hattie Wilson se croisent et se rattrapent au-dessus d'un truc rythmique hyper serré, presque nerveux. Tu sais pas trop si c'est du folk, du post-punk ou autre chose, et franchement c'est ce qui te retient. Le morceau finit et t'as déjà envie de rembobiner.",
+    "C'est leur premier album, sorti en 2023, après quatre EPs et six ans à prendre leur temps. Mike a tout produit lui-même, et le disque a été enregistré dans un cabanon au fond du jardin familial à Kidderminster, ils avaient viré le bureau du père pour y installer leur matos. Ça s'entend dans le son : c'est précis mais jamais froid, un truc fait entre potes qui vivent à dix minutes les uns des autres. Chaque morceau a sa propre texture, de Backstroke et son flow presque rappé à Agitated qui te ramène à nu, voix et presque rien d'autre.",
+    "C'est une impression, qu'ils savent exactement quand en faire plus et quand se taire. Mets-le au casque pendant ton break de ce mercredi midi."
+  ],
+
+  "video": {
+    "youtubeId": "e6m5BEdZ5sA",
+    "title": "Chartreuse - All Seeing All The Time"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/5qshGdKKt0bR3lBLJDhmoc?si=LHtfjQgBT4yPvF8XWiAVew",
+    "appleMusic": "https://music.apple.com/fr/album/morning-ritual/1697977191",
+    "deezer": "https://link.deezer.com/s/339TdZOvre8pAPhZYG2H0",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_l1_9aRYv43vq6PXL0qOMreiZS0V9KvZXQ&si=chbGD6KTm4_FlPPZ"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a18871147/Chartreuse-Morning-Ritual-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a18871148/Chartreuse-Morning-Ritual-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    }                                                                        
+  ],
+
+  "discography": [
+    {
+      "id": "bless-you-and-be-well",
+      "title": "Bless You & Be Well",
+      "year": 2025,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-BLESS-YOU]/front"
+    },
+    {
+      "id": "morning-ritual",
+      "title": "Morning Ritual",
+      "year": 2023,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "/covers/chartreuse-morning-ritual.jpg"
+    },
+    {
+      "id": "is-it-autumn-already",
+      "title": "Is It Autumn Already?",
+      "year": 2021,
+      "type": "EP",
+      "trackCount": 5,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-IS-IT-AUTUMN]/front"
+    }
+  ]
+}

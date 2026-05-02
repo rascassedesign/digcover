@@ -1,0 +1,92 @@
+{
+  "id": "common-saints-cinema-3000",
+  "number": "025",
+  "publishedAt": "2026-05-05",
+
+  "artist": {
+    "name": "COMMON SAINTS",
+    "origin": "Londres, Angleterre"
+  },
+
+  "featuredAlbum": {
+    "id": "cinema-3000",
+    "title": "Cinema 3000",
+    "year": 2024,
+    "label": "Starsonics",
+    "genres": ["Psychedelic Soul", "Neo-Psychedelia", "Funk"],
+    "trackCount": 14,
+    "type": "Album",
+    "coverUrl": "/covers/common-saints-cinema-3000.jpg"
+  },
+
+  "meta": "2024 · Starsonics · Psychedelic Soul · Neo-Psychedelia · Angleterre",
+
+  "editorial": [
+    "La première fois que j'ai lancé ce disque, c’était grâce a une recommandation Apple Music et sa pochette m’a tapée dans l'oeil. Puis le piano de Blackbird tournait en boucle, les nappes montaient doucement, et j'étais juste là, posé. Le genre de truc qui t'attrape sans prévenir.",
+    "Common Saints, c'est un musicien londonien qui fait tout seul dans son studio du sud de Londres. Piano, batterie, basse, guitare, voix ! Il joue tout lui-même, et ça s'entend. Pas dans un côté démonstratif, plutôt dans une cohérence. Tout sonne chaud, rond, un peu psyché, un peu soul. Cinema 3000 c'est son premier album, sorti en novembre 2024, après deux EPs qui avaient déjà bien tourné. Quatorze morceaux, presque une heure, et pourtant ça ne traîne jamais. C'est la Vie a un groove imparable, Piece of War surprend avec une voix rauque enregistrée pendant une laryngite et ça marche",
+    "C'est d’une douceur et d’une chaleur qui te met bien. Rien d'agressif, rien de forcé. Pour un mardi détente où tu respire !"
+  ],
+
+  "video": {
+    "youtubeId": "ucE_cG_jzn4",
+    "title": "Common Saints - Sweet Release"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/4tBXKI7G2sQ67Y5VAsxkzv?si=uKOO2DpkTOqD-0vTcF6WuA",
+    "appleMusic": "https://music.apple.com/fr/album/cinema-3000/1833020008",
+    "deezer": "https://link.deezer.com/s/339RyI1oa6Q2Znfb4ni7n",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mEhUaTEGc-CgMHOJlingvwzujXc289XPg&si=nfDT3An9yGGKCcTp"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a20853554/Common-Saints-Cinema-3000-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },                                                                
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Cinema-Black-Vinyl-Common-Saints/dp/B0DT6GCF34/ref=tmm_vnl_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.l2ykPOFTsL3I54aRIi_8XEINkHzIGTnCDxIo5FvMFD32yoHeefx2IDZvzIIvzfPz_fmPtY6toS7ILTFfC-V_P-XagQeeGA6hV3WZNH84GaX0mJvJtg6b_2MH15zgTrls_pFKqVI8aSegRTcGwvY6yCGh1AYoWf49WOjq7FU80NQTlYISVyPAxPRrX8MWPpsAXrAPEX8gE8DrjGo3fmPJqwtQdTuB4-o6CvzqzlVQmRUm8xZt6sMxvIfSiEEKIw-gOwL83IePSbxn4YtZeIZCpnFGjTvUcIzNib0J6-9RkKU.wG7d3MMvtEnWtXYAiOnhHigS1ldBm62EdCx3kCpMx9E&qid=1777746016&sr=8-1",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+        {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Cinema-3000-Common-Saints/dp/B0DFN4D8VM/ref=tmm_acd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.l2ykPOFTsL3I54aRIi_8XEINkHzIGTnCDxIo5FvMFD32yoHeefx2IDZvzIIvzfPz_fmPtY6toS7ILTFfC-V_P-XagQeeGA6hV3WZNH84GaX0mJvJtg6b_2MH15zgTrls_pFKqVI8aSegRTcGwvY6yCGh1AYoWf49WOjq7FU80NQTlYISVyPAxPRrX8MWPpsAXrAPEX8gE8DrjGo3fmPJqwtQdTuB4-o6CvzqzlVQmRUm8xZt6sMxvIfSiEEKIw-gOwL83IePSbxn4YtZeIZCpnFGjTvUcIzNib0J6-9RkKU.wG7d3MMvtEnWtXYAiOnhHigS1ldBm62EdCx3kCpMx9E&qid=1777746016&sr=8-1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }    
+  ],
+
+  "discography": [
+    {
+      "id": "cinema-3000",
+      "title": "Cinema 3000",
+      "year": 2024,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "/covers/common-saints-cinema-3000.jpg"
+    },
+    {
+      "id": "starchild",
+      "title": "Starchild",
+      "year": 2021,
+      "type": "EP",
+      "trackCount": 5,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-STARCHILD]/front"
+    },
+    {
+      "id": "idol-eyes",
+      "title": "Idol Eyes",
+      "year": 2020,
+      "type": "EP",
+      "trackCount": 5,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-IDOL-EYES]/front"
+    }
+  ]
+}
