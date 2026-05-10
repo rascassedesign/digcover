@@ -1,0 +1,85 @@
+{
+  "id": "charlotte-day-wilson-alpha",
+  "number": "032",
+  "publishedAt": "2026-05-14",
+
+  "artist": {
+    "name": "CHARLOTTE DAY WILSON",
+    "origin": "Toronto, Canada"
+  },
+
+  "featuredAlbum": {
+    "id": "alpha",
+    "title": "Alpha",
+    "year": 2021,
+    "label": "Stone Woman Music",
+    "genres": ["R&B", "Soul", "Neo-Soul"],
+    "trackCount": 11,
+    "type": "Album",
+    "coverUrl": "/covers/charlotte-day-wilson-alpha.jpg"
+  },
+
+  "meta": "2021 · Stone Woman Music · R&B · Soul · Canada",
+
+  "editorial": [
+    "Première fois que j'ai mis Strangers en ouverture, j'ai cru que mon casque déconnait. C'est juste sa voix, des harmonies qui montent et qui retombent, et un kick électronique qui arrive presque en retard. Pas d'intro, pas de mise en place. Tu rentres direct dans la pièce et elle est déjà en train de chanter. Onze morceaux derrière, à peine plus de trente minutes, et cette voix qui prend toute la place.",
+    "Je l’ai découverte l’année dernière, et je l’écoute beaucoup surtout quand j'ai besoin de concentration ou de calme. C'est de la soul lente, du R&B nocturne, mais avec des moments où ça respire autrement : Lovesick Utopia et sa guitare folk en fingerpicking, par exemple, qui sort un peu du décor. Charlotte Day Wilson est de Toronto, elle a sorti l'album en juillet 2021 sur son propre label, Stone Woman Music. Elle produit elle-même, joue plusieurs instruments, et a fait venir BADBADNOTGOOD sur I Can Only Whisper et Syd sur Take Care of You. Tu sens que c'est son disque, pas celui d'une équipe autour d'elle.",
+    "Cet album a cette intimité bizarre, comme si elle chantait dans la pièce d'à côté. Pour démarrer ce long week-end en détente et au calme."
+  ],
+
+  "video": {
+    "youtubeId": "AKXJeoDxeXU",
+    "title": "Keep Moving — Charlotte Day Wilson · 2021"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/1BFl2k9tZL0Jm6ebJHGQ5K?si=gpqaKkFyTJmf-DcFQat9Vg",
+    "appleMusic": "https://music.apple.com/fr/album/alpha/1566276161",
+    "deezer": "https://link.deezer.com/s/33ec3ZtuyxcEOAvAe3cC8",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lejrv0pGZhG5RoUgCrXdiwiqYXZ0UjyTo&si=6mFzn7-r50yoRVHa"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a16472252/Charlotte-Wilson-Day-Alpha-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },                                                                     
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Alpha-Opaque-Vinyl-Wilson-Charlotte/dp/B09MDQ1KL7/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3P0W8JY4CT32W&dib=eyJ2IjoiMSJ9.JaliFdIECKPsYoVpQWbt8VXwB_9YKB3P5sPCCIgg0mc.fDM1RYkqUcg5Z6UcnqxFXn46w-gKPWGKnHnkKcUAno8&dib_tag=se&keywords=alpha+charlotte+day+wilson+vinyle&qid=1778406582&sprefix=alpha+charlotte+day+wilson+vinyl%2Caps%2C218&sr=8-1",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }    
+  ],
+
+  "discography": [
+    {
+      "id": "alpha",
+      "title": "Alpha",
+      "year": 2021,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "/covers/charlotte-day-wilson-alpha.jpg"
+    },
+    {
+      "id": "cyan-blue",
+      "title": "Cyan Blue",
+      "year": 2024,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://coverartarchive.org/release-group/c804cda4-346b-4e67-8700-63879d1f2e25/front"
+    },
+    {
+      "id": "stone-woman",
+      "title": "Stone Woman",
+      "year": 2018,
+      "type": "EP",
+      "trackCount": 6,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-STONE-WOMAN]/front"
+    }
+  ]
+}

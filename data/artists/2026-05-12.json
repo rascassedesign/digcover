@@ -1,0 +1,85 @@
+{
+  "id": "pete-rock-cl-smooth-mecca-and-the-soul-brother",
+  "number": "030",
+  "publishedAt": "2025-05-12",
+
+  "artist": {
+    "name": "PETE ROCK & CL SMOOTH",
+    "origin": "Mount Vernon, New York, États-Unis"
+  },
+
+  "featuredAlbum": {
+    "id": "mecca-and-the-soul-brother",
+    "title": "Mecca and the Soul Brother",
+    "year": 1992,
+    "label": "Elektra",
+    "genres": ["Hip-Hop", "Jazz Rap", "Boom Bap"],
+    "trackCount": 16,
+    "type": "Album",
+    "coverUrl": "/covers/pete-rock-cl-smooth-mecca-and-the-soul-brother.jpg"
+  },
+
+  "meta": "1992 · Elektra · Hip-Hop · Jazz Rap · États-Unis",
+
+  "editorial": [
+    "Sur T.R.O.Y., la basse arrive et le sax de Tom Scott se pose dessus. Tu sais déjà que tu vas le remettre. C'est un de ces beats qui te font hocher la tête tout seul, dans la cuisine, en attendant que l'eau bouille. Pete Rock empile des boucles de soul et de jazz comme si c'était simple, et CL Smooth pose dessus avec une voix qui glisse, jamais pressée, jamais énervée.",
+    "J'y reviens souvent quand j'ai besoin d'un truc qui calme sans endormir. C'est rare, le hip-hop qui fait ça. L'album sort le 9 juin 1992 sur Elektra, deux gamins de Mount Vernon qui débarquent juste après leur EP All Souled Out. Près de 80 minutes, 16 morceaux, et pas un seul que tu zappes. Du pur boom bap qui fait plaisir, un classique du rap US.",
+    "Ce qui frappe avec le recul, c'est à quel point ça n'a pas pris une ride. Les samples respirent, les textes tiennent, le duo fonctionne. Ça te mettra dans un mood smooth pour ce mardi !"
+  ],
+
+  "video": {
+    "youtubeId": "k6mdRv0ZdR8",
+    "title": "They Reminisce Over You (T.R.O.Y.) — Pete Rock & CL Smooth · 1992"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/2AgTKAULjbHpqqtyI53hdp?si=UznW6FIFT_ejUiPwu1jLJw",
+    "appleMusic": "https://music.apple.com/fr/album/mecca-and-the-soul-brother/217508870",
+    "deezer": "https://link.deezer.com/s/33eb7CctD2yzl19efFifn",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mYcg70sLO37de0MRxfpqBKmqWrxCbzKLU&si=dKtOFjnWrBDPOI2y"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a9612867/C-L-Smooth-Mecca-and-The-Soul-Brothers-Vinyle-180-gr-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },                                                                    
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Mecca-Soul-Brother-Pete-Smooth/dp/B01DB7DVXQ/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1IVVG6DHFAGIA&dib=eyJ2IjoiMSJ9.tABrNYLXcKHTFo5jXzAgMg.050MyIGXXYPd3-NvAn21-a8pazoO48ASEBKPwYfUVSs&dib_tag=se&keywords=pete+rock+and+cl+smooth+mecca+vinyle&qid=1778406108&sprefix=pete+rock+and+cl+smooth+mecca+vinyl%2Caps%2C224&sr=8-1",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }      
+  ],
+
+  "discography": [
+    {
+      "id": "mecca-and-the-soul-brother",
+      "title": "Mecca and the Soul Brother",
+      "year": 1992,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "/covers/pete-rock-cl-smooth-mecca-and-the-soul-brother.jpg"
+    },
+    {
+      "id": "the-main-ingredient",
+      "title": "The Main Ingredient",
+      "year": 1994,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "https://coverartarchive.org/release-group/96a1d0c7-719b-334a-9f5a-d6f5698560bc/front"
+    },
+    {
+      "id": "all-souled-out",
+      "title": "All Souled Out",
+      "year": 1991,
+      "type": "EP",
+      "trackCount": 6,
+      "coverUrl": "https://coverartarchive.org/release-group/e4106288-b665-3b53-b219-979652bd72eb/front"
+    }
+  ]
+}

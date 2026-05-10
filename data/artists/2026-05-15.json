@@ -1,0 +1,70 @@
+{
+  "id": "la-cliqua-concu-pour-durer",
+  "number": "033",
+  "publishedAt": "2026-05-15",
+
+  "artist": {
+    "name": "LA CLIQUA",
+    "origin": "Paris, France"
+  },
+
+  "featuredAlbum": {
+    "id": "concu-pour-durer",
+    "title": "Conçu pour durer",
+    "year": 1995,
+    "label": "Arsenal Records",
+    "genres": ["Rap français", "Boom Bap", "Jazz Rap"],
+    "trackCount": 7,
+    "type": "EP",
+    "coverUrl": "/covers/la-cliqua-concu-pour-durer.jpg"
+  },
+
+  "meta": "1995 · Arsenal Records · Rap français · Boom Bap · France",
+
+  "editorial": [
+    "Dans Comme une sarbacane, Rocca pose son premier couplet et tu comprends direct pourquoi le titre a marqué tout le monde. Le beat avance lentement, il y a juste ce qu'il faut de basse, et sa voix s'installe dedans comme si elle avait toujours été là. Tu réécoutes le morceau trois fois de suite sans t'en rendre compte. C'est un EP de sept titres, ça dure une demi-heure, mais 30 minutes de qualité !",
+    "J’ai réécouté récemment en cherchant la sélection de la semaine. C’est un album qui traverse le temps, trente ans après, ça reste parfait. Sorti en juin 95 sur Arsenal Records, le label monté par Chimiste et JR Ewing, c'était leur première grosse sortie collective après le maxi de Daddy Lord C. Chimiste et Lumumba à la prod, le crew autour de la Fourche dans le 18e, et déjà cette sensation d'un truc qui se passe ailleurs que sur les gros labels. Ils sont partis faire la première partie de Mobb Deep à New York dans la foulée, ce qui dit assez bien le niveau.",
+    "Une technique IMPECCABLE. Pas de gras, pas de remplissage, des voix qui savent exactement quoi faire. Pour terminer la semaine avec un classique du rap français."
+  ],
+
+  "video": {
+    "youtubeId": "AgCarGx-jaA",
+    "title": "Comme une Sarbacane — La Cliqua · 1995"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/3dnMFxVEG0OtKm8XuWChBB?si=IvE-K3iUSLy2ROGVYbBRQQ",
+    "appleMusic": "https://music.apple.com/fr/album/con%C3%A7u-pour-durer-feat-daddy-lord-c-rocca/332568524",
+    "deezer": "https://link.deezer.com/s/33ecD0tcj9yOx4BOnsUo2",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nli8xO6e6sPuSt118G-L9JTRJA63tuDss&si=3aV7N94S9CgwFfWb"
+  },
+
+  "vinyl": [],
+
+  "discography": [
+    {
+      "id": "concu-pour-durer",
+      "title": "Conçu pour durer",
+      "year": 1995,
+      "type": "EP",
+      "trackCount": 7,
+      "coverUrl": "/covers/la-cliqua-concu-pour-durer.jpg"
+    },
+    {
+      "id": "la-cliqua",
+      "title": "La Cliqua",
+      "year": 1999,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-LA-CLIQUA-1999]/front"
+    },
+    {
+      "id": "le-vrai-hip-hop",
+      "title": "Le Vrai Hip-Hop",
+      "year": 1996,
+      "type": "Compilation",
+      "trackCount": 14,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-LE-VRAI-HIP-HOP]/front"
+    }
+  ]
+}

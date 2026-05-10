@@ -1,0 +1,83 @@
+{
+  "id": "grian-chatten-chaos-for-the-fly",
+  "number": "031",
+  "publishedAt": "2026-05-13",
+
+  "artist": {
+    "name": "GRIAN CHATTEN",
+    "origin": "Skerries, Dublin, Irlande"
+  },
+
+  "featuredAlbum": {
+    "id": "chaos-for-the-fly",
+    "title": "Chaos for the Fly",
+    "year": 2023,
+    "label": "Partisan Records",
+    "genres": ["Indie Folk", "Chamber Pop", "Singer-Songwriter"],
+    "trackCount": 9,
+    "type": "Album",
+    "coverUrl": "/covers/grian-chatten-chaos-for-the-fly.jpg"
+  },
+
+  "meta": "2023 · Partisan Records · Indie Folk · Chamber Pop · Irlande",
+
+  "editorial": [
+    "L'Irlande à l'honneur aujourd'hui ! On démarre doucement avec l'album solo de Grian Chatten, avant d'attaquer le gros de la discographie des Fontaines D.C., certainement le meilleur groupe de rock et mon préféré de ces dernières années. Bob's Casino démarre, et tu te retrouves direct dans une scène de bord de mer hors saison, un casino vide, une voix qui marmonne plus qu'elle ne chante. Sans le mur de guitares de Fontaines, ça change tout : Grian se met à nu sur des arrangements qui prennent leur temps, des cordes qui arrivent en douce, un piano qui traîne.",
+    "L'album est sorti le 30 juin 2023 sur Partisan, et il a été enregistré en deux semaines seulement avec Dan Carey, le producteur attitré de Fontaines. Deux semaines, c'est rien, et pourtant ça respire de partout. Le titre vient d'une réplique de Morticia Addams, ce qui te donne déjà une idée du genre d'humour noir qui traîne dans les paroles.",
+    "Neuf morceaux, quarante minutes, et tu ressors avec l'impression d'avoir lu un recueil de nouvelles plutôt que d'avoir écouté un disque. On est mercredi, le week-end de l'Ascension arrive, profite de l'atmosphère de Grian pour ralentir un peu."
+  ],
+
+  "video": {
+    "youtubeId": "lU79fE_zelU",
+    "title": "Fairlies — Grian Chatten · 2023"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/7IO2RSWhcIt8Tliya8fCZL?si=6ROjLkbZT4WDNOQrV_yihw",
+    "appleMusic": "https://music.apple.com/fr/album/chaos-for-the-fly/1783175513",
+    "deezer": "https://link.deezer.com/s/33ebtliyuWk93dVMWI5JP",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mDCWTkrP4ViLgfa_TrIa1MgQp-uHM9mZ8&si=6KVF6G5yogd5KpgQ"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a18135098/Grian-Chatten-Chaos-For-The-Fly-Vinyle-album?oref=10bb95b2-0312-c43c-809d-ab4990fcbcfd",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a18135097/Grian-Chatten-Chaos-For-The-Fly-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },                                                                     
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Chaos-Fly-Grian-Chatten/dp/B0C3S9S7C4/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=35T2VRFF0L63X&dib=eyJ2IjoiMSJ9.r9P2feuEBYOr32tI5pJLVg.Ujudg5fxTU-Qe05fBgZi_3uYSjwqZDp1bAQK9PD0seM&dib_tag=se&keywords=grian+chatten+chaos+of+the+fly&qid=1778406327&sprefix=grian+chatten+chaos+of+the+fly+%2Caps%2C233&sr=8-1",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Chaos-Fly-Grian-Chatten/dp/B0C3S7QNTR/ref=tmm_acd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.r9P2feuEBYOr32tI5pJLVg.Ujudg5fxTU-Qe05fBgZi_3uYSjwqZDp1bAQK9PD0seM&qid=1778406327&sr=8-1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }        
+  ],
+
+  "discography": [
+    {
+      "id": "chaos-for-the-fly",
+      "title": "Chaos for the Fly",
+      "year": 2023,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "/covers/grian-chatten-chaos-for-the-fly.jpg"
+    }
+  ]
+}
