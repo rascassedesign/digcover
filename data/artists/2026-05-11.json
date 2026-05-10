@@ -1,0 +1,92 @@
+{
+  "id": "the-smiths-louder-than-bombs",
+  "number": "029",
+  "publishedAt": "2026-05-11",
+
+  "artist": {
+    "name": "THE SMITHS",
+    "origin": "Manchester, Royaume-Uni"
+  },
+
+  "featuredAlbum": {
+    "id": "louder-than-bombs",
+    "title": "Louder Than Bombs",
+    "year": 1987,
+    "label": "Sire / Rough Trade",
+    "genres": ["Indie Pop", "Jangle Pop", "Alternative Rock"],
+    "trackCount": 24,
+    "type": "Album",
+    "coverUrl": "/covers/the-smiths-louder-than-bombs.jpg"
+  },
+
+  "meta": "1987 · Sire / Rough Trade · Indie Pop · Jangle Pop · Royaume-Uni",
+
+  "editorial": [
+    "Tu mets Half a Person et tu te retrouves avec une fille de seize ans et demi qui débarque à Londres avec ses petits problèmes, et tu sais déjà que tu vas la croiser dans ta tête pendant trois jours. C'est ça le truc avec ce disque. Tu crois t'asseoir cinq minutes et puis Shoplifters of the World Unite enchaîne, Sheila Take a Bow derrière, et tu te lèves une heure plus tard sans avoir bougé.",
+    "J’ai découvert les Smiths tard, avec le film 500 Days of Summer (500 jours ensemble en français). Trente ans après tout le monde, donc. Louder Than Bombs est sorti en mars 1987 aux États-Unis sur Sire, une compilation taillée sur mesure pour les fans américains qui n'avaient pas accès aux singles et faces B sortis chez Rough Trade en Angleterre. Vingt-quatre titres, dont Sheila Take a Bow et Shoplifters qui venaient juste de sortir. C'est Morrissey lui-même qui a choisi le titre et la pochette, avec la dramaturge Shelagh Delaney en couverture, celle qui avait inspiré une partie de ses textes.",
+    "Quand ça s'arrête, t'as l'impression d'avoir fait le tour des Smiths en une heure quinze. Et en vrai, non, il te reste leurs quatre albums studio à creuser derrière. Mais c'est une sacrée porte d'entrée. À mettre ce lundi matin pour démarrer la semaine en pente douce."
+  ],
+
+  "video": {
+    "youtubeId": "sLX5Nym9fcs",
+    "title": "Half a Person — The Smiths · Louder Than Bombs, 1987"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/45StnugV9WQMQwk4rRoTy8?si=FxoProkJSGm2AgUMh_EXkw",
+    "appleMusic": "https://music.apple.com/fr/album/louder-than-bombs/802231063",
+    "deezer": "https://link.deezer.com/s/33eaLzHMA4QXqzykIqZob",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nz_J0AuoaIFGhFbmZeDXXU7cEegUkHLvA&si=Kyj4AA0woFzxCtxN"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a4103487/The-Smiths-Louder-than-bombs-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a20974720/The-Smiths-Louder-Than-Bombs-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },                                                                     
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Louder-Than-Bombs-Smiths/dp/B007FGPYTE/ref=sr_1_16?crid=2LYXKR061QEJQ&dib=eyJ2IjoiMSJ9.lbXwXzZNrJzPuU6oLH9oE4IKSkyUPblbrXSjkDdh8kBEbinUV8cde5CbXCBEDrFlNGX8u9i0JfaJqdUEUlPSgEtj7mAAanD5VDWD1MX6mVoHcUTdtWxR-frKQBZYXXq6QKz_Yn4U5KtyRnLuElgKKOaHjKuaBDrwqshhNZafcGSluYwxwKwVlO46UgzIE_7pyUuBq4wqyjESaT_XT555GCxAVhWtrjpE3VwNfOT9tZ8F6DadzqbI2tM5AhME_xrhSpiHBYnKI5suodw8mixOw9NvFRInuphqU9PxBQNOYBI.xHVm6zBwr9kP5ECJSbOszAG_XQW5TSKUhuhFu7ijx0Y&dib_tag=se&keywords=the+smiths+louder+than+bombs&qid=1778405895&sprefix=the+smiths+louder%2Caps%2C231&sr=8-16",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }     
+  ],
+
+  "discography": [
+    {
+      "id": "louder-than-bombs",
+      "title": "Louder Than Bombs",
+      "year": 1987,
+      "type": "Album",
+      "trackCount": 24,
+      "coverUrl": "/covers/the-smiths-louder-than-bombs.jpg"
+    },
+    {
+      "id": "strangeways-here-we-come",
+      "title": "Strangeways, Here We Come",
+      "year": 1987,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/53bcf9cf-db1e-3887-80f5-9f23c87a0f64/front"
+    },
+    {
+      "id": "the-queen-is-dead",
+      "title": "The Queen Is Dead",
+      "year": 1986,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/d8dde278-482c-3cc8-a530-fea70476f3a5/front"
+    }
+  ]
+}
