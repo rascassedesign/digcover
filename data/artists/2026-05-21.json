@@ -1,0 +1,86 @@
+{
+  "id": "davodka-lart-tisant",
+  "number": "037",
+  "publishedAt": "2026-05-21",
+
+  "artist": {
+    "name": "DAVODKA",
+    "origin": "Paris, France"
+  },
+
+  "featuredAlbum": {
+    "id": "lart-tisant",
+    "title": "L'art tisant",
+    "year": 2014,
+    "label": "Davodka (Autoproduit)",
+    "genres": ["Hip Hop", "Rap Français", "Rap Indépendant"],
+    "trackCount": 7,
+    "type": "EP",
+    "coverUrl": "/covers/davodka-lart-tisant.jpg"
+  },
+
+  "meta": "2014 · Indépendant · Hip Hop · Rap Français · France",
+
+  "editorial": [
+    "Le morceau démarre et t'as direct cette voix qui colle au beat comme si elle avait été coulée dedans. Sur Dernière Sommation, Davodka pose avec un débit serré, précis. Les mots tombent pile, les images claquent sans esbroufe. Tu sens un mec qui rappe parce qu'il a des trucs à sortir, pas pour impressionner.",
+    "C’est un rap brut et court. Sept morceaux, dix-neuf minutes, le format parfait pour pas se disperser. L'Art Tisant, c'est un EP sorti le 18 avril 2014, auto-produit par Davodka, rappeur du 18ème à Paris. Il a composé une partie des instrus lui-même, le reste c'est Peyen de son collectif MSD et MSB de L'Uzine qui s'en chargent. Le feat avec Salo sur Mac A Dame apporte un peu d'air, mais globalement c'est un projet solo, direct, sans fioritures.",
+    "Un rap ancré dans le bitume de Montmartre, sombre et agressif. Un jeudi un peu plus agressif !"
+  ],
+
+  "video": {
+    "youtubeId": "UVhKfPbfP0E",
+    "title": "Dernière sommation — Davodka · L'art tisant, 2014"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/4Cqf3HvA1W5VzzrbV8Rfjc?si=rgwDgANCTVyXKmlC_DQkGA",
+    "appleMusic": "https://music.apple.com/fr/album/lart-tisant/854887107",
+    "deezer": "https://link.deezer.com/s/33ieFMRHvA6OrtZk7hxjH",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kYQOL02Z2DYKseD22fGYedHs3l6XqHGZg&si=33vcEXd1NcrBydaw"
+  },
+
+  "vinyl": [],
+
+  "discography": [
+    {
+      "id": "a-juste-titre",
+      "title": "À juste titre",
+      "year": 2019,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-JUSTE-TITRE]/front"
+    },
+    {
+      "id": "accuse-de-reflexion",
+      "title": "Accusé de réflexion",
+      "year": 2017,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-ACCUSE-DE-REFLEXION]/front"
+    },
+    {
+      "id": "mise-au-poing",
+      "title": "Mise au poing",
+      "year": 2015,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-MISE-AU-POING]/front"
+    },
+    {
+      "id": "lart-tisant",
+      "title": "L'art tisant",
+      "year": 2014,
+      "type": "EP",
+      "trackCount": 7,
+      "coverUrl": "/covers/davodka-lart-tisant.jpg"
+    },
+    {
+      "id": "un-poing-cest-tout",
+      "title": "Un poing c'est tout",
+      "year": 2013,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-UN-POING-CEST-TOUT]/front"
+    }
+  ]
+}

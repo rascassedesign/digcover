@@ -1,0 +1,108 @@
+{
+  "id": "j-cole-2014-forest-hills-drive",
+  "number": "038",
+  "publishedAt": "2026-05-22",
+
+  "artist": {
+    "name": "J. COLE",
+    "origin": "Fayetteville, États-Unis"
+  },
+
+  "featuredAlbum": {
+    "id": "2014-forest-hills-drive",
+    "title": "2014 Forest Hills Drive",
+    "year": 2014,
+    "label": "Dreamville / Roc Nation / Columbia",
+    "genres": ["Conscious Hip Hop", "Hip Hop", "Jazz Rap"],
+    "trackCount": 13,
+    "type": "Album",
+    "coverUrl": "/covers/j-cole-2014-forest-hills-drive.jpg"
+  },
+
+  "meta": "2014 · Dreamville · Conscious Hip Hop · Hip Hop · États-Unis",
+
+  "editorial": [
+    "Pas de gros effets, pas de featuring tape-à-l’œil, juste J. Cole qui raconte d'où il vient, avec des beats qu'il a en grande partie produits lui-même. Treize morceaux, zéro invité, et à aucun moment tu te dis que ça manque de quelque chose.",
+    "Un truc honnête, direct, où les histoires sont racontées comme on les raconterait à un pote. Wet Dreamz , 03' Adolescence, c'est du vécu brut. L'album porte le nom de la maison d'enfance de Cole, à Fayetteville, en Caroline du Nord. Il l'a rachetée, il a invité des fans chez lui pour une écoute privée avant la sortie en décembre 2014, et après il l'a transformée en logement gratuit pour des mères célibataires. Le disque et le geste, c'est la même chose au fond : rendre ce qu'on t'a donné.",
+    "Ce qui reste, c'est cette impression de quelqu'un qui n'essaie pas de te convaincre qu'il est le meilleur, il te montre juste d'où il vient. On termine la semaine sur un album de rap complet, prod et flow impeccable pour un bon vendredi."
+  ],
+
+  "video": {
+    "youtubeId": "vHU6ZRQJ50Q",
+    "title": "G.O.M.D. — J. Cole · 2014 Forest Hills Drive, 2014"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/0UMMIkurRUmkruZ3KGBLtG?si=GoIs4EaoSV6k_E3sCMQwUg",
+    "appleMusic": "https://music.apple.com/fr/album/2014-forest-hills-drive-10-year-anniversary-edition/1786468896",
+    "deezer": "https://link.deezer.com/s/33fd2TxrJEvtm3ESmksfr",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kwH_vxs_p3hWAG2CeDhZle5E0FhoP3wrc&si=BTF97CA8ZQLp2G90"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a17732991/J-Cole-2014-Forest-Hills-Drive-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },                                                                            
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/2014-Forest-Hills-Drive-Cole/dp/B0BSXXZ8SG/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=139SF05GAJI0W&dib=eyJ2IjoiMSJ9.BxHCX6croiAy6QbV-dsLC0qNeZycNJ4gdwM1McFw0eoWCI2WwQUaBnSTYMLPI_RH6Veio4TJojIKIkEfunMI1m0N44oV-uNJDyTVzkhEX2TQ0Z5AwCG9MWY-YwSZ9NG8ZoW_QO8lDXlZw_1KkDT2a5Hln4YwVxdDu7GXv2mX-xX49YnZBdy5kkJgyBKa1qLLcl4vH8gDOelbDTJOX2_ru-oA3bA9G-FlUqTc3zdMvXKa3FbENSOfw0lSfYQMf3LGJ41EnmwzHT6cOpzwc9tw7oVy15AAGs3UuBscjQ1HYbo.T5yS2HaZcLp0xMA8UrpfbDR4uG3Ery4ZfpCLclBIfNg&dib_tag=se&keywords=j+cole+2014+forest&qid=1779023841&sprefix=j+cole+2014+fores%2Caps%2C126&sr=8-1",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },  
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/2014-Forest-Hills-Drive-Cole/dp/B0BZXCSMSG/ref=tmm_acd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.BxHCX6croiAy6QbV-dsLC0qNeZycNJ4gdwM1McFw0eoWCI2WwQUaBnSTYMLPI_RH6Veio4TJojIKIkEfunMI1m0N44oV-uNJDyTVzkhEX2TQ0Z5AwCG9MWY-YwSZ9NG8ZoW_QO8lDXlZw_1KkDT2a5Hln4YwVxdDu7GXv2mX-xX49YnZBdy5kkJgyBKa1qLLcl4vH8gDOelbDTJOX2_ru-oA3bA9G-FlUqTc3zdMvXKa3FbENSOfw0lSfYQMf3LGJ41EnmwzHT6cOpzwc9tw7oVy15AAGs3UuBscjQ1HYbo.T5yS2HaZcLp0xMA8UrpfbDR4uG3Ery4ZfpCLclBIfNg&qid=1779023841&sr=8-1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }       
+  ],
+
+  "discography": [
+    {
+      "id": "the-fall-off",
+      "title": "The Fall-Off",
+      "year": 2026,
+      "type": "Album",
+      "trackCount": 24,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-THE-FALL-OFF]/front"
+    },
+    {
+      "id": "the-off-season",
+      "title": "The Off-Season",
+      "year": 2021,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-THE-OFF-SEASON]/front"
+    },
+    {
+      "id": "4-your-eyez-only",
+      "title": "4 Your Eyez Only",
+      "year": 2016,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/acd4faf8-73c4-41f2-906d-e0d014d7e863/front"
+    },
+    {
+      "id": "2014-forest-hills-drive",
+      "title": "2014 Forest Hills Drive",
+      "year": 2014,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "/covers/j-cole-2014-forest-hills-drive.jpg"
+    },
+    {
+      "id": "born-sinner",
+      "title": "Born Sinner",
+      "year": 2013,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "https://coverartarchive.org/release-group/57db9419-f0a0-4060-8003-b7737b9dab4d/front"
+    }
+  ]
+}

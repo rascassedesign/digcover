@@ -1,0 +1,108 @@
+{
+  "id": "gorillaz-the-mountain",
+  "number": "034",
+  "publishedAt": "2026-05-18",
+
+  "artist": {
+    "name": "GORILLAZ",
+    "origin": "Londres, Angleterre"
+  },
+
+  "featuredAlbum": {
+    "id": "the-mountain",
+    "title": "The Mountain",
+    "year": 2026,
+    "label": "Kong",
+    "genres": ["Art Pop", "Trip Hop", "World Music"],
+    "trackCount": 15,
+    "type": "Album",
+    "coverUrl": "/covers/gorillaz-the-mountain.jpg"
+  },
+
+  "meta": "2026 · Kong · Art Pop · Trip Hop · World Music · Angleterre",
+
+  "editorial": [
+    "Tu lances le disque, et dès les premières secondes tu as un instrumental qui sent l'Inde, des cordes qui vibrent, et une voix qui flotte là-dessus. Le sitar prend le relais, et t'es déjà ailleurs. Pas dans un Gorillaz que tu connais. Un autre univers.",
+    "C'est un album sur la mort, Albarn et Hewlett ont chacun perdu leur père avant de partir enregistrer en Inde : Mumbai, Jaipur, Varanasi. Et plutôt que d'en faire un truc sombre, ils ont ramené un disque lumineux, chanté en cinq langues, sorti en février dernier sur leur propre label. Il y a des voix d'artistes qui ne sont plus là, mélangées aux vivants, et c'est ça qui rend le tout aussi étrange que beau. On dirait une conversation entre deux mondes, mais dite avec douceur.",
+    "Il y a quelque chose de solaire là-dedans, même dans les moments les plus lourds. Ça célèbre plus que ça pleure. Pour plonger dans un autre monde et fuir un peu le quotidien du Lundi."
+  ],
+
+  "video": {
+    "youtubeId": "ucRulNQsuYQ",
+    "title": "The Mountain, The Moon Cave and The Sad God — Gorillaz · The Mountain, 2026"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/1RvJmGd47lKS4XMXs9j8hD?si=i-x3RFaWSEO5ny-WRCZl2w",
+    "appleMusic": "https://music.apple.com/fr/album/the-mountain/1837237742",
+    "deezer": "https://link.deezer.com/s/33idhQqGWPGHdxbC8TbJP",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kxotrr0UBs54oag6GEmyYhZHfylB4I3To&si=sfOEoF7M0luAlWwq"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a22024788/Gorillaz-The-Mountain-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a22024756/Gorillaz-The-Mountain-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },                                                                          
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Mountain-Gorillaz/dp/B0FQCN95X3/ref=pd_sbs_d_sccl_1_1/524-9718724-8249428?pd_rd_w=pTzXu&content-id=amzn1.sym.b563ab23-d305-4f7f-aa7b-e77277f3ff20&pf_rd_p=b563ab23-d305-4f7f-aa7b-e77277f3ff20&pf_rd_r=P952MQ9C3PPNYX8P271A&pd_rd_wg=7wpFI&pd_rd_r=348682e4-76ff-4575-aa43-17d17fcdb284&pd_rd_i=B0FQCN95X3&psc=1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }     
+  ],
+
+  "discography": [
+    {
+      "id": "the-mountain",
+      "title": "The Mountain",
+      "year": 2026,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "/covers/gorillaz-the-mountain.jpg"
+    },
+    {
+      "id": "cracker-island",
+      "title": "Cracker Island",
+      "year": 2023,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/160bc106-a0d1-456e-b704-6f91b05dfa04/front"
+    },
+    {
+      "id": "song-machine-season-one-strange-timez",
+      "title": "Song Machine, Season One: Strange Timez",
+      "year": 2020,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/bd8866c2-3d48-4c4e-97d8-442ec2792b40/front"
+    },
+    {
+      "id": "plastic-beach",
+      "title": "Plastic Beach",
+      "year": 2010,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "https://coverartarchive.org/release-group/5a676824-18cd-4f7f-89f0-df21623e2042/front"
+    },
+    {
+      "id": "demon-days",
+      "title": "Demon Days",
+      "year": 2005,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "https://coverartarchive.org/release-group/f959a46a-a136-3134-9412-6572b23fad95/front"
+    }
+  ]
+}

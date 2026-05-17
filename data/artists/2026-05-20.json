@@ -1,0 +1,85 @@
+{
+  "id": "archive-londinium",
+  "number": "036",
+  "publishedAt": "2026-05-20",
+
+  "artist": {
+    "name": "ARCHIVE",
+    "origin": "Londres, Angleterre"
+  },
+
+  "featuredAlbum": {
+    "id": "londinium",
+    "title": "Londinium",
+    "year": 1996,
+    "label": "Island Records",
+    "genres": ["Trip Hop", "Electronica", "Downtempo"],
+    "trackCount": 13,
+    "type": "Album",
+    "coverUrl": "/covers/archive-londinium.jpg"
+  },
+
+  "meta": "1996 · Island Records · Trip Hop · Electronica · Angleterre",
+
+  "editorial": [
+    "Old Artist se lance avec nappe de cordes et tu capte une atmosphère sombre et douce à la fois. C'est lent, c'est un peu froid, ça sent Londres la nuit. Et puis la voix de Roya Arab arrive, posée, presque détachée, et tout prend forme. Tu te retrouves entre un beat électro qui pulse et des arrangements qui pourraient sortir d'une bande originale.",
+    "J'ai découvert ce disque un peu par hasard, bien après sa sortie, dans une période Trip-Hop. Londinium, c'est le premier album d'Archive, sorti en septembre 1996 sur Island Records. Darius Keeler et Danny Griffiths, deux anciens DJs de la scène breakbeat londonienne, avaient monté le projet depuis Croydon, dans le sud de Londres, avec la chanteuse irano-britannique Roya Arab et le rappeur Rosko John. Le truc fou, c'est que le groupe s'est séparé juste après la sortie. Ce disque, c'est un début et une fin en même temps.",
+    "Pas tout à fait du trip-hop de Bristol, mais un truc plus urbain, plus solitaire. Pour ralentir le rythme en milieu de semaine et s’apaiser l’esprit."
+  ],
+
+  "video": {
+    "youtubeId": "I31EoyazCVA",
+    "title": "Nothing Else — Archive · Londinium, 1996"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/6SpDB8znJJGwcuoj2GW1cV?si=Y1eJL1StTAya0_wjS1SSag",
+    "appleMusic": "https://music.apple.com/fr/album/londinium/1443728186",
+    "deezer": "https://link.deezer.com/s/33ieg2ishUGzCzXZP9B60",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kgylVU-At-CHZ4JHrkgVviMlJF40pd9BU&si=poVNosfS96LQGZv7"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a15644674/Archive-Londinium-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },                                                                            
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Londinium-Vinyle-Audiophile-Pochette-Gatefold/dp/B08SFVQ36R/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=6NMW1QYP0XJQ&dib=eyJ2IjoiMSJ9.91UxeEvB31iFBMixh8CtL-_hMtBeyHgJXzhmgaGwwDo.bi_vGXgfZyuYPKEaKWbKcZVzapAmBkRO82xQFuyaCks&dib_tag=se&keywords=archive+londinium&qid=1779023131&s=music&sprefix=archive+londinium%2Cpopular%2C131&sr=1-1",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }      
+  ],
+
+  "discography": [
+    {
+      "id": "londinium",
+      "title": "Londinium",
+      "year": 1996,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "/covers/archive-londinium.jpg"
+    },
+    {
+      "id": "take-my-head",
+      "title": "Take My Head",
+      "year": 1999,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-TAKE-MY-HEAD]/front"
+    },
+    {
+      "id": "you-all-look-the-same-to-me",
+      "title": "You All Look the Same to Me",
+      "year": 2002,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/36ff342d-761e-3b56-aed6-1c3fe1e52cbc/front"
+    }
+  ]
+}
