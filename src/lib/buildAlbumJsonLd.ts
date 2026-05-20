@@ -72,7 +72,6 @@ export function buildAlbumJsonLd(album: AlbumRecord) {
           reviewBody: editorialBody,
           datePublished: f.publishedAt,
           author: { '@type': 'Organization', name: 'DigCover', url: SITE },
-          itemReviewed: { '@type': 'MusicAlbum', name: f.title },
         }
       : undefined,
   };
