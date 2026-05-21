@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { Barlow_Condensed, Hanken_Grotesk } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/react'
+import { GoogleAnalytics } from '@next/third-parties/google'
 import './globals.css'
 
 // ── Fonts chargées côté serveur ─────────────────────────────
@@ -60,6 +61,7 @@ export default function RootLayout({
       <body>
         {children}
         <Analytics />
+        <GoogleAnalytics gaId="G-B6BESP26E8" />
       </body>
     </html>
   )
