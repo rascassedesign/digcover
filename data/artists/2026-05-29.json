@@ -1,0 +1,99 @@
+{
+  "id": "lizzy-mcalpine-older",
+  "number": "043",
+  "publishedAt": "2026-05-29",
+
+  "artist": {
+    "name": "LIZZY MCALPINE",
+    "origin": "Philadelphie, États-Unis"
+  },
+
+  "featuredAlbum": {
+    "id": "older",
+    "title": "Older",
+    "year": 2024,
+    "label": "RCA Records",
+    "genres": ["Indie Folk", "Chamber Pop", "Singer-Songwriter"],
+    "trackCount": 14,
+    "type": "Album",
+    "coverUrl": "/covers/lizzy-mcalpine-older.jpg"
+  },
+
+  "meta": "2024 · RCA Records · Indie Folk · Chamber Pop · États-Unis",
+
+  "editorial": [
+    "La première fois que tu lances Older, Il y a cette voix qui arrive presque à nu, juste un filet de guitare derrière, et tu ressens une fragilité. Fragile comme quelqu'un qui te parle pour de vrai. Lizzy McAlpine chante le fait de grandir, les trucs qui filent, sa mère qui vieillit, et ça te prend sans prévenir.",
+    "J'y suis revenu souvent ces derniers mois, surtout les soirs où t'as besoin de rien de spectaculaire, juste d'un disque qui se pose là avec toi. L'album a été enregistré au Nuffer Ranch, un studio à Pasadena, en fait c'est la maison de Tyler Nuffer. McAlpine avait bossé trois ans sur ce disque, détesté une première version, puis rappelé Mason Stoops et son groupe pour tout reprendre en deux semaines. Le morceau-titre, c'est une troisième prise. Trois essais et c'était bon.",
+    "Après l’écoute, il te reste cette impression de calme sans que rien soit lisse. Chaque morceau a sa petite fêlure, son truc un peu bancal qui sonne juste. Un vendredi soir, lumières basses, téléphone retourné, c'est exactement là que ce disque t’attend."
+  ],
+
+  "video": {
+    "youtubeId": "otw9gf2I0Co",
+    "title": "Older — Lizzy McAlpine · Older, 2024"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/30fIbIvd1AN04FrBt12KhM?si=G06uIPF5ReWc2O2RYM_dUw",
+    "appleMusic": "https://music.apple.com/fr/album/older/1729662067",
+    "deezer": "https://link.deezer.com/s/33lNIlyZgnHtArExkXfku",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_keyhMGX25MKxEXyoA45TB_BDWRRkbuiAg&si=N7q8SExHQ-gWOKpj"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a20307074/Lizzy-McAlpine-Older-Vinyle-album",
+      "format": "Vinyle",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a20307033/Lizzy-McAlpine-Older-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Older-Lizzy-Mcalpine/dp/B0CZTV5Y7M/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1LGR1RSFVKGOY&dib=eyJ2IjoiMSJ9.PDgDcqiB1a26rdCJp2NOd12wQST9YmvFdBLW7-zciZM4K37mkFUpwB6fLFFBxJsUZGO0MxlaacN5-ebV_I9X52E1AehIKmhL7sTnvA6VJ22YuxRnJ8QM20pXuhbHigFBkH_n85w55QxxoJ89HhEQVSoilRG3S9iJjZGaHheUQcqL9e5e39VNT005VYGSMUhqhwa8WQ7tQF2CBJMmzXIhbQTqsWD8MOApXubOEDRNeI1gk0Q662knnV294KtVQaSkwFEehqF5JEVTzJbYq4vpgm7R6pDBm5RN3rpUReVHdNM.cjE2EQkzdzb_6L0kEWsQgkkZxPoNgKSrOXMJyB3qSi4&dib_tag=se&keywords=lizzy+mcalpine+older&qid=1779607951&sprefix=lizzy+mcalpine+older%2Caps%2C160&sr=8-1",
+      "format": "Vinyle",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Older-Lizzy-Mcalpine/dp/B0CZTWRPDV/ref=tmm_acd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.PDgDcqiB1a26rdCJp2NOd12wQST9YmvFdBLW7-zciZM4K37mkFUpwB6fLFFBxJsUZGO0MxlaacN5-ebV_I9X52E1AehIKmhL7sTnvA6VJ22YuxRnJ8QM20pXuhbHigFBkH_n85w55QxxoJ89HhEQVSoilRG3S9iJjZGaHheUQcqL9e5e39VNT005VYGSMUhqhwa8WQ7tQF2CBJMmzXIhbQTqsWD8MOApXubOEDRNeI1gk0Q662knnV294KtVQaSkwFEehqF5JEVTzJbYq4vpgm7R6pDBm5RN3rpUReVHdNM.cjE2EQkzdzb_6L0kEWsQgkkZxPoNgKSrOXMJyB3qSi4&qid=1779607951&sr=8-1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }    
+  ],
+
+  "discography": [
+    {
+      "id": "older",
+      "title": "Older",
+      "year": 2024,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "/covers/lizzy-mcalpine-older.jpg"
+    },
+    {
+      "id": "five-seconds-flat",
+      "title": "five seconds flat",
+      "year": 2022,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "https://coverartarchive.org/release-group/MBID/front"
+    },
+    {
+      "id": "give-me-a-minute",
+      "title": "Give Me a Minute",
+      "year": 2020,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://coverartarchive.org/release-group/MBID/front"
+    }
+  ]
+}

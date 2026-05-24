@@ -1,0 +1,99 @@
+{
+  "id": "the-beatles-sgt-peppers-lonely-hearts-club-band",
+  "number": "040",
+  "publishedAt": "2026-05-26",
+
+  "artist": {
+    "name": "THE BEATLES",
+    "origin": "Liverpool, Royaume-Uni"
+  },
+
+  "featuredAlbum": {
+    "id": "sgt-peppers-lonely-hearts-club-band",
+    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+    "year": 1967,
+    "label": "Parlophone",
+    "genres": ["Rock", "Psychedelic Rock", "Art Rock"],
+    "trackCount": 13,
+    "type": "Album",
+    "coverUrl": "/covers/the-beatles-sgt-peppers-lonely-hearts-club-band.jpg"
+  },
+
+  "meta": "1967 · Parlophone · Rock · Psychedelic Rock · Royaume-Uni",
+
+  "editorial": [
+    "Le premier accord de guitare de Sgt. Pepper's te tombe dessus comme une porte de saloon. Un groupe fictif qui se présente, des cuivres, du bruit, et d'un coup tu es ailleurs. Avant même d'avoir compris le concept, t'es déjà assis dans la salle en train d'écouter With a Little Help from My Friends, et Ringo chante faux avec tellement de conviction que ça te serre un peu le cœur.",
+    "Ce qui me fascine à chaque réécoute, c'est la densité du son. Et quand tu apprends que tout ça a été enregistré sur 4 pistes ! Le 8 pistes n'existait même pas encore dans les studios londoniens en 67, tu comprends pas comment c'est possible. George Martin et l'ingé son Geoff Emerick passaient leur temps à réduire des pistes sur d'autres, à superposer, à bricoler. 400 heures de studio à Abbey Road entre fin 66 et avril 67, pour 39 minutes de musique. Le premier album des Beatles, Please Please Me, avait été bouclé en une journée. Quatre ans plus tard, ils faisaient ça.",
+    "Un disque que tout le monde connaît mais qui surprend encore. Mets-le ce soir en rentrant, un mardi où t'as pas envie de parler à personne. Juste le casque et les 39 minutes."
+  ],
+
+  "video": {
+    "youtubeId": "usNsCeOV4GM",
+    "title": "A Day in the Life — The Beatles · Sgt. Pepper's Lonely Hearts Club Band, 1967"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/6QaVfG1pHYl1z15ZxkvVDW?si=adqsXNoaRYKchO1rJOaKxw",
+    "appleMusic": "https://music.apple.com/fr/album/sgt-peppers-lonely-hearts-club-band/1441164604",
+    "deezer": "https://link.deezer.com/s/33lNAjdiM2lBiiVZ2cBZP",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kx7E82d6vaFm76vkXtcvzr89qsh8zaqEs&si=z7AflrGWfxDw6z4J"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a11149965/The-Beatles-Sgt-Pepper-s-Lonely-Hearts-Club-Band-Edition-limitee-Vinyle-album",
+      "format": "Vinyle",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a10571518/The-Beatles-Sgt-Pepper-s-Lonely-Hearts-Club-Band-Anniversary-Edition-Deluxe-Digipack-CD-album?oref=00000000-0000-0000-0000-000000000000",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/PepperS-Lonely-Hearts-vinyle-Tirage/dp/B076W8Y6BB/ref=tmm_vnl_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.hkHgWixK44-SUFLuygVte3XR5XC9qK94M0zzESujCQy9FicrCkUn4tPidi8A-ceVueT0xsHvnnFLtlnxH-t3gdavpJHuKF8HNw9CSSP12_IB0qpg0N55pIXUB10kwwmp90yVOXVCIlQtLxlaKykvEQ.u7MSaF9uDRz0ogRcBZQ7rGXHzitjHSY8iDG2IPXkA90&qid=1779607331&sr=8-1",
+      "format": "Vinyle",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Sgt-Peppers-Lonely-Hearts-Club/dp/B06X6MJGB7/ref=tmm_acd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.hkHgWixK44-SUFLuygVte3XR5XC9qK94M0zzESujCQy9FicrCkUn4tPidi8A-ceVueT0xsHvnnFLtlnxH-t3gdavpJHuKF8HNw9CSSP12_IB0qpg0N55pIXUB10kwwmp90yVOXVCIlQtLxlaKykvEQ.u7MSaF9uDRz0ogRcBZQ7rGXHzitjHSY8iDG2IPXkA90&qid=1779607331&sr=8-1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }    
+  ],
+
+  "discography": [
+    {
+      "id": "sgt-peppers-lonely-hearts-club-band",
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "year": 1967,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "/covers/the-beatles-sgt-peppers-lonely-hearts-club-band.jpg"
+    },
+    {
+      "id": "revolver",
+      "title": "Revolver",
+      "year": 1966,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://coverartarchive.org/release-group/MBID/front"
+    },
+    {
+      "id": "abbey-road",
+      "title": "Abbey Road",
+      "year": 1969,
+      "type": "Album",
+      "trackCount": 17,
+      "coverUrl": "https://coverartarchive.org/release-group/MBID/front"
+    }
+  ]
+}

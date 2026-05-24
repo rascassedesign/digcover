@@ -1,0 +1,85 @@
+{
+  "id": "the-ojays-back-stabbers",
+  "number": "039",
+  "publishedAt": "2026-05-25",
+
+  "artist": {
+    "name": "THE O'JAYS",
+    "origin": "Canton, États-Unis"
+  },
+
+  "featuredAlbum": {
+    "id": "back-stabbers",
+    "title": "Back Stabbers",
+    "year": 1972,
+    "label": "Philadelphia International Records",
+    "genres": ["Soul", "Funk", "Philadelphia Soul"],
+    "trackCount": 10,
+    "type": "Album",
+    "coverUrl": "/covers/the-ojays-back-stabbers.jpg"
+  },
+
+  "meta": "1972 · Philadelphia International Records · Soul · Funk · États-Unis",
+
+  "editorial": [
+    "Dès le morceau-titre, ça te saute dessus. La basse claque, les cordes grincent, et Eddie Levert te balance ses histoires de faux amis avec une rage froide. Il y a zéro douceur là-dedans. Même quand ça groove, et ça groove tout le temps, t'entends que le fond du propos est dur. Shiftless, Shady, Jealous Kind of People, rien que le titre te dit où t'es. C'est de la soul, ouais, mais une soul qui serre les dents.",
+    "Le trio vient de Canton, Ohio, dans les années 60 ils ont failli signer chez Motown, ils ont même enregistré à Detroit avec des musiciens des Funk Brothers. Mais c'est Gamble & Huff qui les ont récupérés, et en 1972, aux Sigma Sound Studios de Philadelphie, ils ont sorti ce disque qui a tout changé pour tout le monde. Premier vrai carton du groupe, premier coup d'éclat de Philadelphia International Records.",
+    "Et puis Il y a Love Train qui débarque en fin d'album, et c'est presque chelou tellement ça tranche avec le reste. Mais ça marche. Le genre de disque à lancer un lundi matin pour attaquer la semaine avec du nerf."
+  ],
+
+  "video": {
+    "youtubeId": "UCY6flzgfA4",
+    "title": "Back Stabbers — The O'Jays · Back Stabbers, 1972"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/09jTPeDoSuJLLAwFGNUKCX?si=3HplI3cpQ26v4fyvcuG00A",
+    "appleMusic": "https://music.apple.com/fr/album/back-stabbers/169937819",
+    "deezer": "https://link.deezer.com/s/33lNqtmUHJHG2sXeDVy5v",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_m7DWSd355AXde-cGi-t_guVhOMUQD65Fo&si=e9h4ZptLKjGC4lOK"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a12911559/The-O-Jays-Back-Stabbers-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Back-Stabbers-USA-OJays/dp/B00160ANKK/ref=sr_1_1_mod_primary_new?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=V3PIAT36OR85&dib=eyJ2IjoiMSJ9.-DTkXPGkxttb-vmYKTSzh5rrDoWjbECUbqeogWKh6ExAHKHnIJ-v8mbOBClcFZk4aLrnJlmTfrlV0gpp92PD3Y3-s_kvHJhUSGrG6byzQ41xzNwXDMDL_jQcXyifSvAEWWs-nSc-bh8nCrOYuL3XwR1RRygAcCXvLDl2xfgEe7GEg2f65p0x7V5t2xLcXZP4k0XJQYO0jvBtCWDgWy-5LJh2HhGSSV7P4C9pUKqBMPJ2jwijgR9yQ8m_JBENbV28p4FQx9HxEWzyKGELMk_hIcuVC-FYrh0psjIkZx3IApQ.Bqf5kFb4h1bXIoSCyjWfTvAzH22v-zeaDrEM_GJZyMo&dib_tag=se&keywords=the+o+jays+back+stabbers&qid=1779607142&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=the+o+jays+back+stabbers%2Caps%2C158&sr=8-1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+
+  "discography": [
+    {
+      "id": "back-stabbers",
+      "title": "Back Stabbers",
+      "year": 1972,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "/covers/the-ojays-back-stabbers.jpg"
+    },
+    {
+      "id": "ship-ahoy",
+      "title": "Ship Ahoy",
+      "year": 1973,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "https://coverartarchive.org/release-group/MBID/front"
+    },
+    {
+      "id": "family-reunion",
+      "title": "Family Reunion",
+      "year": 1975,
+      "type": "Album",
+      "trackCount": 8,
+      "coverUrl": "https://coverartarchive.org/release-group/MBID/front"
+    }
+  ]
+}

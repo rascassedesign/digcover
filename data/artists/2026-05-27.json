@@ -1,0 +1,99 @@
+{
+  "id": "jungle-volcano",
+  "number": "041",
+  "publishedAt": "2026-05-27",
+
+  "artist": {
+    "name": "JUNGLE",
+    "origin": "Londres, Royaume-Uni"
+  },
+
+  "featuredAlbum": {
+    "id": "volcano",
+    "title": "Volcano",
+    "year": 2023,
+    "label": "Caiola Records",
+    "genres": ["Nu-Disco", "Neo Soul", "Funk"],
+    "trackCount": 14,
+    "type": "Album",
+    "coverUrl": "/covers/jungle-volcano.jpg"
+  },
+
+  "meta": "2023 · Caiola Records · Nu-Disco · Neo Soul · Royaume-Uni",
+
+  "editorial": [
+    "La première fois que j'ai lancé Us Against the World, l'intro m'a pris par surprise. Une basse lourde, des nappes qui montent, et d'un coup t'es dedans. Pas le temps de réfléchir. Jungle fait ça très bien : te coller un groove dans les jambes avant même que tu aies compris ce qui se passe. Et sur tout l'album, ça ne lâche pas. Ça glisse d'un morceau à l'autre, comme un DJ set où personne ne coupe la musique.",
+    "J'y reviens à chaque début d'été, c'est presque un réflexe maintenant. Le genre de disque que tu mets en fond et qui finit par prendre toute la place. Le truc fou, c'est que Josh et Tom ont commencé à écrire ces morceaux en tournée, puis ont posé les bases dans un Airbnb à Los Angeles avant de finir le tout au Studio B de Metropolis, à Londres. Et puis Back on 74 a explosé sur TikTok quelques mois après la sortie, en emmenant le reste du disque avec. Comme quoi, parfois un album met du temps à trouver son public.",
+    "Cet album dégage cette chaleur un peu floue, entre funk et disco, qui donne envie de rien d'autre que de rester là. Pile le genre de disque à lancer un mercredi soir, quand la semaine commence à lâcher et que t'as juste besoin d'un truc qui fait du bien."
+  ],
+
+  "video": {
+    "youtubeId": "mPSt74adFnQ",
+    "title": "Back on 74 — Jungle · Volcano, 2023"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/5xnXOCf5aZgZ43DgGN4EDv?si=k9F5w-1lRluSBkaj5FHW8Q",
+    "appleMusic": "https://music.apple.com/fr/album/volcano/1676151993",
+    "deezer": "https://link.deezer.com/s/33lNCVwWYiBFengsUPaEm",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_ne__lPKtRB8_utuYU0FJYpGnogAdpLvFs&si=_lkknE19ovfQfZra"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a17964346/Jungle-Volcano-Vinyle-album",
+      "format": "Vinyle",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a17964305/Jungle-Volcano-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Volcano-Jungle/dp/B0BZJTDXXQ/ref=sr_1_1?crid=1C4QRB3SPJ4UY&dib=eyJ2IjoiMSJ9.qKFJTEO-8_N5xEjjNZfg_WIWP2dzEfm6k_fHJ5JB9kVBPz7wPkzb0j7qP-j5FH2CNmYSKbWOBWEhDLjnR84j9g.iCtFXMve8Cn1SLOMZ0d5HRWAc4RoZnbQx2age9cI1eI&dib_tag=se&keywords=jungle+volcano+vinyl&qid=1779607531&sprefix=jungle+volcano+%2Caps%2C154&sr=8-1",
+      "format": "Vinyle",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Volcano-Jungle/dp/B0BZJSLDS3/ref=tmm_acd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.qKFJTEO-8_N5xEjjNZfg_WIWP2dzEfm6k_fHJ5JB9kVBPz7wPkzb0j7qP-j5FH2CNmYSKbWOBWEhDLjnR84j9g.iCtFXMve8Cn1SLOMZ0d5HRWAc4RoZnbQx2age9cI1eI&qid=1779607531&sr=8-1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }    
+  ],
+
+  "discography": [
+    {
+      "id": "volcano",
+      "title": "Volcano",
+      "year": 2023,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "/covers/jungle-volcano.jpg"
+    },
+    {
+      "id": "loving-in-stereo",
+      "title": "Loving in Stereo",
+      "year": 2021,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://coverartarchive.org/release-group/MBID/front"
+    },
+    {
+      "id": "for-ever",
+      "title": "For Ever",
+      "year": 2018,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://coverartarchive.org/release-group/MBID/front"
+    }
+  ]
+}

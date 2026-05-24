@@ -1,0 +1,106 @@
+{
+  "id": "kaleo-mixed-emotions",
+  "number": "042",
+  "publishedAt": "2026-05-28",
+
+  "artist": {
+    "name": "KALEO",
+    "origin": "Mosfellsbær, Islande"
+  },
+
+  "featuredAlbum": {
+    "id": "mixed-emotions",
+    "title": "Mixed Emotions",
+    "year": 2025,
+    "label": "Atlantic Records",
+    "genres": ["Blues Rock", "Rock", "Folk Rock"],
+    "trackCount": 10,
+    "type": "Album",
+    "coverUrl": "/covers/kaleo-mixed-emotions.jpg"
+  },
+
+  "meta": "2025 · Atlantic Records · Blues Rock · Rock · Islande",
+
+  "editorial": [
+    "Bloodline démarre et t'as cette guitare qui grince comme un vieux plancher, et puis la voix de JJ Julius Son qui arrive par en-dessous, rauque, un peu cassée. Ça sonne comme un truc qui traîne depuis longtemps dans une pièce sombre et qui sort enfin à l'air libre. Les trois premiers morceaux cognent fort, du blues rock sale et direct.",
+    "Il va du coup de poing au murmure sans que ça sonne forcé. L'enregistrement a commencé en mars 2023 au Blackbird Studio à Nashville, produit par Eddie Spear : le gars derrière les disques de Zach Bryan et co-produit par JJ lui-même avec Shawn Everett. Le tout calé entre deux ans de tournée non-stop. Tu sens ce truc d'un groupe qui décharge tout ce qu'il a accumulé sur la route, morceau après morceau, jusqu'à cette berceuse islandaise en fin de disque qui te cueille sans prévenir.",
+    "Mets-le ce jeudi, quand t'as besoin de quelque chose qui cogne."
+  ],
+
+  "video": {
+    "youtubeId": "VWhqExrSGUw",
+    "title": "Rock N Roller — KALEO · Mixed Emotions, 2025"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/2fbZbR42v9wRJ8aojApy5Z?si=DepGsE1wRAuG-7ljRGROTw",
+    "appleMusic": "https://music.apple.com/fr/album/mixed-emotions/1796458036",
+    "deezer": "https://link.deezer.com/s/33lNEKtD632SnAie1iz1i",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nBN6ZRbDJHIxJRp4j4WWzJnpBJmXQpVv4&si=nX2vo0nP6iPL590A"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21337958/Kaleo-Mixed-Emotions-Edition-Limitee-Exclusivite-Fnac-Vinyle-Bleu-Marbre-Vinyle-album",
+      "format": "Vinyle marbré bleu/blanc",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21337957/Kaleo-Mixed-Emotions-Vinyle-Bleu-Marbre-Vinyle-album",
+      "format": "Vinyle marbré bleu/noir",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a20738773/MIXED-EMOTIONS-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },    
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Mixed-Emotions-Kaleo/dp/B00008EPWI/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=XRZQL61J616C&dib=eyJ2IjoiMSJ9.gLNPjIMf5gb1YIKnetS5Ngi2_qjXTMvRsrUUZ3k6f84.JvZhQ1z_99Xq0ZihOkY61w-qacRQGoxqjb5ff21vejM&dib_tag=se&keywords=kaleo+mixed+emotions+vinyle&qid=1779607775&sprefix=kaleo+mixed+emotions+vinyle%2Caps%2C144&sr=8-1",
+      "format": "Vinyle marbré bleu/noir",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Mixed-Emotions-Kaleo/dp/B0DXL9FQH9/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=39GUHAIFJTLZ4&dib=eyJ2IjoiMSJ9.mhT_scm2GjBsiqSMaqARZxjdHINitSr3Ho7H3_m95eg.uLt4kXu9O3Mulef-ynf6hnrOlUYUE9-H7mj667vMs2s&dib_tag=se&keywords=kaleo+mixed+emotions+cd&qid=1779607873&sprefix=kaleo+mixed+emotions+c%2Caps%2C151&sr=8-1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }    
+  ],
+
+  "discography": [
+    {
+      "id": "mixed-emotions",
+      "title": "Mixed Emotions",
+      "year": 2025,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "/covers/kaleo-mixed-emotions.jpg"
+    },
+    {
+      "id": "surface-sounds",
+      "title": "Surface Sounds",
+      "year": 2021,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://coverartarchive.org/release-group/MBID/front"
+    },
+    {
+      "id": "a-b",
+      "title": "A/B",
+      "year": 2016,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://coverartarchive.org/release-group/MBID/front"
+    }
+  ]
+}
