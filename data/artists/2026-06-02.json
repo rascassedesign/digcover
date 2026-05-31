@@ -1,0 +1,107 @@
+{
+  "id": "dire-straits-dire-straits",
+  "number": "045",
+  "publishedAt": "2026-06-02",
+
+  "artist": {
+    "name": "DIRE STRAITS",
+    "origin": "Londres, Royaume-Uni"
+  },
+
+  "featuredAlbum": {
+    "id": "dire-straits",
+    "title": "Dire Straits",
+    "year": 1978,
+    "label": "Vertigo",
+    "genres": ["Blues Rock", "Pub Rock", "Roots Rock"],
+    "trackCount": 9,
+    "type": "Album",
+    "coverUrl": "/covers/dire-straits-dire-straits.jpg"
+  },
+
+  "meta": "1978 · Vertigo · Blues Rock · Pub Rock · Royaume-Uni",
+
+  "editorial": [
+    "On part sur du Classico-classique aujourd’hui ! L’album éponyme de Dire Straits ! Le truc qui frappe direct, c'est la guitare. Claire, nette, pas une once de saturation. Mark Knopfler joue aux doigts, le médiator c’est pour les mauvais : chaque note sonne ronde, posée, comme si elle prenait son temps. Pendant qu'en 1978 le punk gueulait partout, eux débarquent en parlant doucement et des riffs à l’envolée. Tu mets Sultans of Swing et tu comprends pourquoi les gens se sont arrêtés pour écouter ces quatre-là.",
+    "Le départ du groupe est d'ailleurs assez ouf : au début, Sultans of Swing n'était qu'une démo. Un DJ de la BBC, Charlie Gillett, l'a passée à la radio, et c'est ce qui a tout lancé. Derrière, le disque a été enregistré en février 78 à Basing Street, à Londres, avec Muff Winwood à la production : le frère de Steve Winwood. Tout est sorti vite, sans chichi.",
+    "Cet album donne une impression de simplicité qui n'a pas vieilli. Rien ne force, rien n'en fait trop. Juste un groupe qui joue bien, et qui te le rappelle à chaque écoute. Pour continuer la semaine en douceur, sans te mettre la pression."
+  ],
+
+  "video": {
+    "youtubeId": "xqnbmIDtNW0",
+    "title": "Down The Waterline — Dire Straits · Dire Straits, 1978"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/2rCS6Xwx32V27pvgFzLzlT?si=8cVENqVTT2S7BKU3an2__A",
+    "appleMusic": "https://music.apple.com/fr/album/dire-straits-remastered/1440801714",
+    "deezer": "https://link.deezer.com/s/33pKmJayl1GqHA8xTU6eo",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nTaZkl4XWgXm23DMuAVRmxetjvXCfvexw&si=3w_S-C3a7ENFEcCu"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a7126330/Dire-Straits-Dire-Straits-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a15912287/Dire-Straits-Dire-Straits-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Dire-Straits/dp/B00JDVX4J6/ref=sr_1_13?crid=2ZB1SKH24W8C6&dib=eyJ2IjoiMSJ9.phX3pTTyexHTxeupB_QJUNwZh1snssT52OEnH0Da_HsAON9H8J8DUT7h7v2oPwKsCOSjA2kjiSp-rjgEiRhgB_ct27WdTHr-JrDppreSXV4ZrgK-hZ_3mG4NEyLkxuf0YojlrG1XZzsqju0hD2h0--97o5R_idbQDSFZFoHho0UlGbYwQ_eCEHJqhoDBrGSBBY3ZMSwB505TgmmbAQbRSki4JJbnWB5FlEQHLSp07U_S-AUM-yaZVByKAqNaERPHdCf4NvR2Y9_1YQ2Lrh64Lyqep_xA0bQsHIHcIj7HlhE.tRfeBdCncgDMMPAOdDnYnPV_BQeLCx61FBbtRAjo_pg&dib_tag=se&keywords=dire+straits+dire+straits&qid=1780244745&sprefix=dire+straits+dire+stra%2Caps%2C162&sr=8-13",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Dire-Straits/dp/B00000INM1/ref=tmm_acd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.phX3pTTyexHTxeupB_QJUNwZh1snssT52OEnH0Da_HsAON9H8J8DUT7h7v2oPwKsCOSjA2kjiSp-rjgEiRhgB_ct27WdTHr-JrDppreSXV4ZrgK-hZ_3mG4NEyLkxuf0YojlrG1XZzsqju0hD2h0--97o5R_idbQDSFZFoHho0UlGbYwQ_eCEHJqhoDBrGSBBY3ZMSwB505TgmmbAQbRSki4JJbnWB5FlEQHLSp07U_S-AUM-yaZVByKAqNaERPHdCf4NvR2Y9_1YQ2Lrh64Lyqep_xA0bQsHIHcIj7HlhE.tRfeBdCncgDMMPAOdDnYnPV_BQeLCx61FBbtRAjo_pg&qid=1780244745&sr=8-13",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }     
+  ],
+
+  "discography": [
+    {
+      "id": "brothers-in-arms",
+      "title": "Brothers in Arms",
+      "year": 1985,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "https://coverartarchive.org/release-group/cc06e808-f923-4a50-b7fc-d4d5d6976aa3/front"
+    },
+    {
+      "id": "making-movies",
+      "title": "Making Movies",
+      "year": 1980,
+      "type": "Album",
+      "trackCount": 7,
+      "coverUrl": "https://coverartarchive.org/release-group/5b0a15ce-8aa9-323b-8fb6-02b657756ba9/front"
+    },
+    {
+      "id": "communique",
+      "title": "Communiqué",
+      "year": 1979,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "https://coverartarchive.org/release-group/7e1ada24-6fb0-3b23-a671-9cdaf865c515/front"
+    },
+    {
+      "id": "dire-straits",
+      "title": "Dire Straits",
+      "year": 1978,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "/covers/dire-straits-dire-straits.jpg"
+    }
+  ]
+}

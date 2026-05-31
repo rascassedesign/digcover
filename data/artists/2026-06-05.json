@@ -1,0 +1,78 @@
+{
+  "id": "soft-play-take-control",
+  "number": "048",
+  "publishedAt": "2026-06-05",
+
+  "artist": {
+    "name": "SOFT PLAY",
+    "origin": "Tunbridge Wells, Royaume-Uni"
+  },
+
+  "featuredAlbum": {
+    "id": "take-control",
+    "title": "Take Control",
+    "year": 2016,
+    "label": "Virgin EMI",
+    "genres": ["Punk Rock", "Post-Punk", "Garage Punk"],
+    "trackCount": 16,
+    "type": "Album",
+    "coverUrl": "/covers/soft-play-take-control.jpg"
+  },
+
+  "meta": "2016 · Virgin EMI · Punk Rock · Post-Punk · Royaume-Uni",
+
+  "editorial": [
+    "Deux mecs, une batterie, une guitare, et un boucan qui te rentre dedans dès la première seconde. Pas d'intro, pas de mise en jambes. Ça gueule, ça cogne, c'est court, c'est direct. Soft Play, qui s'appelait encore Slaves à l’époque, fait du punk rock bien sale. Tu lances Spit It Out et t'as l'impression que quelqu'un t'a attrapé par le col.",
+    "Là c'est sale, c'est rapide, ça défoule. Et le détail que j'adore : c'est Mike D, oui, celui des Beastie Boys, qui a produit le disque. C'est lui qui a demandé à bosser avec eux, après qu'un pote lui ait passé leur premier album. Du coup les deux gars du Kent sont partis l'enregistrer en Californie, à Santa Monica, au soleil, pour pondre le truc le plus crade possible. Mike D rappe même sur un morceau.",
+    "C'est de l'énergie pure. Quarante minutes qui filent, avec au milieu une chanson de 44 secondes qui répète juste fuck the hi-hat, comme ça, pour le plaisir. C'est pas subtil, et c'est pas censé l'être. T'as juste envie de monter le son et de tout casser."
+  ],
+
+  "video": {
+    "youtubeId": "jEoQSDFRK8g",
+    "title": "Hypnotised — Soft Play · Take Control, 2016"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/0fErWusPc0l3B0TCClnnuo?si=qncaOJHTS5SuTQiKcXZkgQ",
+    "appleMusic": "https://music.apple.com/fr/album/take-control/1440900988",
+    "deezer": "https://link.deezer.com/s/33pKAumCrQnEqej6MWQgS",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lFaphT-uZOJ8nECV7L-RZBgG2J4EfGZss&si=mE04_IkGuYU_lFVv"
+  },
+
+  "vinyl": [],
+
+  "discography": [
+    {
+      "id": "heavy-jelly",
+      "title": "Heavy Jelly",
+      "year": 2024,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-SOFT-PLAY-HEAVY-JELLY]/front"
+    },
+    {
+      "id": "acts-of-fear-and-love",
+      "title": "Acts of Fear and Love",
+      "year": 2018,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-SLAVES-ACTS-OF-FEAR-AND-LOVE]/front"
+    },
+    {
+      "id": "take-control",
+      "title": "Take Control",
+      "year": 2016,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "/covers/soft-play-take-control.jpg"
+    },
+    {
+      "id": "are-you-satisfied",
+      "title": "Are You Satisfied?",
+      "year": 2015,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-SLAVES-ARE-YOU-SATISFIED]/front"
+    }
+  ]
+}

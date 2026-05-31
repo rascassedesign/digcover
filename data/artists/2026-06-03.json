@@ -1,0 +1,78 @@
+{
+  "id": "royel-otis-sofa-kings",
+  "number": "046",
+  "publishedAt": "2026-06-03",
+
+  "artist": {
+    "name": "ROYEL OTIS",
+    "origin": "Sydney, Australie"
+  },
+
+  "featuredAlbum": {
+    "id": "sofa-kings",
+    "title": "Sofa Kings",
+    "year": 2023,
+    "label": "Ourness / House Anxiety",
+    "genres": ["Indie Pop", "Synth-Pop", "Alternative Pop"],
+    "trackCount": 7,
+    "type": "EP",
+    "coverUrl": "/covers/royel-otis-sofa-kings.jpg"
+  },
+
+  "meta": "2023 · Ourness · Indie Pop · Synth-Pop · Australie",
+
+  "editorial": [
+    "Tu le mets un matin sans grande ambition et trois minutes plus tard tu hoches la tête sans t'en rendre compte. Sept titres, vingt minutes, c'est déjà plié. Mais entre-temps Royel Otis t'a refilé deux ou trois refrains qui restent collés pour la journée. Des chansons courtes, qui filent, jamais une note de trop. Tu relances direct, parce que c'est passé trop vite.",
+    "Moi je suis tombé dessus par Going Kokomo, un de ces morceaux que t'entends sans savoir d'où il sort et en fait il s'est retrouvé dans la bande-son du jeu de foot d'EA, ce qui explique sûrement pourquoi il me disait quelque chose. Le duo vient de Sydney : deux gars, Royel et Otis, qui se sont croisés via des démos envoyées en 2019. Sofa Kings est sorti en mars 2023, juste avant que tout décolle pour eux. On entend un peu les Drums, un peu de Phoenix, cette pop à guitares qui sait être douce-amère sans jamais plomber l'ambiance.",
+    "Ce qui reste, c'est la légèreté. Pas la version creuse, celle qui fait du bien un jour un peu gris. Et le dernier morceau ralentit d'un coup, presque mélancolique, et referme tout ça en beauté. Le genre de truc à mettre fenêtres ouvertes, ce mercredi de juin où le soleil tient plus que ses promesses !"
+  ],
+
+  "video": {
+    "youtubeId": "qlcfgoTRtUQ",
+    "title": "Sofa King — Royel Otis · Sofa Kings, 2023"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/6qKsVbDuX5sKB4OTqkNc0C?si=1KZQCRmiTEuNY-woiPvIXQ",
+    "appleMusic": "https://music.apple.com/fr/album/sofa-kings/1663518487",
+    "deezer": "https://link.deezer.com/s/33pKrItwnO3FHy3ikkxMK",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lX8hrfTxwB_uDdTdrq6EnD5TnpELdKlUI&si=uLjLs71hp81z34u1"
+  },
+
+  "vinyl": [],
+
+  "discography": [
+    {
+      "id": "hickey",
+      "title": "Hickey",
+      "year": 2025,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-ROYEL-OTIS-HICKEY]/front"
+    },
+    {
+      "id": "pratts-and-pain",
+      "title": "Pratts & Pain",
+      "year": 2024,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-ROYEL-OTIS-PRATTS-AND-PAIN]/front"
+    },
+    {
+      "id": "sofa-kings",
+      "title": "Sofa Kings",
+      "year": 2023,
+      "type": "EP",
+      "trackCount": 7,
+      "coverUrl": "/covers/royel-otis-sofa-kings.jpg"
+    },
+    {
+      "id": "bar-n-grill",
+      "title": "Bar N Grill",
+      "year": 2022,
+      "type": "EP",
+      "trackCount": 6,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-ROYEL-OTIS-BAR-N-GRILL]/front"
+    }
+  ]
+}

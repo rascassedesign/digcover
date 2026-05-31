@@ -1,0 +1,78 @@
+{
+  "id": "le-bon-nob-ptit-con",
+  "number": "047",
+  "publishedAt": "2026-06-04",
+
+  "artist": {
+    "name": "LE BON NOB",
+    "origin": "France"
+  },
+
+  "featuredAlbum": {
+    "id": "ptit-con",
+    "title": "P'tit con",
+    "year": 2017,
+    "label": "Antipodes Music",
+    "genres": ["Rap Français", "Hip-Hop", "Rap Conscient"],
+    "trackCount": 15,
+    "type": "Album",
+    "coverUrl": "/covers/le-bon-nob-ptit-con.jpg"
+  },
+
+  "meta": "2017 · Antipodes Music · Rap Français · Hip-Hop · France",
+
+  "editorial": [
+    "Du rap qui parle posé, des prods qui prennent leur temps. Et puis le morceau-titre arrive. Un mec qui regarde le p'tit con qu'il a été, sans se la jouer, sans faire le malin. Là tu te dis : attends, il raconte un truc, en fait. Et tu reviens en arrière pour réécouter ce que t'avais zappé.",
+    "Le Bon Nob est un rappeur que je suis depuis trèèèèèèèès longtemps. Le Bon Nob, c'est un rappeur parisien qui a accumulé les freestyles pendant des années et c’est comme ça que je suis tombé sur ce rappeur de génie. P'tit con, c'est sorti en février 2017 chez Antipodes Music, et le truc cool : il l'a financé en partie grâce à ses auditeurs, sur une cagnotte en ligne.",
+    "Un type qui pose des constats sans te faire la leçon. Un rappeur qui mérite d'être mainstream, tellement sa plume et son flow sont fous ! T'as qu'à voir le Planète Rap où il pose : personne n'a envie de passer derrière lui. Parfait pour lancer ton jeudi."
+  ],
+
+  "video": {
+    "youtubeId": "nYi9N39hL-c",
+    "title": "P'tit con — Le Bon Nob · P'tit con, 2017"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/2GnwQ0TNIuF03WfCKTCR6X?si=2kYuuZDbSDuYay9nE3y4PQ",
+    "appleMusic": "https://music.apple.com/fr/album/ptit-con/1179113331",
+    "deezer": "https://link.deezer.com/s/33pKvS04Tg2wXwsRbjlDq",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kckgeXaOlC8B88JWsqpZZLtUSj-G0hDbE&si=56yu0kBkQzWdpNa1"
+  },
+
+  "vinyl": [],
+
+  "discography": [
+    {
+      "id": "karma",
+      "title": "Karma",
+      "year": 2024,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-LE-BON-NOB-KARMA]/front"
+    },
+    {
+      "id": "positif",
+      "title": "Positif",
+      "year": 2023,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-LE-BON-NOB-POSITIF]/front"
+    },
+    {
+      "id": "ptit-con",
+      "title": "P'tit con",
+      "year": 2017,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "/covers/le-bon-nob-ptit-con.jpg"
+    },
+    {
+      "id": "lart-murit",
+      "title": "L'Art Mûrit",
+      "year": 2012,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-NOB-ET-JIM-LART-MURIT]/front"
+    }
+  ]
+}

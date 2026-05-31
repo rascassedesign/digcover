@@ -1,0 +1,70 @@
+{
+  "id": "natsudaidai-chew",
+  "number": "044",
+  "publishedAt": "2026-06-01",
+
+  "artist": {
+    "name": "NATSUDAIDAI",
+    "origin": "Tokyo, Japon"
+  },
+
+  "featuredAlbum": {
+    "id": "chew",
+    "title": "CHEW",
+    "year": 2025,
+    "label": "Natsudaidai",
+    "genres": ["City Pop", "Jazz Funk", "Pop"],
+    "trackCount": 5,
+    "type": "EP",
+    "coverUrl": "/covers/natsudaidai-chew.jpg"
+  },
+
+  "meta": "2025 · Natsudaidai · City Pop · Jazz Funk · Japon",
+
+  "editorial": [
+    "Quinze minutes, cinq titres, et déjà t'as le sourire un peu con. Ça démarre, ça groove, Il y a un côté jazz-funk qui pulse et ça sent le printemps et la flemme. Pas un disque qui te demande de t'asseoir et d'écouter religieusement, plutôt le genre que tu lances en te préparant le matin et qui te suit dans la pièce. C'est léger, c'est carré, ça tient sur la durée d'un café et tu le remets juste après.",
+    "J’ai découvert ce duo il ya pas longtemps sur les réseaux, Natsudaidai c'est un duo japonais, sorti au printemps 2025 : une voix d'un côté, les prods de l'autre, et tu sens qu'ils s'amusent vraiment. Le morceau que je préfère sur cet EP, c'est le dernier une reprise d'un vieux tube city pop des années 80 qu'ils retournent en version dansante, presque house. Ça boucle l'EP sur une note à la fois nostalgique et fraîche, et franchement ça marche super bien.",
+    "Ce disque, c'est la bonne humeur, simple. Rien de profond, et c'est exactement ça. Pour démarrer ce mois de juin sur du son qui sent bon le soleil."
+  ],
+
+  "video": {
+    "youtubeId": "t3u_pxt8B74",
+    "title": "Escape Plan — Natsudaidai · CHEW, 2025"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/67zJvL4Ha3BxfsV3cTCsQb?si=gAF3rozfRsaBEvovUQ-FXA",
+    "appleMusic": "https://music.apple.com/fr/album/chew-ep/1802144842",
+    "deezer": "https://link.deezer.com/s/33pK5bvRvyPYdDiebvKCg",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kzgWEQDbmYw_xu8BiJds_pPsHAWItnfVw&si=WrId_KPesLpsoYR4"
+  },
+
+  "vinyl": [],
+
+  "discography": [
+    {
+      "id": "chew",
+      "title": "CHEW",
+      "year": 2025,
+      "type": "EP",
+      "trackCount": 5,
+      "coverUrl": "/covers/natsudaidai-chew.jpg"
+    },
+    {
+      "id": "shirau-white-rain",
+      "title": "白雨 (White Rain)",
+      "year": 2025,
+      "type": "Single",
+      "trackCount": 1,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-NATSUDAIDAI-WHITE-RAIN]/front"
+    },
+    {
+      "id": "fresh-and-vegetables",
+      "title": "Fresh and Vegetables",
+      "year": 2024,
+      "type": "EP",
+      "trackCount": 5,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-NATSUDAIDAI-FRESH-AND-VEGETABLES]/front"
+    }
+  ]
+}
