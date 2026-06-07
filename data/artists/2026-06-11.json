@@ -1,0 +1,80 @@
+{
+  "id": "the-everywheres-the-everywheres",
+  "number": "052",
+  "publishedAt": "2026-06-11",
+  "artist": {
+    "name": "THE EVERYWHERES",
+    "origin": "Halifax, Canada"
+  },
+  
+  "featuredAlbum": {
+    "id": "the-everywheres",
+    "title": "The Everywheres",
+    "year": 2013,
+    "label": "Father/Daughter Records",
+    "genres": [
+      "Psych-pop",
+      "Indie rock",
+      "Dream pop"
+    ],
+    "trackCount": 8,
+    "type": "Album",
+    "coverUrl": "/covers/the-everywheres-the-everywheres.jpg"
+  },
+
+  "meta": "2013 · Father/Daughter Records · Psych-pop · Indie · Canada",
+
+  "editorial": [
+    "Avec son album éponyme The Everywheres, le groupe canadien livre une œuvre lumineuse et intemporelle qui puise autant dans le folk psychédélique que dans la pop indépendante. Paru en 2013, ce premier album dévoile un univers chaleureux, porté par des mélodies aériennes et une écriture empreinte d’évasion. Dès les premières pistes, le quatuor originaire de l’Île-du-Prince-Édouard installe une atmosphère douce et contemplative, où chaque chanson semble inviter à prendre le large. Entre harmonies vocales soignées et arrangements délicats, The Everywheres séduit par sa sincérité et sa simplicité apparente.",
+    "L’une des grandes qualités de cet album réside dans sa capacité à créer des paysages sonores riches sans jamais tomber dans la surcharge. Les influences folk, rock et psychédéliques s’entremêlent avec naturel, donnant naissance à des compositions à la fois accessibles et raffinées. Les guitares scintillantes, les rythmes souples et les chœurs enveloppants participent à cette sensation de liberté qui traverse l’ensemble du disque. Chaque morceau semble raconter une histoire, évoquer un souvenir ou capturer un instant suspendu dans le temps.",
+    "Plus d’une décennie après sa sortie, The Everywheres conserve tout son charme et sa fraîcheur. C’est un album qui s’écoute comme une parenthèse hors du tumulte quotidien, une invitation à ralentir et à se laisser porter. En ce jeudi, alors que la semaine avance vers son dernier virage, il offre une bouffée d’air frais idéale pour retrouver un peu de légèreté et d’évasion avant le week-end."
+  ],
+
+  "video": {
+    "youtubeId": "30rp5yqnnvQ",
+    "title": "Someone Disappeared — The Everywheres · The Everywheres, 2013"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/1VvIOLWDzEOZqnxCormtBA?si=QPsdEjXbThuczed8c9djbw",
+    "appleMusic": "https://music.apple.com/fr/album/the-everywheres/1520395690",
+    "deezer": "https://link.deezer.com/s/33tOiAyeyPDzHfMiVU9Sd",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_khWKxww09qq0W4Ta0h8tbEyzNk99G4LSI&si=v81IUSKudSDL3rOT"
+  },
+  "vinyl": [],
+
+  "discography": [
+    {
+      "id": "the-everywheres",
+      "title": "The Everywheres",
+      "year": 2013,
+      "type": "Album",
+      "trackCount": 8,
+      "coverUrl": "/covers/the-everywheres-the-everywheres.jpg"
+    },
+    {
+      "id": "dignity-fever",
+      "title": "Dignity Fever",
+      "year": 2016,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-THE-EVERYWHERES-DIGNITY-FEVER]/front"
+    },
+    {
+      "id": "habitualism",
+      "title": "Habitualism",
+      "year": 2014,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-THE-EVERYWHERES-HABITUALISM]/front"
+    },
+    {
+      "id": "slow-friends",
+      "title": "Slow Friends",
+      "year": 2013,
+      "type": "Album",
+      "trackCount": 8,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-THE-EVERYWHERES-SLOW-FRIENDS]/front"
+    }
+  ]
+}

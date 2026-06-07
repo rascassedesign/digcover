@@ -1,0 +1,89 @@
+{
+  "id": "melanie-de-biasio-no-deal",
+  "number": "050",
+  "publishedAt": "2026-06-09",
+  "artist": {
+    "name": "MÉLANIE DE BIASIO",
+    "origin": "Charleroi, Belgique"
+  },
+
+  "featuredAlbum": {
+    "id": "no-deal",
+    "title": "No Deal",
+    "year": 2013,
+    "label": "[PIAS]",
+    "genres": [
+      "Jazz",
+      "Vocal jazz",
+      "Trip-hop"
+    ],
+    "trackCount": 7,
+    "type": "Album",
+    "coverUrl": "/covers/melanie-de-biasio-no-deal.jpg"
+  },
+
+  "meta": "2013 · [PIAS] · Jazz · Trip-hop · Belgique",
+
+  "editorial": [
+    "Avec No Deal, paru en 2013, Mélanie De Biasio signe un album d’une rare intensité, à la croisée du jazz, du blues et de la soul contemporaine. La chanteuse et flûtiste belge y développe un univers minimaliste et envoûtant, où chaque silence semble aussi important que chaque note. Dès les premiers instants, l’auditeur est happé par une atmosphère nocturne, intime et profondément cinématographique. Loin des démonstrations techniques, l’artiste privilégie l’émotion brute et la tension dramatique, offrant une expérience d’écoute singulière.",
+    "Porté par des compositions épurées et une production d’une remarquable sobriété, No Deal se distingue par sa capacité à captiver sans jamais hausser le ton. La voix grave et magnétique de Mélanie De Biasio guide des morceaux hypnotiques comme I Feel You ou The Flow, où le temps semble suspendu. Chaque titre évolue avec lenteur et précision, laissant émerger des paysages sonores riches en nuances. Cette maîtrise de l’espace et de la retenue confère à l’album une profondeur rare dans la production contemporaine.",
+    "Plus d’une décennie après sa sortie, No Deal conserve intact son pouvoir de fascination. Véritable invitation à l’introspection, cet album s’écoute comme un voyage intérieur, entre ombre et lumière. En ce mardi, alors que la semaine prend son rythme de croisière, il offre une parenthèse précieuse, un moment de calme et de contemplation dans le tumulte du quotidien."
+  ],
+
+  "video": {
+    "youtubeId": "Scq-WkeMlG0",
+    "title": "The Flow (Live) — Mélanie De Biasio · No Deal, 2013"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/31TRq7aHgbYVYnjfo90DiK?si=bnrYOzdfQYiHTCcVzlNFxw",
+    "appleMusic": "https://music.apple.com/fr/album/no-deal/718286560",
+    "deezer": "https://link.deezer.com/s/33tObGKi5k5OxKtdeTz1I",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nP4z04INPhz3b1BdjPQTCO9pxcu8Gcx5w&si=zyC91_jMulbssxRl"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/No-Deal-Melanie-Biasio/dp/B00F65N31C/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=4Q3QSDB449BO&dib=eyJ2IjoiMSJ9.P7hTK_p2Wc-9mz7WZyO2zTpAqXRYdzKPFDpafJwUwNfGjHj071QN20LucGBJIEps.aAomTJHVwzjEFDQKLnRGdgLoUjlD3MVPrNHqNbzSAxU&dib_tag=se&keywords=melanie+de+biasio+no+deal+vinyl&qid=1780857248&sprefix=melanie+de+biasio+no+deal+vinyl%2Caps%2C193&sr=8-1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }     
+  ],
+
+  "discography": [
+    {
+      "id": "no-deal",
+      "title": "No Deal",
+      "year": 2013,
+      "type": "Album",
+      "trackCount": 7,
+      "coverUrl": "/covers/melanie-de-biasio-no-deal.jpg"
+    },
+    {
+      "id": "lilies",
+      "title": "Lilies",
+      "year": 2017,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-MELANIE-DE-BIASIO-LILIES]/front"
+    },
+    {
+      "id": "blackened-cities",
+      "title": "Blackened Cities",
+      "year": 2016,
+      "type": "EP",
+      "trackCount": 1,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-MELANIE-DE-BIASIO-BLACKENED-CITIES]/front"
+    },
+    {
+      "id": "a-stomach-is-burning",
+      "title": "A Stomach Is Burning",
+      "year": 2007,
+      "type": "Album",
+      "trackCount": 8,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-MELANIE-DE-BIASIO-A-STOMACH-IS-BURNING]/front"
+    }
+  ]
+}

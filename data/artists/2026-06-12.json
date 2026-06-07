@@ -1,0 +1,102 @@
+{
+  "id": "fonky-family-si-dieu-veut",
+  "number": "053",
+  "publishedAt": "2026-06-12",
+  "artist": {
+    "name": "FONKY FAMILY",
+    "origin": "Marseille, France"
+  },
+
+  "featuredAlbum": {
+    "id": "si-dieu-veut",
+    "title": "Si Dieu veut…",
+    "year": 1997,
+    "label": "Côté Obscur",
+    "genres": [
+      "Rap français",
+      "Hip-hop",
+      "Rap marseillais"
+    ],
+    "trackCount": 20,
+    "type": "Album",
+    "coverUrl": "/covers/fonky-family-si-dieu-veut.jpg"
+  },
+
+  "meta": "1997 · Côté Obscur · Rap français · Rap marseillais · France",
+
+  "editorial": [
+    "Paru en 1998, Si Dieu veut... demeure l’un des albums majeurs de l’histoire du rap français. Avec ce premier album studio, la Fonky Family impose son identité et son ancrage marseillais à travers des textes incisifs, des productions percutantes et une authenticité qui marquera durablement toute une génération. Porté par les voix complémentaires de ses différents MCs, le groupe livre un témoignage brut sur le quotidien, les inégalités sociales et les espoirs d’une jeunesse en quête de reconnaissance. Plus qu’un simple disque de rap, Si Dieu veut... s’affirme comme une véritable photographie de son époque.",
+    "La force de l’album réside dans son équilibre entre réalisme social et puissance musicale. Des titres devenus emblématiques révèlent une écriture dense, nourrie d’observations lucides et d’une profonde sincérité. Les productions, influencées par le hip-hop américain tout en affirmant une identité locale forte, offrent un écrin idéal à des textes qui refusent les artifices. La Fonky Family y développe une vision collective du rap, où chaque intervention enrichit le propos et renforce l’impact des morceaux.",
+    "Près de trente ans après sa sortie, Si Dieu veut... reste une référence incontournable du rap hexagonal. Son influence se retrouve encore aujourd’hui chez de nombreux artistes qui revendiquent son héritage. En ce vendredi, alors que la semaine touche à sa fin, cet album rappelle la force d’une parole engagée et l’importance de rester fidèle à ses convictions, une manière idéale d’aborder le week-end avec énergie et lucidité."
+  ],
+
+  "video": {
+    "youtubeId": "lhnmbCW93yw",
+    "title": "Sans rémission — Fonky Family · Si Dieu veut…, 1997"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/7faOppIh2FNdRrHjhXw7ql?si=UJYfCnbkQDW5PPisLSTYOg",
+    "appleMusic": "https://music.apple.com/fr/album/si-dieu-veut/253645836",
+    "deezer": "https://link.deezer.com/s/33tOlyxmgwjjSjZJ6goM1",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mvLZ8dG3U3LL1ofVawQlhyyS7GAHjLEwg&si=0GSCPJ6jZLqF2OW_"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a10670598/Fonky-Family-Si-Dieu-Veut-Vinyle-Rouge-Opaque-Vinyle-album",
+      "format": "Vinyle Rouge Opaque",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a717697/Fonky-Family-Si-Dieu-veut-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Si-Dieu-Veut-Multi-Artistes/dp/B06XWNHVLB/ref=sr_1_1?crid=VSVPHN56XKN6&dib=eyJ2IjoiMSJ9.y71Z08FTXF8u8RZPEkXKyA.PEfRhWyq4N_ISGxoUGkHdR37G6yEH5ARBuvvJCGKLyA&dib_tag=se&keywords=fonky+family+si+dieu+veut+vinyle&qid=1780857902&sprefix=fonky+family+si+dieu+veu%2Caps%2C188&sr=8-1",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Si-Dieu-veut-Fonky-Family/dp/B000026S8S/ref=tmm_acd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.y71Z08FTXF8u8RZPEkXKyA.PEfRhWyq4N_ISGxoUGkHdR37G6yEH5ARBuvvJCGKLyA&qid=1780857902&sr=8-1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    } 
+  ],
+
+  "discography": [
+    {
+      "id": "si-dieu-veut",
+      "title": "Si Dieu veut…",
+      "year": 1997,
+      "type": "Album",
+      "trackCount": 20,
+      "coverUrl": "/covers/fonky-family-si-dieu-veut.jpg"
+    },
+    {
+      "id": "marginale-musique",
+      "title": "Marginale Musique",
+      "year": 2006,
+      "type": "Album",
+      "trackCount": 20,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-FONKY-FAMILY-MARGINALE-MUSIQUE]/front"
+    },
+    {
+      "id": "art-de-rue",
+      "title": "Art de rue",
+      "year": 2001,
+      "type": "Album",
+      "trackCount": 17,
+      "coverUrl": "https://coverartarchive.org/release-group/232142b9-e42a-3160-bf9d-10cb00a772a5/front"
+    }
+  ]
+}

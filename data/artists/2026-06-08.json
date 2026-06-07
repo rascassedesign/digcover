@@ -1,0 +1,110 @@
+{
+  "id": "cymande-cymande",
+  "number": "049",
+  "publishedAt": "2026-06-08",
+  "artist": {
+    "name": "CYMANDE",
+    "origin": "Londres, Angleterre"
+  },
+
+  "featuredAlbum": {
+    "id": "cymande",
+    "title": "Cymande",
+    "year": 1972,
+    "label": "Janus Records",
+    "genres": [
+      "Funk",
+      "Soul",
+      "Jazz fusion"
+    ],
+    "trackCount": 9,
+    "type": "Album",
+    "coverUrl": "/covers/cymande-cymande.jpg"
+  },
+
+  "meta": "1972 · Janus Records · Funk · Soul · Royaume-Uni",
+
+  "editorial": [
+    "Paru en 1972, Cymande est bien plus qu’un premier album : c’est une déclaration d’identité musicale. Formé à Londres par des musiciens d’origine caribéenne, le groupe Cymande propose une fusion audacieuse entre funk, soul, jazz, rock et rythmes afro-caribéens. Dès les premières notes, l’album séduit par son groove organique et son approche collective de la musique, où chaque instrument trouve sa place avec une remarquable fluidité. Dans un paysage musical alors en pleine mutation, Cymande s’impose comme une œuvre singulière, libre des conventions et profondément ancrée dans le métissage culturel.",
+    "Ce qui frappe encore aujourd’hui, c’est la modernité du son. Des titres comme Bra, The Message ou Dove dégagent une énergie à la fois chaleureuse et spirituelle. Les lignes de basse hypnotiques, les percussions inspirées des traditions africaines et caribéennes ainsi que les harmonies vocales créent une atmosphère unique. Loin de rechercher l’effet spectaculaire, le groupe privilégie la profondeur et le ressenti. Cette authenticité explique pourquoi l’album a traversé les décennies et influencé de nombreux artistes, notamment dans le hip-hop, où ses morceaux ont été largement samplés.",
+    "Plus de cinquante ans après sa sortie, Cymande demeure une référence incontournable pour les amateurs de musique noire et de fusion. Son héritage dépasse largement son succès commercial initial, relativement discret à l’époque. En redécouvrant cet album fondateur, on mesure à quel point Cymande avait une longueur d’avance. Entre engagement, spiritualité et sens du groove, Cymande reste un disque intemporel qui continue d’inspirer et de rassembler les générations de mélomanes. En ce lundi, jour idéal pour débuter la semaine avec une dose d’inspiration musicale, cet album s’impose comme une écoute essentielle, capable de transmettre son énergie positive et son message d’unité avec une étonnante fraîcheur."
+  ],
+
+  "video": {
+    "youtubeId": "bPhb30PXd4I",
+    "title": "The Message — Cymande · Cymande, 1972"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/06vHyS1KFTcMIyxKzuRAbK?si=FSGdFUMKT5etCYkmqhq-zA",
+    "appleMusic": "https://music.apple.com/fr/album/cymande/1783165176",
+    "deezer": "https://link.deezer.com/s/33tO8TlTdxWlJ3YoNeUIS",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nb0aOEH5rV2kQxkpgYSzpaLKT891BCx0w&si=HlXvVi9Vja58J2q4"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a19638765/Cymande-Cymande-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21774342/Cymande-Cymande-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Cymande/dp/B0CTRYCQX6/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=109C5K8948HWV&dib=eyJ2IjoiMSJ9.vWCfbQLDN5eSBPDL6OL_t61lAbgaSKzJVow6FuADD8HjndBKha37sFX6OUbJXlb1Z4rE9Z1xvj6k-s4Vvr9EDPmVvA_KpixOTCiC3gfkRCte5wHSx47I07wlfIhDB8MOpAznEFg9XjFrzoRY-k9Jj0N93AsBKD96bSuitKAjy1PipfMS6I6-_UP8xhRQpNWqsUrkRERvxvW1ONIJveHrhto4q8u7S4PfcDwHuBVsiUdqLs1CsWbgky3AxxGJn1dFCI003X2BNQ75v8bMWkM7ooPAze1FdXpX70oJQampi6g.OreXiD7tZnJKJK0GKaeyehL5gOyTD5BlthCN8bIB0zY&dib_tag=se&keywords=cymande+cymande&qid=1780856944&sprefix=cymande+cymande%2Caps%2C203&sr=8-1&ufe=app_do%3Aamzn1.fos.bb6ea7e0-0ef7-4fc8-9adc-4bf1477881dd",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Cymande/dp/B0CTRYCQX6/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=109C5K8948HWV&dib=eyJ2IjoiMSJ9.vWCfbQLDN5eSBPDL6OL_t61lAbgaSKzJVow6FuADD8HjndBKha37sFX6OUbJXlb1Z4rE9Z1xvj6k-s4Vvr9EDPmVvA_KpixOTCiC3gfkRCte5wHSx47I07wlfIhDB8MOpAznEFg9XjFrzoRY-k9Jj0N93AsBKD96bSuitKAjy1PipfMS6I6-_UP8xhRQpNWqsUrkRERvxvW1ONIJveHrhto4q8u7S4PfcDwHuBVsiUdqLs1CsWbgky3AxxGJn1dFCI003X2BNQ75v8bMWkM7ooPAze1FdXpX70oJQampi6g.OreXiD7tZnJKJK0GKaeyehL5gOyTD5BlthCN8bIB0zY&dib_tag=se&keywords=cymande+cymande&qid=1780856944&sprefix=cymande+cymande%2Caps%2C203&sr=8-1&ufe=app_do%3Aamzn1.fos.bb6ea7e0-0ef7-4fc8-9adc-4bf1477881dd",
+      "format": "Vinyle Orange",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }    
+  ],
+
+  "discography": [
+    {
+      "id": "cymande",
+      "title": "Cymande",
+      "year": 1972,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "/covers/cymande-cymande.jpg"
+    },
+    {
+      "id": "renascence",
+      "title": "Renascence",
+      "year": 2025,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-CYMANDE-RENASCENCE]/front"
+    },
+    {
+      "id": "promised-heights",
+      "title": "Promised Heights",
+      "year": 1974,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-CYMANDE-PROMISED-HEIGHTS]/front"
+    },
+    {
+      "id": "second-time-round",
+      "title": "Second Time Round",
+      "year": 1973,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-CYMANDE-SECOND-TIME-ROUND]/front"
+    }
+  ]
+}

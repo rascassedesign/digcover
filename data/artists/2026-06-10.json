@@ -1,0 +1,88 @@
+{
+  "id": "kae-tempest-let-them-eat-chaos",
+  "number": "051",
+  "publishedAt": "2026-06-10",
+  "artist": {
+    "name": "KAE TEMPEST",
+    "origin": "Londres, Angleterre"
+  },
+
+  "featuredAlbum": {
+    "id": "let-them-eat-chaos",
+    "title": "Let Them Eat Chaos",
+    "year": 2016,
+    "label": "Fiction Records",
+    "genres": [
+      "Spoken word",
+      "Hip-hop politique",
+      "Électronique"
+    ],
+    "trackCount": 13,
+    "type": "Album",
+    "coverUrl": "/covers/kae-tempest-let-them-eat-chaos.jpg"
+  },
+
+  "meta": "2016 · Fiction Records · Spoken word · Hip-hop · Royaume-Uni",
+
+  "editorial": [
+    "Avec Let Them Eat Chaos, paru en 2016, Kae Tempest livre une œuvre puissante et profondément ancrée dans les réalités contemporaines. Entre spoken word, hip-hop, électronique et poésie, l’artiste britannique construit un récit ambitieux qui explore les fractures sociales, la solitude urbaine et les liens invisibles qui unissent les individus. Pensé comme un album-concept, le disque suit plusieurs personnages éveillés à 4h18 du matin dans une ville en proie à ses contradictions. Dès les premiers morceaux, Kae Tempest impose une écriture incisive et une vision artistique d’une rare cohérence.",
+    "La force de Let Them Eat Chaos réside dans sa capacité à mêler l’intime et le politique. Les textes, portés par un phrasé intense et habité, dressent le portrait d’une société fragmentée où l’isolement côtoie le besoin vital de connexion humaine. Les productions électroniques, souvent sombres et atmosphériques, renforcent la tension narrative de l’ensemble. Chaque titre participe à une fresque moderne où les préoccupations individuelles deviennent le reflet de questionnements collectifs plus larges. L’album touche autant par sa lucidité que par l’espoir discret qui traverse ses différentes histoires.",
+    "Dix ans après sa sortie, Let Them Eat Chaos conserve une résonance remarquable. Son regard sur les défis de la vie moderne demeure d’une actualité saisissante. En ce mercredi, au cœur de la semaine, cet album invite à ralentir un instant pour observer le monde qui nous entoure, écouter les voix qui le composent et réfléchir aux liens qui nous rassemblent malgré nos différences."
+  ],
+
+  "video": {
+    "youtubeId": "QSVyyykaEOo",
+    "title": "Europe Is Lost — Kae Tempest · Let Them Eat Chaos, 2016"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/0GFFA00qYUKQ3sMMmOb6Y5?si=nkRHjBMbQgixtkCaNpNAsw",
+    "appleMusic": "https://music.apple.com/fr/album/let-them-eat-chaos/1440864829",
+    "deezer": "https://link.deezer.com/s/33tOexqdV3hFbS0typDFJ",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nNhbzFdxVI3AErB3sYPxjKpred5MKJAIg&si=OARqCISRv4ECctsS"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a17327533/Kae-Tempest-Let-Them-Eat-Chaos-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    }  
+  ],
+
+  "discography": [
+    {
+      "id": "let-them-eat-chaos",
+      "title": "Let Them Eat Chaos",
+      "year": 2016,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "/covers/kae-tempest-let-them-eat-chaos.jpg"
+    },
+    {
+      "id": "the-line-is-a-curve",
+      "title": "The Line Is a Curve",
+      "year": 2022,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-KAE-TEMPEST-THE-LINE-IS-A-CURVE]/front"
+    },
+    {
+      "id": "the-book-of-traps-and-lessons",
+      "title": "The Book of Traps and Lessons",
+      "year": 2019,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-KAE-TEMPEST-THE-BOOK-OF-TRAPS-AND-LESSONS]/front"
+    },
+    {
+      "id": "everybody-down",
+      "title": "Everybody Down",
+      "year": 2014,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-KAE-TEMPEST-EVERYBODY-DOWN]/front"
+    }
+  ]
+}
