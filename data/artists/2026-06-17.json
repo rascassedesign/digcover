@@ -1,0 +1,63 @@
+{
+  "id": "lossapardo-if-i-were-to-paint-it",
+  "number": "056",
+  "publishedAt": "2026-06-17",
+
+  "artist": {
+    "name": "LOSSAPARDO",
+    "origin": "Torcy, France"
+  },
+
+  "featuredAlbum": {
+    "id": "if-i-were-to-paint-it",
+    "title": "If I Were To Paint It",
+    "year": 2024,
+    "label": "Roche Musique",
+    "genres": ["R&B", "Soul", "Pop"],
+    "trackCount": 11,
+    "type": "Album",
+    "coverUrl": "/covers/lossapardo-if-i-were-to-paint-it.jpg"
+  },
+
+  "meta": "2024 · Roche Musique · R&B · Soul · France",
+
+  "editorial": [
+    "Avec If I Were To Paint It, Lossapardo propose une œuvre délicate et immersive qui s’inscrit dans la tradition des songwriters indépendants les plus inspirés. L’artiste portugais y déploie un univers sensible, où folk, pop alternative et arrangements subtils se rencontrent avec élégance. Dès les premières notes, l’album invite à une écoute attentive, presque contemplative, laissant toute la place aux émotions et aux nuances.",
+    "La force du disque réside dans sa capacité à transformer des instants ordinaires en paysages sonores évocateurs. Les compositions avancent avec douceur, portées par une écriture introspective et une interprétation empreinte de sincérité. Chaque morceau semble fonctionner comme une esquisse, un tableau sonore où les souvenirs, les doutes et les aspirations prennent progressivement forme. Cette approche confère à l’ensemble une cohérence rare et une véritable profondeur émotionnelle.",
+    "À une époque où tout semble aller toujours plus vite, If I Were To Paint It choisit la retenue et la patience. L’album se découvre progressivement, révélant de nouvelles subtilités à chaque écoute. Une œuvre discrète mais précieuse, qui rappelle que les émotions les plus durables sont souvent celles exprimées avec le plus de simplicité. En ce mercredi, au cœur de la semaine, ce disque constitue une parenthèse bienvenue, invitant à ralentir le tempo et à prendre le temps d’apprécier les nuances du quotidien."
+  ],
+
+  "video": {
+    "youtubeId": "DCmgG0E_pSA",
+    "title": "This Place — Lossapardo · If I Were To Paint It, 2024"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/36IwLvOKJgyicDSaxyxw18?si=iyXuqhFfR9-BnLxXzrOWRg",
+    "appleMusic": "https://music.apple.com/fr/album/if-i-were-to-paint-it-instrumentals/1781681441",
+    "deezer": "https://link.deezer.com/s/33xGrLEAO8W20Qw6Dbjaa",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_npZ6jKU6ErjmItFx1LW19Wvpb3L3orvdk&si=1zaZRFoipKFEvqh0"
+  },
+
+  "vinyl": [
+
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/If-I-Where-Paint-Booklet/dp/B0D63G4678/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1A32H8ZDQ1TAY&dib=eyJ2IjoiMSJ9.XRRKQchFX3XJb88aO-tthsSgiYly_2Vpl9o3d0uF6Jx8-hlzb2t58E4xqE1hpGqUZlR-6pMtBdvRz07g0kzHlWrpFccDKgGuleKWal7lGKoAP4sI6csWvnofFBmYsH1qsFghieRd8Ce91w11Kw3DjDcWQWS5nXp8n_uiAf6vVcSO74V6MFq0Jq8u0LxH3Xl7JPbCbPcLX1YDxxY4BlE1f9zfD9fFCl2EMte11-vymO0ce8IEy6av4Wrmh-gujQRSF1K9QbgSDBrxPq2TDpM4Tp0TxQJ8tWfRvI_jL9fXLnw.bDoDHM49ja8k2XMO69RWKM5t0vpNeOpMC8vogHgF0-4&dib_tag=se&keywords=lossapardo&qid=1781367759&sprefix=lossapardo+%2Caps%2C173&sr=8-1",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }    
+  ],
+
+  "discography": [
+    {
+      "id": "if-i-were-to-paint-it",
+      "title": "If I Were To Paint It",
+      "year": 2024,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "/covers/lossapardo-if-i-were-to-paint-it.jpg"
+    }
+  ]
+}

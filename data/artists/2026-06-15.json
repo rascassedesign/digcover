@@ -1,0 +1,78 @@
+{
+  "id": "binary-star-masters-of-the-universe",
+  "number": "054",
+  "publishedAt": "2026-06-15",
+
+  "artist": {
+    "name": "BINARY STAR",
+    "origin": "Pontiac, États-Unis"
+  },
+
+  "featuredAlbum": {
+    "id": "masters-of-the-universe",
+    "title": "Masters of the Universe",
+    "year": 2000,
+    "label": "Subterraneous Records",
+    "genres": ["Hip-Hop", "Boom Bap", "Underground Hip-Hop"],
+    "trackCount": 17,
+    "type": "Album",
+    "coverUrl": "/covers/binary-star-masters-of-the-universe.jpg"
+  },
+
+  "meta": "2000 · Subterraneous Records · Hip-Hop · Boom Bap · États-Unis",
+
+  "editorial": [
+    "Sorti en 2000, Masters of the Universe est devenu au fil du temps un classique incontournable du hip-hop indépendant américain. Le duo Binary Star, composé de One Be Lo et Senim Silla, y développe une vision exigeante et profondément authentique du rap. À contre-courant des tendances dominantes de l’époque, l’album privilégie la qualité de l’écriture, la réflexion et l’intégrité artistique. Cette approche lui a permis de s’imposer comme une référence durable auprès des amateurs de hip-hop underground.",
+    "Porté par des productions sobres mais efficaces, Masters of the Universe met avant tout l’accent sur la force des textes. Les deux MCs abordent avec lucidité les dérives de l’industrie musicale, les inégalités sociales et la place de l’artiste dans la société. Leur complémentarité crée une dynamique captivante, où technicité et conscience sociale se répondent constamment. Loin des artifices, chaque morceau cherche à transmettre une idée, une expérience ou un point de vue.",
+    "Plus de vingt ans après sa sortie, l’album conserve une étonnante fraîcheur. Son indépendance d’esprit et sa pertinence thématique continuent de résonner auprès de nouvelles générations d’auditeurs. Masters of the Universe rappelle que le hip-hop peut être à la fois exigeant, accessible et profondément humain. En ce lundi, alors qu’une nouvelle semaine débute, cet album offre une source d’inspiration idéale pour aborder les jours à venir avec lucidité, détermination et ouverture d’esprit."
+  ],
+
+  "video": {
+    "youtubeId": "0dwfBFBBLOQ",
+    "title": "Reality Check — Binary Star · Masters of the Universe, 2000"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/0NI1bcuDH8xnfwTwjiiA4Y?si=CHA0RTBzQMWHyFZJS8LBww",
+    "appleMusic": "https://music.apple.com/fr/album/masters-of-the-universe-2025-remastered/1831263027",
+    "deezer": "https://link.deezer.com/s/33xG56A1YXQTc0sw00iTx",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mP06g57vFSUNjKhRAqsSTJ7cgUbiPFqAU&si=JXOd54Ghk0WCF4XK"
+  },
+
+  "vinyl": [],
+
+  "discography": [
+    {
+      "id": "lighty-ears-apart",
+      "title": "Lighty / Ears Apart",
+      "year": 2018,
+      "type": "Album",
+      "trackCount": 19,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-BINARY-STAR-LIGHTY-EARS-APART]/front"
+    },
+    {
+      "id": "water-world-3",
+      "title": "Water World 3",
+      "year": 2017,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-BINARY-STAR-WATER-WORLD-3]/front"
+    },
+    {
+      "id": "masters-of-the-universe",
+      "title": "Masters of the Universe",
+      "year": 2000,
+      "type": "Album",
+      "trackCount": 17,
+      "coverUrl": "/covers/binary-star-masters-of-the-universe.jpg"
+    },
+    {
+      "id": "waterworld",
+      "title": "Waterworld",
+      "year": 1999,
+      "type": "Album",
+      "trackCount": 18,
+      "coverUrl": "https://coverartarchive.org/release-group/5c0b81a1-c6b0-3abc-bffe-a2d458d74d27/front"
+    }
+  ]
+}

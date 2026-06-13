@@ -1,0 +1,70 @@
+{
+  "id": "fadah-les-loges-de-la-folie",
+  "number": "057",
+  "publishedAt": "2026-06-18",
+
+  "artist": {
+    "name": "FADAH",
+    "origin": "Toulouse, France"
+  },
+
+  "featuredAlbum": {
+    "id": "les-loges-de-la-folie",
+    "title": "Les Loges de la Folie",
+    "year": 2013,
+    "label": "Autoproduit",
+    "genres": ["Rap français", "Hip-Hop", "Rap alternatif"],
+    "trackCount": 17,
+    "type": "Album",
+    "coverUrl": "/covers/fadah-les-loges-de-la-folie.jpg"
+  },
+
+  "meta": "2013 · Autoproduit · Rap français · Hip-Hop · France",
+
+  "editorial": [
+    "Avec Les loges de la folie, Fadah livre un projet ambitieux qui brouille les frontières entre rap, poésie urbaine et réflexion sociale. L’artiste construit un univers singulier, où les mots occupent une place centrale et où chaque morceau participe à une narration plus vaste. À travers une écriture dense et imagée, il explore les contradictions de notre époque, les fragilités humaines et les mécanismes qui façonnent nos sociétés.",
+    "L’album se distingue par sa richesse thématique et son refus des raccourcis. Fadah privilégie la nuance et l’introspection, donnant naissance à des textes qui interrogent autant qu’ils racontent. Les productions accompagnent cette démarche avec justesse, alternant entre ambiances sombres, tensions rythmiques et respirations plus mélodiques. Cette diversité permet au projet de maintenir un équilibre entre exigence artistique et accessibilité.",
+    "Les loges de la folie s’impose ainsi comme une œuvre qui invite à l’écoute attentive. Derrière son titre intrigant se cache une réflexion profonde sur les masques que nous portons et les réalités que nous préférons parfois ignorer. Un album qui témoigne de la vitalité d’une scène indépendante toujours capable de surprendre et de questionner son époque. En ce jeudi, à l’approche du week-end, cette œuvre offre un moment de recul salutaire et nous rappelle l’importance de prendre le temps de réfléchir au monde qui nous entoure."
+  ],
+
+  "video": {
+    "youtubeId": "U9myQ3P5yI0",
+    "title": "Jamais à l'heure — Fadah · Les Loges de la Folie, 2013"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/3jiwA2TJ0N1lDU5girpemZ?si=X2j1VDy-T4CZEDZpomG47g",
+    "appleMusic": "https://music.apple.com/fr/album/les-loges-de-la-folie/1652856449",
+    "deezer": "https://link.deezer.com/s/33xGuQql5Pmq7vlGfeO8g",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kQ-f529I7l56ko006xshavSIF_IJ4gBxI&si=P5Qa_TZ4dUOhtldI"
+  },
+
+  "vinyl": [],
+
+  "discography": [
+    {
+      "id": "chaudar",
+      "title": "Chaudar",
+      "year": 2021,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-FADAH-CHAUDAR]/front"
+    },
+    {
+      "id": "furieux",
+      "title": "Furieux",
+      "year": 2019,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-FADAH-FURIEUX]/front"
+    },
+    {
+      "id": "les-loges-de-la-folie",
+      "title": "Les Loges de la Folie",
+      "year": 2013,
+      "type": "Album",
+      "trackCount": 17,
+      "coverUrl": "/covers/fadah-les-loges-de-la-folie.jpg"
+    }
+  ]
+}
