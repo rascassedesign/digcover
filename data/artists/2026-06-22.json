@@ -1,0 +1,96 @@
+{
+  "id": "gael-faye-lundi-mechant",
+  "number": "059",
+  "publishedAt": "2026-06-22",
+  "artist": {
+    "name": "GAËL FAYE",
+    "origin": "Bujumbura, Burundi"
+  },
+
+  "featuredAlbum": {
+    "id": "lundi-mechant",
+    "title": "Lundi méchant",
+    "year": 2020,
+    "label": "Excuse My French",
+    "genres": [
+      "Rap français",
+      "Hip-hop",
+      "Chanson française"
+    ],
+    "trackCount": 15,
+    "type": "Album",
+    "coverUrl": "/covers/gael-faye-lundi-mechant.jpg"
+  },
+
+  "meta": "2020 · Excuse My French · Rap français · Chanson française · Burundi",
+
+  "editorial": [
+    "Avec Lundi méchant, paru en 2020, Gaël Faye confirme son statut d’auteur parmi les plus sensibles et inspirés de la scène francophone. Entre rap, chanson et influences africaines, l’artiste franco-rwandais compose un album profondément humain, nourri par les souvenirs, les rencontres et les questionnements de notre époque. Fidèle à son écriture poétique, il transforme le quotidien en matière romanesque, offrant des chansons qui touchent autant par leur finesse que par leur sincérité.",
+    "Tout au long de l’album, Gaël Faye explore des thèmes universels tels que l’identité, l’exil, l’amour, la mémoire ou encore la résilience. Les arrangements élégants et chaleureux accompagnent des textes ciselés où chaque mot semble pesé avec soin. Loin des effets de mode, Lundi méchant privilégie la profondeur et l’émotion, tout en conservant une grande accessibilité. Cette capacité à raconter des histoires personnelles qui résonnent collectivement constitue l’une des grandes forces du disque.",
+    "Plusieurs années après sa sortie, Lundi méchant demeure une œuvre lumineuse et profondément actuelle. À travers son regard empreint de douceur et de lucidité, Gaël Faye rappelle l’importance de préserver l’espoir face aux incertitudes du monde. En ce lundi, cet album apparaît comme le compagnon idéal pour entamer la semaine avec sensibilité, curiosité et confiance en l’avenir."
+  ],
+
+  "video": {
+    "youtubeId": "juAORsvotSQ",
+    "title": "Lundi Méchant (Clip Officiel) — Gaël Faye · Lundi méchant, 2020"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/5NikQBD6va9zDiSQ5yUhFV?si=nJHJEb-IQzOLik822WnWXg",
+    "appleMusic": "https://music.apple.com/fr/album/lundi-m%C3%A9chant/1599582870",
+    "deezer": "https://link.deezer.com/s/33CeN0pC3HX0FZIOCRKIn",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mAfmLZ_bwCeqFonbUQRLnnm_kG8Ab45SI&si=C-y8HG5zXy5QyBh6"
+  },
+
+  "vinyl": [
+ {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a15070710/Gael-Faye-Lundi-mechant-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a15070709/Gael-Faye-Lundi-Mechant-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    }         
+  ],
+
+  "discography": [
+    {
+      "id": "mauve-jacaranda",
+      "title": "Mauve Jacaranda",
+      "year": 2022,
+      "type": "EP",
+      "trackCount": 5,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-GAEL-FAYE-MAUVE-JACARANDA]/front"
+    },
+    {
+      "id": "lundi-mechant",
+      "title": "Lundi méchant",
+      "year": 2020,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "/covers/gael-faye-lundi-mechant.jpg"
+    },
+    {
+      "id": "des-fleurs",
+      "title": "Des fleurs",
+      "year": 2018,
+      "type": "EP",
+      "trackCount": 6,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-GAEL-FAYE-DES-FLEURS]/front"
+    },
+    {
+      "id": "pili-pili-sur-un-croissant-au-beurre",
+      "title": "Pili-Pili sur un croissant au beurre",
+      "year": 2013,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-GAEL-FAYE-PILI-PILI-SUR-UN-CROISSANT-AU-BEURRE]/front"
+    }
+  ]
+}

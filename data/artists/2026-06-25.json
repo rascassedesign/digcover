@@ -1,0 +1,116 @@
+{
+  "id": "jordan-rakei-the-loop",
+  "number": "062",
+  "publishedAt": "2026-06-25",
+  "artist": {
+    "name": "JORDAN RAKEI",
+    "origin": "Brisbane, Australie"
+  },
+
+  "featuredAlbum": {
+    "id": "the-loop",
+    "title": "The Loop",
+    "year": 2024,
+    "label": "Decca",
+    "genres": [
+      "Soul",
+      "Neo-soul",
+      "R&B"
+    ],
+    "trackCount": 13,
+    "type": "Album",
+    "coverUrl": "/covers/jordan-rakei-the-loop.jpg"
+  },
+
+  "meta": "2024 · Decca · Soul · Neo-soul · Australie",
+  "editorial": [
+    "Avec The Loop, Jordan Rakei poursuit son exploration d’une musique où soul, jazz, électronique et R&B se rencontrent avec une élégance rare. L’artiste néo-zélandais, installé au Royaume-Uni, y déploie tout son savoir-faire de compositeur et d’interprète. L’album séduit immédiatement par sa richesse sonore, sa fluidité et sa capacité à créer des atmosphères aussi sophistiquées qu’accessibles.",
+    "Au fil des morceaux, Jordan Rakei aborde des thèmes liés au temps, aux relations humaines et à la recherche d’équilibre dans un monde en perpétuel mouvement. Les arrangements, minutieusement construits, laissent respirer les émotions tout en mettant en valeur la chaleur de sa voix. Cette approche confère à l’ensemble une dimension introspective qui invite à l’écoute attentive. Chaque titre semble s’inscrire dans un dialogue permanent entre réflexion personnelle et ouverture aux autres.",
+    "The Loop confirme une nouvelle fois la singularité d’un artiste qui refuse les frontières stylistiques. À la fois moderne et intemporel, l’album offre une expérience immersive qui gagne en profondeur à chaque écoute. En ce jeudi, alors que la semaine approche de son dénouement, il constitue une invitation idéale à ralentir le rythme et à prendre un moment pour soi."
+  ],
+
+  "video": {
+    "youtubeId": "9noTb2S5mdw",
+    "title": "Flowers — Jordan Rakei · The Loop, 2024"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/2UDNXRSWgMZovFmw14u5Z9?si=Hgj84IeGRdOunucK843AZw",
+    "appleMusic": "https://music.apple.com/fr/album/the-loop/1720224491",
+    "deezer": "https://link.deezer.com/s/33CfayGTB7MczRmfugmPM",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_l8cf-wYdKPyQNdMzbcpAj4zGS1OKTodc8&si=_oka-CDpqQuohuCT"
+  },
+
+  "vinyl": [
+ {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a19430405/Jordan-Rakei-The-Loop-Vinyle-album",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a19430406/Jordan-Rakei-The-Loop-Edition-Limitee-Exclusivite-Fnac-Vinyle-Vert-Vinyle-album",
+      "format": "Vinyle Vert",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a19430400/Jordan-Rakei-The-Loop-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },    
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Loop-Jordan-Rakei/dp/B0CL8PSZVF/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3OPOAGR29H7OI&dib=eyJ2IjoiMSJ9.um40cexMBY7jxEeEVvdcQxqJVOUXeRbsGE668g3OWWjAPI_qTDKpG-rlarwx3oFkF3ccNdq0Ewdp8SbF2zLl7EoI66FQOhO9U4GHPWe3TqebHOHcQLaY9m-Xuu1yE0f2B6zwfug1sar54q8vuhYiAg.TugtLxByZX4N7byfT9xSrbG6G9TTfh7OrWB_w4MQSn8&dib_tag=se&keywords=-+%5B+%5D+Jordan+rakei+-+The+Loop&qid=1782048864&sprefix=jordan+rakei+-+the+loop%2Caps%2C183&sr=8-1&ufe=app_do%3Aamzn1.fos.bb6ea7e0-0ef7-4fc8-9adc-4bf1477881dd",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Loop-Jordan-Rakei/dp/B0CL8JH8V9/ref=tmm_acd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.um40cexMBY7jxEeEVvdcQxqJVOUXeRbsGE668g3OWWjAPI_qTDKpG-rlarwx3oFkF3ccNdq0Ewdp8SbF2zLl7EoI66FQOhO9U4GHPWe3TqebHOHcQLaY9m-Xuu1yE0f2B6zwfug1sar54q8vuhYiAg.TugtLxByZX4N7byfT9xSrbG6G9TTfh7OrWB_w4MQSn8&qid=1782048864&sr=8-1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }      
+  ],
+
+  "discography": [
+    {
+      "id": "the-loop",
+      "title": "The Loop",
+      "year": 2024,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "/covers/jordan-rakei-the-loop.jpg"
+    },
+    {
+      "id": "what-we-call-life",
+      "title": "What We Call Life",
+      "year": 2021,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-JORDAN-RAKEI-WHAT-WE-CALL-LIFE]/front"
+    },
+    {
+      "id": "origin",
+      "title": "Origin",
+      "year": 2019,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-JORDAN-RAKEI-ORIGIN]/front"
+    },
+    {
+      "id": "wallflower",
+      "title": "Wallflower",
+      "year": 2017,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-JORDAN-RAKEI-WALLFLOWER]/front"
+    }
+  ]
+}

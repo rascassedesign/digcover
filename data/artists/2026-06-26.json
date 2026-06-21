@@ -1,0 +1,88 @@
+{
+  "id": "lords-of-the-underground-here-come-the-lords",
+  "number": "063",
+  "publishedAt": "2026-06-26",
+  "artist": {
+    "name": "LORDS OF THE UNDERGROUND",
+    "origin": "Newark, États-Unis"
+  },
+
+  "featuredAlbum": {
+    "id": "here-come-the-lords",
+    "title": "Here Come the Lords",
+    "year": 1993,
+    "label": "Pendulum",
+    "genres": [
+      "Hip-hop",
+      "East Coast",
+      "Boom bap"
+    ],
+    "trackCount": 15,
+    "type": "Album",
+    "coverUrl": "/covers/lords-of-the-underground-here-come-the-lords.jpg"
+  },
+
+  "meta": "1993 · Pendulum · Hip-hop · East Coast · États-Unis",
+
+  "editorial": [
+    "Sorti en 1993, Here Come the Lords est l’un des albums emblématiques de l’âge d’or du hip-hop américain. Avec ce premier disque, Lords of the Underground impose un style dynamique, porté par des rimes percutantes, des productions efficaces et une énergie contagieuse. Le trio du New Jersey trouve immédiatement sa place dans une scène alors en pleine effervescence, grâce à un équilibre réussi entre esprit festif et maîtrise technique.",
+    "L’album se distingue par sa fraîcheur et sa spontanéité. Les morceaux enchaînent les grooves entraînants et les performances vocales pleines de caractère, illustrant toute la créativité du hip-hop des années 1990. Sans chercher à surcharger son propos, le groupe privilégie l’efficacité et le plaisir de l’expression, donnant naissance à un disque qui conserve aujourd’hui encore une remarquable capacité à fédérer les auditeurs.",
+    "Plus de trente ans après sa sortie, Here Come the Lords demeure une référence incontournable pour les amateurs de rap classique. Son énergie communicative et son authenticité traversent les générations sans perdre de leur impact. En ce vendredi, alors que la semaine s’achève, cet album s’impose comme la bande-son idéale pour célébrer le chemin parcouru et aborder le week-end avec enthousiasme et bonne humeur."
+  ],
+
+  "video": {
+    "youtubeId": "JFQXtAE7SiU",
+    "title": "Chief Rocka — Lords of the Underground · Here Come the Lords, 1993"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/15nPVESpZNf0QBRwu2sMbI?si=D0KrxkkuQWSYtB2aksgexg",
+    "appleMusic": "https://music.apple.com/fr/album/here-come-the-lords/723914684",
+    "deezer": "https://link.deezer.com/s/33Cfl6R3mTAhFxk9qxnDI",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nRaAnPQ0FGX0TK2bg1hRkPDPre5DTIrsQ&si=UYrWo1syS1vKKvi9"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a11548823/Lords-of-the-Underground-Here-Come-The-Lords-Double-Vinyle-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },   
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Here-Come-Lords-Hq-Underground/dp/B079MTQHR2/ref=sr_1_1_mod_primary_new?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1ZF7ZET96R0YH&dib=eyJ2IjoiMSJ9.MKUNwpiJymvhwDSEvTSflD6LyQHYsG1T0wQFkk0enhMRiL84ojNZdkZHJexuNgCqZa6KhMCd2CqlFZrHbfzg82KtIV5rrxR4wyVmqwElJLrjInJGbcMVOZC9-Ec0l8qXABekHqrwDZ04XRGFjs7vTcVqeDIry61iVH0ZcGmKxqNwW_4QIlOaFhuwRQgQUTgX.ISgivqAIQm7SE6rj6ljpAISsFB8DBBXVfWv1G9vHuAs&dib_tag=se&keywords=lord+of+the+underground+-+here+comes+the+lords&qid=1782049100&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=lords+of+the+underground+-+here+comes+the+lord%2Caps%2C151&sr=8-1",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }    
+  ],
+
+  "discography": [
+    {
+      "id": "here-come-the-lords",
+      "title": "Here Come the Lords",
+      "year": 1993,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "/covers/lords-of-the-underground-here-come-the-lords.jpg"
+    },
+    {
+      "id": "keepers-of-the-funk",
+      "title": "Keepers of the Funk",
+      "year": 1994,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-LORDS-OF-THE-UNDERGROUND-KEEPERS-OF-THE-FUNK]/front"
+    },
+    {
+      "id": "resurrection",
+      "title": "Resurrection",
+      "year": 1999,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "https://coverartarchive.org/release-group/80873a8d-37c4-3a47-8f76-0ac77c73a920/front"
+    }
+  ]
+}
