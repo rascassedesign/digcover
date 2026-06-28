@@ -1,0 +1,111 @@
+{
+  "id": "daft-punk-homework",
+  "number": "065",
+  "publishedAt": "2026-06-30",
+
+  "artist": {
+    "name": "DAFT PUNK",
+    "origin": "Paris, France"
+  },
+
+  "featuredAlbum": {
+    "id": "homework",
+    "title": "Homework",
+    "year": 1997,
+    "label": "Virgin Records",
+    "genres": [
+      "French House",
+      "House",
+      "Electronic"
+    ],
+    "trackCount": 16,
+    "type": "Album",
+    "coverUrl": "/covers/daft-punk-homework.jpg"
+  },
+
+  "meta": "1997 · Virgin Records · French House · House · France",
+
+  "editorial": [
+    "Sorti en 1997, Homework marque un tournant majeur dans l’histoire de la musique électronique. Avec ce premier album, Daft Punk révolutionne la French Touch en proposant une approche brute, inventive et résolument moderne de la house. Thomas Bangalter et Guy-Manuel de Homem-Christo y mêlent influences disco, techno, funk et acid house avec une liberté créative qui bouleversera durablement la scène électronique mondiale.",
+    "Porté par des morceaux devenus emblématiques comme « Around the World », « Da Funk » ou « Revolution 909 », Homework impressionne par son efficacité autant que par son audace. Derrière son apparente simplicité se cache un travail minutieux sur les textures sonores, les rythmiques et les répétitions hypnotiques. Le duo démontre qu’il est possible de créer une musique à la fois expérimentale et accessible, pensée autant pour les clubs que pour une écoute attentive.",
+    "Près de trente ans après sa sortie, Homework conserve toute sa fraîcheur et son influence. Véritable pierre fondatrice de la musique électronique moderne, il continue d’inspirer producteurs et artistes du monde entier. Un premier album devenu un classique, qui a définitivement changé la manière d’envisager la musique électronique."
+  ],
+
+  "video": {
+    "youtubeId": "mmi60Bd4jSs",
+    "title": "Da Funk — Daft Punk · Homework, 1997"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/5uRdvUR7xCnHmUW8n64n9y?si=tqH5LQ7ERde8iIpcMuk54w",
+    "appleMusic": "https://music.apple.com/fr/album/homework/696884422",
+    "deezer": "https://link.deezer.com/s/33G9pyH1emKU9Fnalqjw0",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lAbfrCq-BVAU2Z2yAIjsEN0jwghzcAFSY&si=CPLYUqXxBRHwV5P3"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a16164908/Daft-Punk-Homework-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },  
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a16164907/Daft-Punk-Homework-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },      
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Homework-Daft-Punk/dp/B09B23JGWJ/ref=sr_1_1?crid=1YES93VOV2FOJ&dib=eyJ2IjoiMSJ9.OxCCJeJd86FL5iQUyEnYAkbdKlqyH8l_YELEg1DAmGeUyf1QCweIRh_DGbX3DF4zDAhhrP70P-QDhpr7WCKWKK3Pew1T4laTHxuvQskEqvk.PLaiBmqC_RU5D8l-qT3-YShf9nOD5OeeOh3z0RqZPfc&dib_tag=se&keywords=daft+punk+homework+vinyle&qid=1782643733&sprefix=daft+punk+homework%2Caps%2C154&sr=8-1",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Homework-Daft-Punk/dp/B09CGCW562/ref=tmm_acd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.OxCCJeJd86FL5iQUyEnYAkbdKlqyH8l_YELEg1DAmGeUyf1QCweIRh_DGbX3DF4zDAhhrP70P-QDhpr7WCKWKK3Pew1T4laTHxuvQskEqvk.PLaiBmqC_RU5D8l-qT3-YShf9nOD5OeeOh3z0RqZPfc&qid=1782643733&sr=8-1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }         
+  ],
+
+  "discography": [
+    {
+      "id": "random-access-memories",
+      "title": "Random Access Memories",
+      "year": 2013,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://coverartarchive.org/release-group/aa997ea0-2936-40bd-884d-3af8a0e064dc/front"
+    },
+    {
+      "id": "human-after-all",
+      "title": "Human After All",
+      "year": 2005,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/f9e8042a-674e-3f01-80ec-7f0ab1c537df/front"
+    },
+    {
+      "id": "discovery",
+      "title": "Discovery",
+      "year": 2001,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://coverartarchive.org/release-group/48117b90-a16e-34ca-a514-19c702df1158/front"
+    },
+    {
+      "id": "homework",
+      "title": "Homework",
+      "year": 1997,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "/covers/daft-punk-homework.jpg"
+    }
+  ]
+}

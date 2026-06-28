@@ -1,0 +1,74 @@
+{
+  "id": "pedro-mizutani-aperana",
+  "number": "068",
+  "publishedAt": "2026-07-03",
+
+  "artist": {
+    "name": "PEDRO MIZUTANI",
+    "origin": "Rio de Janeiro, Brésil"
+  },
+
+  "featuredAlbum": {
+    "id": "aperana",
+    "title": "Aperana",
+    "year": 2023,
+    "label": "Nice Guys",
+    "genres": [
+      "Bossa Nova",
+      "MPB",
+      "Indie"
+    ],
+    "trackCount": 5,
+    "type": "EP",
+    "coverUrl": "/covers/pedro-mizutani-aperana.jpg"
+  },
+
+  "meta": "2023 · Nice Guys · Bossa Nova · MPB · Brésil",
+
+  "editorial": [
+    "Avec Aparena EP, Pedro Mizutani propose une œuvre délicate où les frontières entre musique électronique, ambient et compositions organiques s’effacent progressivement. L’artiste construit un univers sonore immersif, fait de textures raffinées, de rythmes subtils et de mélodies contemplatives qui invitent à l’évasion. Plus qu’un simple EP, Aparena s’apparente à une véritable expérience sensorielle.",
+    "Chaque morceau évolue avec une grande fluidité, laissant respirer les sons et les émotions. Pedro Mizutani privilégie la suggestion à la démonstration, créant des paysages sonores qui évoquent aussi bien la nature que les espaces urbains ou les voyages intérieurs. Cette approche minimaliste permet à chaque détail de prendre toute son importance et offre une écoute qui révèle progressivement toute sa richesse.",
+    "Aparena EP confirme le talent d’un artiste capable de composer une musique aussi apaisante que captivante. Dans un monde où tout s’accélère, ce projet invite à ralentir, à observer et à redécouvrir le plaisir d’une écoute attentive. Une œuvre discrète mais profondément évocatrice, qui s’inscrit parfaitement dans le paysage des musiques électroniques contemporaines."
+  ],
+
+  "video": {
+    "youtubeId": "5dfEszpJ1kQ",
+    "title": "Chuva de Verão — Pedro Mizutani · Aperana, 2023"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/13jmABcP5MQyMDd9TIGjfZ?si=ZGes20SvQd2onoS8WUqFVg",
+    "appleMusic": "https://music.apple.com/fr/album/aperana-ep/1672151153",
+    "deezer": "https://link.deezer.com/s/33G9vy0ZPkT4p7LitFZqY",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_n6J-Lnad5VzyAb1y-a7W8nhH2YQCIytHA&si=dGH3p8yev8i9M9zu"
+  },
+
+  "vinyl": [],
+
+  "discography": [
+    {
+      "id": "pensando-baixo",
+      "title": "Pensando Baixo",
+      "year": 2024,
+      "type": "EP",
+      "trackCount": 4,
+      "coverUrl": "[MBID-A-RESOUDRE-PEDRO-MIZUTANI-PENSANDO-BAIXO]"
+    },
+    {
+      "id": "aperana-remixes",
+      "title": "Aperana (Remixes)",
+      "year": 2024,
+      "type": "EP",
+      "trackCount": 5,
+      "coverUrl": "[MBID-A-RESOUDRE-PEDRO-MIZUTANI-APERANA-REMIXES]"
+    },
+    {
+      "id": "aperana",
+      "title": "Aperana",
+      "year": 2023,
+      "type": "EP",
+      "trackCount": 5,
+      "coverUrl": "/covers/pedro-mizutani-aperana.jpg"
+    }
+  ]
+}

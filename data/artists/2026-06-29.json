@@ -1,0 +1,74 @@
+{
+  "id": "bella-barbe-bird-of-prey",
+  "number": "064",
+  "publishedAt": "2026-06-29",
+
+  "artist": {
+    "name": "BELLA BARBE",
+    "origin": "Londres, Royaume-Uni"
+  },
+
+  "featuredAlbum": {
+    "id": "bird-of-prey",
+    "title": "Bird of Prey",
+    "year": 2025,
+    "label": "Auto-produit",
+    "genres": [
+      "Trip-Hop",
+      "Alternative Hip-Hop",
+      "Soul"
+    ],
+    "trackCount": 7,
+    "type": "Mixtape",
+    "coverUrl": "/covers/bella-barbe-bird-of-prey.jpg"
+  },
+
+  "meta": "2025 · Auto-produit · Trip-Hop · Alternative Hip-Hop · Royaume-Uni",
+
+  "editorial": [
+    "Avec Bird Of Prey, Bella Barbe dévoile un univers musical où la folk contemporaine, l’indie rock et les sonorités alternatives se rencontrent avec une grande délicatesse. L’artiste y développe une écriture sensible, portée par des arrangements épurés qui laissent pleinement s’exprimer les émotions. Dès les premiers morceaux, l’album installe une atmosphère à la fois intimiste et aérienne, invitant l’auditeur à un voyage intérieur où chaque chanson semble raconter un fragment de vie.",
+    "L’une des forces de Bird Of Prey réside dans son équilibre entre douceur et intensité. Les mélodies, souvent lumineuses, contrastent avec des textes qui explorent les thèmes de la vulnérabilité, de la reconstruction et de la liberté. Cette dualité donne naissance à un disque profondément humain, où les silences et les nuances occupent une place aussi importante que les refrains. Bella Barbe signe ainsi une œuvre sincère, sans artifices, qui privilégie l’émotion à la démonstration.",
+    "À travers Bird Of Prey, Bella Barbe confirme une identité artistique singulière et une capacité à créer des chansons qui résonnent longtemps après leur écoute. Un album tout en finesse, qui invite à ralentir, à écouter et à se laisser porter par la force tranquille de sa musique."
+  ],
+
+  "video": {
+    "youtubeId": "8XZFVSG51Dc",
+    "title": "Ten Toes Down — Bella Barbe · Bird of Prey, 2025"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/6EpGhODeeokkaJBYrBOHDG?si=vzsgJcT5TfS8xeFL85bDtg",
+    "appleMusic": "https://music.apple.com/fr/album/bird-of-prey/1854882552",
+    "deezer": "https://link.deezer.com/s/33G9nzmGipatTGqmnjRGW",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kHaWF28xc3QOR8ndHO1ZkwnfuVupihGTE&si=nd6_I4TVpLLAcLWC"
+  },
+
+  "vinyl": [],
+
+  "discography": [
+    {
+      "id": "bird-of-prey",
+      "title": "Bird of Prey",
+      "year": 2025,
+      "type": "Mixtape",
+      "trackCount": 7,
+      "coverUrl": "/covers/bella-barbe-bird-of-prey.jpg"
+    },
+    {
+      "id": "ten-toes-down",
+      "title": "Ten Toes Down",
+      "year": 2025,
+      "type": "Single",
+      "trackCount": 1,
+      "coverUrl": "[MBID-A-RESOUDRE-BELLA-BARBE-TEN-TOES-DOWN]"
+    },
+    {
+      "id": "into-the-night",
+      "title": "Into the night",
+      "year": 2025,
+      "type": "Single",
+      "trackCount": 1,
+      "coverUrl": "[MBID-A-RESOUDRE-BELLA-BARBE-INTO-THE-NIGHT]"
+    }
+  ]
+}

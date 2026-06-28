@@ -1,0 +1,111 @@
+{
+  "id": "system-of-a-down-toxicity",
+  "number": "067",
+  "publishedAt": "2026-07-02",
+
+  "artist": {
+    "name": "SYSTEM OF A DOWN",
+    "origin": "Glendale, États-Unis"
+  },
+
+  "featuredAlbum": {
+    "id": "toxicity",
+    "title": "Toxicity",
+    "year": 2001,
+    "label": "American Recordings",
+    "genres": [
+      "Nu metal",
+      "Metal alternatif",
+      "Heavy metal"
+    ],
+    "trackCount": 14,
+    "type": "Album",
+    "coverUrl": "/covers/system-of-a-down-toxicity.jpg"
+  },
+
+  "meta": "2001 · American Recordings · Nu metal · Metal alternatif · États-Unis",
+
+  "editorial": [
+    "Paru en 2001, Toxicity est sans conteste l’un des albums les plus marquants du metal moderne. Avec cette deuxième réalisation, System of a Down repousse les frontières du genre en mêlant metal alternatif, influences orientales, punk, rock progressif et expérimentations sonores. Le groupe arméno-américain impose une identité unique, où virtuosité musicale et engagement politique avancent de concert.",
+    "L’album frappe autant par sa puissance que par son imprévisibilité. Les changements de rythme incessants, les harmonies vocales singulières de Serj Tankian et les riffs incisifs de Daron Malakian donnent naissance à des morceaux devenus incontournables comme « Chop Suey! », « Toxicity » ou « Aerials ». Derrière cette énergie explosive se cachent des textes qui dénoncent la guerre, les manipulations médiatiques, les injustices sociales et les dérives du pouvoir.",
+    "Plus de vingt ans après sa sortie, Toxicity reste une référence absolue du metal du XXIᵉ siècle. Son audace artistique et la force de son message continuent d’inspirer de nombreux groupes. Un album qui prouve qu’une musique puissante peut également être profondément engagée et d’une étonnante richesse créative."
+  ],
+
+  "video": {
+    "youtubeId": "iywaBOMvYLI",
+    "title": "Toxicity — System of a Down · Toxicity, 2001"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/6jWde94ln40epKIQCd8XUh?si=ecBVXg8oTYORpzuWYDO_dw",
+    "appleMusic": "https://music.apple.com/fr/album/toxicity/273714443",
+    "deezer": "https://link.deezer.com/s/33G9tA3mL8DrvFUEfPzdf",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_n1sOLxWCfeedpeiN-YS7H5xJq5Qptac-M&si=ygj3dFysGCCdxAan"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a12678837/System-of-a-Down-Toxicity-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },  
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a1227372/System-of-a-Down-Toxicity-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },      
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Toxicity-Multi-Artistes/dp/B07FSVYRXJ/ref=sr_1_1?crid=3DAEVHPLXBC0M&dib=eyJ2IjoiMSJ9.D30cv8MIClQueL5xtk2Edyzc58zdL5o8xMhdcvYI9TCwSklxjxFcvKDbxuzgUROiJAALadpuVkSxqpnpiuilBzm9JSfu6l8nX3Ws9itlpXw.szqwF0MunIbbMs_Ap7EGp4MxA68_FrQFflcMJGKhJ1w&dib_tag=se&keywords=system+of+a+down+toxicity+vinyle&qid=1782644055&sprefix=system+of+a+down+to%2Caps%2C168&sr=8-1",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Toxicity-USA-System-Down/dp/B000021YQV/ref=tmm_acd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.D30cv8MIClQueL5xtk2Edyzc58zdL5o8xMhdcvYI9TCwSklxjxFcvKDbxuzgUROiJAALadpuVkSxqpnpiuilBzm9JSfu6l8nX3Ws9itlpXw.szqwF0MunIbbMs_Ap7EGp4MxA68_FrQFflcMJGKhJ1w&qid=1782644055&sr=8-1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }      
+  ],
+
+  "discography": [
+    {
+      "id": "mezmerize",
+      "title": "Mezmerize",
+      "year": 2005,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/8d18c070-adea-353f-a089-cbd2543342dd/front"
+    },
+    {
+      "id": "steal-this-album",
+      "title": "Steal This Album!",
+      "year": 2002,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "https://coverartarchive.org/release-group/3351730c-7853-38f3-8d56-1bf627de4523/front"
+    },
+    {
+      "id": "toxicity",
+      "title": "Toxicity",
+      "year": 2001,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "/covers/system-of-a-down-toxicity.jpg"
+    },
+    {
+      "id": "system-of-a-down",
+      "title": "System of a Down",
+      "year": 1998,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://coverartarchive.org/release-group/97f37409-b91a-3495-8e70-56fd9f7658c2/front"
+    }
+  ]
+}

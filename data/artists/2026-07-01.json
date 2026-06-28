@@ -1,0 +1,111 @@
+{
+  "id": "fabe-detournement-de-son",
+  "number": "066",
+  "publishedAt": "2026-07-01",
+
+  "artist": {
+    "name": "FABE",
+    "origin": "Paris, France"
+  },
+
+  "featuredAlbum": {
+    "id": "detournement-de-son",
+    "title": "Détournement de son…",
+    "year": 1998,
+    "label": "Double H Productions",
+    "genres": [
+      "Rap français",
+      "Conscious",
+      "Hip-Hop"
+    ],
+    "trackCount": 19,
+    "type": "Album",
+    "coverUrl": "/covers/fabe-detournement-de-son.jpg"
+  },
+
+  "meta": "1998 · Double H Productions · Rap français · Conscious · France",
+
+  "editorial": [
+    "Paru en 1998, Détournement de son confirme Fabe comme l’une des plumes les plus respectées du rap français. Fidèle à son style exigeant, le rappeur parisien privilégie la profondeur du propos à l’effet immédiat, livrant un album où chaque texte témoigne d’une réflexion sociale et politique particulièrement affûtée. Son écriture précise, souvent introspective, fait de ce disque une référence incontournable pour les amateurs de rap conscient.",
+    "Les productions sobres mettent parfaitement en valeur la richesse des textes. Fabe y aborde des thèmes aussi variés que les inégalités, les médias, la responsabilité individuelle ou encore les dérives du système, sans jamais tomber dans le discours moralisateur. Sa maîtrise du verbe et sa capacité à transformer les observations du quotidien en récits universels donnent à l’album une force qui traverse les générations.",
+    "Aujourd’hui encore, Détournement de son impressionne par sa pertinence et sa modernité. À une époque où le fond laisse parfois place à la forme, ce disque rappelle toute la puissance d’un rap pensé comme un véritable outil de réflexion. Une œuvre majeure qui continue de faire école auprès des passionnés de hip-hop."
+  ],
+
+  "video": {
+    "youtubeId": "nKpABU5Zq-Y",
+    "title": "L'impertinent — Fabe · Détournement de son, 1998"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/7uq73pfWH2r684S9gjELlw?si=ntyJL48-S1WvUIA1RgWoWA",
+    "appleMusic": "https://music.apple.com/fr/album/d%C3%A9tournement-de-son/1009261499",
+    "deezer": "https://link.deezer.com/s/33G9rAu0PsmenFpkEdE0G",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mhagnfuM78UrsVJHsNUF_mAX7o313vva0&si=sYObtbqsfvGd8X0u"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a18610858/Fabe-Detournement-de-son-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },  
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a16052940/Fabe-Detournement-de-son-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },      
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/D%C3%A9tournement-Son-Fabe/dp/B0CJ9T6YHL/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=9SAN2CEAB04G&dib=eyJ2IjoiMSJ9.UPjpk4DLPpaLLv67OzoY7Q.1IN1xujX_MxEfoXLe2UXqmnH6HEeShi32FfWhVIXJ1w&dib_tag=se&keywords=fabe+d%C3%A9tournement+de+son+vinyle&qid=1782643934&sprefix=fabe+d%C3%A9tournement+de+son+vinyle%2Caps%2C180&sr=8-1",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/D%C3%A9tournement-Son-Fabe/dp/B001N0B9U6/ref=tmm_acd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.UPjpk4DLPpaLLv67OzoY7Q.1IN1xujX_MxEfoXLe2UXqmnH6HEeShi32FfWhVIXJ1w&qid=1782643934&sr=8-1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }     
+  ],
+
+  "discography": [
+    {
+      "id": "la-rage-de-dire",
+      "title": "La rage de dire",
+      "year": 2000,
+      "type": "Album",
+      "trackCount": 18,
+      "coverUrl": "https://coverartarchive.org/release-group/2afd115f-0f84-30b9-bfa3-ad1e7f8af70a/front"
+    },
+    {
+      "id": "detournement-de-son",
+      "title": "Détournement de son…",
+      "year": 1998,
+      "type": "Album",
+      "trackCount": 19,
+      "coverUrl": "/covers/fabe-detournement-de-son.jpg"
+    },
+    {
+      "id": "le-fond-et-la-forme",
+      "title": "Le fond et la forme",
+      "year": 1997,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "[MBID-A-RESOUDRE-FABE-LE-FOND-ET-LA-FORME]"
+    },
+    {
+      "id": "befa-surprend-ses-freres",
+      "title": "Befa surprend ses frères",
+      "year": 1995,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "https://coverartarchive.org/release-group/2f529d08-77e2-3f54-a3d4-d27488f34178/front"
+    }
+  ]
+}
