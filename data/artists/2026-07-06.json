@@ -1,0 +1,110 @@
+{
+  "id": "fontaines-dc-romance",
+  "number": "069",
+  "publishedAt": "2026-07-06",
+  "artist": {
+    "name": "FONTAINES D.C.",
+    "origin": "Dublin, Irlande"
+  },
+
+  "featuredAlbum": {
+    "id": "romance",
+    "title": "Romance",
+    "year": 2024,
+    "label": "XL Recordings",
+    "genres": [
+      "Post-punk",
+      "Indie rock",
+      "Alternative rock"
+    ],
+    "trackCount": 11,
+    "type": "Album",
+    "coverUrl": "/covers/fontaines-dc-romance.jpg"
+  },
+
+  "meta": "2024 · XL Recordings · Post-punk · Indie rock · Irlande",
+
+  "editorial": [
+    "Avec Romance, paru en 2024, Fontaines D.C. poursuit sa métamorphose artistique et confirme qu’il est l’un des groupes les plus passionnants de sa génération. Délaissant en partie la rugosité post-punk de ses débuts, la formation irlandaise explore des territoires plus mélodiques, cinématographiques et atmosphériques, sans jamais perdre l’intensité émotionnelle qui fait sa signature. Le résultat est un album ambitieux, où chaque morceau participe à la construction d’un univers aussi sombre que fascinant.",
+    "Tout au long du disque, Fontaines D.C. joue avec les contrastes entre puissance et fragilité. Les guitares se font tantôt abrasives, tantôt aériennes, tandis que la voix de Grian Chatten conserve cette capacité unique à transmettre autant de tension que de mélancolie. Les thèmes de l’amour, de l’identité, de la désillusion et du besoin d’évasion traversent l’album avec une grande justesse, donnant naissance à des chansons qui marquent autant par leur profondeur que par leur efficacité.",
+    "Romance témoigne de la volonté du groupe de ne jamais se répéter et d’élargir constamment son horizon musical. Une œuvre audacieuse qui récompense chaque nouvelle écoute. En ce lundi, alors qu’une nouvelle semaine commence, cet album rappelle que les plus beaux voyages sont souvent ceux qui nous poussent à sortir de nos habitudes."
+  ],
+
+  "video": {
+    "youtubeId": "KHocVRUlvkk",
+    "title": "Starburster — Fontaines D.C. · Romance, 2024"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/287QQ922OsJYh8aFNGdJG5?si=I56JzLVXQVqhGx4UjeHM1g",
+    "appleMusic": "https://music.apple.com/fr/album/romance/1737990072",
+    "deezer": "https://link.deezer.com/s/33KgX8hs0ixJBpDs1Xtcb",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lycod1YzvaYYWS4LD390vh2_taIOb-a4o&si=JQ-i_aPgC1sWaTi0"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a20359708/Fontaines-D-C-Romance-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },  
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a20359707/Fontaines-D-C-Romance-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },      
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Romance-Fontaines-d-C/dp/B0D12F5KZY/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1YU8ESYS38ATL&dib=eyJ2IjoiMSJ9.beghLsgIVf9KuxXt75M7FOi0aF609116Y6FDMMlXXqouUtZEo4E8zYwIEpCx-MGIKueavRQ7VUAxP9HNpY_zMdMWxBTWMCnFQTpBhTVj2BeCzk3v3GDHBgEFkDYO8kwInra4GqQRJx4yWo9sNvUcGFm4JYGDWCf25M5hJNtcrd5LBnVj6aV7TG5H5oeAQ4RDGuckDSzshXR6aY4yAiQ9yp9ZLR_-wWQRsxSByHvGyImFNP6fef6ja9swv_emfW3C.wZP13e5ftkSVchsfR0EXuZgjg66NQL-sRY0rHfZJGME&dib_tag=se&keywords=fontaine+dc+romance&qid=1783266383&sprefix=fontaine+dc+romanc%2Caps%2C195&sr=8-1",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Romance-Fontaines-d-C/dp/B0D12DHS1D/ref=tmm_acd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.beghLsgIVf9KuxXt75M7FOi0aF609116Y6FDMMlXXqouUtZEo4E8zYwIEpCx-MGIKueavRQ7VUAxP9HNpY_zMdMWxBTWMCnFQTpBhTVj2BeCzk3v3GDHBgEFkDYO8kwInra4GqQRJx4yWo9sNvUcGFm4JYGDWCf25M5hJNtcrd5LBnVj6aV7TG5H5oeAQ4RDGuckDSzshXR6aY4yAiQ9yp9ZLR_-wWQRsxSByHvGyImFNP6fef6ja9swv_emfW3C.wZP13e5ftkSVchsfR0EXuZgjg66NQL-sRY0rHfZJGME&qid=1783266383&sr=8-1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }      
+  ],
+
+  "discography": [
+    {
+      "id": "romance",
+      "title": "Romance",
+      "year": 2024,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "/covers/fontaines-dc-romance.jpg"
+    },
+    {
+      "id": "skinty-fia",
+      "title": "Skinty Fia",
+      "year": 2022,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/aa2f908a-5aba-40c1-a198-3d0ad4f43486/front"
+    },
+    {
+      "id": "a-heros-death",
+      "title": "A Hero's Death",
+      "year": 2020,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "[MBID-A-RESOUDRE-FONTAINES-DC-A-HEROS-DEATH]"
+    },
+    {
+      "id": "dogrel",
+      "title": "Dogrel",
+      "year": 2019,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/84c01ae7-82e5-4965-a5b6-7aeaf539f85c/front"
+    }
+  ]
+}

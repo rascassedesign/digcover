@@ -1,0 +1,88 @@
+{
+  "id": "iam-ombre-est-lumiere",
+  "number": "070",
+  "publishedAt": "2026-07-07",
+  "artist": {
+    "name": "IAM",
+    "origin": "Marseille, France"
+  },
+
+  "featuredAlbum": {
+    "id": "ombre-est-lumiere",
+    "title": "Ombre est lumière",
+    "year": 1993,
+    "label": "Delabel",
+    "genres": [
+      "Rap français",
+      "Hip-hop",
+      "Boom bap"
+    ],
+
+    "trackCount": 40,
+    "type": "Album",
+    "coverUrl": "/covers/iam-ombre-est-lumiere.jpg"
+  },
+
+  "meta": "1993 · Delabel · Rap français · Hip-hop · France",
+
+  "editorial": [
+    "Sorti en 1993, Ombres et Lumière constitue une étape essentielle dans l’histoire du rap français. Avec ce deuxième album, IAM affirme son identité artistique et pose les fondations de ce qui fera sa renommée. Akhenaton, Shurik’n, Kheops, Imhotep, Kephren et Freeman y développent un univers nourri de références historiques, philosophiques et sociales, tout en restant profondément ancrés dans la réalité marseillaise.",
+    "L’album impressionne par la richesse de ses textes et la qualité de ses productions. Entre introspection, critique sociale et quête de connaissance, IAM propose un rap exigeant qui refuse les clichés. Les instrumentaux, inspirés autant par le hip-hop américain que par des influences méditerranéennes et orientales, participent à l’identité unique du groupe. Chaque morceau illustre la volonté de transmettre autant que de divertir.",
+    "Plus de trente ans après sa sortie, Ombres et Lumière demeure une référence incontournable du hip-hop francophone. Son intelligence d’écriture et son ambition artistique continuent d’influencer de nombreux artistes. En ce mardi, cet album rappelle que la curiosité, la culture et la réflexion restent des moteurs essentiels pour avancer avec lucidité."
+  ],
+  "video": {
+    "youtubeId": "JP5DdxV52sc",
+    "title": "Le Feu — IAM · Ombre est lumière, 1993"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/2soc1D7Ym6sGp4A4d2pbWU?si=_iqSDzDFQo6w-sQyXiiBEA",
+    "appleMusic": "https://music.apple.com/fr/album/ombre-est-lumi%C3%A8re-r%C3%A9%C3%A9dition-2014/945574613",
+    "deezer": "https://link.deezer.com/s/33Kh0shogChIirXq1eyxA",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_k0spTvvSybPWf6Mn1ppuyLf7wHsQUzVV8&si=_7YGm_g_ylXLC9Em"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a12779727/IAM-Ombre-est-lumiere-Volume-1-Vinyle-album",
+      "format": "Vinyle Standard - Volume 1",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },  
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a12779728/IAM-Ombre-est-lumiere-Volume-2-Double-Vinyle-180-gr-Vinyle-album",
+      "format": "Vinyle Standard - Volume 2",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    }      
+  ],
+
+  "discography": [
+    {
+      "id": "ombre-est-lumiere",
+      "title": "Ombre est lumière",
+      "year": 1993,
+      "type": "Album",
+      "trackCount": 40,
+      "coverUrl": "/covers/iam-ombre-est-lumiere.jpg"
+    },
+    {
+      "id": "lecole-du-micro-dargent",
+      "title": "L'École du micro d'argent",
+      "year": 1997,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "https://coverartarchive.org/release-group/a475a63d-4481-32e5-b7e0-5c56d8a9a9d6/front"
+    },
+    {
+      "id": "de-la-planete-mars",
+      "title": "...De la planète Mars",
+      "year": 1991,
+      "type": "Album",
+      "trackCount": 23,
+      "coverUrl": "https://coverartarchive.org/release-group/03c21989-c7db-3be1-b2ca-fb1ace407b96/front"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "tomora-come-closer",
+  "number": "071",
+  "publishedAt": "2026-07-08",
+  "artist": {
+    "name": "TOMORA",
+    "origin": "Royaume-Uni / Norvège"
+  },
+
+  "featuredAlbum": {
+    "id": "come-closer",
+    "title": "Come Closer",
+    "year": 2026,
+    "label": "Fontana / Capitol Records",
+    "genres": [
+      "Électronique",
+      "Techno",
+      "Trip-hop"
+    ],
+
+    "trackCount": 12,
+    "type": "Album",
+    "coverUrl": "/covers/tomora-come-closer.jpg"
+  },
+
+  "meta": "2026 · Fontana / Capitol · Électronique · Techno · Royaume-Uni",
+
+  "editorial": [
+    "Avec Come Closer, Tomora signe un album empreint de délicatesse où se rencontrent pop indépendante, soul moderne et textures électroniques. L’artiste construit un univers intimiste, porté par des mélodies élégantes et une production raffinée qui laisse toute leur place aux émotions. Dès les premières notes, l’album installe une atmosphère chaleureuse, propice à une écoute attentive.",
+    "Les compositions évoluent avec naturel entre douceur et intensité, abordant les thèmes des relations humaines, de la vulnérabilité et de la quête de proximité. Sans jamais céder à la facilité, Tomora privilégie une écriture sincère et des arrangements subtils qui donnent au disque une véritable cohérence. Chaque morceau semble prolonger le précédent, formant un ensemble fluide et immersif.",
+    "Come Closer est un album qui révèle progressivement toutes ses nuances au fil des écoutes. Sa sensibilité et son élégance en font une œuvre capable d’accompagner les moments de calme comme les instants de réflexion. En ce mercredi, au milieu de la semaine, il offre une respiration bienvenue et rappelle l’importance de prendre le temps de se reconnecter à soi-même et aux autres."
+  ],
+
+  "video": {
+    "youtubeId": "EA-OXmappUk",
+    "title": "Somewhere Else — Tomora · Come Closer, 2026"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/5C40IE0VAEHNZJcpwUxoNY?si=orJEHbqwT5SdAONcymjZ1g",
+    "appleMusic": "https://music.apple.com/fr/album/come-closer/1871184398",
+    "deezer": "https://link.deezer.com/s/33Kh2gPZmuPfvQLN1vV8D",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kvHbtOH4ay_sSWT3Srgw1XHxL-AayfAZY&si=ePk3zYxPFsqATYkL"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a22614871/TOMORA-Come-Closer-Edition-Limitee-Exclusivite-Fnac-Vinyle-Blanc-Vinyle-album",
+      "format": "Vinyle Blanc",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    }, 
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a22614873/TOMORA-Come-Closer-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },      
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a22614872/TOMORA-Come-Closer-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },      
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Come-closer-Version-Exclusive-Amazon/dp/B0GH647NMR/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3VIA2C3S9ZLWE&dib=eyJ2IjoiMSJ9.8ZN4HTsVAD1ux_amL2bJIXDT4heRV3wtgiRUNPaBDaqA_kR5X2fFhUQHnB31U_Dvhjpgnkf25JXpeojwqItnBBOElVNw1P_djTkNQ0y2aYOk_fA7RRCl2UyytrjBdQVg8Txuc_ZPeUB2rsrr9oqI0qgwS13ViWQ5zOMIMbGOwe2yYZfDSTcSlWBcMZhOLgFHGY6YYsfYUOEjQ4OyLJIsd1sRx6SRb7L_4adWjcsm2Qvj8rLzSIV1SYxu6OJ6dBpZ17a72UyfTLcKaOZzeelyI5LDl6j53iIwimmZc0AAelA.OSPldKrDTJjbKfSa9bmqmkCjJ9dJij6OPDORzQvsrSM&dib_tag=se&keywords=tomora&qid=1783266797&sprefix=tomora%2Caps%2C171&sr=8-1",
+      "format": "Vinyle Nebula",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Come-Closer-Tomora/dp/B0GC967WT3/ref=sr_1_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3VIA2C3S9ZLWE&dib=eyJ2IjoiMSJ9.8ZN4HTsVAD1ux_amL2bJIXDT4heRV3wtgiRUNPaBDaqA_kR5X2fFhUQHnB31U_Dvhjpgnkf25JXpeojwqItnBBOElVNw1P_djTkNQ0y2aYOk_fA7RRCl2UyytrjBdQVg8Txuc_ZPeUB2rsrr9oqI0qgwS13ViWQ5zOMIMbGOwe2yYZfDSTcSlWBcMZhOLgFHGY6YYsfYUOEjQ4OyLJIsd1sRx6SRb7L_4adWjcsm2Qvj8rLzSIV1SYxu6OJ6dBpZ17a72UyfTLcKaOZzeelyI5LDl6j53iIwimmZc0AAelA.OSPldKrDTJjbKfSa9bmqmkCjJ9dJij6OPDORzQvsrSM&dib_tag=se&keywords=tomora&qid=1783266797&sprefix=tomora%2Caps%2C171&sr=8-2&ufe=app_do%3Aamzn1.fos.bb6ea7e0-0ef7-4fc8-9adc-4bf1477881dd",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },    
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Come-Closer-Tomora/dp/B0GC93Z8ND/ref=tmm_acd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.8ZN4HTsVAD1ux_amL2bJIXDT4heRV3wtgiRUNPaBDaqA_kR5X2fFhUQHnB31U_Dvhjpgnkf25JXpeojwqItnBBOElVNw1P_djTkNQ0y2aYOk_fA7RRCl2UyytrjBdQVg8Txuc_ZPeUB2rsrr9oqI0qgwS13ViWQ5zOMIMbGOwe2yYZfDSTcSlWBcMZhOLgFHGY6YYsfYUOEjQ4OyLJIsd1sRx6SRb7L_4adWjcsm2Qvj8rLzSIV1SYxu6OJ6dBpZ17a72UyfTLcKaOZzeelyI5LDl6j53iIwimmZc0AAelA.OSPldKrDTJjbKfSa9bmqmkCjJ9dJij6OPDORzQvsrSM&qid=1783266797&sr=8-2",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }     
+  ],
+
+  "discography": [
+    {
+      "id": "come-closer",
+      "title": "Come Closer",
+      "year": 2026,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "/covers/tomora-come-closer.jpg"
+    },
+    {
+      "id": "i-drink-the-light",
+      "title": "I Drink the Light",
+      "year": 2026,
+      "type": "Single",
+      "trackCount": 1,
+      "coverUrl": "[MBID-A-RESOUDRE-TOMORA-I-DRINK-THE-LIGHT]"
+    },
+    {
+      "id": "somewhere-else",
+      "title": "Somewhere Else",
+      "year": 2026,
+      "type": "Single",
+      "trackCount": 1,
+      "coverUrl": "[MBID-A-RESOUDRE-TOMORA-SOMEWHERE-ELSE]"
+    },
+    {
+      "id": "ring-the-alarm",
+      "title": "Ring the Alarm",
+      "year": 2025,
+      "type": "Single",
+      "trackCount": 1,
+      "coverUrl": "[MBID-A-RESOUDRE-TOMORA-RING-THE-ALARM]"
+    }
+  ]
+}

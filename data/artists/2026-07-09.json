@@ -1,0 +1,110 @@
+{
+  "id": "lana-del-rey-norman-fucking-rockwell",
+  "number": "072",
+  "publishedAt": "2026-07-09",
+  "artist": {
+    "name": "LANA DEL REY",
+    "origin": "New York, États-Unis"
+  },
+
+  "featuredAlbum": {
+    "id": "norman-fucking-rockwell",
+    "title": "Norman Fucking Rockwell!",
+    "year": 2019,
+    "label": "Polydor / Interscope Records",
+    "genres": [
+      "Art pop",
+      "Soft rock",
+      "Singer-songwriter"
+    ],
+
+    "trackCount": 14,
+    "type": "Album",
+    "coverUrl": "/covers/lana-del-rey-norman-fucking-rockwell.jpg"
+  },
+
+  "meta": "2019 · Polydor / Interscope · Art pop · Soft rock · États-Unis",
+
+  "editorial": [
+    "Paru en 2019, Norman Fucking Rockwell! marque l’apogée artistique de Lana Del Rey. Avec cet album, la chanteuse américaine livre une œuvre profondément personnelle où la pop, le folk et le soft rock se mêlent dans une esthétique aussi mélancolique que lumineuse. Porté par une écriture d’une grande finesse et une production signée Jack Antonoff, le disque capture les contradictions de l’Amérique contemporaine autant que les tourments intérieurs de son autrice.",
+    "Les chansons se distinguent par leur élégance et leur richesse émotionnelle. Lana Del Rey y alterne confidences intimes, observations sociales et références culturelles avec une fluidité remarquable. Sa voix, toujours aussi envoûtante, accompagne des mélodies d’une grande douceur qui contrastent avec des textes parfois empreints de désillusion. Cette tension permanente confère à l’album une profondeur rare dans la pop contemporaine.",
+    "Considéré comme l’un des albums majeurs de la décennie 2010, Norman Fucking Rockwell! continue de fasciner par son intemporalité. Il démontre qu’une œuvre populaire peut aussi être exigeante et profondément littéraire. En ce jeudi, alors que la semaine touche bientôt à son terme, cet album invite à ralentir le rythme pour savourer chaque détail de son univers."
+  ],
+
+  "video": {
+    "youtubeId": "qolmz4FlnZ0",
+    "title": "Doin' Time — Lana Del Rey · Norman Fucking Rockwell!, 2019"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/5XpEKORZ4y6OrCZSKsi46A?si=57_BN4wXTPuW-4XXnaFhug",
+    "appleMusic": "https://music.apple.com/fr/album/norman-fucking-rockwell/1474669063",
+    "deezer": "https://link.deezer.com/s/33JK979nMPgBA7gpztMLd",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kXEi_1ry11kHAe71Z36AShGLhVXejbK38&si=73RNWADaXZYC5Bg2"
+  },
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a13962821/Lana-Del-Rey-Norman-Fucking-Rockwell-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },  
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a13962820/Lana-Del-Rey-Norman-Fucking-Rockwell-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },      
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Norman-Fucking-Rockwell-Lana-Del/dp/B07ZW9Y339/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2N41WVSJKD8FY&dib=eyJ2IjoiMSJ9.pDEXbLoOgCQPHmRvyEje0Ve8uL_5Vf8YjfeCZjVfH4lnrAWPEPB1dzF81n1EJxsR5YzE_VEFMgOxWQ6ba42ImlSyQlsfx1dk4s2ZPeBsUQ78Y85xAm08z0ncBEVhIuV1VCxg9aX6tIg9AuZMJtF6klB_xv6q62IPPcE0sRL8Ya_XYQKYBmTo2MdPgAIFYZwfYn3_RH8S4XWyON3oarDA001xcgqeoqcOexJGKDpE-2kU5uQ5Q-1N8zdXN3A6bCUg535DcdcuXpHEZ6jzVEdPkRTHTnsZ9Fv_uvWJq-K_2BI.rAiR3NelC5-O5Utj8SKh5429oBrnvhirx4Tk57FJ0QQ&dib_tag=se&keywords=norman+fucking+rockwell&qid=1783266919&sprefix=norman+fucking+rockwell%2Caps%2C206&sr=8-1",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Norman-Fucking-Rockwell-Lana-Del/dp/B07VBH59H1/ref=tmm_acd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.pDEXbLoOgCQPHmRvyEje0Ve8uL_5Vf8YjfeCZjVfH4lnrAWPEPB1dzF81n1EJxsR5YzE_VEFMgOxWQ6ba42ImlSyQlsfx1dk4s2ZPeBsUQ78Y85xAm08z0ncBEVhIuV1VCxg9aX6tIg9AuZMJtF6klB_xv6q62IPPcE0sRL8Ya_XYQKYBmTo2MdPgAIFYZwfYn3_RH8S4XWyON3oarDA001xcgqeoqcOexJGKDpE-2kU5uQ5Q-1N8zdXN3A6bCUg535DcdcuXpHEZ6jzVEdPkRTHTnsZ9Fv_uvWJq-K_2BI.rAiR3NelC5-O5Utj8SKh5429oBrnvhirx4Tk57FJ0QQ&qid=1783266919&sr=8-1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }     
+  ],
+
+  "discography": [
+    {
+      "id": "norman-fucking-rockwell",
+      "title": "Norman Fucking Rockwell!",
+      "year": 2019,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "/covers/lana-del-rey-norman-fucking-rockwell.jpg"
+    },
+    {
+      "id": "lust-for-life",
+      "title": "Lust for Life",
+      "year": 2017,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "https://coverartarchive.org/release-group/4f2ec6cd-b15f-4c53-af6e-f8848811b902/front"
+    },
+    {
+      "id": "honeymoon",
+      "title": "Honeymoon",
+      "year": 2015,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://coverartarchive.org/release-group/5807cfc1-387e-4dd5-bfe9-b53d312c7e82/front"
+    },
+    {
+      "id": "ultraviolence",
+      "title": "Ultraviolence",
+      "year": 2014,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/9d9b3ac3-e630-4644-92c7-fb14d4d68d86/front"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "led-zeppelin-led-zeppelin",
+  "number": "073",
+  "publishedAt": "2026-07-10",
+  "artist": {
+    "name": "LED ZEPPELIN",
+    "origin": "Londres, Royaume-Uni"
+  },
+
+  "featuredAlbum": {
+    "id": "led-zeppelin",
+    "title": "Led Zeppelin",
+    "year": 1969,
+    "label": "Atlantic Records",
+    "genres": [
+      "Hard rock",
+      "Blues rock",
+      "Rock"
+    ],
+
+    "trackCount": 9,
+    "type": "Album",
+    "coverUrl": "/covers/led-zeppelin-led-zeppelin.jpg"
+  },
+
+  "meta": "1969 · Atlantic Records · Hard rock · Blues rock · Royaume-Uni",
+
+  "editorial": [
+    "Paru en 1969, Led Zeppelin est l’un des premiers albums les plus marquants de l’histoire du rock. Dès ce disque fondateur, Jimmy Page, Robert Plant, John Paul Jones et John Bonham imposent une identité sonore révolutionnaire qui mêle blues, hard rock, folk et psychédélisme. L’énergie brute du groupe, associée à une virtuosité exceptionnelle, ouvre la voie à toute une génération de musiciens.",
+    "Chaque morceau révèle une facette du talent collectif de Led Zeppelin. Les riffs puissants de Jimmy Page, la voix incandescente de Robert Plant, la précision rythmique de John Bonham et la polyvalence de John Paul Jones donnent naissance à un album aussi explosif qu’inspiré. Sans jamais renier ses racines blues, le groupe invente un langage musical nouveau qui influencera durablement le rock des décennies suivantes.",
+    "Plus d’un demi-siècle après sa sortie, Led Zeppelin conserve toute sa force et son pouvoir de fascination. Il demeure une référence incontournable pour comprendre l’évolution du rock moderne. En ce vendredi, alors que le week-end s’annonce, cet album offre l’énergie parfaite pour conclure la semaine avec puissance, liberté et une irrésistible envie de monter le volume."
+  ],
+
+  "video": {
+    "youtubeId": "wO6bRjcyQN8",
+    "title": "Babe I'm Gonna Leave You — Led Zeppelin · Led Zeppelin, 1969"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/1J8QW9qsMLx3staWaHpQmU?si=wSei_y4CRzyvudR34BaRHg",
+    "appleMusic": "https://music.apple.com/fr/album/led-zeppelin-remastered/580708520",
+    "deezer": "https://link.deezer.com/s/33Kh6IFO0JwkIrFEOGyyq",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_myknz_P4NL6gCh7eixdDY1RefSrQEHZik&si=AattN_OR-y0-PT2h"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a7055375/Led-Zeppelin-Led-Zeppelin-I-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },  
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a7055377/Led-Zeppelin-Led-Zeppelin-I-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },      
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Led-Zeppelin-Version-Remasteris%C3%A9-Vinyle/dp/B00IXHBMLS/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=O4Y6MPVVO50&dib=eyJ2IjoiMSJ9.OULUmxhw7g2gjOoaj1rEA1EqfoaThf-vohDS-J3FCzVUS9O9PtqDONziLg4vM1bZttbCDsmOvsSWfR_JVGraWBe_R30aRjddiGA8GFopI4q_SQEObBXppVy4yCMt9ZUsiZUI8aqKPyfmme9BIeKDrOmvEsZR9w7r-_yUekFLa7fUfnDecYAnBf6YW5GmSs2ZlTUXbTEX65LN7eWDfzGbOwSyFqQ1nbc-ICjuN7HnV3wFlFNJHyf22obKrKwlbKxWOeI9MMHyQ4JjmwoXKDTyMM0t7Nljlp3mwZVQZeV_HBA.Wq42JVELtIXGmScs96uKc3dcYoJRvxWrHSbrS80UfyU&dib_tag=se&keywords=led+zeppelin+1+vinyle&qid=1783267073&sprefix=led+zeppelin+1+viny%2Caps%2C213&sr=8-1",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Led-Zeppelin-Version-Remasteris%C3%A9e-CD/dp/B00IXHBHGI/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=12LU528ALCV9J&dib=eyJ2IjoiMSJ9.vrk_8yHxLseokm1S3sxFtoM2RU_3JDQiar96gIlPkKgN-tFelA8atAcpTccbbtCTzlqCsBSsUhhW1GoJdKHjlEBl0ms2SZqA9MnmdxY0WBEYSA10kci6lg9t-z2tBDX9tCbzbjIx7_UolZzuUTjvwrJPkS6vevvPUnEdc2XMp1bwi8KRbun3MF5kDJeITHV9qU2VXTH5sZPpyl4PRb-6rdOFTTuveZG57TGqnoPK21ggdGer9fZ4YopbUwpAbkzmC50Z-MZk90ft9aRX-Wzg8nb87l_nRyihA50dd7SqdiI.efDXyuY5q45TLZl1SPRVK--GSj4HFv0mq4dGYrvrgvU&dib_tag=se&keywords=led+zeppelin+1+cd&qid=1783267101&sprefix=led+zeppelin+1+c%2Caps%2C168&sr=8-1",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }     
+  ],
+
+  "discography": [
+    {
+      "id": "led-zeppelin",
+      "title": "Led Zeppelin",
+      "year": 1969,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "/covers/led-zeppelin-led-zeppelin.jpg"
+    },
+    {
+      "id": "led-zeppelin-ii",
+      "title": "Led Zeppelin II",
+      "year": 1969,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "https://coverartarchive.org/release-group/33b4653d-006e-3cc1-8afb-386b15a6cd6e/front"
+    },
+    {
+      "id": "led-zeppelin-iii",
+      "title": "Led Zeppelin III",
+      "year": 1970,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/53f80f76-f8af-3558-bfd5-e7221e055c75/front"
+    },
+    {
+      "id": "led-zeppelin-iv",
+      "title": "Led Zeppelin IV",
+      "year": 1971,
+      "type": "Album",
+      "trackCount": 8,
+      "coverUrl": "https://coverartarchive.org/release-group/2e61da88-39e9-3473-81d2-c964cb394952/front"
+    }
+  ]
+}
