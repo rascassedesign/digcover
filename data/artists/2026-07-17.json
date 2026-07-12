@@ -1,0 +1,103 @@
+{
+  "id": "m83-hurry-up-were-dreaming",
+  "number": "078",
+  "publishedAt": "2026-07-16",
+  "artist": {
+    "name": "M83",
+    "origin": "Antibes, France"
+  },
+
+  "featuredAlbum": {
+    "id": "hurry-up-were-dreaming",
+    "title": "Hurry Up, We're Dreaming",
+    "year": 2011,
+    "label": "Naïve",
+    "genres": [
+      "Synth-pop",
+      "Dream Pop",
+      "Électronique"
+    ],
+
+    "trackCount": 22,
+    "type": "Album",
+    "coverUrl": "/covers/m83-hurry-up-were-dreaming.jpg"
+  },
+
+  "meta": "2011 · Naïve · Synth-pop · Dream Pop · France",
+
+  "editorial": [
+    "Avec Hurry Up, We’re Dreaming, paru en 2011, Anthony Gonzalez livre sans doute l’œuvre la plus ambitieuse de M83. Pensé comme un double album, ce projet monumental célèbre les souvenirs d’enfance, la puissance de l’imaginaire et la beauté de la nostalgie. Entre synthpop, shoegaze, ambient et rock électronique, le musicien français compose une fresque sonore où chaque morceau semble ouvrir les portes d’un nouvel univers. Plus qu’un album, Hurry Up, We’re Dreaming est une véritable expérience immersive.",
+    "Porté par des titres devenus incontournables comme « Midnight City », « Reunion », « Wait » ou « Steve McQueen », le disque alterne envolées épiques, respirations contemplatives et montées en puissance d’une rare intensité. Anthony Gonzalez y démontre un talent exceptionnel pour créer des paysages sonores où les synthétiseurs dialoguent avec les guitares, les chœurs et les orchestrations. Derrière cette ampleur cinématographique se cache pourtant une émotion profondément intime, celle des souvenirs, des rêves et du temps qui passe.",
+    "Plus d’une décennie après sa sortie, Hurry Up, We’re Dreaming continue de fasciner par son ambition et son pouvoir évocateur. Peu d’albums parviennent à transmettre avec autant de justesse cette sensation de liberté, d’émerveillement et de mélancolie. Une œuvre majeure qui rappelle que la musique est parfois le plus beau moyen de voyager, non pas vers un lieu, mais vers les émotions que l’on croyait oubliées."
+  ],
+
+  "video": {
+    "youtubeId": "dX3k_QDnzHE",
+    "title": "Midnight City — M83 · Hurry Up, We're Dreaming, 2011"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/6R0ynY7RF20ofs9GJR5TXR",
+    "appleMusic": "https://music.apple.com/fr/album/hurry-up-were-dreaming/828259375",
+    "deezer": "https://www.deezer.com/fr/album/9358242",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lLGsT6ZVnWyAwEu1CRkZBTLvvloriMRsk"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a22246490/M83-Hurry-Up-We-re-Dreaming-Vinyle-Rose-et-Bleu-Vinyle-album",
+      "format": "Vinyle Édition Colorée Rose et Bleu",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },  
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a4707415/M83-Hurry-up-we-re-dreaming-Vinyle-album",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },     
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a22246489/M83-Hurry-Up-We-re-Dreaming-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },      
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Hurry-Dreaming-%C3%89dition-Collector-Limit%C3%A9e/dp/B09NH479PK",
+      "format": "Vinyle Édition Colorée Rose et Bleu",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }   
+  ],
+
+  "discography": [
+    {
+      "id": "hurry-up-were-dreaming",
+      "title": "Hurry Up, We're Dreaming",
+      "year": 2011,
+      "type": "Album",
+      "trackCount": 22,
+      "coverUrl": "/covers/m83-hurry-up-were-dreaming.jpg"
+    },
+    {
+      "id": "saturdays-youth",
+      "title": "Saturdays = Youth",
+      "year": 2008,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/81fa7a0e-451f-3e51-8bc8-b8ab2b599bf0/front"
+    },
+    {
+      "id": "before-the-dawn-heals-us",
+      "title": "Before the Dawn Heals Us",
+      "year": 2005,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "https://coverartarchive.org/release-group/ddaa2d4d-314e-3e7c-b1d0-f6d207f5aa2f/front"
+    }
+  ]
+}

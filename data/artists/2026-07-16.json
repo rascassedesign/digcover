@@ -1,0 +1,89 @@
+{
+  "id": "bahamadia-kollage",
+  "number": "077",
+  "publishedAt": "2026-07-16",
+  "artist": {
+    "name": "BAHAMADIA",
+    "origin": "Philadelphie, États-Unis"
+  },
+
+  "featuredAlbum": {
+    "id": "kollage",
+    "title": "Kollage",
+    "year": 1996,
+    "label": "Chrysalis",
+    "genres": [
+      "Hip-Hop",
+      "Alternative Hip-Hop",
+      "Boom Bap"
+    ],
+
+    "trackCount": 15,
+    "type": "Album",
+    "coverUrl": "/covers/bahamadia-kollage.jpg"
+  },
+
+  "meta": "1996 · Chrysalis · Hip-Hop · Boom Bap · États-Unis",
+
+  "editorial": [
+    "Paru en 1996, Kollage est l’un des joyaux les plus discrets mais aussi les plus influents de l’âge d’or du hip-hop américain. Avec ce premier album, Bahamadia impose une voix singulière dans un paysage encore largement dominé par les hommes. Originaire de Philadelphie, elle développe un style immédiatement reconnaissable, mêlant un flow d’une fluidité remarquable à une écriture élégante, introspective et profondément maîtrisée.",
+    "Entourée de producteurs prestigieux tels que DJ Premier, Guru ou encore The Roots, Bahamadia évolue sur des instrumentaux aux influences jazz qui mettent parfaitement en valeur son phrasé posé. Sans jamais hausser le ton, elle affirme une présence magnétique et aborde avec finesse des thèmes tels que l’indépendance, la confiance en soi, la création artistique ou la place des femmes dans le hip-hop. Cette retenue confère à l’album une force tranquille qui continue de séduire près de trente ans après sa sortie.",
+    "Kollage demeure une référence incontournable pour tous ceux qui apprécient un rap où la musicalité des mots compte autant que leur sens. Son influence se retrouve aujourd’hui chez de nombreuses artistes qui revendiquent l’héritage de Bahamadia. Plus qu’un classique du rap indépendant, cet album est la démonstration qu’une écriture subtile et une personnalité affirmée peuvent laisser une empreinte durable dans l’histoire du hip-hop."
+  ],
+
+  "video": {
+    "youtubeId": "YNyear9O1Qo",
+    "title": "Uknowhowwedu — Bahamadia · Kollage, 1996"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/4ioG1W3KU4WBhYlwEBp7BA",
+    "appleMusic": "https://music.apple.com/fr/album/kollage/724462403",
+    "deezer": "https://www.deezer.com/fr/album/322203",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mL9ObcAXeKeY7auF6BfYYCrMOIuy32yl8&si=J-q7mp3mjUTwXEGV"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a9847052/Bahamadia-Kollage-Vinyle-album",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },      
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Bahamadia-Kollage/dp/B0CT11VW4R",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }   
+  ],
+
+  "discography": [
+    {
+      "id": "kollage",
+      "title": "Kollage",
+      "year": 1996,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "/covers/bahamadia-kollage.jpg"
+    },
+    {
+      "id": "good-rap-music",
+      "title": "Good Rap Music",
+      "year": 2005,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-BAHAMADIA-GOOD-RAP-MUSIC]/front"
+    },
+    {
+      "id": "bb-queen",
+      "title": "BB Queen",
+      "year": 2000,
+      "type": "EP",
+      "trackCount": 7,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-BAHAMADIA-BB-QUEEN]/front"
+    }
+  ]
+}

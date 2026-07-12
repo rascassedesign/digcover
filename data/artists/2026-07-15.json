@@ -1,0 +1,126 @@
+{
+  "id": "green-day-nimrod",
+  "number": "076",
+  "publishedAt": "2026-07-15",
+  "artist": {
+    "name": "GREEN DAY",
+    "origin": "Berkeley, États-Unis"
+  },
+
+  "featuredAlbum": {
+    "id": "nimrod",
+    "title": "Nimrod",
+    "year": 1997,
+    "label": "Reprise",
+    "genres": [
+      "Pop Punk",
+      "Punk Rock",
+      "Alternative Rock"
+    ],
+
+    "trackCount": 18,
+    "type": "Album",
+    "coverUrl": "/covers/green-day-nimrod.jpg"
+  },
+
+  "meta": "1997 · Reprise · Pop Punk · Punk Rock · États-Unis",
+
+  "editorial": [
+    "Sorti en 1997, Nimrod marque une étape décisive dans la carrière de Green Day. Après avoir imposé le punk rock au grand public avec Dookie puis confirmé son succès avec Insomniac, le trio californien choisit d’élargir son horizon musical. Sans renier son énergie ni son insolence, le groupe explore ici des influences pop, folk, surf rock, ska ou encore rockabilly, démontrant une ambition artistique qui dépasse largement les codes du punk traditionnel.",
+    "Bien sûr, l’album restera associé à « Good Riddance (Time of Your Life) », devenue l’une des chansons les plus emblématiques des années 1990. Mais Nimrod ne se résume pas à ce classique. Des morceaux comme « Hitchin’ a Ride », « Nice Guys Finish Last » ou « Redundant » témoignent de la richesse d’un disque où Billie Joe Armstrong alterne humour, mélancolie et regard lucide sur le passage à l’âge adulte. La complicité avec Mike Dirnt et Tré Cool permet au groupe de naviguer avec aisance entre les styles sans jamais perdre sa cohérence.",
+    "Près de trente ans après sa sortie, Nimrod apparaît comme l’un des albums les plus audacieux de Green Day. Il a ouvert la voie à la maturité artistique qui culminera quelques années plus tard avec American Idiot. Une œuvre charnière qui prouve qu’évoluer sans renier son identité est souvent le plus beau des défis."
+  ],
+
+  "video": {
+    "youtubeId": "CnQ8N1KacJc",
+    "title": "Good Riddance (Time of Your Life) — Green Day · Nimrod, 1997"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/3x2uer6Xh0d5rF8toWpRDA",
+    "appleMusic": "https://music.apple.com/fr/album/nimrod/1159778204",
+    "deezer": "https://www.deezer.com/fr/album/91258",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nALXtvN4rRXq8IpDbSSlYTuTcO4L4YBGE"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a15912306/Green-Day-Nimrod-Vinyle-album",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    }, 
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a17468477/Green-Day-Nimrod-25eme-Anniversaire-Edition-Limitee-Exclusivite-Fnac-Vinyle-Colore-Coffret-Collector-Vinyle-album",
+      "format": "Vinyle Édition Collector Transparent",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    }, 
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a17457471/Green-Day-Nimrod-25eme-Anniversaire-Edition-Limitee-Coffret-Vinyle-album",
+      "format": "Vinyle Édition Collector Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },          
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a709442/Green-Day-Nimrod-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },  
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a17457472/Green-Day-Nimrod-25eme-Anniversaire-Edition-Limitee-Coffret-CD-album",
+      "format": "Coffret CD Édition Limitée",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },        
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Nimrod-Green-Day/dp/B0923WLHMV",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Nimrod-Green-Day/dp/B000002NIH/ref=tmm_acd_swatch_0",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }      
+  ],
+
+  "discography": [
+    {
+      "id": "nimrod",
+      "title": "Nimrod",
+      "year": 1997,
+      "type": "Album",
+      "trackCount": 18,
+      "coverUrl": "/covers/green-day-nimrod.jpg"
+    },
+
+    {
+      "id": "insomniac",
+      "title": "Insomniac",
+      "year": 1995,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://coverartarchive.org/release-group/061f572e-7660-3c6b-b4cd-cf66d46da93c/front"
+    },
+
+    {
+      "id": "dookie",
+      "title": "Dookie",
+      "year": 1994,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "https://coverartarchive.org/release-group/314cffd4-daa5-3337-85e5-e54165a96113/front"
+    }
+  ]
+}

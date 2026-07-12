@@ -1,0 +1,103 @@
+{
+  "id": "raye-this-music-may-contain-hope",
+  "number": "074",
+  "publishedAt": "2026-07-13",
+  "artist": {
+    "name": "RAYE",
+    "origin": "Londres, Royaume-Uni"
+  },
+
+  "featuredAlbum": {
+    "id": "this-music-may-contain-hope",
+    "title": "This Music May Contain Hope.",
+    "year": 2026,
+    "label": "Human Re Sources",
+    "genres": [
+      "Pop",
+      "R&B",
+      "Soul"
+    ],
+
+    "trackCount": 17,
+    "type": "Album",
+    "coverUrl": "/covers/raye-this-music-may-contain-hope.jpg"
+  },
+
+  "meta": "2026 · Human Re Sources · Pop · R&B · Royaume-Uni",
+
+  "editorial": [
+    "Avec This Music May Contain Hope., RAYE poursuit son émancipation artistique en livrant une œuvre d’une sincérité bouleversante. Après avoir repris le contrôle de sa carrière et affirmé son indépendance, l’artiste britannique confirme qu’elle est bien plus qu’une interprète à succès : elle est une autrice-compositrice capable de transformer ses expériences les plus personnelles en chansons d’une portée universelle. Entre pop, soul, jazz, R&B et influences électroniques, cet album révèle une artiste qui n’a jamais autant assumé sa vulnérabilité et sa liberté créative.",
+    "Tout au long du disque, RAYE aborde avec une honnêteté désarmante les thèmes de la santé mentale, des blessures intimes, de l’amour, de la reconstruction et de l’espoir. Sa voix, aussi puissante que nuancée, navigue avec aisance entre fragilité et intensité, portée par des arrangements sophistiqués qui servent toujours l’émotion sans jamais l’éclipser. Loin des formats calibrés qui ont longtemps marqué une partie de sa carrière, elle signe ici une œuvre profondément personnelle où chaque titre semble raconter un chapitre de son parcours.",
+    "This Music May Contain Hope. s’impose comme un album courageux, où la sensibilité devient une véritable force créative. Plus qu’une simple collection de chansons, c’est le témoignage d’une artiste qui a choisi de faire de sa vérité son plus bel instrument. Notre coup de cœur de la semaine, un disque qui rappelle avec éclat que la musique peut apaiser, questionner, réparer et, surtout, redonner espoir."
+  ],
+
+  "video": {
+    "youtubeId": "rK5TyISxZ_M",
+    "title": "Where Is My Husband! — RAYE · This Music May Contain Hope., 2026"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/3ZN01xzenGMhWHdC5kfAe9",
+    "appleMusic": "https://music.apple.com/fr/album/this-music-may-contain-hope/1871085677",
+    "deezer": "https://www.deezer.com/fr/album/945900541",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nurfX6_Jd781oC26mBh65AeJ-j_lp9Fi8"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a22580392/Raye-This-Music-May-Contain-Hope-Vinyle-Jaune-Vinyle-album",
+      "format": "Vinyle Édition Colorée Jaune",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },  
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a22580391/Raye-This-Music-May-Contain-Hope-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },      
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/This-Music-May-Contain-Hope/dp/B0GHPNJ4ML",
+      "format": "Vinyle Édition Colorée Jaune",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/This-Music-May-Contain-Hope/dp/B0GHP6C4W7/ref=tmm_acd_swatch_0",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }      
+  ],
+
+  "discography": [
+    {
+      "id": "this-music-may-contain-hope",
+      "title": "This Music May Contain Hope.",
+      "year": 2026,
+      "type": "Album",
+      "trackCount": 17,
+      "coverUrl": "/covers/raye-this-music-may-contain-hope.jpg"
+    },
+    {
+      "id": "my-21st-century-blues",
+      "title": "My 21st Century Blues",
+      "year": 2023,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "https://coverartarchive.org/release-group/c9018967-1382-47e4-87ac-486a824cd81d/front"
+    },
+    {
+      "id": "euphoric-sad-songs",
+      "title": "Euphoric Sad Songs",
+      "year": 2020,
+      "type": "EP",
+      "trackCount": 9,
+      "coverUrl": "https://coverartarchive.org/release-group/9616caf6-2540-4c8b-9bcb-653e043b09b8/front"
+    }
+  ]
+}

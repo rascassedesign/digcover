@@ -1,0 +1,88 @@
+{
+  "id": "hers-songs-of-hers",
+  "number": "075",
+  "publishedAt": "2026-07-14",
+  "artist": {
+    "name": "HER'S",
+    "origin": "Liverpool, Royaume-Uni"
+  },
+
+  "featuredAlbum": {
+    "id": "songs-of-hers",
+    "title": "Songs of Her's",
+    "year": 2017,
+    "label": "Heist or Hit",
+    "genres": [
+      "Indie Pop",
+      "Dream Pop",
+      "Slacker Rock"
+    ],
+
+    "trackCount": 9,
+    "type": "Compilation",
+    "coverUrl": "/covers/hers-songs-of-hers.jpg"
+  },
+
+  "meta": "2017 · Heist or Hit · Indie Pop · Dream Pop · Royaume-Uni",
+
+  "editorial": [
+    "Paru en 2017, Songs of Her’s révèle tout le talent du duo britannique Her’s, composé de Stephen Fitzpatrick et Audun Laading. Entre dream pop, indie rock et jangle pop, les deux musiciens développent une esthétique délicate où les mélodies lumineuses, les guitares cristallines et les harmonies vocales construisent un univers immédiatement attachant. Dès les premières chansons, le groupe impose une identité singulière, faite de douceur, de nostalgie et d’une élégance mélodique qui semble hors du temps.",
+    "L’album séduit par sa capacité à transformer des scènes du quotidien en instants suspendus. Les arrangements minimalistes laissent respirer les compositions, tandis que l’écriture privilégie les émotions sincères plutôt que les démonstrations. Derrière cette apparente simplicité se cache un véritable sens de la composition, où chaque détail contribue à créer une atmosphère chaleureuse et profondément humaine. Les influences des années 1960 et 1980 s’y mêlent avec naturel, donnant naissance à une pop à la fois moderne et intemporelle.",
+    "L’écoute de Songs of Her’s revêt aujourd’hui une dimension particulièrement émouvante depuis la disparition tragique des deux musiciens en 2019. Leur héritage musical continue pourtant de toucher de nouveaux auditeurs, preuve que les belles chansons traversent le temps sans perdre de leur éclat. Cet album demeure le témoignage précieux d’un duo au talent immense, dont la sensibilité continue de résonner bien au-delà de son époque."
+  ],
+
+  "video": {
+    "youtubeId": "YOMJHHKtKeA",
+    "title": "She needs Him — Her's · Songs of Her's, 2017"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/03gwRG5IvkStFnjPmgjElw",
+    "appleMusic": "https://music.apple.com/fr/album/songs-of-hers/1206909430",
+    "deezer": "https://www.deezer.com/fr/album/15257851",
+    "youtubeMusic": "https://music.youtube.com/browse/MPREb_BLLOO6KKROY"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a10581365/Her-s-Songs-Of-Her-s-Vinyle-album",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },  
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a10581359/Her-s-Songs-Of-Her-s-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },      
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Songs-Hers/dp/B06XKZ493S/ref=tmm_acd_swatch_0",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }      
+  ],
+
+  "discography": [
+    {
+      "id": "songs-of-hers",
+      "title": "Songs of Her's",
+      "year": 2017,
+      "type": "Compilation",
+      "trackCount": 9,
+      "coverUrl": "/covers/hers-songs-of-hers.jpg"
+    },
+    {
+      "id": "invitation-to-hers",
+      "title": "Invitation to Her's",
+      "year": 2018,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-HERS-INVITATION-TO-HERS]/front"
+    }
+  ]
+}
