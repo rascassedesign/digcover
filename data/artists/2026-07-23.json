@@ -1,0 +1,106 @@
+{
+  "id": "blink-182-take-off-your-pants-and-jacket",
+  "number": "082",
+  "publishedAt": "2026-07-23",
+
+  "artist": {
+    "name": "BLINK-182",
+    "origin": "San Diego, États-Unis"
+  },
+
+  "featuredAlbum": {
+    "id": "take-off-your-pants-and-jacket",
+    "title": "Take Off Your Pants and Jacket",
+    "year": 2001,
+    "label": "MCA Records",
+    "genres": ["Pop-punk", "Punk rock", "Post-hardcore"],
+    "trackCount": 18,
+    "type": "Album",
+    "coverUrl": "/covers/blink-182-take-off-your-pants-and-jacket.jpg"
+  },
+
+  "meta": "2001 · MCA Records · Pop-punk · Punk rock · États-Unis",
+
+  "editorial": [
+    "En 2001, Blink-182 se trouve à un moment charnière de sa carrière. Le triomphe de Enema of the State a propulsé le trio californien au rang de phénomène mondial, mais il lui reste à prouver qu’il peut dépasser l’image d’un groupe cantonné aux plaisanteries potaches. Avec Take Off Your Pants and Jacket, Mark Hoppus, Tom DeLonge et Travis Barker relèvent ce défi en signant un troisième album majeur qui conserve l’énergie juvénile de leurs débuts tout en affichant une maturité nouvelle. Derrière son titre à double sens, fidèle à l’humour du groupe, se cache une œuvre qui marque l’apogée de la première grande période de Blink-182 et prépare déjà les évolutions plus introspectives de leur album suivant.",
+    "Musicalement, le disque affine la recette pop-punk qui a fait leur succès. Les guitares gagnent en ampleur, la production de Jerry Finn se montre plus ambitieuse et la section rythmique emmenée par Travis Barker atteint un niveau de précision impressionnant. Des hymnes comme « The Rock Show », « First Date » ou « Stay Together for the Kids » illustrent la diversité du répertoire. Si les deux premiers célèbrent avec fraîcheur les premiers émois amoureux, le troisième révèle une facette plus grave, abordant les fractures familiales avec une sincérité inattendue. Cette alternance entre mélodies immédiates, refrains fédérateurs et textes plus personnels donne au disque une profondeur qui dépasse largement les clichés associés au pop-punk du début des années 2000.",
+    "Plus de vingt ans après sa sortie, Take Off Your Pants and Jacket demeure une référence incontournable du genre. Son influence est perceptible chez de nombreuses formations qui ont repris à leur compte cet équilibre entre énergie, mélodie et émotion. L’album rappelle surtout que Blink-182 a su transformer une musique adolescente en véritable phénomène générationnel. En ce jeudi, il offre la bande-son idéale pour retrouver un peu de cette insouciance qui aide à franchir la dernière ligne droite avant le week-end."
+  ],
+
+  "video": {
+    "youtubeId": "vVy9Lgpg1m8",
+    "title": "First Date — Blink-182 · Take Off Your Pants and Jacket, 2001"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/3nHpBmW5wJXGeC3ojBkpey",
+    "appleMusic": "https://music.apple.com/us/album/take-off-your-pants-and-jacket/1440844785?l=fr-FR",
+    "deezer": "https://www.deezer.com/us/album/320871787",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lK3ZyTSXn1_2wUGGWvubimc0_HDAQZVMU"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a5911531/Blink-182-Take-off-your-pants-and-jacket-ed-deluxe-Vinyle-album",
+      "format": "Vinyle Édition Deluxe",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },  
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a10083448/Blink-182-Take-Off-Your-Pants-And-Jacket-Vinyle-album",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },     
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a1212039/Blink-182-Take-off-your-pants-and-jacket-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },      
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Take-Your-Pants-Jacket-vinyle/dp/B01K788XEE/ref=tmm_vnl_swatch_0",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Take-Off-Your-Pants-Jacket/dp/B00005KJ3P/ref=tmm_acd_swatch_0",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }         
+  ],
+
+  "discography": [
+    {
+      "id": "blink-182-blink-182",
+      "title": "blink-182",
+      "year": 2003,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "https://coverartarchive.org/release-group/04e0cb66-e8ee-38b9-863d-b4f21dee887d/front"
+    },
+    {
+      "id": "take-off-your-pants-and-jacket",
+      "title": "Take Off Your Pants and Jacket",
+      "year": 2001,
+      "type": "Album",
+      "trackCount": 18,
+      "coverUrl": "/covers/blink-182-take-off-your-pants-and-jacket.jpg"
+    },
+    {
+      "id": "blink-182-enema-of-the-state",
+      "title": "Enema of the State",
+      "year": 1999,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://coverartarchive.org/release-group/cd367c59-eb86-384b-bbc7-62f6d2d677b9/front"
+    }
+  ]
+}

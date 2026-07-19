@@ -1,0 +1,85 @@
+{
+  "id": "birdy-nam-nam-manual-for-successful-rioting",
+  "number": "079",
+  "publishedAt": "2026-07-20",
+
+  "artist": {
+    "name": "BIRDY NAM NAM",
+    "origin": "Paris, France"
+  },
+
+  "featuredAlbum": {
+    "id": "manual-for-successful-rioting",
+    "title": "Manual For Successful Rioting",
+    "year": 2009,
+    "label": "Has Been",
+    "genres": ["Électro", "Turntablism", "Dance"],
+    "trackCount": 11,
+    "type": "Album",
+    "coverUrl": "/covers/birdy-nam-nam-manual-for-successful-rioting.jpg"
+  },
+
+  "meta": "2009 · Has Been · Électro · Turntablism · France",
+
+  "editorial": [
+    "Au tournant des années 2010, Birdy Nam Nam n’a déjà plus rien à prouver sur scène. Sacré champion du monde DMC en équipe en 2002, le quatuor français composé de Crazy B, DJ Need, Little Mike et DJ Pone a contribué à redéfinir le turntablism en le faisant basculer du simple exercice de virtuosité vers une véritable écriture musicale. Avec Manual for Successful Rioting, paru en 2009, le groupe franchit une nouvelle étape. Plus ambitieux que son premier album éponyme, ce deuxième opus confirme que les platines peuvent être le cœur d’un projet électronique aussi riche qu’un groupe traditionnel. C’est sans doute l’œuvre qui cristallise le mieux leur identité : spectaculaire, inventive et profondément cinématographique.",
+    "Derrière son titre malicieusement provocateur, l’album déploie une palette sonore impressionnante. Les scratches y dialoguent avec des beats massifs, des nappes synthétiques et une production d’une précision remarquable. Birdy Nam Nam ne se contente pas d’aligner les démonstrations techniques : chaque morceau possède sa propre narration. Des titres comme « The Parachute Ending », « Trans Boulogne Express » ou « L’Interlude » illustrent cette capacité à alterner tension, mélodie et puissance rythmique. Les influences du hip-hop, de l’electro, du breakbeat et même de la musique de film se mêlent avec une fluidité qui échappe aux catégories habituelles. L’ensemble conserve une énergie brute sans jamais sacrifier la finesse des arrangements.",
+    "Plus de quinze ans après sa sortie, Manual for Successful Rioting reste une référence de la scène électronique française. Il témoigne d’une époque où l’expérimentation pouvait encore rencontrer un véritable écho populaire, tout en inspirant une génération de producteurs à dépasser les frontières stylistiques. Son audace n’a rien perdu de sa modernité et rappelle que la technique n’a de valeur que lorsqu’elle sert une vision artistique. Pour ouvrir cette semaine musicale, difficile d’imaginer un meilleur disque : un lundi placé sous le signe de l’inventivité et de l’énergie."
+  ],
+
+  "video": {
+    "youtubeId": "3JJsq0GbpPg",
+    "title": "Parachute Ending — Birdy Nam Nam · Manual For Successful Rioting, 2009"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/1uLkhIRNS69RiEBwiHhAHN",
+    "appleMusic": "https://music.apple.com/us/album/manual-for-successful-rioting/300291059",
+    "deezer": "https://www.deezer.com/en/album/261135",
+    "youtubeMusic": "https://www.youtube.com/playlist?list=OLAK5uy_l6QhYfyM3msiCQZBgTBsTSIGdoHXadNec"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a15701288/Birdy-Nam-Nam-Manual-For-Successful-Rioting-Edition-Limitee-Vinyle-Blanc-Vinyle-album",
+      "format": "Vinyle Édition Colorée Blanc",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },  
+   {
+      "shop": "Fnac",
+      "url": "https://musique.fnac.com/a2527867/Birdy-Nam-Nam-Manual-for-successful-rioting-Edition-collector-Inclus-Tee-Shirt-et-BD-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    }   
+  ],
+
+  "discography": [
+    {
+      "id": "manual-for-successful-rioting",
+      "title": "Manual For Successful Rioting",
+      "year": 2009,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "/covers/birdy-nam-nam-manual-for-successful-rioting.jpg"
+    },
+    {
+      "id": "birdy-nam-nam-defiant-order",
+      "title": "Defiant Order",
+      "year": 2011,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://coverartarchive.org/release-group/c50650b3-c08c-4ce8-9795-11010eb7a18c/front"
+    },
+    {
+      "id": "birdy-nam-nam-birdy-nam-nam",
+      "title": "Birdy Nam Nam",
+      "year": 2005,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "https://coverartarchive.org/release-group/f4c66bb9-0519-30b5-8b41-9da5331677dc/front"
+    }
+  ]
+}

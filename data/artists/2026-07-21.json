@@ -1,0 +1,70 @@
+{
+  "id": "ill-ainsi-soit-ill",
+  "number": "080",
+  "publishedAt": "2026-07-21",
+
+  "artist": {
+    "name": "ILL",
+    "origin": "Ménilmontant, Paris, France"
+  },
+
+  "featuredAlbum": {
+    "id": "ainsi-soit-ill",
+    "title": "Ainsi Soit-Ill",
+    "year": 2006,
+    "label": "Musicast",
+    "genres": ["Rap français", "Hip-hop", "Boom bap"],
+    "trackCount": 42,
+    "type": "Album",
+    "coverUrl": "/covers/ill-ainsi-soit-ill.jpg"
+  },
+
+  "meta": "2006 · Musicast · Rap français · Hip-hop · France",
+
+  "editorial": [
+    "Dans l’histoire du rap français, certains artistes ont marqué les esprits sans jamais rechercher la lumière. C’est le cas d’ILL, membre des X-Men, collectif incontournable de la scène underground des années 1990. Avec Ainsi Soit-ILL, il ne livre pas un album studio au sens classique, mais une compilation qui retrace une partie de son parcours à travers des titres devenus rares, des collaborations et plusieurs morceaux emblématiques. Plus qu’une simple rétrospective, cette sortie remet en perspective le travail d’un lyriciste dont la plume a largement contribué à forger l’identité des X-Men et, plus largement, d’une génération de rappeurs attachés à l’exigence d’écriture et à l’indépendance artistique.",
+    "À l’écoute, Ainsi Soit-ILL met en évidence la constance d’un style façonné par les codes du boom bap des années 1990. Les productions reposent sur des samples soul et jazz, des batteries sèches et des basses profondes qui laissent toute leur place aux textes. ILL s’y distingue par un flow précis, une diction limpide et une écriture riche en images, où les jeux de rimes côtoient des observations du quotidien avec une grande maîtrise. Les collaborations rappellent également l’effervescence créative de la scène indépendante de l’époque, lorsque les invités venaient prolonger une vision commune plutôt que multiplier les apparitions opportunistes. Malgré la diversité des périodes représentées, l’ensemble conserve une remarquable cohérence artistique.",
+    "Aujourd’hui, Ainsi Soit-ILL constitue bien davantage qu’une compilation destinée aux collectionneurs. Le disque permet de redécouvrir un MC dont l’influence dépasse largement sa notoriété et rappelle combien les X-Men ont participé à définir une certaine idée du rap français : technique, littéraire et profondément authentique. À l’heure où les classiques underground retrouvent une nouvelle visibilité auprès des jeunes générations, cette compilation prend tout son sens. Un excellent choix pour un mardi, celui où l’on prend le temps de revisiter les fondations d’un hip-hop qui continue d’inspirer les amoureux des belles plumes."
+  ],
+
+  "video": {
+    "youtubeId": "I7ktH_uejws",
+    "title": "Les Bidons Veulent le Guidons — Ill · Ainsi Soit-Ill, 2006"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/5Qt1hdXcb2bF5fOrw1WuRZ",
+    "appleMusic": "https://music.apple.com/fr/album/ainsi-soit-ill/641469233",
+    "deezer": "",
+    "youtubeMusic": "https://www.youtube.com/playlist?list=PLO8h7IpG4_U5WI3h5mU0sHAJC9-Hvlieo"
+  },
+
+  "vinyl": [],
+
+  "discography": [
+    {
+      "id": "ill-adn-premium",
+      "title": "ADN Premium",
+      "year": 2024,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-ILL-ADN-PREMIUM]/front"
+    },
+    {
+      "id": "ainsi-soit-ill",
+      "title": "Ainsi Soit-Ill",
+      "year": 2006,
+      "type": "Album",
+      "trackCount": 42,
+      "coverUrl": "/covers/ill-ainsi-soit-ill.jpg"
+    },
+    {
+      "id": "xmen-jeunes-coupables-et-libres",
+      "title": "Jeunes, Coupables et Libres (avec X-Men)",
+      "year": 1998,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-XMEN-JEUNES-COUPABLES-ET-LIBRES]/front"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "penny-arcade-double-exposure",
+  "number": "081",
+  "publishedAt": "2026-07-22",
+
+  "artist": {
+    "name": "PENNY ARCADE",
+    "origin": "Londres, Royaume-Uni"
+  },
+
+  "featuredAlbum": {
+    "id": "double-exposure",
+    "title": "Double Exposure",
+    "year": 2026,
+    "label": "Tapete Records",
+    "genres": ["Indie pop", "Dream pop", "Lo-fi"],
+    "trackCount": 12,
+    "type": "Album",
+    "coverUrl": "/covers/penny-arcade-double-exposure.jpg"
+  },
+
+  "meta": "2026 · Tapete Records · Indie pop · Dream pop · Royaume-Uni",
+
+  "editorial": [
+    "Deux ans après Backwater Collage, James Hoare poursuit l’aventure Penny Arcade avec Double Exposure, paru en 2026 sur le label Tapete Records. Connu pour son travail au sein de Veronica Falls, Ultimate Painting ou encore The Proper Ornaments, le musicien britannique affine ici une écriture toujours plus dépouillée. Si son premier album évoquait une pop mélancolique aux accents sixties, ce successeur prend davantage de risques en reléguant les guitares au second plan pour explorer une matière sonore plus minimaliste et introspective.",
+    "Ce changement de cap ne remet pourtant jamais en cause l’ADN de Penny Arcade. Les mélodies restent au cœur du projet, mais elles s’habillent désormais de boîtes à rythmes discrètes, de claviers vaporeux et d’arrangements volontairement épurés. Cette économie de moyens crée une proximité presque intime avec l’auditeur, comme si chaque chanson avait été enregistrée dans le silence d’une chambre plutôt que dans un studio. Des morceaux comme « Regrets », « Everything’s Easy » ou « Time » illustrent cette recherche d’équilibre entre pop indépendante, dream pop et songwriting britannique. L’ensemble dégage une douceur mélancolique qui rappelle autant certaines productions de Sarah Records que le Velvet Underground le plus contemplatif, sans jamais céder au pastiche.",
+    "Avec Double Exposure, James Hoare confirme qu’il compte parmi les artisans les plus subtils de l’indie pop contemporaine. Loin des productions spectaculaires, il privilégie l’émotion, les nuances et le pouvoir des mélodies discrètes qui révèlent leur richesse au fil des écoutes. C’est précisément cette pudeur qui rend l’album si attachant et lui donne toutes les chances de traverser les années. En ce mercredi, ce disque offre une parenthèse délicate, parfaite pour ralentir le rythme et laisser les chansons s’installer durablement en mémoire."
+  ],
+
+  "video": {
+    "youtubeId": "t847YCR_-OU",
+    "title": "Rear View Mirror — Penny Arcade · Double Exposure, 2026"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/album/3eZTfWCcDyxjPgLrRfRlcq",
+    "appleMusic": "https://music.apple.com/cd/album/double-exposure/1871533372",
+    "deezer": "https://link.deezer.com/s/33SclXWe95fX5OzNVMbKU",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mwGEBjh9yHH2I8fZUo-tWXDCWfJJc6oOU&si=VJP858u4nma0cDdb"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a22599226/Penny-Arcade-Double-Exposure-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },  
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a22599217/Penny-Arcade-Double-Exposure-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    }   
+  ],
+
+  "discography": [
+    {
+      "id": "double-exposure",
+      "title": "Double Exposure",
+      "year": 2026,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "/covers/penny-arcade-double-exposure.jpg"
+    },
+    {
+      "id": "penny-arcade-backwater-collage",
+      "title": "Backwater Collage",
+      "year": 2024,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-PENNY-ARCADE-BACKWATER-COLLAGE]/front"
+    },
+    {
+      "id": "proper-ornaments-mission-bells",
+      "title": "Mission Bells (avec The Proper Ornaments)",
+      "year": 2020,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-PROPER-ORNAMENTS-MISSION-BELLS]/front"
+    }
+  ]
+}
