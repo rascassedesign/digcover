@@ -1,6 +1,7 @@
 import type { AlbumRecord } from './getArtistBySlug';
+import { SITE_URL } from './site';
 
-const SITE = 'https://digcover.fr';
+const SITE = SITE_URL;
 
 type Artist = { name: string; origin?: string };
 type FeaturedAlbum = {

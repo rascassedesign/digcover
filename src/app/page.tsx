@@ -1,6 +1,7 @@
 import { Metadata } from 'next'
 import { getAllAlbums } from '@/lib/getArtistBySlug'
 import HomeClient from './HomeClient'
+import { SITE_URL } from '@/lib/site'
 
 // Revalide toutes les 5 minutes pour capter le changement d'album du jour
 export const revalidate = 300
@@ -42,7 +43,7 @@ export async function generateMetadata(
   const coverUrl   = raw.featuredAlbum?.coverUrl ?? ''
 
   const ogImage = coverUrl.startsWith('/')
-    ? `https://digcover.fr${coverUrl}`
+    ? `${SITE_URL}${coverUrl}`
     : coverUrl
 
   const title = `${artistName} — ${albumTitle} (${albumYear})`
@@ -53,8 +54,8 @@ export async function generateMetadata(
   // version indexable de cet album (statique, JSON-LD, métadonnées riches).
   // Sinon (Home racine = album du jour), canonical sur /.
   const canonical = date
-    ? `https://digcover.fr/album/${record.slug}`
-    : 'https://digcover.fr'
+  ? `${SITE_URL}/album/${record.slug}`
+  : SITE_URL
 
   return {
     title,

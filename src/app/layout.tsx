@@ -3,6 +3,7 @@ import { Barlow_Condensed, Hanken_Grotesk } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/react'
 import { GoogleAnalytics } from '@next/third-parties/google'
 import './globals.css'
+import { SITE_URL } from '@/lib/site'
 
 // ── Fonts chargées côté serveur ─────────────────────────────
 const barlowCondensed = Barlow_Condensed({
@@ -27,7 +28,7 @@ export const metadata: Metadata = {
     template: '%s | DigCover',
   },
   description: 'Un album par jour. Une immersion visuelle et sonore dans l\'univers d\'un artiste.',
-  metadataBase: new URL('https://digcover.fr'),
+  metadataBase: new URL(SITE_URL),
   openGraph: {
     type: 'website',
     locale: 'fr_FR',
