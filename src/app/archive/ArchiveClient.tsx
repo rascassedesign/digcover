@@ -9,6 +9,7 @@ import './archive.css'
 
 interface ArchiveEntry {
   date: string
+  slug: string
   number: string
   artistName: string
   albumTitle: string
@@ -79,7 +80,7 @@ function ArchiveCard({ entry, onMouseEnter, onMouseLeave, index }: CardProps) {
 
   return (
     <Link
-      href={`/?date=${entry.date}`}
+      href={`/album/${entry.slug}`}
       className="dc-archive-card-link"
       style={{ ['--card-index' as string]: index }}
     >
@@ -118,9 +119,7 @@ function ArchiveCard({ entry, onMouseEnter, onMouseLeave, index }: CardProps) {
   )
 }
 
-export default function ArchiveClient() {
-  const [entries, setEntries] = useState<ArchiveEntry[]>([])
-  const [loading, setLoading] = useState(true)
+export default function ArchiveClient({ entries }: { entries: ArchiveEntry[] }) {
   const colorCache = useRef<Map<string, [number, number, number] | null>>(new Map())
 
   // Init thème dark par défaut + cleanup au démontage
@@ -131,23 +130,17 @@ export default function ArchiveClient() {
     }
   }, [])
 
-  // Chargement des entrées + précalcul des couleurs en arrière-plan
+// Précalcul async des couleurs dominantes
   useEffect(() => {
-    fetch('/api/archive')
-      .then(r => r.json())
-      .then(async (data: ArchiveEntry[]) => {
-        setEntries(data)
-        setLoading(false)
-        // Précalcul async des couleurs dominantes
-        for (const entry of data) {
-          if (entry.coverUrl && !colorCache.current.has(entry.coverUrl)) {
-            const color = await extractDominantColor(entry.coverUrl)
-            colorCache.current.set(entry.coverUrl, color)
-          }
+    ;(async () => {
+      for (const entry of entries) {
+        if (entry.coverUrl && !colorCache.current.has(entry.coverUrl)) {
+          const color = await extractDominantColor(entry.coverUrl)
+          colorCache.current.set(entry.coverUrl, color)
         }
-      })
-      .catch(() => setLoading(false))
-  }, [])
+      }
+    })()
+  }, [entries])
 
   const handleEnter = useCallback((coverUrl: string) => {
     const color = colorCache.current.get(coverUrl)
@@ -159,17 +152,6 @@ export default function ArchiveClient() {
   const handleLeave = useCallback(() => {
     applyDarkTheme(ARCHIVE_DEFAULT_ACCENT)
   }, [])
-
-  if (loading) {
-    return (
-      <main>
-        <Nav activePage="archive" />
-        <div className="dc-archive-loading">
-          <p>Chargement…</p>
-        </div>
-      </main>
-    )
-  }
 
   return (
     <main>
