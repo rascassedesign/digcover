@@ -1,0 +1,63 @@
+.dc-album {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 4rem 1.5rem;
+  color: rgb(var(--theme-text, 255 255 255));
+}
+
+.dc-album-kicker {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  opacity: 0.6;
+}
+
+.dc-album-h1 {
+  font-family: var(--font-display-loaded);
+  font-size: clamp(1.8rem, 5vw, 3rem);
+  line-height: 1.05;
+  margin: 0.5rem 0;
+}
+
+.dc-album-meta {
+  font-size: 0.9rem;
+  opacity: 0.7;
+}
+
+.dc-album-cover {
+  margin: 2rem 0;
+}
+.dc-album-cover img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.dc-album-editorial p {
+  line-height: 1.7;
+  margin-bottom: 1.2rem;
+}
+
+.dc-album-video h2,
+.dc-album-streaming h2,
+.dc-album-shops h2 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin: 2rem 0 0.8rem;
+}
+
+.dc-album-streaming ul,
+.dc-album-shops ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+}
+
+.dc-album-footer {
+  margin-top: 3rem;
+  display: flex;
+  gap: 2rem;
+}
