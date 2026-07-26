@@ -1,0 +1,82 @@
+{
+  "id": "the-breathing-effect-eli-and-harry",
+  "number": "084",
+  "publishedAt": "2026-07-27",
+
+  "artist": {
+    "name": "THE BREATHING EFFECT",
+    "origin": "Los Angeles, États-Unis"
+  },
+
+  "featuredAlbum": {
+    "id": "eli-and-harry",
+    "title": "Eli & Harry",
+    "year": 2023,
+    "label": "Alpha Pup Records",
+    "genres": [
+      "Jazz Fusion",
+      "Psychédélisme",
+      "Électronique"
+    ],
+    "trackCount": 12,
+    "type": "Album",
+    "coverUrl": "/covers/the-breathing-effect-eli-and-harry.jpg"
+  },
+
+  "meta": "2023 · Alpha Pup Records · Jazz Fusion · Psychédélisme · États-Unis",
+
+  "editorial": [
+    "Il existe des albums qui s’imposent par leur évidence, et d’autres qui se découvrent comme un paysage au lever du jour. Eli & Harry appartient sans conteste à cette seconde catégorie. Le duo new-yorkais The Breathing Effect, porté par le saxophoniste Hovey Benjamin et le claviériste Ryan Gardos, s’est forgé une identité singulière à la croisée du jazz contemporain, de l’ambient et du psychédélisme. Après plusieurs réalisations saluées dans les sphères du jazz indépendant, ce disque confirme leur goût pour les formats ouverts et les atmosphères contemplatives. Plus qu’une succession de morceaux, Eli & Harry se présente comme un voyage sensoriel où l’écriture s’efface souvent derrière la respiration collective et la recherche de textures.",
+    "Musicalement, l’album fascine par son équilibre entre sophistication et fluidité. Les claviers analogiques dessinent des nappes chaleureuses tandis que le saxophone évolue avec une retenue presque vocale, sans jamais céder à la démonstration technique. Les influences de l’école ECM, du jazz spirituel des années 1970 et d’une certaine électronique organique se croisent naturellement. Chaque composition semble avancer au rythme d’une improvisation parfaitement maîtrisée, où le silence possède autant d’importance que les notes. La production, d’une grande finesse, laisse respirer chaque instrument et accentue cette sensation d’espace qui fait toute la personnalité du disque.",
+    "À l’heure où le jazz se nourrit volontiers de métissages, Eli & Harry rappelle qu’il est encore possible d’innover par la nuance plutôt que par l’esbroufe. Son écoute récompense autant l’attention que l’abandon, révélant de nouveaux détails à chaque passage. C’est un album qui accompagne autant qu’il captive, idéal pour celles et ceux qui recherchent une musique immersive sans renoncer à l’exigence artistique. Un magnifique coup de cœur qui donne le ton de la semaine et rappelle, en ce lundi, qu’il n’existe pas de meilleure façon de commencer une nouvelle série d’écoutes."
+  ],
+
+  "video": {
+    "youtubeId": "OtvzxltDw8Y",
+    "title": "Fool — THE BREATHING EFFECT · Eli & Harry, 2023"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/1CYU3DuCTjz4IkthZBr6cY",
+    "appleMusic": "https://music.apple.com/fr/album/eli-harry/1702583269",
+    "deezer": "https://www.deezer.com/us/album/476304695",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mXD_zTyRchWK0fDNK1s40sQiQhFf1I4uQ&si=yL0jzKd4ExL9LKKw"
+  },
+
+  "vinyl": [],
+
+  "discography": [
+    {
+      "id": "eli-and-harry",
+      "title": "Eli & Harry",
+      "year": 2023,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "/covers/the-breathing-effect-eli-and-harry.jpg"
+    },
+    {
+      "id": "ive-never-seen-the-northern-lights",
+      "title": "I've Never Seen The Northern Lights",
+      "year": 2022,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-THE-BREATHING-EFFECT-NORTHERN-LIGHTS]/front"
+    },
+    {
+      "id": "photosynthesis",
+      "title": "Photosynthesis",
+      "year": 2020,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-THE-BREATHING-EFFECT-PHOTOSYNTHESIS]/front"
+    },
+    {
+      "id": "the-fisherman-abides",
+      "title": "The Fisherman Abides",
+      "year": 2017,
+      "type": "Album",
+      "trackCount": 8,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-THE-BREATHING-EFFECT-FISHERMAN-ABIDES]/front"
+    }
+  ]
+}

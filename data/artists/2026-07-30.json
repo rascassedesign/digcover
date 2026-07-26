@@ -1,0 +1,104 @@
+{
+  "id": "the-last-shadow-puppets-the-age-of-the-understatement",
+  "number": "087",
+  "publishedAt": "2026-07-30",
+
+  "artist": {
+    "name": "THE LAST SHADOW PUPPETS",
+    "origin": "Sheffield, Royaume-Uni"
+  },
+
+  "featuredAlbum": {
+    "id": "the-age-of-the-understatement",
+    "title": "The Age of the Understatement",
+    "year": 2008,
+    "label": "Domino Recording Co.",
+    "genres": [
+      "Symphonic Pop",
+      "Baroque Pop",
+      "Pop Rock"
+    ],
+
+    "trackCount": 12,
+    "type": "Album",
+    "coverUrl": "/covers/the-last-shadow-puppets-the-age-of-the-understatement.jpg"
+  },
+
+  "meta": "2008 · Domino Recording Co. · Symphonic Pop · Baroque Pop · Royaume-Uni",
+
+  "editorial": [
+    "La rencontre entre Alex Turner, figure de proue des Arctic Monkeys, et Miles Kane, alors leader des Rascals, relevait d’abord d’une complicité musicale nourrie par leur passion commune pour la pop orchestrale des années 1960. De cette amitié naît The Last Shadow Puppets, un projet parallèle qui dépasse rapidement le simple divertissement. Paru en 2008, The Age of the Understatement surprend autant les admirateurs du rock britannique que la critique. Loin de reproduire les recettes qui ont fait le succès d’Arctic Monkeys, le duo s’autorise une parenthèse ambitieuse, épaulé par les arrangements somptueux d’Owen Pallett.",
+    "L’identité du disque repose sur ce mariage singulier entre rock indépendant, pop baroque et influences cinématographiques. Les cordes, omniprésentes, évoquent autant Scott Walker que les bandes originales d’Ennio Morricone, tandis que les guitares conservent une énergie très britannique. Alex Turner dévoile déjà cette écriture sophistiquée qu’il développera par la suite, alternant romantisme, ironie et mélancolie. La chanson-titre, Standing Next to Me ou encore My Mistakes Were Made for You illustrent cette capacité à conjuguer ampleur orchestrale et immédiateté mélodique. La production offre un souffle presque théâtral sans jamais étouffer l’émotion.",
+    "Avec le temps, The Age of the Understatement est devenu bien plus qu’une curiosité dans la carrière de ses auteurs. Il a ouvert une nouvelle voie créative à Alex Turner et démontré que le rock indépendant pouvait dialoguer avec des orchestrations classiques sans perdre son intensité. Aujourd’hui encore, l’album séduit par son élégance intemporelle et son audace mélodique, comme une œuvre qui refuse les effets de mode. Une belle écoute pour un jeudi, lorsque la semaine s’étire et que l’on apprécie volontiers les disques qui invitent à prendre un peu de hauteur."
+  ],
+
+  "video": {
+    "youtubeId": "XGV8xCkpXjE",
+    "title": "The Age Of The Understatement — THE LAST SHADOW PUPPETS · The Age of the Understatement, 2008"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/2y3Rm0cT1xbf2NoTQwKv99",
+    "appleMusic": "https://music.apple.com/fr/album/the-age-of-the-understatement/277075850",
+    "deezer": "https://www.deezer.com/fr/album/401356",
+    "youtubeMusic": "https://music.youtube.com/browse/MPREb_w7NIND4vD5j"
+  },
+
+  "vinyl": [ 
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a2239078/The-Last-Shadow-Puppets-The-age-of-the-understatement-Vinyle-album",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },     
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a2425720/The-Last-Shadow-Puppets-The-age-of-the-understatement-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },      
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Age-Understatement-Last-Shadow-Puppets/dp/B0015RRNNE",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Age-Understatement-Last-Shadow-Puppets/dp/B0017PCX9I",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }    
+  ],
+
+  "discography": [
+    {
+      "id": "everything-youve-come-to-expect",
+      "title": "Everything You've Come to Expect",
+      "year": 2016,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/cb08e2f3-18f5-4cc9-a64d-f6ada67d6e80/front"
+    },
+    {
+      "id": "am",
+      "title": "AM (avec Arctic Monkeys)",
+      "year": 2013,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://coverartarchive.org/release-group/a348ba2f-f8b3-4686-b928-e63d8d94d543/front"
+    },
+    {
+      "id": "the-age-of-the-understatement",
+      "title": "The Age of the Understatement",
+      "year": 2008,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "/covers/the-last-shadow-puppets-the-age-of-the-understatement.jpg"
+    }
+  ]
+}

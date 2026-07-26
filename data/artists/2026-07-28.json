@@ -1,0 +1,90 @@
+{
+  "id": "jack-white-no-name",
+  "number": "085",
+  "publishedAt": "2026-07-28",
+
+  "artist": {
+    "name": "JACK WHITE",
+    "origin": "Detroit, États-Unis"
+  },
+
+  "featuredAlbum": {
+    "id": "no-name",
+    "title": "No Name",
+    "year": 2024,
+    "label": "Third Man Records",
+    "genres": [
+      "Garage Rock",
+      "Blues Rock",
+      "Punk Blues"
+    ],
+
+    "trackCount": 13,
+    "type": "Album",
+    "coverUrl": "/covers/jack-white-no-name.jpg"
+  },
+
+  "meta": "2024 · Third Man Records · Garage Rock · Blues Rock · États-Unis",
+
+  "editorial": [
+    "Toujours là où on ne l’attend pas, Jack White a choisi de dévoiler No Name d’une manière aussi atypique que son parcours : d’abord distribué discrètement sur vinyle dans les boutiques Third Man Records avant de bénéficier d’une sortie plus large en 2024. Fidèle à sa réputation d’artisan du rock, l’ancien leader des White Stripes poursuit ici son dialogue avec les racines du blues, du garage et du hard rock. Après plusieurs albums solo où il explorait des directions parfois expérimentales, No Name marque un retour frontal à une énergie brute, presque instinctive, comme si l’urgence de jouer avait repris le dessus sur toute autre considération.",
+    "Dès les premiers riffs, le disque frappe par son intensité. Les guitares saturées retrouvent ce grain abrasif qui a fait la réputation de Jack White, soutenues par une section rythmique nerveuse et une production volontairement rugueuse. Les morceaux enchaînent les accélérations, les changements de dynamique et les mélodies accrocheuses sans perdre leur spontanéité. Derrière cette apparente simplicité se cache pourtant un véritable savoir-faire d’arrangeur, capable d’intégrer des clins d’œil au blues électrique, au proto-punk ou au rock des années 1970 sans jamais tomber dans l’exercice de style. White chante avec cette tension caractéristique, oscillant entre urgence, ironie et passion.",
+    "No Name n’a sans doute pas vocation à révolutionner la discographie de son auteur, mais il rappelle pourquoi Jack White demeure l’un des derniers grands défenseurs d’un rock joué avec les tripes. L’album revendique une authenticité devenue rare dans une époque dominée par les productions ultra-polies, tout en prouvant que tradition et modernité peuvent encore dialoguer avec naturel. Une belle occasion de retrouver un musicien qui refuse la routine et qui, en ce mardi, offre une décharge d’électricité idéale pour maintenir le rythme de la semaine."
+  ],
+
+  "video": {
+    "youtubeId": "A3neCOTqfj8",
+    "title": "That's How I'm Feeling — JACK WHITE · No Name, 2024"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/4j6OkbZmVIqJYDLJbiWHbX",
+    "appleMusic": "https://music.apple.com/fr/album/no-name/1760057427",
+    "deezer": "https://www.deezer.com/fr/album/622151991",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_k9VP0gGJkReZYy7i7uUf1Qb8pfgnVVGyk&si=qc_KYb5T0kjpRcca"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a20818669/Jack-White-No-Name-Vinyle-album",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },  
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a20818670/Jack-White-No-Name-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    }   
+  ],
+
+  "discography": [
+    {
+      "id": "no-name",
+      "title": "No Name",
+      "year": 2024,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "/covers/jack-white-no-name.jpg"
+    },
+    {
+      "id": "entering-heaven-alive",
+      "title": "Entering Heaven Alive",
+      "year": 2022,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/bc7c39eb-4325-4a5f-9676-df41588ecf4e/front"
+    },
+    {
+      "id": "fear-of-the-dawn",
+      "title": "Fear of the Dawn",
+      "year": 2022,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://coverartarchive.org/release-group/c0024f0b-27c6-4fec-9ab1-93ca7a491af1/front"
+    }
+  ]
+}

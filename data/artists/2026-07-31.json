@@ -1,0 +1,82 @@
+{
+  "id": "rocca-entre-deux-mondes",
+  "number": "088",
+  "publishedAt": "2026-07-31",
+
+  "artist": {
+    "name": "ROCCA",
+    "origin": "Paris, France"
+  },
+
+  "featuredAlbum": {
+    "id": "entre-deux-mondes",
+    "title": "Entre Deux Mondes",
+    "year": 1997,
+    "label": "Arsenal Records / Barclay",
+    "genres": [
+      "Rap Français",
+      "Rap Conscient"
+    ],
+
+    "trackCount": 15,
+    "type": "Album",
+    "coverUrl": "/covers/rocca-entre-deux-mondes.jpg"
+  },
+
+  "meta": "1997 · Arsenal Records / Barclay · Rap Français · Rap Conscient · France",
+
+  "editorial": [
+    "À la fin des années 1990, le rap francophone connaît une période d’effervescence où chaque voix cherche à affirmer son identité. Rocca occupe alors une place singulière. Né en Colombie, grandi entre plusieurs cultures et révélé avec le collectif La Cliqua, il développe un style profondément personnel, nourri autant par les réalités sociales que par une réflexion intime sur l’exil, l’appartenance et la transmission. Avec Entre Deux Mondes, paru en 2000, il franchit une nouvelle étape dans son parcours solo. L’album porte parfaitement son titre : celui d’un artiste qui transforme son histoire personnelle en matière poétique, tout en restant solidement ancré dans l’esthétique du rap français de son époque.",
+    "L’écriture de Rocca demeure l’un des grands atouts du disque. Son sens de la formule, son articulation précise et son timbre grave donnent un relief particulier à des textes où la quête d’identité côtoie les observations sociales. Les productions privilégient des boucles soul et jazz, des rythmiques sobres et des ambiances mélancoliques qui mettent les paroles au premier plan. Sans rechercher les refrains faciles, l’album séduit par sa cohérence et sa sincérité. Rocca s’y affirme comme un conteur capable de conjuguer technicité et émotion, avec une authenticité qui traverse les années.",
+    "Si Entre Deux Mondes est parfois moins cité que d’autres classiques du rap français, il mérite largement d’être redécouvert. Son regard sur les questions de culture, d’identité et de déplacement résonne aujourd’hui avec une force renouvelée, tandis que son exigence d’écriture continue d’inspirer de nombreux amateurs de rap conscient. Loin des effets passagers, l’album rappelle que les œuvres les plus durables sont souvent celles qui parlent autant au cœur qu’à l’intelligence. Une excellente façon de conclure la semaine en ce vendredi, avec un disque dont la profondeur continue de faire écho bien au-delà de son époque."
+  ],
+
+  "video": {
+    "youtubeId": "UzsSu7ZXLYg",
+    "title": "Les Jeunes de l'Univers — ROCCA · Entre Deux Mondes, 1997"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/4glAMOQYgESV2rePwx0pEK",
+    "appleMusic": "https://music.apple.com/fr/album/entre-deux-mondes/1443738127",
+    "deezer": "https://www.deezer.com/fr/album/227701",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mc5SRxwgrfR_Jymx6U-UwRttFoMpnqAWw&si=NetAIY4Ug5O60O0T"
+  },
+
+  "vinyl": [],
+
+  "discography": [
+    {
+      "id": "venus",
+      "title": "VENUS (avec Kyo Itachi)",
+      "year": 2026,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-ROCCA-VENUS]/front"
+    },
+    {
+      "id": "bogota-paris",
+      "title": "Bogotá París",
+      "year": 2015,
+      "type": "Album",
+      "trackCount": 8,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-ROCCA-BOGOTA-PARIS]/front"
+    },
+    {
+      "id": "amour-supreme",
+      "title": "Amour Suprême",
+      "year": 2003,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://coverartarchive.org/release-group/[MBID-A-RESOUDRE-ROCCA-AMOUR-SUPREME]/front"
+    },
+    {
+      "id": "entre-deux-mondes",
+      "title": "Entre Deux Mondes",
+      "year": 1997,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "/covers/rocca-entre-deux-mondes.jpg"
+    }
+  ]
+}

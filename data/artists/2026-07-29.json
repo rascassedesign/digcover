@@ -1,0 +1,105 @@
+{
+  "id": "gang-starr-hard-to-earn",
+  "number": "086",
+  "publishedAt": "2026-07-29",
+
+  "artist": {
+    "name": "GANG STARR",
+    "origin": "Brooklyn, États-Unis"
+  },
+
+  "featuredAlbum": {
+    "id": "hard-to-earn",
+    "title": "Hard to Earn",
+    "year": 1994,
+    "label": "Chrysalis / EMI",
+    "genres": [
+      "East Coast Hip-Hop",
+      "Boom Bap",
+      "Jazz Rap"
+    ],
+
+    "trackCount": 17,
+    "type": "Album",
+    "coverUrl": "/covers/gang-starr-hard-to-earn.jpg"
+  },
+
+  "meta": "1994 · Chrysalis / EMI · East Coast Hip-Hop · Boom Bap · États-Unis",
+
+  "editorial": [
+    "Lorsqu’il paraît au printemps 1994, Hard to Earn s’inscrit dans une période charnière pour le hip-hop new-yorkais. Le duo Gang Starr, composé du MC Guru et du producteur DJ Premier, s’est déjà imposé comme une référence grâce à Step in the Arena et surtout Daily Operation. Mais l’époque est à la concurrence féroce : Nas, Notorious B.I.G. ou encore Wu-Tang Clan redéfinissent les contours du rap de la côte Est. Plutôt que de suivre les nouvelles tendances, Guru et Premier choisissent de renforcer leur identité. Hard to Earn n’est pas un album de compromis, mais une démonstration de maîtrise, où la sobriété devient une véritable signature artistique.",
+    "L’alchimie entre les deux hommes atteint ici un sommet. DJ Premier bâtit des instrumentaux immédiatement reconnaissables, mêlant samples de jazz, boucles hypnotiques et scratches millimétrés, tandis que Guru impose son flow calme, presque monocorde, avec une autorité naturelle. Des titres comme Mass Appeal, Code of the Streets ou DWYCK, en compagnie de Nice & Smooth, illustrent parfaitement cet équilibre entre efficacité et élégance. Les textes évoquent l’industrie musicale, la rue ou la crédibilité artistique sans céder au sensationnalisme. Chaque morceau semble conçu pour durer, privilégiant la précision à la surenchère.",
+    "Avec le recul, Hard to Earn apparaît comme l’un des grands classiques du boom bap des années 1990. Son influence dépasse largement la scène new-yorkaise : il demeure une référence pour tous ceux qui considèrent le hip-hop comme un art de l’écriture, du rythme et du sampling. Plus de trente ans après sa sortie, il conserve une fraîcheur remarquable et rappelle qu’une production épurée peut traverser les décennies sans perdre de sa force. En ce mercredi, c’est le moment idéal pour redécouvrir un disque qui a contribué à définir les standards du rap moderne."
+  ],
+
+  "video": {
+    "youtubeId": "u1kwZUeog30",
+    "title": "Code of the Street — GANG STARR · Hard to Earn, 1994"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/67kl5m0df6Bn0aSe3g5Ea7",
+    "appleMusic": "https://music.apple.com/fr/album/hard-to-earn/1440845652",
+    "deezer": "https://www.deezer.com/fr/album/301815",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nPrwvFitHEsPEMcdLON0IPgm3pViFwc-I"
+  },
+
+  "vinyl": [
+   {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a10482415/Gang-Starr-Hard-to-Earn-Vinyle-album",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },      
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a18677220/Gang-Starr-Hard-To-Earn-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },      
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/Hard-Earn-Gang-Starr/dp/B00O34QG7U/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=VDNW2B18JALR&dib=eyJ2IjoiMSJ9.KW1AAP0zaYIsi-epPyqt9Q.Wo94Qn8t8rtPWxzBQLJMokIsAxblCyRuAvXCzO_LgRc&dib_tag=se&keywords=hard+to+earn+gang+starr+vinyle&qid=1785071422&s=music&sprefix=hard+to+earn+gang+starr+vinyle%2Cpopular%2C151&sr=1-1",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }   
+  ],
+
+  "discography": [
+    {
+      "id": "moment-of-truth",
+      "title": "Moment of Truth",
+      "year": 1998,
+      "type": "Album",
+      "trackCount": 21,
+      "coverUrl": "https://coverartarchive.org/release-group/248b3e39-8504-3253-97be-e6afdf6c22fa/front"
+    },
+    {
+      "id": "hard-to-earn",
+      "title": "Hard to Earn",
+      "year": 1994,
+      "type": "Album",
+      "trackCount": 17,
+      "coverUrl": "/covers/gang-starr-hard-to-earn.jpg"
+    },
+    {
+      "id": "daily-operation",
+      "title": "Daily Operation",
+      "year": 1992,
+      "type": "Album",
+      "trackCount": 18,
+      "coverUrl": "https://coverartarchive.org/release-group/1869c250-8972-3837-a8ea-9cd015c459ff/front"
+    },
+    {
+      "id": "step-in-the-arena",
+      "title": "Step in the Arena",
+      "year": 1991,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "https://coverartarchive.org/release-group/b66d223b-f057-3bba-9fee-92ee3db86257/front"
+    }
+  ]
+}
