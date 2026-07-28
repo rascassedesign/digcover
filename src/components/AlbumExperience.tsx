@@ -57,6 +57,12 @@ export default function AlbumExperience({ artist, showBackLink = false }: Props)
             Album du jour
             <span className="dc-sep" />
             No. {artist.number}
+            {showBackLink && (
+              <>
+                <span className="dc-sep" />
+                Sélection du {formattedDate}
+              </>
+            )}
           </span>
           <h1 className="dc-hero-title">{artist.name}</h1>
           <p className="dc-hero-album">{featuredAlbum.title}</p>

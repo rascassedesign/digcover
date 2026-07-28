@@ -39,14 +39,14 @@ export async function generateMetadata(
   const albumYear  = raw.featuredAlbum?.year ?? ''
   const genres     = (raw.featuredAlbum?.genres ?? []).slice(0, 2).join(', ')
   const editorial  = (raw.editorial ?? [])[0] ?? ''
-  const description = editorial.slice(0, 155) + (editorial.length > 155 ? '…' : '')
+  const description = `Album du jour sur DigCover. ${editorial.slice(0, 130)}${editorial.length > 130 ? '…' : ''}`
   const coverUrl   = raw.featuredAlbum?.coverUrl ?? ''
 
   const ogImage = coverUrl.startsWith('/')
     ? `${SITE_URL}${coverUrl}`
     : coverUrl
 
-  const title = `${artistName} — ${albumTitle} (${albumYear})`
+  const title = `Album du jour — ${artistName} : ${albumTitle} (${albumYear})`
 
   // ── Canonical strategy ──────────────────────────────────────
   // Si l'utilisateur consulte la Home via ?date=YYYY-MM-DD (album passé),
