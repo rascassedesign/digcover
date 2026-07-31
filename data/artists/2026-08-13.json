@@ -1,0 +1,104 @@
+{
+  "id": "stella-adagio",
+  "number": "097",
+  "publishedAt": "2026-08-13",
+
+  "artist": {
+    "name": "Σtella",
+    "origin": "Athènes, Grèce"
+  },
+
+  "featuredAlbum": {
+    "id": "adagio",
+    "title": "Adagio",
+    "year": 2025,
+    "label": "Sub Pop Records",
+    "genres": [
+      "Pop",
+      "Indie Pop"
+    ],
+
+    "trackCount": 9,
+    "type": "Album",
+    "coverUrl": "/covers/stella-adagio.jpg"
+  },
+
+  "meta": "2025 · Sub Pop Records · Pop · Indie Pop · Grèce",
+
+  "editorial": [
+    "Certaines premières œuvres séduisent par leur immédiateté, d’autres par leur capacité à installer un univers durable. Avec Adagio, ∑tella choisit clairement la seconde voie. Derrière ce nom stylisé par la lettre grecque sigma, l’artiste développe un langage musical singulier, à la croisée de la pop expérimentale, de l’électronique artisanale et d’une sensibilité néoclassique assumée. Ce premier album ne cherche jamais l’effet spectaculaire : il préfère la lenteur, la nuance et la construction patiente d’un espace sonore où chaque détail compte. Dès les premières écoutes, Adagio s’impose comme une œuvre de transition et d’installation, plus qu’un simple exercice de style.",
+    "La force du disque réside dans son équilibre entre fragilité et maîtrise. Le piano agit souvent comme colonne vertébrale, autour duquel viennent se greffer des textures électroniques discrètes, des nappes aériennes et des interventions instrumentales mesurées. Rien n’est laissé au hasard, mais tout donne l’impression de respirer librement. Cette esthétique du dépouillement contrôlé permet à ∑tella de construire des morceaux qui évoluent lentement, presque organiquement, comme des paysages qui se dévoilent progressivement. La production, d’une grande finesse, privilégie les résonances naturelles et les silences, renforçant cette impression d’intimité sonore.",
+    "Adagio s’inscrit dans une génération d’artistes qui brouillent les frontières entre musique contemporaine, ambient et écriture pop minimaliste. Sans jamais forcer le trait, ∑tella propose une œuvre cohérente, immersive et profondément contemplative, qui gagne en richesse à chaque écoute. C’est un disque qui ne cherche pas à impressionner mais à accompagner, à installer une atmosphère durable plutôt qu’un impact immédiat. En ce jeudi, il offre une parenthèse idéale pour ralentir le rythme et redécouvrir la puissance expressive de la retenue."
+  ],
+
+  "video": {
+    "youtubeId": "4ByFni-WyaU",
+    "title": "Adagio — Σtella · Adagio, 2025"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/3TAhlJxvOBskHFd0J1YRmq",
+    "appleMusic": "https://music.apple.com/fr/album/adagio/1776991629",
+    "deezer": "https://www.deezer.com/fr/album/678535951",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_np4DCk4xONQINyJj7XP1sFC0EZQ3Nkb9E"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21153773/Stella-Adagio-Vinyle-Blanc-Vinyle-album",
+      "format": "Vinyle Édition Limitée",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21153770/Stella-Adagio-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B0D1C8YJMB/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+
+  "discography": [
+    {
+      "id": "adagio",
+      "title": "Adagio",
+      "year": 2025,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "/covers/stella-adagio.jpg"
+    },
+    {
+      "id": "up-and-away",
+      "title": "Up and Away",
+      "year": 2022,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/53d68fe3-d8a9-4c66-b28c-6aaf45f6c668/front"
+    },
+    {
+      "id": "the-break",
+      "title": "The Break",
+      "year": 2020,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://coverartarchive.org/release-group/c055c4b2-6426-4c87-926b-b01817eeb461/front"
+    },
+    {
+      "id": "stella",
+      "title": "Σtella",
+      "year": 2015,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/fcb3e97b-ba7e-41d8-bc32-51f067506e43/front"
+    }
+  ]
+}

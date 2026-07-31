@@ -1,0 +1,105 @@
+{
+  "id": "royal-blood-how-did-we-get-so-dark",
+  "number": "095",
+  "publishedAt": "2026-08-11",
+
+  "artist": {
+    "name": "ROYAL BLOOD",
+    "origin": "Brighton, Angleterre"
+  },
+
+  "featuredAlbum": {
+    "id": "how-did-we-get-so-dark",
+    "title": "How Did We Get So Dark?",
+    "year": 2017,
+    "label": "Warner Records",
+    "genres": [
+      "Rock Alternatif",
+      "Blues Rock",
+      "Hard Rock"
+    ],
+
+    "trackCount": 10,
+    "type": "Album",
+    "coverUrl": "/covers/royal-blood-how-did-we-get-so-dark.jpg"
+  },
+
+  "meta": "2017 · Warner Records · Rock Alternatif · Blues Rock · Angleterre",
+
+  "editorial": [
+    "Après un premier album éponyme qui avait fait l'effet d'une déflagration en 2014, Royal Blood abordait un défi de taille : confirmer sans se répéter. Avec How Did We Get So Dark?, publié en 2017, le duo britannique composé de Mike Kerr et Ben Thatcher relève brillamment le pari. Sans renier la formule qui a fait son succès – une basse saturée tenant lieu de guitare, une batterie puissante et un sens inné du riff –, le groupe enrichit son écriture et affirme une personnalité plus nuancée. Ce deuxième opus témoigne d'une confiance nouvelle, où la maîtrise technique se met au service de compositions plus ambitieuses sans perdre l'urgence qui caractérise Royal Blood depuis ses débuts.",
+    "Le disque impressionne par son équilibre entre puissance et efficacité mélodique. Les riffs sont toujours aussi massifs, mais ils laissent davantage de place aux variations de dynamique et aux refrains accrocheurs. Mike Kerr alterne avec aisance tension et fragilité, tandis que Ben Thatcher impose un jeu de batterie aussi précis qu'explosif. Des titres comme Lights Out, Hook, Line & Sinker ou la chanson-titre illustrent parfaitement cette capacité à condenser une énergie quasi hard rock dans des formats resserrés. La production, dense mais lisible, accentue l'impression de puissance sans jamais masquer les subtilités d'un duo qui exploite au maximum les possibilités de son instrumentation minimaliste.",
+    "Avec How Did We Get So Dark?, Royal Blood confirme qu'il ne s'agit pas seulement d'un groupe à riffs, mais d'une formation capable de faire évoluer son langage sans perdre son identité. L'album s'inscrit parmi les références du rock britannique des années 2010, prouvant qu'une formule simple peut encore produire des disques enthousiasmants lorsqu'elle est portée par une écriture solide. En ce mardi, c'est le compagnon idéal pour retrouver un peu d'énergie avant d'aborder la deuxième moitié de la semaine."
+  ],
+
+  "video": {
+    "youtubeId": "ZSznpyG9CHY",
+    "title": "Lights Out — ROYAL BLOOD · How Did We Get So Dark?, 2017"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/3Rz6kF8eGqrDOEteo5YsBj",
+    "appleMusic": "https://music.apple.com/fr/album/how-did-we-get-so-dark/1222707104",
+    "deezer": "https://www.deezer.com/fr/album/42911471",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mAmw2kHcZgeiWGsixZqNjOPJ1i62PdOBw"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a10574743/Royal-Blood-How-Did-We-Get-So-Dark-Vinyle-album",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a10574738/Royal-Blood-How-Did-We-Get-So-Dark-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B06XZWWJHJ/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+
+  "discography": [
+    {
+      "id": "back-to-the-water-below",
+      "title": "Back to the Water Below",
+      "year": 2023,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/10676a3a-980f-4226-a3bd-207a473aa600/front"
+    },
+    {
+      "id": "typhoons",
+      "title": "Typhoons",
+      "year": 2021,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://coverartarchive.org/release-group/dd7e7ced-a44d-4ce5-9654-c60a0d71fc51/front"
+    },
+    {
+      "id": "how-did-we-get-so-dark",
+      "title": "How Did We Get So Dark?",
+      "year": 2017,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "/covers/royal-blood-how-did-we-get-so-dark.jpg"
+    },
+    {
+      "id": "royal-blood",
+      "title": "Royal Blood",
+      "year": 2014,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/1e4a055a-e3de-4b82-bc34-cd6ac1967835/front"
+    }
+  ]
+}

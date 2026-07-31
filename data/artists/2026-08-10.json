@@ -1,0 +1,112 @@
+{
+  "id": "chinese-man-groove-sessions-vol-1",
+  "number": "094",
+  "publishedAt": "2026-08-10",
+
+  "artist": {
+    "name": "CHINESE MAN",
+    "origin": "Marseille, France"
+  },
+
+  "featuredAlbum": {
+    "id": "the-groove-sessions-vol-1",
+    "title": "The Groove Sessions, Vol. 1",
+    "year": 2007,
+    "label": "Chinese Man Records",
+    "genres": [
+      "Trip-Hop",
+      "Hip-Hop Instrumental",
+      "Dub"
+    ],
+
+    "trackCount": 12,
+    "type": "Album",
+    "coverUrl": "/covers/chinese-man-groove-sessions-vol-1.jpg"
+  },
+
+  "meta": "2007 · Chinese Man Records · Trip-Hop · Dub · France",
+
+  "editorial": [
+    "Il y a des disques qui marquent une carrière, et d’autres qui définissent une identité. Pour Chinese Man, Groove Sessions Vol. 1, paru en 2007, appartient clairement à cette seconde catégorie. À une époque où l’électro française rayonne grâce à ses figures les plus médiatisées, le collectif marseillais emprunte une autre voie, plus artisanale et profondément nourrie par la culture du sample. Fondé par High Ku, Matteo et Sly, le trio développe un univers où hip-hop, dub, funk, reggae, jazz et musiques du monde dialoguent avec une fluidité remarquable. Bien plus qu’une simple compilation de productions, Groove Sessions Vol. 1 agit comme une véritable carte de visite, révélant une esthétique immédiatement reconnaissable qui contribuera à faire du label Chinese Man Records une référence de la scène indépendante française.",
+    "La richesse du disque tient autant à sa diversité qu’à sa cohérence. Les samples, toujours choisis avec un sens aigu du groove, servent de matière première à des compositions qui évitent le piège de la démonstration technique. Les rythmiques hip-hop côtoient des lignes de basse dub, des cuivres chaleureux et des influences orientales ou latino-américaines sans jamais donner l'impression d'un collage artificiel. Des morceaux comme I've Got That Tune, Miss Chang ou Pandi Groove illustrent parfaitement cette capacité à construire des paysages sonores cinématographiques où chaque détail trouve naturellement sa place. La production, organique et généreuse, privilégie la musicalité plutôt que l'effet immédiat, invitant autant à l'écoute attentive qu'au mouvement.",
+    "Près de vingt ans après sa sortie, Groove Sessions Vol. 1 conserve une fraîcheur étonnante. Il demeure l'un des albums emblématiques de la scène électro-hip-hop française et continue d'influencer une génération de producteurs séduits par son ouverture musicale et son indépendance créative. Véritable invitation au voyage, il rappelle que les meilleures rencontres artistiques naissent souvent du métissage des cultures. Pour ouvrir cette semaine en ce lundi, difficile de rêver meilleur coup de cœur qu'un disque dont chaque morceau donne envie de reprendre la route, le sourire aux lèvres."
+  ],
+
+  "video": {
+    "youtubeId": "kqjeNSNuNPM",
+    "title": "I've Got That Tune — CHINESE MAN · The Groove Sessions, Vol. 1, 2007"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/6xe3lv1DBAh6Ef7BrBs0WE",
+    "appleMusic": "https://music.apple.com/fr/album/the-groove-sessions/270046632",
+    "deezer": "https://www.deezer.com/fr/album/49201",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_ks3mHm2wucQYHfsGRJo364fFjTUKMKZgg"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a2247098/Chinese-Man-Groove-sessions-Vinyle-album",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a2634065/Chinese-Man-Groove-sessions-volume-1-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B0016P9FR2/",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B00279V97U/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+
+  "discography": [
+    {
+      "id": "the-groove-sessions-vol-5",
+      "title": "The Groove Sessions, Vol. 5",
+      "year": 2020,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "https://coverartarchive.org/release-group/27694a86-5467-416b-bd67-59ba0fb4219e/front"
+    },
+    {
+      "id": "the-groove-sessions-vol-3",
+      "title": "The Groove Sessions, Vol. 3",
+      "year": 2014,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://coverartarchive.org/release-group/39a11b00-aed7-4984-ae4a-ca193c368ca2/front"
+    },
+    {
+      "id": "the-groove-sessions-vol-2",
+      "title": "The Groove Sessions, Vol. 2",
+      "year": 2009,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://coverartarchive.org/release-group/916593f9-3d81-3430-ad4a-f0e497d034df/front"
+    },
+    {
+      "id": "the-groove-sessions-vol-1",
+      "title": "The Groove Sessions, Vol. 1",
+      "year": 2007,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "/covers/chinese-man-groove-sessions-vol-1.jpg"
+    }
+  ]
+}

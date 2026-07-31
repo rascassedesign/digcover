@@ -1,0 +1,104 @@
+{
+  "id": "smif-n-wessun-dah-shinin",
+  "number": "096",
+  "publishedAt": "2026-08-12",
+
+  "artist": {
+    "name": "SMIF-N-WESSUN",
+    "origin": "Brooklyn, États-Unis"
+  },
+
+  "featuredAlbum": {
+    "id": "dah-shinin",
+    "title": "Dah Shinin'",
+    "year": 1995,
+    "label": "Nervous Records",
+    "genres": [
+      "Hip-Hop",
+      "Boom Bap"
+    ],
+
+    "trackCount": 16,
+    "type": "Album",
+    "coverUrl": "/covers/smif-n-wessun-dah-shinin.jpg"
+  },
+
+  "meta": "1995 · Nervous Records · Hip-Hop · Boom Bap · États-Unis",
+
+  "editorial": [
+    "En 1995, alors que la scène new-yorkaise vit son âge d’or, Dah Shinin’ s’impose comme l’un des manifestes les plus authentiques du rap de Brooklyn. Après avoir marqué les esprits sur Enta da Stage de Black Moon, Tek et Steele passent au premier plan avec ce premier album signé sur Duck Down Records. Membres incontournables du Boot Camp Clik, ils participent à l’émergence d’un son brut, enraciné dans les rues de Brownsville, où l’esprit collectif prime sur les ambitions individuelles. Sans rechercher les refrains calibrés pour les radios, Smif-N-Wessun livre une œuvre profondément ancrée dans son époque, reflet d’un hip-hop qui revendique autant son identité musicale que son ancrage social.",
+    "Dès les premières mesures, la production du tandem Da Beatminerz impose sa signature. Les basses épaisses, les samples de soul assombris, les boucles minimalistes et les rythmiques lourdes créent une atmosphère nocturne immédiatement identifiable. Tek et Steele développent un dialogue permanent, leurs voix rauques se complétant avec une précision remarquable. Des titres comme Bucktown, Wrekonize ou Sound Bwoy Bureill témoignent de cette alchimie où la technique d’écriture se met au service d’un récit crédible, sans artifice. L’album puise dans les influences jamaïcaines, le reggae et le dancehall autant que dans la tradition boom bap, enrichissant encore une identité sonore déjà singulière.",
+    "Trois décennies plus tard, Dah Shinin’ demeure une pierre angulaire du rap underground américain. Son esthétique dépouillée, son exigence artistique et son refus des compromis continuent d’inspirer producteurs et MC de toutes générations. Plus qu’un classique du rap new-yorkais, c’est un disque qui rappelle qu’une forte personnalité vaut souvent mieux qu’une recherche permanente de modernité. En ce mercredi, il offre une immersion idéale dans l’une des périodes les plus créatives de l’histoire du hip-hop."
+  ],
+
+  "video": {
+    "youtubeId": "9fzt4Mt8DmU",
+    "title": "Wrekonize — SMIF-N-WESSUN · Dah Shinin', 1995"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/0TaYPOKCUDyvZU2APQ7kPM",
+    "appleMusic": "https://music.apple.com/fr/album/dah-shinin/14141262",
+    "deezer": "https://www.deezer.com/fr/album/126995",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nNi7EwlUcw53Cy3bvGVf1Kci4qqkJK-Uk"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a1746025/Smif-N-Wessun-Dah-shinin-Vinyle-album",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a1692426/Smif-N-Wessun-Dah-Shinin-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B000000ZT1/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+
+  "discography": [
+    {
+      "id": "the-all",
+      "title": "The All",
+      "year": 2019,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://coverartarchive.org/release-group/5759565e-bd7e-44cb-bf5e-d8c03971b411/front"
+    },
+    {
+      "id": "monumental",
+      "title": "Monumental (avec Pete Rock)",
+      "year": 2011,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://coverartarchive.org/release-group/bba5121f-88cd-4431-b7b9-1d7ac9426405/front"
+    },
+    {
+      "id": "the-album",
+      "title": "The Album",
+      "year": 2007,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://coverartarchive.org/release-group/1a717a36-60b7-315b-80b3-30e87f23f490/front"
+    },
+    {
+      "id": "dah-shinin",
+      "title": "Dah Shinin'",
+      "year": 1995,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "/covers/smif-n-wessun-dah-shinin.jpg"
+    }
+  ]
+}

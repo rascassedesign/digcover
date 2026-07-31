@@ -1,0 +1,103 @@
+{
+  "id": "shurikn-ou-je-vis",
+  "number": "098",
+  "publishedAt": "2026-08-14",
+
+  "artist": {
+    "name": "SHURIK'N",
+    "origin": "Marseille, France"
+  },
+
+  "featuredAlbum": {
+    "id": "ou-je-vis",
+    "title": "Où je vis",
+    "year": 1998,
+    "label": "Delabel / Virgin",
+    "genres": [
+      "Rap Français",
+      "Rap Conscient"
+    ],
+
+    "trackCount": 16,
+    "type": "Album",
+    "coverUrl": "/covers/shurikn-ou-je-vis.jpg"
+  },
+
+  "meta": "1998 · Delabel / Virgin · Rap Français · Rap Conscient · France",
+
+  "editorial": [
+    "Lorsqu'il publie Où je vis en 1998, Shurik'n est déjà l'une des voix les plus respectées du rap français grâce à l'aventure IAM. Pourtant, ce premier album solo n'a rien d'une parenthèse opportuniste. Il permet au MC marseillais d'explorer une facette plus intime de son écriture, loin de l'énergie collective du groupe. Dans un paysage où le rap français connaît une formidable expansion, Shurik'n choisit l'introspection plutôt que la démonstration de force. Fidèle à ses convictions, il construit un disque profondément humain, où la réflexion sur le quotidien, les racines, la spiritualité et les responsabilités occupe une place centrale. Cette sincérité fait toute la singularité de l'album.",
+    "Musicalement, Où je vis conjugue les codes du boom bap avec une production chaleureuse dominée par les influences soul, jazz et funk. Les instrumentaux offrent un écrin idéal à l'écriture précise de Shurik'n, dont le flow souple épouse naturellement chaque rythme. Des morceaux comme Samouraï, Les Miens ou le titre éponyme illustrent cette capacité à mêler technicité, émotion et sens du récit sans jamais tomber dans l'emphase. Son interprétation, tout en retenue, donne encore davantage de poids à des textes qui privilégient la réflexion à la provocation. Chaque morceau semble prolonger une conversation entamée avec l'auditeur plutôt qu'une simple performance de rap.",
+    "Plus d'un quart de siècle après sa sortie, Où je vis reste l'un des albums les plus importants du rap hexagonal. Son influence dépasse largement la discographie d'IAM, tant il a démontré qu'un disque de rap pouvait conjuguer profondeur, exigence littéraire et accessibilité. À une époque où l'immédiateté domine souvent les productions, il rappelle la force d'une écriture patiente et sincère. Une conclusion idéale pour ce vendredi, avec un album qui continue de faire résonner Marseille bien au-delà de ses frontières."
+  ],
+
+  "video": {
+    "youtubeId": "QMBTDuvl6dQ",
+    "title": "Samouraï — SHURIK'N · Où je vis, 1998"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/18bO6rRcxQ7RrKl9hnJfuW",
+    "appleMusic": "https://music.apple.com/fr/album/o%C3%B9-je-vis/696093033",
+    "deezer": "https://www.deezer.com/fr/album/312460",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_n01tB36a9yk9JqzBYoI0A_R_huhs7R8IM"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a729929/Shurik-N-Ou-je-vis-Vinyle-album",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a835631/Shurik-N-Ou-je-vis-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B01BGXYF5K/",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B00001ZTMY/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+
+  "discography": [
+    {
+      "id": "adamant-ium",
+      "title": "Adamant-ium",
+      "year": 2016,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://coverartarchive.org/release-group/bededb4c-2722-4454-847a-adec17cf7dc0/front"
+    },
+    {
+      "id": "tous-mappellent-shu",
+      "title": "Tous m'appellent Shu",
+      "year": 2012,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "https://coverartarchive.org/release-group/f0be8b97-540b-4a8d-9bdd-cb8eca2dbb02/front"
+    },
+    {
+      "id": "ou-je-vis",
+      "title": "Où je vis",
+      "year": 1998,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "/covers/shurikn-ou-je-vis.jpg"
+    }
+  ]
+}
