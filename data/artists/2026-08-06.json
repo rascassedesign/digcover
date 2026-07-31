@@ -1,0 +1,104 @@
+{
+  "id": "jurassic-5-quality-control",
+  "number": "092",
+  "publishedAt": "2026-08-06",
+
+  "artist": {
+    "name": "JURASSIC 5",
+    "origin": "Los Angeles, États-Unis"
+  },
+
+  "featuredAlbum": {
+    "id": "quality-control",
+    "title": "Quality Control",
+    "year": 2000,
+    "label": "Interscope Records",
+    "genres": [
+      "Hip-Hop",
+      "Rap Alternatif"
+    ],
+
+    "trackCount": 15,
+    "type": "Album",
+    "coverUrl": "/covers/jurassic-5-quality-control.jpg"
+  },
+
+  "meta": "2000 · Interscope Records · Hip-Hop · Rap Alternatif · États-Unis",
+
+  "editorial": [
+    "À la fin des années 1990, alors que le rap américain oscille entre l’explosion commerciale des grandes maisons de disques et l’affirmation d’une scène underground foisonnante, Jurassic 5 fait figure d’exception. Le collectif californien, composé de quatre MC : Chali 2na, Akil, Zaakir et Marc 7 et épaulés par les DJ Cut Chemist et Nu-Mark, revendique un hip-hop profondément ancré dans la culture des block parties. Avec Quality Control, publié en 2000, le groupe franchit un cap décisif. Plus ambitieux que ses précédents projets, l’album impose Jurassic 5 comme l’un des porte-étendards d’un rap positif, collectif et résolument tourné vers les fondamentaux du genre.",
+    "Ce qui distingue immédiatement Quality Control, c’est la complémentarité de ses interprètes. Les quatre voix se répondent avec une fluidité remarquable, renouant avec la tradition des crews des années 1980 tout en bénéficiant d’une production résolument moderne. Les instrumentaux de Cut Chemist et Nu-Mark puisent dans le funk, la soul et le jazz, multipliant les samples chaleureux, les scratches virtuoses et les grooves irrésistibles. Des morceaux comme Quality Control, Concrete Schoolyard ou Swing Set illustrent parfaitement cette alchimie où la technique ne prend jamais le pas sur le plaisir d’écoute. Ici, l’énergie collective prime sur les démonstrations individuelles, offrant un rap aussi festif qu’exigeant.",
+    "Plus de vingt ans après sa sortie, Quality Control reste une référence incontournable pour tous ceux qui apprécient un hip-hop lumineux, inventif et profondément musical. L’album rappelle qu’il est possible de conjuguer virtuosité, accessibilité et esprit de groupe sans sacrifier l’authenticité. Son influence demeure perceptible chez de nombreux collectifs qui privilégient encore aujourd’hui le dialogue des voix et la richesse des arrangements. En ce jeudi, il constitue une parenthèse idéale pour retrouver l’une des expressions les plus généreuses du rap américain."
+  ],
+
+  "video": {
+    "youtubeId": "PgpDN-bARwc",
+    "title": "Quality Control — JURASSIC 5 · Quality Control, 2000"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/6I4sWoNs2IlWUyMmJ7VDFw",
+    "appleMusic": "https://music.apple.com/fr/album/quality-control/1673121993",
+    "deezer": "https://www.deezer.com/fr/album/409551377",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kNyNb2hF55bKzRr2fou2nkJGYLexda5JI"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a8730525/Jurassic-5-Quality-Control-Vinyle-album",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a1106691/Jurassic-5-Quality-control-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B00004TL2V/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+
+  "discography": [
+    {
+      "id": "feedback",
+      "title": "Feedback",
+      "year": 2006,
+      "type": "Album",
+      "trackCount": 17,
+      "coverUrl": "https://coverartarchive.org/release-group/2aa5ec05-7fbc-37fb-af7b-858b40d573ea/front"
+    },
+    {
+      "id": "power-in-numbers",
+      "title": "Power in Numbers",
+      "year": 2002,
+      "type": "Album",
+      "trackCount": 17,
+      "coverUrl": "https://coverartarchive.org/release-group/3ec846cc-e07a-3734-836c-822d10ab10d0/front"
+    },
+    {
+      "id": "quality-control",
+      "title": "Quality Control",
+      "year": 2000,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "/covers/jurassic-5-quality-control.jpg"
+    },
+    {
+      "id": "jurassic-5",
+      "title": "Jurassic 5",
+      "year": 1998,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://coverartarchive.org/release-group/6f779081-633d-32a4-b514-1a7ee4da4d96/front"
+    }
+  ]
+}

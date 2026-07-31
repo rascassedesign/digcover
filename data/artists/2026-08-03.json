@@ -1,0 +1,96 @@
+{
+  "id": "kavinsky-outrun",
+  "number": "089",
+  "publishedAt": "2026-08-03",
+
+  "artist": {
+    "name": "KAVINSKY",
+    "origin": "Paris, France"
+  },
+
+  "featuredAlbum": {
+    "id": "outrun",
+    "title": "OutRun",
+    "year": 2013,
+    "label": "Record Makers",
+    "genres": [
+      "Synthwave",
+      "Electro"
+    ],
+
+    "trackCount": 13,
+    "type": "Album",
+    "coverUrl": "/covers/kavinsky-outrun.jpg"
+  },
+
+  "meta": "2013 · Record Makers · Synthwave · Electro · France",
+
+  "editorial": [
+    "Certains albums semblent capturer une époque, d’autres inventent un imaginaire. Avec OutRun, paru en 2013, Kavinsky signe un disque qui dépasse largement le cadre de l’électro française. Révélé quelques années plus tôt grâce aux EP Teddy Boy et Nightcall – ce dernier propulsé au rang de morceau culte après son utilisation dans le film Drive –, Vincent Belorgey s’impose comme l’un des artisans majeurs de la vague synthwave. Inspiré par les bandes originales des années 1980, les jeux vidéo Sega et les films de John Carpenter ou Michael Mann, il construit un univers où la nostalgie ne relève jamais du simple exercice de style. OutRun, unique album studio de Kavinsky à ce jour, agit comme la synthèse d’un personnage, d’une esthétique et d’une vision sonore immédiatement reconnaissables.",
+    "Musicalement, le disque est une réussite de cohérence. Les synthétiseurs analogiques occupent le premier plan, épaulés par des lignes de basse massives et des batteries électroniques qui évoquent autant les bornes d’arcade que les autoroutes nocturnes. La production, assurée notamment avec Guy-Manuel de Homem-Christo, Sebastian et The Weeknd sur certains travaux connexes de l'époque, privilégie une précision remarquable sans sacrifier la chaleur des textures. Des titres comme Protovision, Roadgame ou Odd Look prolongent cette atmosphère cinématographique où chaque morceau semble accompagner une poursuite imaginaire dans une ville baignée de néons. Loin de se limiter à un hommage aux années 1980, OutRun réinterprète leurs codes avec une modernité qui a largement contribué à populariser la synthwave auprès du grand public.",
+    "Plus d'une décennie après sa sortie, OutRun conserve intact son pouvoir d'évocation. Son influence se retrouve dans de nombreuses productions électroniques, dans le jeu vidéo comme au cinéma, et il demeure une référence incontournable pour comprendre le renouveau des sonorités rétro-futuristes. Cet album a été choisi en hommage suite à la tragique disparition de l’artiste survenue le mercredi 29 juillet 2026, rappelant à quel point son univers aura marqué durablement la culture électronique contemporaine. Rarement un disque aura autant réussi à transformer une esthétique nostalgique en langage contemporain. Pour ouvrir cette semaine musicale en ce lundi, difficile d'imaginer meilleur voyage que cette virée nocturne où chaque kilomètre résonne comme une promesse d'évasion."
+  ],
+
+  "video": {
+    "youtubeId": "41_svUt5_e0",
+    "title": "ProtoVision — KAVINSKY · OutRun, 2013"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/3euRfc09m6LRXwplFPYtqh",
+    "appleMusic": "https://music.apple.com/fr/album/outrun/1440859316",
+    "deezer": "https://www.deezer.com/fr/album/6358418",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kIkqPCaZUo2GDI2GTit9UP0mrcrbvDcE0"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a5274275/Kavinsky-Outrun-Vinyle-album",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a8511820/Kavinsky-Outrun-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B00B2NH19W/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+
+  "discography": [
+    {
+      "id": "reborn",
+      "title": "Reborn",
+      "year": 2022,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://coverartarchive.org/release-group/7b9240cb-771f-49ea-a1dd-b4d3a5e63325/front"
+    },
+    {
+      "id": "outrun",
+      "title": "OutRun",
+      "year": 2013,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "/covers/kavinsky-outrun.jpg"
+    },
+    {
+      "id": "nightcall",
+      "title": "Nightcall",
+      "year": 2010,
+      "type": "EP",
+      "trackCount": 7,
+      "coverUrl": "https://coverartarchive.org/release-group/83c86a97-bef1-455c-9d48-6b3b5172f20a/front"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "big-special-national-average",
+  "number": "090",
+  "publishedAt": "2026-08-04",
+
+  "artist": {
+    "name": "BIG SPECIAL",
+    "origin": "Black Country, Angleterre"
+  },
+
+  "featuredAlbum": {
+    "id": "national-average",
+    "title": "NATIONAL AVERAGE.",
+    "year": 2025,
+    "label": "So Recordings",
+    "genres": [
+      "Post-Punk",
+      "Spoken Word",
+      "Rock Alternatif"
+    ],
+
+    "trackCount": 13,
+    "type": "Album",
+    "coverUrl": "/covers/big-special-national-average.jpg"
+  },
+
+  "meta": "2025 · So Recordings · Post-Punk · Spoken Word · Angleterre",
+
+  "editorial": [
+    "À rebours des productions policées qui dominent souvent le rock contemporain, NATIONAL AVERAGE marque l'arrivée fracassante de Big Special parmi les formations britanniques les plus singulières de ces dernières années. Le duo de Birmingham, composé du chanteur Joe Hicklin et du batteur Callum Moloney, s'était déjà fait remarquer grâce à une série de singles abrasifs mêlant spoken word, post-punk et blues industriel. Avec ce premier album, paru en 2024, Big Special transforme l'essai en proposant une œuvre viscérale, profondément ancrée dans l'Angleterre d'aujourd'hui. Sans discours moralisateur, le groupe observe les fractures sociales, la précarité, les frustrations quotidiennes et la recherche obstinée d'un peu de dignité au milieu du chaos.",
+    "Ce qui frappe d'emblée, c'est la tension permanente qui traverse le disque. Les rythmiques, réduites à l'essentiel, soutiennent une voix qui oscille entre chant habité, déclamation rageuse et confession intime. Les influences du post-punk, du noise rock, du gospel et même du hip-hop s'entremêlent sans jamais donner l'impression d'un collage artificiel. La production privilégie la rugosité, laissant respirer les silences autant que les explosions sonores. Les morceaux gagnent en puissance grâce à une écriture qui préfère les images fortes aux slogans, donnant à l'ensemble une authenticité rare. Big Special parvient ainsi à conjuguer colère sociale et émotion personnelle avec une intensité qui rappelle les meilleurs représentants de la scène alternative britannique.",
+    "NATIONAL AVERAGE s'impose déjà comme l'un des premiers albums marquants de cette nouvelle génération de groupes anglais qui refusent les étiquettes. Son regard lucide sur le quotidien, associé à une identité sonore immédiatement identifiable, lui confère une portée qui dépasse largement l'effet de nouveauté. C'est un disque qui interpelle autant qu'il accompagne, porté par une sincérité impossible à feindre. En ce mardi, il rappelle qu'une musique profondément enracinée dans son époque peut aussi trouver un écho universel bien au-delà de ses frontières."
+  ],
+
+  "video": {
+    "youtubeId": "3L34H0ebu_k",
+    "title": "GOD SAVE THE PONY. — BIG SPECIAL · NATIONAL AVERAGE., 2025"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/2wHHIEXgiVxTRS2EjFzMmo",
+    "appleMusic": "https://music.apple.com/fr/album/national-average/1818365258",
+    "deezer": "https://www.deezer.com/fr/album/766821851",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lAtyMKQwK0iS0cOeV_u0Xp4TyOmIt7Ssc"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B0FG675XXG/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+
+  "discography": [
+    {
+      "id": "ojoy",
+      "title": "O'JOY!",
+      "year": 2026,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/4d20f89c-27d0-4e91-9c32-6ceb6b274042/front"
+    },
+    {
+      "id": "national-average",
+      "title": "NATIONAL AVERAGE.",
+      "year": 2025,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "/covers/big-special-national-average.jpg"
+    },
+    {
+      "id": "postindustrial-hometown-blues",
+      "title": "POSTINDUSTRIAL HOMETOWN BLUES",
+      "year": 2024,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "https://coverartarchive.org/release-group/0886f8e7-9fb7-42d4-a574-8d02dc13de5f/front"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "weezer-pinkerton",
+  "number": "093",
+  "publishedAt": "2026-08-07",
+
+  "artist": {
+    "name": "WEEZER",
+    "origin": "Los Angeles, États-Unis"
+  },
+
+  "featuredAlbum": {
+    "id": "pinkerton",
+    "title": "Pinkerton",
+    "year": 1996,
+    "label": "DGC / Geffen",
+    "genres": [
+      "Rock Alternatif",
+      "Power Pop",
+      "Emo"
+    ],
+
+    "trackCount": 10,
+    "type": "Album",
+    "coverUrl": "/covers/weezer-pinkerton.jpg"
+  },
+
+  "meta": "1996 · DGC / Geffen · Rock Alternatif · Power Pop · États-Unis",
+
+  "editorial": [
+    "Peu d’albums auront connu une réhabilitation aussi spectaculaire que Pinkerton. Lorsqu’il paraît en 1996, ce deuxième disque de Weezer succède au triomphe du Blue Album, dont les refrains imparables avaient propulsé le groupe californien au premier plan de la scène rock américaine. Rivers Cuomo choisit pourtant de prendre tout le monde à contre-pied. Marqué par une période de doutes personnels, d’études universitaires et de convalescence après une lourde opération, il livre un album bien plus brut, plus introspectif et émotionnellement à vif. Mal accueilli par une partie de la critique à sa sortie et moins performant commercialement que son prédécesseur, Pinkerton deviendra pourtant l’une des œuvres les plus influentes du rock alternatif de la fin du XXe siècle.",
+    "Loin de la production impeccable de son aîné, Pinkerton revendique une approche plus rugueuse. Les guitares saturées retrouvent une urgence presque garage, tandis que les mélodies pop, toujours aussi efficaces, se heurtent à des textes d’une sincérité désarmante. Cuomo y expose ses obsessions, ses frustrations amoureuses et ses contradictions avec une franchise qui déstabilise autant qu’elle touche. Des titres comme Tired of Sex, El Scorcho, The Good Life ou Across the Sea témoignent de cette tension permanente entre énergie punk, sens mélodique hérité des Beach Boys et vulnérabilité assumée. C’est précisément cette imperfection revendiquée qui donne au disque toute sa force.",
+    "Aujourd’hui considéré comme un classique, Pinkerton a profondément marqué plusieurs générations de groupes emo, indie rock et power pop. Son influence s’étend bien au-delà de la discographie de Weezer, tant il a ouvert la voie à une écriture plus intime dans le rock grand public. Avec le temps, ce qui avait été perçu comme une faiblesse est devenu sa plus grande qualité : une honnêteté sans filtre qui continue de résonner auprès des auditeurs. Une manière idéale de terminer la semaine en ce vendredi, avec un album qui prouve que les œuvres les plus incomprises finissent souvent par devenir les plus indispensables."
+  ],
+
+  "video": {
+    "youtubeId": "gkroIXktjgE",
+    "title": "The Good Life — WEEZER · Pinkerton, 1996"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/3jWhmYMAWw5NvHTTeiQtfl",
+    "appleMusic": "https://music.apple.com/fr/album/pinkerton/1440898333",
+    "deezer": "https://www.deezer.com/fr/album/287798",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mEo-LLncm4GSVaKFiTq5JP8wA7vMucyNw"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a10091150/Weezer-Pinkerton-Vinyle-album",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a679018/Weezer-Pinkerton-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B01L2ZS882/",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B00599UGZ6/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+
+  "discography": [
+    {
+      "id": "maladroit",
+      "title": "Maladroit",
+      "year": 2002,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://coverartarchive.org/release-group/5585d787-0b8e-34ac-ba82-efba1aaae8ea/front"
+    },
+    {
+      "id": "weezer-green-album",
+      "title": "Weezer (Green Album)",
+      "year": 2001,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/923d5ba6-7eee-3bce-bcb2-c913b2bd69d4/front"
+    },
+    {
+      "id": "pinkerton",
+      "title": "Pinkerton",
+      "year": 1996,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "/covers/weezer-pinkerton.jpg"
+    },
+    {
+      "id": "weezer-blue-album",
+      "title": "Weezer (Blue Album)",
+      "year": 1994,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://coverartarchive.org/release-group/c7b245c9-8099-32ea-af95-893acedde2cf/front"
+    }
+  ]
+}
