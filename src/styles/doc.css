@@ -1,0 +1,242 @@
+/* ═══════════════════════════════════════════════
+   doc.css — mise en page des pages document
+   (/confidentialite, /support)
+
+   Deux routes partagent exactement la même structure :
+   hero + blocs labellisés + bloc contact. Une seule
+   feuille plutôt qu'un [route].css dupliqué à l'identique.
+   Reprend les tokens de globals.css et le motif de label
+   en pill de about.css — aucune valeur nouvelle inventée.
+═══════════════════════════════════════════════ */
+
+.dc-doc-hero {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: clamp(100px, 11vw, 140px) var(--dc-pad-x) clamp(32px, 4vw, 48px);
+}
+
+.dc-doc-kicker {
+  font-family: var(--font-display);
+  font-size: var(--dc-font-kicker);
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--dc-text-tertiary);
+  margin-bottom: clamp(16px, 2vw, 24px);
+}
+
+/* Échelle volontairement en retrait du --dc-font-hero éditorial :
+   « Confidentialité » est un mot long, il doit tenir à 375px. */
+.dc-doc-title {
+  font-family: var(--font-display);
+  font-size: clamp(38px, 5.6vw, 68px);
+  font-weight: 900;
+  line-height: 0.94;
+  letter-spacing: -0.02em;
+  color: var(--dc-text-primary);
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.dc-doc-updated {
+  font-family: var(--font-body);
+  font-size: var(--dc-font-small);
+  color: var(--dc-text-muted);
+  margin: clamp(20px, 2.5vw, 28px) 0 0;
+}
+
+/* ═══════════════════════════════════════════════
+   BLOCS
+═══════════════════════════════════════════════ */
+.dc-doc-block {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 var(--dc-pad-x) clamp(36px, 4.5vw, 52px);
+}
+
+/* Label en pill bordered — même motif que .dc-about-label */
+.dc-doc-label,
+span.dc-doc-label {
+  display: block;
+  width: 100%;
+  padding: 12px 18px;
+  margin-bottom: 24px;
+  font-family: var(--font-display);
+  font-size: var(--dc-font-kicker);
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--dc-text-secondary);
+  background: var(--dc-surface-card);
+  border: 0.5px solid var(--dc-border-soft);
+  border-radius: 10px;
+  transition: border-color 0.45s, background 0.45s;
+}
+
+.dc-doc-block p {
+  font-family: var(--font-body);
+  font-size: var(--dc-font-body-lg);
+  line-height: 1.75;
+  color: var(--dc-text-primary);
+  margin: 0 0 20px;
+}
+
+.dc-doc-block p:last-child {
+  margin-bottom: 0;
+}
+
+.dc-doc-block strong {
+  font-weight: 600;
+  color: var(--dc-text-primary);
+}
+
+/* Sous-titre à l'intérieur d'un bloc (cas de support : un problème = un titre) */
+.dc-doc-subtitle {
+  font-family: var(--font-display);
+  font-size: var(--dc-font-album-subtitle);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--dc-text-primary);
+  margin: clamp(28px, 3vw, 36px) 0 12px;
+}
+
+.dc-doc-subtitle:first-of-type {
+  margin-top: 0;
+}
+
+/* ═══════════════════════════════════════════════
+   LISTES
+═══════════════════════════════════════════════ */
+.dc-doc-list {
+  margin: 0 0 20px;
+  padding: 0;
+  list-style: none;
+}
+
+.dc-doc-list li {
+  position: relative;
+  padding-left: 22px;
+  font-family: var(--font-body);
+  font-size: var(--dc-font-body-lg);
+  line-height: 1.75;
+  color: var(--dc-text-primary);
+  margin-bottom: 10px;
+}
+
+.dc-doc-list li:last-child {
+  margin-bottom: 0;
+}
+
+/* Puce carrée, accordée à la teinte courante */
+.dc-doc-list li::before {
+  content: '';
+  position: absolute;
+  left: 2px;
+  top: 0.72em;
+  width: 6px;
+  height: 6px;
+  border-radius: 1px;
+  background: rgb(var(--theme-tint));
+  opacity: 0.62;
+  transition: background 0.45s;
+}
+
+/* Chemin de réglages iOS : Réglages › Confidentialité › …
+   Pas de white-space: nowrap — le chemin le plus long fait 455px et
+   déborderait de l'écran sur un iPhone. Il se coupe donc, et
+   box-decoration-break redessine fond et bordure sur chaque ligne. */
+.dc-doc-path {
+  font-family: var(--font-body);
+  font-weight: 600;
+  color: var(--dc-text-primary);
+  background: var(--dc-surface-card);
+  border: 0.5px solid var(--dc-border-subtle);
+  border-radius: 6px;
+  padding: 2px 8px;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+/* ═══════════════════════════════════════════════
+   LIENS EN LIGNE
+═══════════════════════════════════════════════ */
+.dc-doc-link {
+  color: rgb(var(--theme-tint));
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+  text-decoration-color: rgba(241, 239, 232, 0.32);
+  transition: text-decoration-color 0.2s, color 0.45s;
+}
+
+.dc-doc-link:hover,
+.dc-doc-link:focus-visible {
+  text-decoration-color: rgb(var(--theme-tint));
+}
+
+/* ═══════════════════════════════════════════════
+   CONTACT — CTA mailto, calqué sur .dc-about-cta
+═══════════════════════════════════════════════ */
+.dc-doc-cta-wrapper {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: clamp(8px, 1.5vw, 16px) var(--dc-pad-x) clamp(64px, 8vw, 96px);
+  display: flex;
+  justify-content: center;
+}
+
+.dc-doc-cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 14px 28px;
+  background: rgb(var(--theme-tint));
+  color: rgb(var(--theme-dark));
+  border-radius: 12px;
+  font-family: var(--font-body);
+  font-size: var(--dc-font-body);
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform 0.15s, box-shadow 0.2s, background 0.45s;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+}
+
+@media (max-width: 768px) {
+  .dc-doc-cta {
+    min-height: var(--dc-tap-min);
+  }
+}
+
+.dc-doc-cta svg {
+  transition: transform 0.25s cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+.dc-doc-cta:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+}
+
+.dc-doc-cta:hover svg {
+  transform: translateX(4px);
+}
+
+/* ═══════════════════════════════════════════════
+   ANIMATIONS DE PRÉSENCE — au load uniquement
+   Réutilise le keyframe dc-fade-up de globals.css
+═══════════════════════════════════════════════ */
+.dc-doc-kicker {
+  animation: dc-fade-up 0.5s cubic-bezier(0.22, 0.61, 0.36, 1) both;
+  animation-delay: 0.05s;
+}
+.dc-doc-title {
+  animation: dc-fade-up 0.5s cubic-bezier(0.22, 0.61, 0.36, 1) both;
+  animation-delay: 0.14s;
+}
+.dc-doc-updated {
+  animation: dc-fade-up 0.5s cubic-bezier(0.22, 0.61, 0.36, 1) both;
+  animation-delay: 0.22s;
+}
+
+/* Pas de @media de rupture : tout scale via les clamp() des tokens
+   --dc-pad-x, --dc-font-body-lg, etc. de globals.css (375px → 1440px+). */
