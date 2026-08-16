@@ -1,0 +1,91 @@
+{
+  "id": "gotts-street-park-volume-two",
+  "number": "103",
+  "publishedAt": "2026-08-21",
+
+  "artist": {
+    "name": "GOTTS STREET PARK",
+    "origin": "Leeds, Royaume-Uni"
+  },
+
+  "featuredAlbum": {
+    "id": "volume-two",
+    "title": "Volume Two",
+    "year": 2020,
+    "label": "Blue Flowers",
+    "genres": [
+      "Soul",
+      "Jazz",
+      "R&B"
+    ],
+
+    "trackCount": 8,
+    "type": "Album",
+    "coverUrl": "/covers/gotts-street-park-volume-two.jpg"
+  },
+
+  "meta": "2020 · Blue Flowers · Soul · Jazz · R&B · Royaume-Uni",
+
+  "editorial": [
+    "À Leeds, Gotts Street Park cultive depuis ses débuts une conception presque artisanale de la musique : se retrouver en studio, jouer, expérimenter, puis laisser les morceaux trouver leur forme. Le trio composé de Josh Crocker, Tom Henry et Joe Harris s’est fait connaître avec Volume One en 2017, avant de prolonger cette approche avec Volume Two, publié en 2020 puis en vinyle en mars 2021. Le groupe considère d’ailleurs ces deux premiers volumes comme des cartes de visite plutôt que comme de véritables albums, avant de concevoir On The Inside comme son premier long format. Cette nuance dit beaucoup de leur démarche : Gotts Street Park privilégie le travail collectif et la texture au récit de carrière.",
+    "Volume Two repose sur une alchimie entre soul, jazz, hip-hop et R&B, avec cette patine légèrement brumeuse qui constitue la signature du groupe. Les basses et les rythmiques hip-hop forment une assise souple, tandis que claviers, guitares et percussions installent des atmosphères de club enfumé. Les voix invitées – Rosie Lowe, Pip Millet, Flikka, Grand Pax et Zilo notamment – apportent chacune une couleur différente sans rompre la cohérence de l’ensemble. Awake, Favourite Kind of Girl, Everything ou Change My Ways avancent ainsi à leur propre rythme, préférant les développements progressifs aux effets spectaculaires. Le résultat possède quelque chose de profondément cinématographique, avec une chaleur analogique qui évoque autant le hip-hop instrumental que la soul psychédélique.",
+    "C’est sans doute cette patience qui explique la longévité de Volume Two. Dans une époque musicale souvent obsédée par l’immédiateté, Gotts Street Park fait le choix inverse : installer une ambiance, laisser les instruments dialoguer et faire confiance à la répétition. L’EP ne cherche jamais à voler la vedette à ses chanteurs, pas plus qu’il ne transforme ses références en musée de la soul. Il propose plutôt une musique intemporelle, suffisamment accessible pour séduire immédiatement mais assez subtile pour révéler ses détails au fil des écoutes. Une manière idéale de refermer la semaine ce vendredi, en laissant Gotts Street Park transformer quelques dernières heures de travail en bande-son douce et nocturne."
+  ],
+
+  "video": {
+    "youtubeId": "s3Ej6aBXa7s",
+    "title": "Everything feat. Rosie Lowe — GOTTS STREET PARK · Volume Two, 2020"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/0ahnQJJxKVJW8pJBf5QO8k",
+    "appleMusic": "https://music.apple.com/fr/album/volume-two/1533652479",
+    "deezer": "https://www.deezer.com/fr/album/176179632",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kok8VA7AxS5-R3BbHBeLqjL_fcVfkKtP8"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B08GPW49QN/",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+
+  "discography": [
+    {
+      "id": "somewhere-between",
+      "title": "Somewhere Between",
+      "year": 2026,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/36/16/6036164b-a393-85d5-d54b-7e99678dddf3/5400863209209_cover.jpg/1200x1200cc.jpg"
+    },
+    {
+      "id": "on-the-inside",
+      "title": "On The Inside",
+      "year": 2023,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/aff2e9bfacff03f4e1b5e9295c999727/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "volume-two",
+      "title": "Volume Two",
+      "year": 2020,
+      "type": "Album",
+      "trackCount": 8,
+      "coverUrl": "/covers/gotts-street-park-volume-two.jpg"
+    },
+    {
+      "id": "volume-one",
+      "title": "Volume One",
+      "year": 2017,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/fe392372ad7a4e4e166eefe62374f258/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

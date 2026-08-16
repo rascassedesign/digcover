@@ -1,0 +1,75 @@
+{
+  "id": "mari-froes-esquina-do-sol",
+  "number": "100",
+  "publishedAt": "2026-08-18",
+
+  "artist": {
+    "name": "MARI FROES",
+    "origin": "Anápolis, Brésil"
+  },
+
+  "featuredAlbum": {
+    "id": "esquina-do-sol",
+    "title": "Esquina do Sol",
+    "year": 2026,
+    "label": "RCA Records",
+    "genres": [
+      "MPB",
+      "Samba",
+      "Bossa Nova"
+    ],
+
+    "trackCount": 12,
+    "type": "Album",
+    "coverUrl": "/covers/mari-froes-esquina-do-sol.jpg"
+  },
+
+  "meta": "2026 · RCA Records · MPB · Samba · Bossa Nova · Brésil",
+
+  "editorial": [
+    "Avec Esquina do Sol, Mari Froes franchit enfin le cap du premier album après plusieurs années passées à construire, presque naturellement, une audience internationale. Née à Anápolis, dans l’État de Goiás, la chanteuse et guitariste s’est d’abord fait connaître en publiant des reprises sur Internet avant de voir sa voix chaude conquérir un public beaucoup plus large. Le passage par COLORS en 2024, avec son interprétation de Gabriela, puis le succès viral de Figa de Guiné ont accéléré cette ascension, tandis que Vaitimbora, enregistré avec le duo français Trinix, l’a définitivement installée au-delà du Brésil. Sorti le 31 juillet 2026, Esquina do Sol arrive donc après une succession de singles qui avaient déjà dessiné les contours d’une artiste profondément attachée à la MPB, à la bossa nova, à la samba et au jazz.",
+    "Ce qui frappe chez Mari Froes, c’est sa capacité à moderniser cet héritage sans jamais le transformer en simple décor. Sa voix, souple et légèrement voilée, se pose avec une décontraction qui évoque la tradition brésilienne tout en laissant entrer des sensibilités pop et indie contemporaines. Rio Lua, choisi comme prélude à l’album, donne le ton : rythmes brésiliens chaleureux, mélodie lumineuse et sentiment d’évasion, inspirés par un séjour de la chanteuse à Rio. Autour du chant et de la guitare, les arrangements peuvent accueillir cuivres, flûte, basse, batterie et percussions, offrant à cette musique une profondeur organique qui dépasse largement le format de la chanson virale.",
+    "Esquina do Sol arrive ainsi à un moment décisif : celui où une jeune artiste, déjà suivie par des millions d’auditeurs, doit transformer une succession de coups d’éclat en véritable univers. L’album témoigne de cette ambition tout en conservant l’intimité qui faisait la force de ses premières chansons. Mari Froes appartient à cette nouvelle génération brésilienne capable de porter la mémoire de la MPB vers un public mondial sans en diluer l’identité. Une écoute lumineuse pour ce mardi, parfaite pour prolonger un peu l’été et laisser la semaine prendre des airs de voyage."
+  ],
+
+  "video": {
+    "youtubeId": "p3fqXbBluPA",
+    "title": "Reza Braba — MARI FROES · Esquina do Sol, 2026"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/5X30ATquawvTC3sySlEtMv",
+    "appleMusic": "https://music.apple.com/fr/album/esquina-do-sol/6783835265",
+    "deezer": "https://www.deezer.com/fr/album/1027475632",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lqZAzS9NjwnOUFDmwU7dOll_tI7VYrTGw"
+  },
+
+  "vinyl": [],
+
+  "discography": [
+    {
+      "id": "esquina-do-sol",
+      "title": "Esquina do Sol",
+      "year": 2026,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "/covers/mari-froes-esquina-do-sol.jpg"
+    },
+    {
+      "id": "taqueta-vol-1",
+      "title": "Taquetá Vol.1",
+      "year": 2021,
+      "type": "EP",
+      "trackCount": 5,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/4106f355a5b2a23340dfbd34c9ac3166/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "nebulosa",
+      "title": "Nebulosa",
+      "year": 2020,
+      "type": "EP",
+      "trackCount": 5,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/6bf54aaa54d28ac39d3862022f1f1024/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "sear-lui-meme-eclipse-lunaire",
+  "number": "105",
+  "publishedAt": "2026-08-25",
+
+  "artist": {
+    "name": "SËAR LUI-MÊME",
+    "origin": "Paris, France"
+  },
+
+  "featuredAlbum": {
+    "id": "eclipse-lunaire",
+    "title": "Eclipse Lunaire",
+    "year": 2015,
+    "label": "L'Or Noir / Musicast",
+    "genres": [
+      "Rap français",
+      "Boom Bap"
+    ],
+
+    "trackCount": 17,
+    "type": "Album",
+    "coverUrl": "/covers/sear-lui-meme-eclipse-lunaire.jpg"
+  },
+
+  "meta": "2015 · L'Or Noir / Musicast · Rap français · Boom Bap · France",
+
+  "editorial": [
+    "Lorsque paraît Eclipse lunaire en février 2015, Sëar Lui-Même évolue dans une scène rap française où l’identité artistique passe souvent par une forte affirmation personnelle. Originaire de l’univers L’Entourage, le rappeur s’inscrit dans une génération qui a contribué à remettre l’écriture et les atmosphères au centre du hip-hop hexagonal. Son premier album, publié chez L’Or Noir/Musicast, arrive avec dix-sept titres et plus d’une heure de musique : un format généreux qui laisse à l’artiste le temps d’installer son esthétique. Loin d’un simple exercice de style, Eclipse lunaire porte déjà cette volonté de construire un rap introspectif, nocturne et personnel, à distance des formats les plus immédiatement commerciaux.",
+    "Le titre de l’album dit beaucoup de son climat. Sëar privilégie une écriture dense, travaillée autour des états d’âme, des relations, des doutes et de cette part d’ombre qui accompagne souvent les récits de construction personnelle. Son flow ne cherche pas systématiquement la démonstration : il mise davantage sur la précision des placements et la continuité du récit. Musicalement, l’ensemble s’inscrit dans une tradition boom bap modernisée, avec des productions qui privilégient les boucles mélodiques, les basses profondes et les ambiances crépusculaires. L’important est moins de multiplier les effets que de maintenir une cohérence émotionnelle, comme si chaque morceau ajoutait une nuance à une même nuit intérieure.",
+    "Dix ans après sa sortie, Eclipse lunaire mérite d’être replacé dans cette période particulièrement fertile du rap français indépendant, lorsque Internet permettait à de nombreux artistes de construire leur public en dehors des circuits traditionnels. Le disque témoigne d’une époque où la technique, la sincérité et l’appartenance à une famille artistique comptaient encore énormément dans la définition d’un rappeur. Il conserve surtout une tonalité intime qui échappe aux modes et lui permet de retrouver aujourd’hui une certaine actualité. En ce mardi, voilà un disque idéal pour quitter quelques instants le bruit du quotidien et se laisser guider par une écriture qui préfère la pénombre aux projecteurs."
+  ],
+
+  "video": {
+    "youtubeId": "9XT_JH54VYU",
+    "title": "Pour mes gars de Paris — SËAR LUI-MÊME · Eclipse Lunaire, 2015"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/5UFeT6r0Euw5dcmiHxrstl",
+    "appleMusic": "https://music.apple.com/fr/album/eclipse-lunaire/960263832"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/Eclipse-lunaire/a7965270",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B00SN6GC9Q/",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B00RKG7APU/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+
+  "discography": [
+    {
+      "id": "chasseur-de-tetes",
+      "title": "Chasseur de têtes",
+      "year": 2018,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e6/25/9f/e6259f7e-ad85-efed-158a-d68f9df5aa37/cover.jpg/1200x1200cc.jpg"
+    },
+    {
+      "id": "eclipse-lunaire",
+      "title": "Eclipse Lunaire",
+      "year": 2015,
+      "type": "Album",
+      "trackCount": 17,
+      "coverUrl": "/covers/sear-lui-meme-eclipse-lunaire.jpg"
+    },
+    {
+      "id": "big-punchliner-reloaded",
+      "title": "Big Punchliner Reloaded",
+      "year": 2013,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/99/3a/37/993a37ba-ede1-f4a1-f815-611776df944a/3700187653897.jpg/1200x1200cc.jpg"
+    },
+    {
+      "id": "big-punchliner",
+      "title": "Big Punchliner",
+      "year": 2012,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/3d/b2/56/3db25662-015d-6589-ff6b-03fa2236d63d/3700735801176.jpg/1200x1200cc.jpg"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "wings-band-on-the-run",
+  "number": "104",
+  "publishedAt": "2026-08-24",
+
+  "artist": {
+    "name": "WINGS",
+    "origin": "Londres, Royaume-Uni"
+  },
+
+  "featuredAlbum": {
+    "id": "band-on-the-run",
+    "title": "Band on the Run",
+    "year": 1973,
+    "label": "Apple Records",
+    "genres": [
+      "Rock",
+      "Pop Rock"
+    ],
+
+    "trackCount": 9,
+    "type": "Album",
+    "coverUrl": "/covers/wings-band-on-the-run.jpg"
+  },
+
+  "meta": "1973 · Apple Records · Rock · Pop Rock · Royaume-Uni",
+
+  "editorial": [
+    "En 1973, Paul McCartney n’a plus rien à prouver, mais encore beaucoup à reconquérir. Depuis la séparation des Beatles, ses albums avec Wings ont connu des fortunes diverses et peinent parfois à convaincre ceux qui attendent de lui un nouveau chef-d’œuvre. Band on the Run, troisième album de Wings, va changer la donne. Prévu comme une aventure collective, le disque se retrouve pourtant enregistré dans des circonstances chaotiques : Henry McCullough et Denny Seiwell quittent le groupe juste avant le départ pour Lagos, laissant McCartney, Linda et Denny Laine assurer l’essentiel des sessions. Paru en novembre 1973 au Royaume-Uni, puis en décembre aux États-Unis, l’album deviendra finalement le grand disque de la renaissance post-Beatles de McCartney.",
+    "Cette histoire mouvementée nourrit paradoxalement sa cohésion. Enregistré en grande partie dans les studios EMI de Lagos, avec Geoff Emerick à la technique, Band on the Run juxtapose avec une étonnante fluidité rock, pop, folk et orchestrations luxuriantes. La chanson-titre, construite comme une mini-suite en plusieurs mouvements, raconte l’évasion avec une ampleur presque cinématographique. Jet frappe par son riff et son efficacité pop, Bluebird apporte une douceur tropicale, tandis que Let Me Roll It revendique un blues-rock dépouillé qui semble dialoguer avec la période Beatles. Malgré les moyens techniques limités du studio nigérian, McCartney réussit à transformer les contraintes en moteur créatif, jouant lui-même plusieurs instruments après les départs de ses musiciens.",
+    "Avec le recul, Band on the Run apparaît comme bien plus qu’un excellent album de Paul McCartney : c’est le disque qui donne enfin à Wings une stature propre. Son succès critique et commercial rétablit durablement la crédibilité de son auteur et installe plusieurs chansons au panthéon de la pop britannique. Mais sa force tient surtout à cette sensation de liberté conquise contre l’adversité. Cinquante ans plus tard, l’album conserve une fraîcheur remarquable, capable de séduire autant les amateurs des Beatles que les générations qui leur ont succédé. Pour commencer cette semaine en ce lundi, difficile de rêver meilleur voyage qu’un disque né dans le chaos et transformé en triomphe."
+  ],
+
+  "video": {
+    "youtubeId": "yDzhrO5K02c",
+    "title": "Band on the Run — WINGS · Band on the Run, 1973"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/257oomaawruFknt5wYCPDh",
+    "appleMusic": "https://music.apple.com/fr/album/band-on-the-run-2010-remaster/1443413822",
+    "deezer": "https://www.deezer.com/fr/album/677606",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kPjAbFvb9QdwWoKqEXHt8tUgfzkgUeUFY"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a3088027/Paul-McCartney-Band-on-the-run-Vinyle-album",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a588162/Paul-McCartney-Band-on-the-run-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B008PDKBAI/",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B003XX2O8C/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+
+  "discography": [
+    {
+      "id": "venus-and-mars",
+      "title": "Venus and Mars",
+      "year": 1975,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/3942f89454f79d3a94c5b9395151d239/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "band-on-the-run",
+      "title": "Band on the Run",
+      "year": 1973,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "/covers/wings-band-on-the-run.jpg"
+    },
+    {
+      "id": "red-rose-speedway",
+      "title": "Red Rose Speedway",
+      "year": 1973,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/b2c9f4bcc075ae26a537329d4479a7a7/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "wild-life",
+      "title": "Wild Life",
+      "year": 1971,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/3792533f3c3011bbfc380d8665b9cf6a/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

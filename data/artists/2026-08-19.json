@@ -1,0 +1,88 @@
+{
+  "id": "dangerdoom-the-mouse-and-the-mask",
+  "number": "101",
+  "publishedAt": "2026-08-19",
+
+  "artist": {
+    "name": "DANGERDOOM",
+    "origin": "New York, États-Unis"
+  },
+
+  "featuredAlbum": {
+    "id": "the-mouse-and-the-mask",
+    "title": "The Mouse & The Mask",
+    "year": 2005,
+    "label": "Lex Records",
+    "genres": [
+      "Hip-Hop",
+      "Alternative Hip-Hop"
+    ],
+
+    "trackCount": 16,
+    "type": "Album",
+    "coverUrl": "/covers/dangerdoom-the-mouse-and-the-mask.jpg"
+  },
+
+  "meta": "2005 · Lex Records · Hip-Hop · Alternative Hip-Hop · États-Unis",
+
+  "editorial": [
+    "En 2005, réunir MF DOOM et Danger Mouse relevait déjà de la promesse d’un choc artistique. Le premier, maître incontesté du rap masqué et des rimes labyrinthiques, avait transformé son personnage de super-vilain en l’une des figures les plus fascinantes de l’underground hip-hop. Le second venait de s’imposer comme producteur inventif grâce à son approche du sampling et à son travail avec des artistes aussi différents que Gorillaz ou The Black Keys. The Mouse & The Mask, sorti en octobre 2005 sur Epitaph et Lex Records, naît d’une idée encore plus improbable : construire un album autour des archives sonores de l’univers Adult Swim. Les personnages d’Aqua Teen Hunger Force, Space Ghost et leurs camarades deviennent ainsi partie intégrante du dispositif.",
+    "L’intelligence du projet tient précisément au fait que l’humour ne vient jamais remplacer la musique. Danger Mouse construit des productions soul et funk, volontiers poussiéreuses, qui offrent à DOOM un terrain idéal pour ses associations d’idées, ses jeux de mots et ses personnages absurdes. Sofa King, Crosshairs ou Benzi Box, avec Cee-Lo Green, possèdent cette immédiateté mélodique qui rend l’album accessible sans réduire sa sophistication. Les interventions de Ghostface Killah sur The Mask et de Talib Kweli sur Old School Rules élargissent encore le casting, tandis que les dialogues d’Adult Swim transforment les transitions en véritables scènes de cartoon.",
+    "Près de deux décennies plus tard, The Mouse & The Mask reste l’un des projets les plus singuliers de la carrière de MF DOOM et un exemple rare de rencontre réussie entre culture hip-hop et animation pour adultes. Son humour volontairement décalé n’a rien d’un gadget : il correspond parfaitement à la logique de DOOM, artiste qui aimait brouiller les frontières entre personnage, fiction et réalité. L’album demeure aussi un formidable témoignage de l’âge d’or créatif de Danger Mouse. En ce mercredi, c’est donc l’occasion rêvée de remettre le masque et de retrouver un disque aussi drôle qu’obsessionnellement musical."
+  ],
+
+  "video": {
+    "youtubeId": "0T9wolelY1Q",
+    "title": "Benzi Box — DANGERDOOM · The Mouse & The Mask, 2005"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/6TgkNOiJxeSkVVbXV720B1",
+    "appleMusic": "https://music.apple.com/fr/album/the-mouse-the-mask/1829744483",
+    "deezer": "https://www.deezer.com/fr/album/796038651",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_ni5REC8A1PiR5hVHVSI_FogvJKtyIYI4s"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a1763205/Dangerdoom-The-mouse-and-the-mask-Vinyle-album",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a1802584/Dangerdoom-The-mouse-and-the-mask-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B000B9EYDY/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+
+  "discography": [
+    {
+      "id": "the-mouse-and-the-mask-metalface-edition",
+      "title": "The Mouse and the Mask (Metalface Edition)",
+      "year": 2017,
+      "type": "Album",
+      "trackCount": 23,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/35aaa935fdfcea45b4e8599aaac80198/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "the-mouse-and-the-mask",
+      "title": "The Mouse & The Mask",
+      "year": 2005,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "/covers/dangerdoom-the-mouse-and-the-mask.jpg"
+    }
+  ]
+}

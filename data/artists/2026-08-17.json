@@ -1,0 +1,74 @@
+{
+  "id": "opus-kink-til-the-stream-runs-dry",
+  "number": "099",
+  "publishedAt": "2026-08-17",
+
+  "artist": {
+    "name": "OPUS KINK",
+    "origin": "Brighton, Royaume-Uni"
+  },
+
+  "featuredAlbum": {
+    "id": "til-the-stream-runs-dry",
+    "title": "'Til The Stream Runs Dry",
+    "year": 2022,
+    "label": "Nice Swan Records",
+    "genres": [
+      "Post-Punk",
+      "Punk Jazz"
+    ],
+
+    "trackCount": 7,
+    "type": "EP",
+    "coverUrl": "/covers/opus-kink-til-the-stream-runs-dry.jpg"
+  },
+
+  "meta": "2022 · Nice Swan Records · Post-Punk · Punk Jazz · Royaume-Uni",
+
+  "editorial": [
+    "À Brighton, Opus Kink s’est rapidement distingué par une manière bien à lui de faire exploser les frontières du post-punk. Formé comme un sextet, le groupe britannique transforme dès ses premiers singles la colère rock en matière beaucoup plus instable, où le jazz, le blues, le cabaret et une certaine théâtralité viennent brouiller les pistes. Paru en 2022 chez Nice Swan Records, ’Til The Stream Runs Dry constitue leur premier véritable manifeste : sept morceaux enregistrés aux Rockfield Studios, au pays de Galles, et produits avec Thighpaulsandra. Quatre ans avant leur premier album The Sweet Goodbye, cette sortie révèle déjà une formation qui refuse les catégories et préfère l’excès, l’accident et la démesure à la confortable efficacité du rock formaté.",
+    "La musique d’Opus Kink semble constamment sur le point de perdre le contrôle. Les cuivres, les guitares abrasives, le piano, les synthétiseurs et une section rythmique nerveuse s’entrechoquent autour de la voix rocailleuse d’Angus Rogers. I Love You, Baby fait surgir des accents de fanfare détraquée et de garage-rock, St. Paul of the Tarantulas prend des airs de procession hallucinée, tandis que le morceau-titre déploie pendant plus de six minutes un crescendo aussi inquiétant que jubilatoire. Les références au jazz expérimental, au punk, au western spaghetti ou à la chanson de saloon ne sont jamais plaquées : elles deviennent les ingrédients d’un théâtre sonore où chaque rupture semble calculée pour provoquer la suivante.",
+    "Écouté aujourd’hui, ’Til The Stream Runs Dry possède encore cette qualité rare des disques qui semblent avoir été conçus pour échapper à leur époque. À l’heure où le post-punk est parfois devenu une esthétique identifiable entre mille, Opus Kink rappelle qu’il peut encore être dangereux, drôle, baroque et franchement imprévisible. Cette liberté explique aussi pourquoi le disque conserve une place particulière dans leur parcours : il contient déjà, à l’état sauvage, les germes de leur ambition future. Un formidable coup de cœur pour ouvrir la semaine ce lundi, et une invitation à se laisser emporter plutôt qu’à chercher à comprendre où mène le courant."
+  ],
+
+  "video": {
+    "youtubeId": "OTKvQ6m4giQ",
+    "title": "'Til The Stream Runs Dry — OPUS KINK · 'Til The Stream Runs Dry, 2022"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/7IM36wFeDv1bhzc1soETfO",
+    "appleMusic": "https://music.apple.com/fr/album/til-the-stream-runs-dry/1729235321",
+    "deezer": "https://www.deezer.com/fr/album/544056502",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nbr8gSAxZVfHwk1b9uNeNvMXwMyj47O2U"
+  },
+
+  "vinyl": [],
+
+  "discography": [
+    {
+      "id": "the-sweet-goodbye",
+      "title": "The Sweet Goodbye",
+      "year": 2026,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/6a0338091f2b3a9c5d7a9ab15016e676/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "my-eyes-brother",
+      "title": "My Eyes, Brother!",
+      "year": 2023,
+      "type": "EP",
+      "trackCount": 7,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/3b721198b44b6448834ef4961cdddfd9/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "til-the-stream-runs-dry",
+      "title": "'Til The Stream Runs Dry",
+      "year": 2022,
+      "type": "EP",
+      "trackCount": 7,
+      "coverUrl": "/covers/opus-kink-til-the-stream-runs-dry.jpg"
+    }
+  ]
+}

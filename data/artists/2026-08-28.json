@@ -1,0 +1,111 @@
+{
+  "id": "acdc-high-voltage",
+  "number": "108",
+  "publishedAt": "2026-08-28",
+
+  "artist": {
+    "name": "AC/DC",
+    "origin": "Sydney, Australie"
+  },
+
+  "featuredAlbum": {
+    "id": "high-voltage",
+    "title": "High Voltage",
+    "year": 1976,
+    "label": "Atlantic Records",
+    "genres": [
+      "Hard Rock",
+      "Blues Rock"
+    ],
+
+    "trackCount": 9,
+    "type": "Album",
+    "coverUrl": "/covers/acdc-high-voltage.jpg"
+  },
+
+  "meta": "1976 · Atlantic Records · Hard Rock · Blues Rock · Australie",
+
+  "editorial": [
+    "Avant de devenir l’une des machines à riffs les plus puissantes de l’histoire du rock, AC/DC est un jeune groupe australien encore en construction. Formé à Sydney en 1973 autour d’Angus et Malcolm Young, le groupe connaît ses premiers succès locaux avec Bon Scott au chant avant de réunir sur High Voltage une partie des morceaux qui définissent déjà son identité. Il faut toutefois distinguer les deux versions de l’album : le High Voltage australien paraît en 1975, tandis que l’édition internationale publiée en 1976 assemble des titres issus de High Voltage et T.N.T.. C’est cette dernière qui contribuera à installer AC/DC sur la scène internationale. Le disque constitue ainsi le point de départ d’une ascension qui conduira le groupe vers Let There Be Rock, puis Highway to Hell et Back in Black.",
+    "Dès It’s a Long Way to the Top (If You Wanna Rock 'n' Roll), tout est déjà là : le riff massif de Malcolm Young, le jeu électrique d’Angus, la batterie sèche et le timbre immédiatement identifiable de Bon Scott. AC/DC puise dans le blues et le rock’n’roll des pionniers, mais refuse toute sophistication superflue. The Jack, Live Wire ou T.N.T. reposent sur des structures simples, des refrains mémorisables et une dynamique qui doit autant au pub rock qu’au hard rock britannique. La production privilégie l’impact et la respiration du groupe, donnant aux guitares une place centrale. Cette économie de moyens deviendra justement leur arme : quelques accords, un groove solide et une interprétation sans détour suffisent à produire une musique reconnaissable en quelques secondes.",
+    "Près d’un demi-siècle plus tard, High Voltage conserve cette efficacité presque primitive qui constitue l’une des grandes forces d’AC/DC. L’album rappelle surtout que leur influence ne vient pas d’une volonté de révolutionner le rock, mais de leur capacité à en condenser l’essence avec une rigueur exceptionnelle. Des générations de groupes de hard rock, de metal et de garage lui doivent une partie de leur vocabulaire. Pour conclure cette semaine en ce vendredi, rien de tel qu’un album qui transforme trois accords, quelques amplis poussés à fond et une bonne dose d’attitude en éternelle machine à faire vibrer les enceintes."
+  ],
+
+  "video": {
+    "youtubeId": "GChhRrU6BJU",
+    "title": "It's a Long Way to the Top (If You Wanna Rock 'n' Roll) — AC/DC · High Voltage, 1976"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/7kiDg4OA7AgE7FErRjMvvJ",
+    "appleMusic": "https://music.apple.com/fr/album/high-voltage/574124734",
+    "deezer": "https://www.deezer.com/fr/album/9410096",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_n0N_Ec9Ty5idFdyqsmmv3_Qcxom7EcTBA"
+  },
+
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a1473831/AC-DC-High-Voltage-Vinyle-album",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a1399144/AC-DC-High-Voltage-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B00FCG06Q0/",
+      "format": "Vinyle Édition Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B00008AJL3/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+
+  "discography": [
+    {
+      "id": "back-in-black",
+      "title": "Back in Black",
+      "year": 1980,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/41041b14873956eff0459c8ea2c296a8/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "highway-to-hell",
+      "title": "Highway to Hell",
+      "year": 1979,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/de48d988a82fc401f4b9bafc2639f7d0/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "let-there-be-rock",
+      "title": "Let There Be Rock",
+      "year": 1977,
+      "type": "Album",
+      "trackCount": 8,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/57340d30b084ed406f86f1e40fc9d862/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "high-voltage",
+      "title": "High Voltage",
+      "year": 1976,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "/covers/acdc-high-voltage.jpg"
+    }
+  ]
+}

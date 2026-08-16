@@ -1,0 +1,82 @@
+{
+  "id": "winona-oak-salt",
+  "number": "106",
+  "publishedAt": "2026-08-26",
+
+  "artist": {
+    "name": "WINONA OAK",
+    "origin": "Sollerön, Suède"
+  },
+
+  "featuredAlbum": {
+    "id": "salt",
+    "title": "Salt",
+    "year": 2025,
+    "label": "Nettwerk",
+    "genres": [
+      "Electro-Pop",
+      "Singer-Songwriter"
+    ],
+
+    "trackCount": 4,
+    "type": "EP",
+    "coverUrl": "/covers/winona-oak-salt.jpg"
+  },
+
+  "meta": "2025 · Nettwerk · Electro-Pop · Singer-Songwriter · Suède",
+
+  "editorial": [
+    "Avec Salt, Winona Oak poursuit en 2025 une trajectoire qui l’a progressivement conduite de l’écriture pour d’autres artistes vers l’affirmation de son propre univers. Originaire de Suède, l’autrice-compositrice s’est d’abord fait remarquer par ses collaborations et ses talents d’écriture avant de développer une pop personnelle, à la fois vulnérable et sophistiquée. Paru le 7 février 2025, cet EP de quatre titres et onze minutes intervient après plusieurs années de singles et de collaborations internationales. Son format court n’en diminue pas l’ambition : Salt fonctionne plutôt comme une capsule émotionnelle, resserrée autour d’une artiste qui explore les zones fragiles de l’intime sans renoncer aux possibilités de la pop contemporaine.",
+    "Ce qui frappe chez Winona Oak, c’est cette façon de placer la voix au cœur de productions électroniques qui restent volontairement aérées. Les arrangements privilégient les textures synthétiques, les pulsations discrètes et les montées mélodiques, créant un espace où la voix peut passer de la fragilité au registre plus affirmé. Le titre Salt évoque d’ailleurs parfaitement cette esthétique : quelque chose de brut et organique, mais travaillé jusqu’à devenir une matière pop élégante. L’écriture repose sur l’émotion et la confession plutôt que sur la virtuosité démonstrative. Chaque morceau semble conçu comme une scène courte, avec ses silences, ses tensions et ses éclats, plutôt que comme une simple succession de refrains destinés au streaming.",
+    "Ce format ramassé constitue finalement l’une des forces de Salt. Là où un album pourrait diluer son propos, Winona Oak maintient une tension constante et laisse l’auditeur avec l’impression d’avoir entrevu un univers plus vaste. L’EP confirme surtout son aptitude à transformer des expériences intimes en chansons accessibles sans les rendre banales. Dans une pop internationale souvent saturée de productions interchangeables, cette capacité à préserver une vraie personnalité vocale et émotionnelle mérite l’attention. En ce mercredi, Salt offre une parenthèse délicate et légèrement mélancolique, parfaite pour laisser la semaine ralentir juste assez pour écouter ce qui se cache derrière les apparences."
+  ],
+
+  "video": {
+    "youtubeId": "cs8oR8FRJNE",
+    "title": "It's Not My Fault — WINONA OAK · Salt, 2025"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/2Qyj2igDUVDUsTiteIIrer",
+    "appleMusic": "https://music.apple.com/fr/album/salt-ep/1785095021",
+    "deezer": "https://www.deezer.com/fr/album/683413871",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lsUDOgNvTFAizFzDbYTm2ILJheVZDTc2s"
+  },
+
+  "vinyl": [],
+
+  "discography": [
+    {
+      "id": "salt",
+      "title": "Salt",
+      "year": 2025,
+      "type": "EP",
+      "trackCount": 4,
+      "coverUrl": "/covers/winona-oak-salt.jpg"
+    },
+    {
+      "id": "void",
+      "title": "Void",
+      "year": 2024,
+      "type": "EP",
+      "trackCount": 6,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/09467c1d36dbdcc35f63531e10c2b240/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "island-of-the-sun",
+      "title": "Island of the Sun",
+      "year": 2022,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/4e3da8bc842acdc8ec23bf4e8f755dbd/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "she",
+      "title": "SHE",
+      "year": 2020,
+      "type": "EP",
+      "trackCount": 4,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/b40a9c8440cea3babecca6d868018d62/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

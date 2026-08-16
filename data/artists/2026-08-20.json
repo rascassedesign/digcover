@@ -1,0 +1,74 @@
+{
+  "id": "florence-road-spring-forward",
+  "number": "102",
+  "publishedAt": "2026-08-20",
+
+  "artist": {
+    "name": "FLORENCE ROAD",
+    "origin": "Bray, Irlande"
+  },
+
+  "featuredAlbum": {
+    "id": "spring-forward",
+    "title": "Spring Forward",
+    "year": 2026,
+    "label": "Warner Music Ireland",
+    "genres": [
+      "Indie Rock",
+      "Indie Pop"
+    ],
+
+    "trackCount": 4,
+    "type": "EP",
+    "coverUrl": "/covers/florence-road-spring-forward.jpg"
+  },
+
+  "meta": "2026 · Warner Music Ireland · Indie Rock · Indie Pop · Irlande",
+
+  "editorial": [
+    "Florence Road appartient à cette nouvelle génération de groupes irlandais qui semblent avoir franchi en quelques années les étapes qui demandent habituellement une décennie. Formé à l’origine par quatre lycéennes de Bray, dans le comté de Wicklow, le groupe s’est d’abord fait connaître grâce à des reprises devenues virales avant de développer un répertoire personnel. Après Fall Back, leur premier EP paru en 2025, Spring Forward confirme cette trajectoire ascendante. Sorti le 27 mars 2026, ce deuxième EP ne compte que quatre titres pour un peu plus de quinze minutes, mais il arrive avec une ambition claire : affiner une identité indie-rock déjà solide avant le très attendu premier album. Entre-temps, Florence Road a notamment partagé des scènes importantes avec Olivia Rodrigo, Wolf Alice et The Last Dinner Party, signe d’une ascension qui dépasse désormais le circuit émergent.",
+    "Les quatre morceaux de Spring Forward reposent sur une formule simple mais remarquablement efficace : guitares électriques, rythmiques nerveuses et grands refrains, avec la voix de Lily Aron comme principal point d’ancrage. Miss est probablement le titre le plus révélateur de cette évolution, alternant retenue et explosion avec une interprétation vocale de plus en plus assurée. Rabbits Can Swim ralentit le tempo et installe une atmosphère plus mélancolique, tandis que Storm Warnings prolonge le goût du groupe pour les montées en puissance. Mais c’est peut-être Hanging Out To Dry, morceau inédit au moment de la sortie, qui apporte le plus de nouveauté : progression harmonique soignée, basse d’Ailbhe Barry très présente et batterie d’Hannah Kelly qui donne au morceau son mouvement intérieur.",
+    "Spring Forward ne cherche pas encore à tout dire : il ressemble davantage à une étape de maturation qu’à une déclaration définitive. C’est précisément ce qui le rend intéressant. Florence Road possède déjà le sens mélodique et l’intensité émotionnelle nécessaires pour toucher bien au-delà de la scène indie, mais conserve encore cette fraîcheur qui rend ses chansons immédiatement attachantes. Pour ce jeudi, cet EP offre une belle respiration mélodique : quinze minutes suffisent pour comprendre pourquoi il faudra garder un œil attentif sur la suite de l’histoire."
+  ],
+
+  "video": {
+    "youtubeId": "UCyqeQVm2vc",
+    "title": "Storm Warnings — FLORENCE ROAD · Spring Forward, 2026"
+  },
+
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/61NGKj9SdXHHxDWU8ZsnaS",
+    "appleMusic": "https://music.apple.com/fr/album/spring-forward-ep/1884602016",
+    "deezer": "https://www.deezer.com/fr/album/938313131",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nWJzBZMVDz8oqake-XWDWuWORJ6jHZQt0"
+  },
+
+  "vinyl": [],
+
+  "discography": [
+    {
+      "id": "hanging-out-to-dry",
+      "title": "Hanging Out To Dry",
+      "year": 2026,
+      "type": "EP",
+      "trackCount": 4,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/47f8d5519e090bf45314c0f67bd82017/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "spring-forward",
+      "title": "Spring Forward",
+      "year": 2026,
+      "type": "EP",
+      "trackCount": 4,
+      "coverUrl": "/covers/florence-road-spring-forward.jpg"
+    },
+    {
+      "id": "fall-back",
+      "title": "Fall Back",
+      "year": 2025,
+      "type": "EP",
+      "trackCount": 6,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/de52bdf813f1d4f6b1e41fd79b955989/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}
