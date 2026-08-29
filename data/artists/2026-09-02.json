@@ -1,0 +1,103 @@
+{
+  "id": "arlo-parks-my-soft-machine",
+  "number": "111",
+  "publishedAt": "2026-09-02",
+  "artist": {
+    "name": "ARLO PARKS",
+    "origin": "Londres, Angleterre"
+  },
+  "featuredAlbum": {
+    "id": "my-soft-machine",
+    "title": "My Soft Machine",
+    "year": 2023,
+    "label": "Transgressive",
+    "genres": [
+      "Indie Pop",
+      "Neo-Soul",
+      "Art Pop"
+    ],
+    "trackCount": 12,
+    "type": "Album",
+    "coverUrl": "/covers/arlo-parks-my-soft-machine.jpg"
+  },
+  "meta": "2023 · Transgressive · Indie Pop · Neo-Soul · Angleterre",
+  "editorial": [
+    "Avec My Soft Machine, publié le 26 mai 2023 chez Transgressive, Arlo Parks aborde le deuxième album après avoir connu une ascension aussi rapide qu’intime. Son premier disque, Collapsed in Sunbeams, lui avait valu le Mercury Prize et installé une écriture immédiatement reconnaissable, faite de poésie quotidienne, de mélancolie et de délicatesse. Pour cette suite, la Londonienne élargit son regard : les blessures restent présentes, mais elles côtoient désormais l’amour, le désir, la vie adulte et les contradictions d’une existence qui change de dimension. Le disque naît notamment d’une période marquée par son expérience américaine et par une volonté de ne plus être enfermée dans le rôle de la jeune chanteuse consolatrice.",
+    "Musicalement, My Soft Machine conserve la douceur qui faisait le charme de ses débuts, mais ouvre davantage les fenêtres. Les rythmiques hip-hop et trip-hop d’« Impurities » et « Puppy », les guitares shoegaze de « Dog Rose », les accents plus dansants de « Blades » ou la tension presque grunge de « Devotion » montrent une artiste qui cherche de nouvelles textures. La production, assurée par plusieurs collaborateurs dont Paul Epworth, Romil Hemnani et Baird sur « Pegasus », donne au disque une palette plus ample sans faire disparaître le timbre feutré de Parks. Sur « Weightless », « I’m Sorry » ou « Room (red wings) », elle excelle à transformer des détails minuscules en vérités émotionnelles. Et « Pegasus », avec Phoebe Bridgers, apporte une lumière suspendue à cette collection de chansons sur la vulnérabilité et l’attachement.",
+    "Ce qui rend My Soft Machine précieux, c’est justement son refus de reproduire à l’identique la formule du premier album. Parks accepte ici quelques aspérités, quelques détours, quitte à laisser certaines chansons moins immédiatement évidentes. Cette évolution compte : elle révèle une musicienne qui préfère élargir doucement son langage plutôt que s’installer dans une identité confortable. Plusieurs années après sa sortie, son écriture conserve cette capacité rare à rendre l’intime partageable sans le surcharger de grands effets. Le mercredi offre précisément le bon moment pour y revenir : au milieu de la semaine, quand une musique aussi douce sait encore ralentir le temps."
+  ],
+  "video": {
+    "youtubeId": "3zb9X_unuqo",
+    "title": "Weightless — Arlo Parks · My Soft Machine, 2023"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/4YCScpRHPfvu81qmsIGGmn",
+    "appleMusic": "https://music.apple.com/fr/album/my-soft-machine/1662545566",
+    "deezer": "https://www.deezer.com/fr/album/392593607",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kF5jjzrHpPsjc32yzj29g8jwfE1uDuUFQ"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a17272593/Arlo-Parks-My-Soft-Machine-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a17272592/Arlo-Parks-My-Soft-Machine-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a17272596/Arlo-Parks-My-Soft-Machine-K7",
+      "format": "K7",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B0BS9ZY4J3/",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "ambiguous-desire",
+      "title": "Ambiguous Desire",
+      "year": 2026,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/f26b653a31c682294778e07e13a1357b/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "my-soft-machine",
+      "title": "My Soft Machine",
+      "year": 2023,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "/covers/arlo-parks-my-soft-machine.jpg"
+    },
+    {
+      "id": "collapsed-in-sunbeams",
+      "title": "Collapsed in Sunbeams",
+      "year": 2021,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/9837ec3e196d471ea6df45f9c14eba2d/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "super-sad-generation",
+      "title": "Super Sad Generation",
+      "year": 2019,
+      "type": "EP",
+      "trackCount": 4,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/b25aabd20671eeed05a8cc697d9cd146/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

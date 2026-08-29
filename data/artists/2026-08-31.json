@@ -1,0 +1,96 @@
+{
+  "id": "marvin-gaye-whats-going-on",
+  "number": "109",
+  "publishedAt": "2026-08-31",
+  "artist": {
+    "name": "MARVIN GAYE",
+    "origin": "Washington D.C., États-Unis"
+  },
+  "featuredAlbum": {
+    "id": "whats-going-on",
+    "title": "What's Going On",
+    "year": 1971,
+    "label": "Tamla / Motown",
+    "genres": [
+      "Soul",
+      "Psychedelic Soul",
+      "R&B"
+    ],
+    "trackCount": 9,
+    "type": "Album",
+    "coverUrl": "/covers/marvin-gaye-whats-going-on.jpg"
+  },
+  "meta": "1971 · Tamla / Motown · Soul · Psychedelic Soul · États-Unis",
+  "editorial": [
+    "En mai 1971, Marvin Gaye ne publie pas seulement son onzième album : il redéfinit ce qu’une grande vedette soul peut dire et faire. Après des années passées sous la tutelle artistique de Motown, le chanteur impose avec What’s Going On une vision plus personnelle, nourrie par les récits de son frère Frankie revenu du Vietnam, par les tensions sociales américaines et par une volonté nouvelle de produire lui-même sa musique. Le morceau-titre, enregistré dès 1970, avait d’abord suscité les réserves de Berry Gordy avant de devenir un succès qui contraignit Motown à laisser Gaye développer l’album. Publié le 21 mai 1971, le disque est enregistré principalement à Detroit, avec les Funk Brothers, avant quelques interventions à Los Angeles.",
+    "Tout, ici, semble conçu pour dépasser les frontières du rhythm’n’blues traditionnel. La basse de James Jamerson, les percussions, les cuivres, les cordes arrangées par David Van DePitte et les chœurs en cascade construisent un écrin à la fois luxuriant et profondément organique. Gaye mêle soul, gospel, jazz et touches psychédéliques, faisant de l’album une suite presque continue où les morceaux s’enchaînent comme les chapitres d’une même méditation. Sur « What’s Going On », le célèbre saxophone d’Eli Fontaine, les voix superposées et le groove souple installent une atmosphère de conversation plutôt que de confrontation ; « Mercy Mercy Me (The Ecology) » élargit le propos à la catastrophe environnementale, tandis qu’« Inner City Blues (Make Me Wanna Holler) » ramène la réflexion vers les réalités économiques et urbaines.",
+    "Plus qu’un classique de Motown, What’s Going On est devenu un modèle d’album conceptuel, démontrant qu’une musique populaire pouvait être politique sans renoncer à la sensualité, à la mélodie ni au plaisir du groove. Son influence se mesure autant dans la soul engagée que dans le R&B contemporain, le hip-hop et la pop consciente qui lui ont succédé. Sa force tient surtout à son absence de dogmatisme : Gaye ne sermonne pas, il observe, questionne, compatit. Plus de cinquante ans après sa sortie, cette douceur inquiète conserve une étonnante actualité. Il suffit de remettre l’aiguille au début du disque pour comprendre pourquoi cette voix continue de nous accompagner quand la semaine s’ouvre sur son premier jour."
+  ],
+  "video": {
+    "youtubeId": "57Ykv1D0qEE",
+    "title": "Inner City Blues (Make Me Wanna Holler) — Marvin Gaye · What's Going On, 1971"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/2v6ANhWhZBUKkg6pJJBs3B",
+    "appleMusic": "https://music.apple.com/fr/album/whats-going-on/1538081586",
+    "deezer": "https://www.deezer.com/fr/album/184480112",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_krxU85sRSpvmZqiwHyVmYNhKBDVgvj-CE"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a9642343/Marvin-Gaye-What-s-Going-on-Edition-2016-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a1396795/Marvin-Gaye-What-s-going-on-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B01C81PCWO/",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "lets-get-it-on",
+      "title": "Let's Get It On",
+      "year": 1973,
+      "type": "Album",
+      "trackCount": 8,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/e8bf5369b0d4a9211e209952ff903265/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "trouble-man",
+      "title": "Trouble Man",
+      "year": 1972,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/875e84800337bbcf93275f432235546f/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "whats-going-on",
+      "title": "What's Going On",
+      "year": 1971,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "/covers/marvin-gaye-whats-going-on.jpg"
+    },
+    {
+      "id": "thats-the-way-love-is",
+      "title": "That's the Way Love Is",
+      "year": 1970,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/a9dd8b97c4515e41d67a11c50fca2b19/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

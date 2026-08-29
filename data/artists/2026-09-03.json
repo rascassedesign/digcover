@@ -1,0 +1,96 @@
+{
+  "id": "fatboy-slim-youve-come-a-long-way-baby",
+  "number": "112",
+  "publishedAt": "2026-09-03",
+  "artist": {
+    "name": "FATBOY SLIM",
+    "origin": "Brighton, Angleterre"
+  },
+  "featuredAlbum": {
+    "id": "youve-come-a-long-way-baby",
+    "title": "You've Come a Long Way, Baby",
+    "year": 1998,
+    "label": "Skint Records",
+    "genres": [
+      "Big Beat",
+      "Électronique",
+      "Breakbeat"
+    ],
+    "trackCount": 11,
+    "type": "Album",
+    "coverUrl": "/covers/fatboy-slim-youve-come-a-long-way-baby.jpg"
+  },
+  "meta": "1998 · Skint Records · Big Beat · Électronique · Angleterre",
+  "editorial": [
+    "En octobre 1998, Norman Cook transforme définitivement son alias Fatboy Slim en phénomène mondial avec You’ve Come a Long Way, Baby. Ancien bassiste de The Housemartins puis figure de la scène électronique britannique, Cook avait déjà posé les fondations de son esthétique sur Better Living Through Chemistry. Mais son deuxième album synthétise avec une efficacité spectaculaire tout ce qui agite alors les clubs anglais : big beat, breakbeats hip-hop, house, techno, rock et culture du sample. Sorti chez Skint au Royaume-Uni puis chez Astralwerks aux États-Unis, le disque est produit dans son studio de Brighton, The House of Love, et devient l’un des emblèmes sonores de la fin des années 1990.",
+    "La recette de Cook tient autant au collage qu’au groove. « The Rockafeller Skank » juxtapose riffs, voix samplées et fragments empruntés à John Barry et aux Just Brothers ; « Gangster Trippin’ » transforme le recyclage hip-hop en machine dancefloor ; « Right Here, Right Now » joue sur la montée, tandis que « Praise You » détourne « Take Yo’ Praise » de Camille Yarbrough pour en faire une déclaration euphorique d’une simplicité désarmante. Simon Thornton assure le mixage de nombreuses pistes, participant à cette matière compacte, saturée et volontairement spectaculaire. Cook n’essaie pas de masquer les coutures : il les exhibe, les fait claquer, accélère les breaks et transforme la culture du DJ en langage pop.",
+    "L’impact de You’ve Come a Long Way, Baby tient à cette capacité à rendre immédiatement populaire une esthétique jusque-là associée aux clubs et aux diggers. « The Rockafeller Skank », « Praise You » et « Right Here, Right Now » ont contribué à faire du big beat une musique de masse, même si le mouvement allait rapidement montrer ses limites. Ce qui reste, en revanche, c’est une extraordinaire leçon de montage : faire danser avec des fragments d’histoire musicale, sans jamais perdre le sens du spectacle. Aujourd’hui, le disque conserve une énergie presque insolente, parce qu’il assume le plaisir avant toute théorie. De quoi donner au jeudi un peu plus de mouvement, lorsque la semaine commence enfin à prendre le rythme du week-end."
+  ],
+  "video": {
+    "youtubeId": "FMrIy9zm7QY",
+    "title": "Rockafeller Skank — Fatboy Slim · You've Come a Long Way, Baby, 1998"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/0J43YxxLFPZxIrCd12LRuN",
+    "appleMusic": "https://music.apple.com/fr/album/youve-come-a-long-way-baby/1435842681",
+    "deezer": "https://www.deezer.com/fr/album/901408162",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_k6_sVami9B4K8fPIvs-S1Ig2Cp4XFeKqk"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a18515142/Fatboy-Slim-You-ve-Come-A-Long-Way-Baby-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a23439205/Fatboy-Slim-You-ve-Come-A-Long-Way-Baby-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B0CFZMYM3V/",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "palookaville",
+      "title": "Palookaville",
+      "year": 2004,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/dc5498e1307f043bf9317ccd8634ebc3/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "halfway-between-the-gutter-and-the-stars",
+      "title": "Halfway Between the Gutter and the Stars",
+      "year": 2000,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/c604d98d3810946ed1f3896458f14aff/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "youve-come-a-long-way-baby",
+      "title": "You've Come a Long Way, Baby",
+      "year": 1998,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "/covers/fatboy-slim-youve-come-a-long-way-baby.jpg"
+    },
+    {
+      "id": "better-living-through-chemistry",
+      "title": "Better Living Through Chemistry",
+      "year": 1996,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/4d6a78e7fb84d567ce9135c073d5580d/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

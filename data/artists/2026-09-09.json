@@ -1,0 +1,96 @@
+{
+  "id": "aretha-franklin-aretha-now",
+  "number": "116",
+  "publishedAt": "2026-09-09",
+  "artist": {
+    "name": "ARETHA FRANKLIN",
+    "origin": "Detroit, États-Unis"
+  },
+  "featuredAlbum": {
+    "id": "aretha-now",
+    "title": "Aretha Now",
+    "year": 1968,
+    "label": "Atlantic Records",
+    "genres": [
+      "Soul",
+      "R&B",
+      "Southern Soul"
+    ],
+    "trackCount": 10,
+    "type": "Album",
+    "coverUrl": "/covers/aretha-franklin-aretha-now.jpg"
+  },
+  "meta": "1968 · Atlantic Records · Soul · R&B · États-Unis",
+  "editorial": [
+    "En juin 1968, Aretha Franklin est déjà devenue, en quelques mois, la voix incontournable de la soul américaine. Après I Never Loved a Man the Way I Love You et Lady Soul, Aretha Now paraît chez Atlantic le 14 juin, enregistré entre décembre 1967 et avril 1968 dans les studios new-yorkais du label. Jerry Wexler est une nouvelle fois aux commandes, entouré de musiciens essentiels de la soul sudiste et new-yorkaise. L’album arrive donc au sommet d’une séquence créative exceptionnelle, celle où Franklin cesse définitivement d’être seulement une grande chanteuse pour devenir une artiste capable de remodeler chaque chanson à son image.",
+    "La magie tient à l’équilibre entre puissance et précision. Franklin joue elle-même du piano sur une grande partie du disque, soutenue par Roger Hawkins à la batterie, Jerry Jemmott à la basse, Spooner Oldham aux claviers et des guitaristes comme Tommy Cogbill, Jimmy Johnson et Bobby Womack. Les Sweet Inspirations épaississent les chœurs, tandis que les arrangements de Tom Dowd et Arif Mardin donnent aux cuivres une ampleur remarquable. « Think », composition de Franklin et Ted White, devient l’un des sommets de l’album par son énergie presque physique. Mais c’est « I Say a Little Prayer », chanson de Burt Bacharach et Hal David, qui révèle le mieux son génie d’interprétation : elle ne reprend pas simplement le morceau, elle le réinvente. « See Saw » et « You Send Me » prolongent cette démonstration.",
+    "Certifié disque d’or et classé parmi les grands albums soul de sa décennie, Aretha Now témoigne d’une période où Franklin semblait incapable de produire autre chose que l’excellence. Son importance tient aussi à cette liberté : choisir, arranger, jouer, chanter et transformer des compositions venues d’horizons différents jusqu’à leur donner une vérité personnelle. Aujourd’hui, le disque reste une leçon de soul classique, mais surtout une leçon d’interprétation, tant Aretha y fait paraître naturelle une maîtrise vertigineuse. Pour accompagner le mercredi, jour où la semaine cherche son second souffle, cette voix rappelle qu’un peu de puissance peut suffire à tout remettre en mouvement."
+  ],
+  "video": {
+    "youtubeId": "P9yIoSpWWNE",
+    "title": "Think — Aretha Franklin · Aretha Now, 1968"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/55HZ2ectg1mMTEKDqIq3kC",
+    "appleMusic": "https://music.apple.com/fr/album/aretha-now/933583586",
+    "deezer": "https://www.deezer.com/fr/album/102210",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_leZ4T2I3s3yZtymM-bhizHDVfyPE2ypUI"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21689284/Aretha-Frankliln-Aretha-Now-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a7856560/Aretha-Franklin-Aretha-now-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B0DRNM4GXV/",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "spirit-in-the-dark",
+      "title": "Spirit in the Dark",
+      "year": 1970,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/4e2f7ce52b2a54c23ea1a00cd6911e95/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "aretha-now",
+      "title": "Aretha Now",
+      "year": 1968,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "/covers/aretha-franklin-aretha-now.jpg"
+    },
+    {
+      "id": "lady-soul",
+      "title": "Lady Soul",
+      "year": 1968,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/7085eed3925e3586e6f97460ef15ff13/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "i-never-loved-a-man-the-way-i-love-you",
+      "title": "I Never Loved a Man the Way I Love You",
+      "year": 1967,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/9e9ba9115d0fb62879d1bb672ee67c07/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

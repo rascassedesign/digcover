@@ -1,0 +1,87 @@
+{
+  "id": "arsenik-quelques-gouttes-suffisent",
+  "number": "114",
+  "publishedAt": "2026-09-07",
+  "artist": {
+    "name": "ÄRSENIK",
+    "origin": "Villiers-le-Bel, France"
+  },
+  "featuredAlbum": {
+    "id": "quelques-gouttes-suffisent",
+    "title": "Quelques gouttes suffisent",
+    "year": 1998,
+    "label": "Hostile Records",
+    "genres": [
+      "Rap français",
+      "Boom Bap",
+      "Hardcore Hip Hop"
+    ],
+    "trackCount": 16,
+    "type": "Album",
+    "coverUrl": "/covers/arsenik-quelques-gouttes-suffisent.jpg"
+  },
+  "meta": "1998 · Hostile Records · Rap français · Boom Bap · France",
+  "editorial": [
+    "En juin 1998, le rap français vit une année particulièrement dense, entre affirmation commerciale et multiplication des écritures singulières. Dans ce paysage, les frères Lino et Calbo, issus de Villiers-le-Bel et membres du collectif Secteur Ä, font de Quelques Gouttes Suffisent… leur premier véritable manifeste. Le disque paraît le 5 juin sur Hostile Records, Delabel et Särcélite Miziks, après plusieurs apparitions remarquées sur des compilations et projets de la scène parisienne. Produit notamment par Djimi Finger, il installe Ärsenik parmi les voix les plus tranchantes du rap hardcore français.",
+    "L’identité du disque repose d’abord sur la complémentarité des deux frères : le débit incisif de Lino répond au timbre plus grave de Calbo, tandis que les productions privilégient des boucles sombres, des batteries sèches et un travail de samples aussi riche que discret. « Boxe avec les mots » résume cette obsession du verbe, quand « Sexe, Pouvoir & Biftons » assume une frontalité presque cinématographique. Le disque sait aussi ouvrir son univers : Passi intervient sur « Par Où T’es Rentré, Je T’ai Pas Vu Sortir », les Nèg’ Marrons sur « Partout la Même », Doc Gynéco sur « Affaires de famille ». Les emprunts à Bach, Sly & The Family Stone ou Serge Reggiani témoignent d’une culture musicale qui dépasse largement le simple cadre du rap.",
+    "Double disque d’or dès 1999 et régulièrement cité parmi les grands classiques du rap hexagonal, Quelques Gouttes Suffisent… a surtout laissé une empreinte durable sur l’écriture rap francophone. Son influence tient à cette alliance entre virtuosité technique, noirceur sociale et goût de la formule, sans jamais sacrifier l’efficacité musicale. Aujourd’hui, le disque paraît parfois plus brut que les productions contemporaines, mais cette rugosité constitue précisément son charme : elle rappelle une époque où chaque mesure devait imposer une identité. Pour ouvrir la semaine du 7 septembre, quelques gouttes suffisent encore à faire remonter tout le poison d’un rap qui n’a rien perdu de son mordant."
+  ],
+  "video": {
+    "youtubeId": "V_6KlvS992Q",
+    "title": "Boxe avec les mots — Ärsenik · Quelques gouttes suffisent, 1998"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/079hEIrYaDqnvcvkcX6il3",
+    "appleMusic": "https://music.apple.com/fr/album/quelques-gouttes-suffisent/710466738",
+    "deezer": "https://www.deezer.com/fr/album/302044",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mL9_BxtHtlOfzmkJW_ND4WMeLJoPw4WAM"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a20625160/Arsenik-Quelques-gouttes-suffisent-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a23377723/Arsenik-Quelques-gouttes-suffisent-Edition-Limitee-Vinyle-Bleu-Vinyle-album",
+      "format": "Vinyle Bleu",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a735900/Arsenik-Quelques-gouttes-suffisent-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B0D5Z254QX/",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "quelque-chose-a-survecu",
+      "title": "Quelque chose a survécu",
+      "year": 2002,
+      "type": "Album",
+      "trackCount": 17,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/473eed9eca92f31c88fa7f299a634362/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "quelques-gouttes-suffisent",
+      "title": "Quelques gouttes suffisent",
+      "year": 1998,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "/covers/arsenik-quelques-gouttes-suffisent.jpg"
+    }
+  ]
+}

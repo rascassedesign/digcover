@@ -1,0 +1,103 @@
+{
+  "id": "dead-prez-lets-get-free",
+  "number": "113",
+  "publishedAt": "2026-09-04",
+  "artist": {
+    "name": "DEAD PREZ",
+    "origin": "New York, États-Unis"
+  },
+  "featuredAlbum": {
+    "id": "lets-get-free",
+    "title": "Let's Get Free",
+    "year": 2000,
+    "label": "Loud Records",
+    "genres": [
+      "Hip-Hop",
+      "Rap Conscient",
+      "East Coast Hip Hop"
+    ],
+    "trackCount": 18,
+    "type": "Album",
+    "coverUrl": "/covers/dead-prez-lets-get-free.jpg"
+  },
+  "meta": "2000 · Loud Records · Hip-Hop · Rap Conscient · États-Unis",
+  "editorial": [
+    "À sa sortie, le 8 février 2000, Let’s Get Free arrive dans un hip-hop où la conscience politique existe déjà, mais où le genre est également devenu une industrie florissante, obsédée par le luxe, la consommation et la célébrité. Le duo dead prez, formé par M-1 et stic.man, choisit précisément ce moment pour prendre le contre-pied. Leur premier album, publié chez Loud Records, ne cherche ni le compromis ni la respectabilité : il parle de racisme, de brutalité policière, d’éducation, de capitalisme, de santé et d’émancipation noire avec une radicalité assumée. Issus de la mouvance autour de Brand Nubian et de Lord Jamar, les deux rappeurs se distinguent pourtant par une approche plus directement militante et systémique.",
+    "La musique donne à cette parole une force sèche et physique. Les productions de dead prez privilégient les basses épaisses, les boucles dépouillées et les rythmiques capables de soutenir des textes denses sans les étouffer. « Hip Hop » en constitue le manifeste le plus évident : stic.man y retourne la logique commerciale du rap contre elle-même, tandis que « Police State », « I’m a African » et « Mind Sex » élargissent le propos vers la surveillance, l’identité, l’éducation et la liberté. Les interventions de Lord Jamar, Hedrush et, plus ponctuellement, Kanye West complètent une production majoritairement assurée par le duo. L’album ne cherche pas à rendre ses idées plus digestes : il les place au centre, avec une écriture frontale et une conception du rap comme outil d’organisation autant que d’expression.",
+    "Vingt-six ans plus tard, Let’s Get Free frappe par la persistance de ses interrogations. Certaines de ses cibles — marchandisation de la culture, violences policières, inégalités économiques, récupération commerciale du hip-hop — ont changé de forme sans disparaître. C’est là que réside son importance : dead prez ne se contentait pas de commenter son époque, le duo cherchait à fournir une grille de lecture et des pistes de résistance. Musicalement rugueux, idéologiquement tranchant, le disque conserve une puissance qui ne dépend pas de la nostalgie. Il possède même une pertinence particulière lorsque le vendredi arrive : celle d’une musique qui refuse de terminer la semaine en sourdine et préfère laisser derrière elle quelques questions qui continuent de résonner."
+  ],
+  "video": {
+    "youtubeId": "oiusDE0KND8",
+    "title": "Hip Hop — dead prez · Let's Get Free, 2000"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/7gXuElmegVReY7imkb5bf8",
+    "appleMusic": "https://music.apple.com/fr/album/lets-get-free/219077856",
+    "deezer": "https://www.deezer.com/fr/album/1401725",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_ln56NOYYIZziGbL95jooPvi0nkVvxA2Wc"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21310974/Dead-Prez-Let-s-Get-Free-25th-Anniversary-Vinyle-album",
+      "format": "Vinyle Édition Limitée",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a8786982/Dead-Prez-Let-s-get-free-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a855803/Dead-Prez-Let-s-get-free-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B00ZIAONT6/",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "information-age",
+      "title": "Information Age",
+      "year": 2012,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/c844bd8765851f8e70bd30bd300d8303/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "rbg-revolutionary-but-gangsta",
+      "title": "RBG: Revolutionary But Gangsta",
+      "year": 2004,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/efd4576d133b40b65df1a9e71cf0399c/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "turn-off-the-radio-vol-2",
+      "title": "Turn Off the Radio Vol. 2",
+      "year": 2003,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/a6515a2037b66aca6198c8ab3ded8602/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "lets-get-free",
+      "title": "Let's Get Free",
+      "year": 2000,
+      "type": "Album",
+      "trackCount": 18,
+      "coverUrl": "/covers/dead-prez-lets-get-free.jpg"
+    }
+  ]
+}

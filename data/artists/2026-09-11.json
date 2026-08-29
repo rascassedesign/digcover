@@ -1,0 +1,102 @@
+{
+  "id": "metallica-ride-the-lightning",
+  "number": "118",
+  "publishedAt": "2026-09-11",
+  "artist": {
+    "name": "METALLICA",
+    "origin": "Los Angeles, États-Unis"
+  },
+  "featuredAlbum": {
+    "id": "ride-the-lightning",
+    "title": "Ride the Lightning",
+    "year": 1984,
+    "label": "Megaforce Records",
+    "genres": [
+      "Thrash Metal",
+      "Heavy Metal"
+    ],
+    "trackCount": 8,
+    "type": "Album",
+    "coverUrl": "/covers/metallica-ride-the-lightning.jpg"
+  },
+  "meta": "1984 · Megaforce Records · Thrash Metal · Heavy Metal · États-Unis",
+  "editorial": [
+    "Le 27 juillet 1984, Metallica publie Ride the Lightning, son deuxième album, sur le label indépendant Megaforce. Enregistré en seulement quelques semaines au Sweet Silence Studios de Copenhague avec Flemming Rasmussen, le disque arrive à peine un an après Kill ’Em All, mais révèle déjà un groupe qui refuse de rester prisonnier du speed metal de ses débuts. James Hetfield, Lars Ulrich, Cliff Burton et Kirk Hammett ont désormais suffisamment confiance dans leur langage pour prendre des risques, tandis que l’expérience danoise contribue à affiner un son encore brut. La signature chez Elektra quelques mois plus tard accélérera considérablement leur ascension.",
+    "Ride the Lightning est le disque où Metallica découvre véritablement l’ampleur de ses possibilités. « Fight Fire with Fire » ouvre les hostilités avec une intro acoustique trompeusement paisible avant l’explosion, tandis que « For Whom the Bell Tolls » impose la basse monumentale de Cliff Burton et son célèbre motif d’introduction. « Fade to Black » ose une ballade sombre et mélodique, encore inhabituelle dans le thrash, avant que « Creeping Death » ne retrouve une puissance plus frontale. La production de Rasmussen donne aux guitares une profondeur nouvelle et laisse davantage de place à la basse et aux arrangements. Burton, en particulier, contribue à élargir l’horizon musical du groupe, entre harmonies classiques, progressions complexes et goût pour l’instrumental.",
+    "Avec Ride the Lightning, Metallica ne se contente pas de perfectionner le thrash : le groupe contribue à en définir les possibilités futures. L’album atteindra des millions de ventes aux États-Unis et deviendra progressivement l’un des grands classiques du metal, précisément parce qu’il conjugue vitesse, mélodie, ambition et noirceur. Plus de quarante ans après, son impact reste audible chez d’innombrables groupes qui ont compris à leur tour que la brutalité pouvait être sophistiquée. Pour refermer cette semaine, il n’y a peut-être rien de plus approprié qu’un disque capable de transformer le vendredi en véritable décharge électrique."
+  ],
+  "video": {
+    "youtubeId": "9HZ_tx8aWuA",
+    "title": "Fade to Black — Metallica · Ride the Lightning, 1984"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/05DePtm7oQMdL3Uzw2Jmsc",
+    "appleMusic": "https://music.apple.com/fr/album/ride-the-lightning-remastered/1440845417",
+    "deezer": "https://www.deezer.com/fr/album/14581762",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_k4yeBNbCJLDBeqj_QsTlpRoncOxmGLQDo"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a9615632/Metallica-Ride-The-Lightning-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a18704027/Metallica-Ride-The-Lightning-Edition-Limitee-Vinyle-Bleu-Electrique-Vinyle-album",
+      "format": "Vinyle Bleu",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a9595554/Metallica-Ride-the-lightning-Edition-remasterisee-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B01DB80YH6/",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "and-justice-for-all",
+      "title": "...And Justice for All",
+      "year": 1988,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/ce293de53f905a3ce444062ec5242d53/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "master-of-puppets",
+      "title": "Master of Puppets",
+      "year": 1986,
+      "type": "Album",
+      "trackCount": 8,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/291e2af9295ca885b154eee75dfa0432/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "ride-the-lightning",
+      "title": "Ride the Lightning",
+      "year": 1984,
+      "type": "Album",
+      "trackCount": 8,
+      "coverUrl": "/covers/metallica-ride-the-lightning.jpg"
+    },
+    {
+      "id": "kill-em-all",
+      "title": "Kill 'Em All",
+      "year": 1983,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/f6d4ff72804ee17684a9b7b79a906898/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

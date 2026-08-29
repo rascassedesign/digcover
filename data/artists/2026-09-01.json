@@ -1,0 +1,102 @@
+{
+  "id": "dolly-parton-jolene",
+  "number": "110",
+  "publishedAt": "2026-09-01",
+  "artist": {
+    "name": "DOLLY PARTON",
+    "origin": "Sevierville, États-Unis"
+  },
+  "featuredAlbum": {
+    "id": "jolene",
+    "title": "Jolene",
+    "year": 1974,
+    "label": "RCA Victor",
+    "genres": [
+      "Country",
+      "Country Rock"
+    ],
+    "trackCount": 10,
+    "type": "Album",
+    "coverUrl": "/covers/dolly-parton-jolene.jpg"
+  },
+  "meta": "1974 · RCA Victor · Country · Country Rock · États-Unis",
+  "editorial": [
+    "Lorsqu’elle publie Jolene en février 1974 chez RCA Victor, Dolly Parton se trouve à un tournant décisif de sa carrière. Depuis sept ans, elle partage la scène, la télévision et les tournées avec Porter Wagoner, mais l’heure est désormais à l’émancipation et à la construction d’une trajectoire solo pleinement assumée. Enregistré au RCA Studio B de Nashville entre 1972 et 1973, produit par Bob Ferguson, ce treizième album studio rassemble plusieurs facettes de son écriture : récits sentimentaux, country traditionnelle et affirmation d’une personnalité déjà impossible à confondre. Le disque porte surtout le nom de la chanson qui deviendra l’une de ses signatures absolues, et que cette sélection choisit aujourd’hui comme un hommage après la disparition de Dolly Parton, le 25 août dernier.",
+    "Jolene résume à elle seule l’art de Parton : quelques accords, une guitare immédiatement identifiable et une histoire racontée sans détour. La narratrice ne menace pas sa rivale ; elle la supplie. Cette vulnérabilité, chantée avec une voix capable de passer de la fragilité à l’autorité en une inflexion, transforme une intrigue conjugale en drame universel. La production reste volontairement claire, laissant respirer les cordes, la guitare et la voix, tandis que Parton donne à chaque syllabe un poids narratif. L’album ne se limite pourtant pas à son tube. « I Will Always Love You », écrit comme un adieu à Wagoner au moment de leur séparation professionnelle, révèle une autre dimension de son talent : derrière la chanteuse flamboyante se trouve une compositrice capable de faire entrer une émotion complexe dans une mélodie d’une simplicité désarmante.",
+    "L’importance de Jolene dépasse largement le cadre de la country américaine. Le morceau-titre est devenu un standard, repris par des artistes aussi différents que The White Stripes ou Beyoncé, preuve d’une écriture suffisamment solide pour traverser les époques, les productions et les genres. Parton y démontre qu’une chanson populaire peut accueillir des sentiments contradictoires sans jamais les simplifier. Aujourd’hui, l’album prend une résonance particulière : il ne documente pas seulement une étape majeure de sa carrière, il conserve la voix d’une artiste dont la générosité, l’intelligence mélodique et l’art du récit continuent de nous accompagner. En ce mardi placé sous le signe du souvenir, Jolene s’écoute comme un adieu, mais surtout comme une présence qui demeure."
+  ],
+  "video": {
+    "youtubeId": "5m71Jbi7NkU",
+    "title": "Jolene — Dolly Parton · Jolene, 1974"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/5DyOxuvdSmTSNAmkfcsBsj",
+    "appleMusic": "https://music.apple.com/fr/album/jolene/1062400323",
+    "deezer": "https://www.deezer.com/fr/album/11851692",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_k9Ai85ldQf-upEUzv9S69uNtP1V9OsQKI"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a13647632/Dolly-Parton-Jolene-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a8862022/Dolly-Parton-Jolene-Vinyle-180-gr-Vinyle-album",
+      "format": "Vinyle 180gr",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a15117139/Dolly-Parton-Jolene-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B07SRF2166/",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "here-you-come-again",
+      "title": "Here You Come Again",
+      "year": 1977,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/ecc3af8d731bc0630a00dcd5a2edcaae/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "jolene",
+      "title": "Jolene",
+      "year": 1974,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "/covers/dolly-parton-jolene.jpg"
+    },
+    {
+      "id": "my-tennessee-mountain-home",
+      "title": "My Tennessee Mountain Home",
+      "year": 1973,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/061836dd72141cf97cbaf2b2832ef69c/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "coat-of-many-colors",
+      "title": "Coat of Many Colors",
+      "year": 1971,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/587d8fe88e6412339c85c9be64684a5a/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

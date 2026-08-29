@@ -1,0 +1,96 @@
+{
+  "id": "the-prodigy-invaders-must-die",
+  "number": "117",
+  "publishedAt": "2026-09-10",
+  "artist": {
+    "name": "THE PRODIGY",
+    "origin": "Braintree, Angleterre"
+  },
+  "featuredAlbum": {
+    "id": "invaders-must-die",
+    "title": "Invaders Must Die",
+    "year": 2009,
+    "label": "Take Me to the Hospital",
+    "genres": [
+      "Big Beat",
+      "Électronique",
+      "Breakbeat"
+    ],
+    "trackCount": 11,
+    "type": "Album",
+    "coverUrl": "/covers/the-prodigy-invaders-must-die.jpg"
+  },
+  "meta": "2009 · Take Me to the Hospital · Big Beat · Électronique · Angleterre",
+  "editorial": [
+    "Après l’explosion de The Fat of the Land et l’accueil plus contrasté réservé à Always Outnumbered, Never Outgunned, The Prodigy revient en 2009 avec un disque qui ressemble à une reconquête. Invaders Must Die, cinquième album studio du groupe, paraît le 23 février sur le propre label de Liam Howlett, Take Me to the Hospital, distribué par Cooking Vinyl. Enregistré entre Londres et New York, il marque aussi une nouvelle configuration : depuis le départ de Leeroy Thornhill, c’est le premier album sur lequel Liam Howlett, Keith Flint et Maxim participent tous au processus créatif.",
+    "Howlett choisit ici de regarder franchement vers les racines rave du groupe, sans abandonner l’agressivité qui a fait sa réputation. Le morceau-titre, « Omen », « Take Me to the Hospital » et « Warriors Dance » empilent breakbeats, synthétiseurs acides, samples vocaux et grosses lignes de basse dans une logique de collision permanente. La production est volontairement massive, presque physique, mais conserve le sens du refrain et de l’efficacité qui permet à The Prodigy de dépasser le simple cadre des clubs. Keith Flint apporte son énergie punk et sa présence de frontman, Maxim son autorité vocale, tandis que Howlett reste le véritable architecte de ce mélange de big beat, hardcore rave et électro. L’album donne surtout l’impression d’un groupe qui a retrouvé le plaisir de faire du bruit.",
+    "Le succès commercial confirme cette volonté de retour aux fondamentaux : Invaders Must Die atteint la première place au Royaume-Uni et devient, selon les archives du groupe, le disque indépendant le plus vendu d’Europe en 2009. Mais son intérêt dépasse les chiffres : il rappelle que The Prodigy n’a jamais été seulement un groupe de dance music, mais une machine de confrontation entre culture rave, punk et rock. Aujourd’hui, sa démesure peut sembler presque anachronique à l’ère des productions plus lisses, et c’est précisément ce qui la rend réjouissante. Le jeudi venu, Invaders Must Die offre une excellente manière de secouer la semaine avant qu’elle ne bascule vers le week-end."
+  ],
+  "video": {
+    "youtubeId": "xMVTKOoy1uk",
+    "title": "Omen — The Prodigy · Invaders Must Die, 2009"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/7u0ShuEl6FiuUAFyf5tldi",
+    "appleMusic": "https://music.apple.com/fr/album/invaders-must-die/1852687885",
+    "deezer": "https://www.deezer.com/fr/album/855851202",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nS11erpwFSm0ryXhIQTfWimlz0ontjIU0"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a2602975/The-Prodigy-Invaders-must-die-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a2534248/The-Prodigy-Invaders-Must-Die-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B00KJN1IZ4/",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "no-tourists",
+      "title": "No Tourists",
+      "year": 2018,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/a2ccfd77bf590776ce90f6bbf20327b0/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "invaders-must-die",
+      "title": "Invaders Must Die",
+      "year": 2009,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "/covers/the-prodigy-invaders-must-die.jpg"
+    },
+    {
+      "id": "always-outnumbered-never-outgunned",
+      "title": "Always Outnumbered, Never Outgunned",
+      "year": 2004,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/437a10dc954999a693666125f3e50e0a/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "the-fat-of-the-land",
+      "title": "The Fat of the Land",
+      "year": 1997,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/ca2a015f912887a634e2a0a124acb05a/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}
