@@ -1,0 +1,73 @@
+{
+  "id": "antony-szmierek-decoding-birdsong",
+  "number": "119",
+  "publishedAt": "2026-09-14",
+  "artist": {
+    "name": "ANTONY SZMIEREK",
+    "origin": "Manchester, Angleterre"
+  },
+  "featuredAlbum": {
+    "id": "decoding-birdsong",
+    "title": "Decoding Birdsong",
+    "year": 2026,
+    "label": "Mushroom Music",
+    "genres": [
+      "Spoken Word",
+      "Dance",
+      "Électronique"
+    ],
+    "trackCount": 13,
+    "type": "Album",
+    "coverUrl": "/covers/antony-szmierek-decoding-birdsong.jpg"
+  },
+  "meta": "2026 · Mushroom Music · Spoken Word · Dance · Angleterre",
+  "editorial": [
+    "Le 21 août 2026, Antony Szmierek publie Decoding Birdsong, dix-huit mois seulement après Service Station at the End of the Universe, ce premier album qui avait fait passer un professeur de Stockport du statut de poète de scène à celui de découverte majeure de la BBC. Né près de Manchester, Szmierek écrivait des textes bien avant d’écrire des morceaux, et cette origine ne l’a jamais quitté : sa voix parle plus qu’elle ne chante, posée sur des rythmes qui viennent des clubs. Ce deuxième disque, attendu au tournant comme le sont tous les deuxièmes disques, fait de cette attente son sujet même.",
+    "Là où le premier album tenait presque du monologue, Decoding Birdsong s’ouvre grand aux autres : Pretty Girl venue d’Australie, le groupe londonien Los Bitchos, le producteur bristolien 1-800 GIRLS, Imogen and the Knife, Ellur. Le disque circule entre disco, house, electro et techno sans jamais lâcher le fil de la parole, et c’est cette tension qui fait sa réussite, une musique faite pour danser portée par des textes faits pour être écoutés. Szmierek y observe sa propre ascension, puis observe le réflexe qui consiste à l’observer, avec une lucidité qui ne tourne jamais à la complaisance. Treize morceaux, quarante-six minutes, aucune graisse.",
+    "Decoding Birdsong confirme qu’il n’y avait pas de malentendu. La formule du spoken word posé sur de la musique de club, qui pouvait passer pour un heureux accident, devient ici une langue à part entière, plus sûre d’elle et plus généreuse. C’est un disque qui refuse de choisir entre le carnet de notes et la piste de danse, et qui prouve au passage qu’il n’a jamais eu à le faire. Pour ouvrir la semaine, difficile de trouver mieux qu’un album sorti il y a trois semaines et déjà installé comme une évidence."
+  ],
+  "video": {
+    "youtubeId": "L8lAWBK0v9E",
+    "title": "The Heron — Antony Szmierek · Decoding Birdsong, 2026"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/74ZHcpT543dq0nG2rupyw6",
+    "appleMusic": "https://music.apple.com/fr/album/decoding-birdsong/1891979477",
+    "deezer": "https://www.deezer.com/fr/album/957763981",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lZO2210UvnNAkodt48spwaCcHx81sr72E"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a23070370/Decoding-Birdsong",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a23070366/Antony-Szmierek-Decoding-Birdsong-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    }
+  ],
+  "discography": [
+    {
+      "id": "decoding-birdsong",
+      "title": "Decoding Birdsong",
+      "year": 2026,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "/covers/antony-szmierek-decoding-birdsong.jpg"
+    },
+    {
+      "id": "service-station-at-the-end-of-the-universe",
+      "title": "Service Station At The End Of The Universe",
+      "year": 2025,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/7fceacee972df0f627f0a5d892075e69/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

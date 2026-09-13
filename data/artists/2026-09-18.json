@@ -1,0 +1,103 @@
+{
+  "id": "the-doors-la-woman",
+  "number": "123",
+  "publishedAt": "2026-09-18",
+  "artist": {
+    "name": "THE DOORS",
+    "origin": "Los Angeles, États-Unis"
+  },
+  "featuredAlbum": {
+    "id": "la-woman",
+    "title": "L.A. Woman",
+    "year": 1971,
+    "label": "Elektra Records",
+    "genres": [
+      "Rock",
+      "Blues Rock",
+      "Rock psychédélique"
+    ],
+    "trackCount": 10,
+    "type": "Album",
+    "coverUrl": "/covers/the-doors-la-woman.jpg"
+  },
+  "meta": "1971 · Elektra Records · Rock · Blues Rock · États-Unis",
+  "editorial": [
+    "L.A. Woman sort en avril 1971. C’est le sixième album des Doors, et le dernier avec Jim Morrison, qui mourra à Paris trois mois plus tard. Le groupe l’enregistre dans ses propres locaux de Santa Monica Boulevard, transformés en studio de fortune, après le départ du producteur historique Paul Rothchild, qui juge les nouveaux morceaux ennuyeux et laisse la place à l’ingénieur Bruce Botnick. Morrison chante dans les toilettes du bâtiment, faute de cabine disponible. Ce dénuement est exactement ce qu’il fallait à ce disque.",
+    "Débarrassés de toute ambition de studio, les Doors reviennent au blues, leur vraie matière première. Le bassiste Jerry Scheff, venu du groupe d’Elvis Presley, et le guitariste rythmique Marc Benno épaississent le son sans jamais l’alourdir. « The Changeling » ouvre en trombe, « Love Her Madly » fournit le tube, le morceau-titre traverse Los Angeles à pleine vitesse pendant près de huit minutes, et « Riders on the Storm » referme tout avec de la pluie, un piano électrique et une voix doublée en murmure. Dix titres, aucun remplissage, et une fatigue magnifique dans la voix de Morrison.",
+    "On a beaucoup écrit que L.A. Woman était un testament, ce qui est facile à dire après coup. C’est surtout le meilleur disque de blues qu’un groupe de rock californien ait enregistré, et le seul album des Doors qui sonne comme un groupe plutôt que comme un poète accompagné. Cinquante-cinq ans plus tard, c’est celui qu’on remet le plus volontiers. Pour finir la semaine avec une conduite de nuit sur une autoroute mouillée, il n’existe pas vraiment d’équivalent."
+  ],
+  "video": {
+    "youtubeId": "W1hn1pF-ilQ",
+    "title": "Riders On The Storm — The Doors · L.A. Woman, 1971"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/7IKUTIc9UWuVngyGPtqNHS",
+    "appleMusic": "https://music.apple.com/fr/album/l-a-woman/1622471682",
+    "deezer": "https://www.deezer.com/fr/album/6415260",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_n8MV6Hz1FBfNf3vxCPXUMMHz_ER7L9pms"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a1937686/The-Doors-L-A-Woman-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a454541/The-Doors-L-A-Woman-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B0028ER4PK/",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B000MG1ZGA/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "la-woman",
+      "title": "L.A. Woman",
+      "year": 1971,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "/covers/the-doors-la-woman.jpg"
+    },
+    {
+      "id": "morrison-hotel",
+      "title": "Morrison Hotel",
+      "year": 1970,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/c184f52f4f8ba778a2809a32c287e0a5/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "the-soft-parade",
+      "title": "The Soft Parade",
+      "year": 1969,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/d20113c7d4edf347317555f6ec8a8811/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "waiting-for-the-sun",
+      "title": "Waiting for the Sun",
+      "year": 1968,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/b9f9bd471fb53ab2e934e79808ecdc9f/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

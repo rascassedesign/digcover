@@ -1,0 +1,96 @@
+{
+  "id": "the-amazons-21st-century-fiction",
+  "number": "125",
+  "publishedAt": "2026-09-22",
+  "artist": {
+    "name": "THE AMAZONS",
+    "origin": "Reading, Angleterre"
+  },
+  "featuredAlbum": {
+    "id": "21st-century-fiction",
+    "title": "21st Century Fiction",
+    "year": 2025,
+    "label": "Nettwerk Music Group",
+    "genres": [
+      "Rock",
+      "Rock alternatif",
+      "Hard Rock"
+    ],
+    "trackCount": 13,
+    "type": "Album",
+    "coverUrl": "/covers/the-amazons-21st-century-fiction.jpg"
+  },
+  "meta": "2025 · Nettwerk Music Group · Rock · Rock alternatif · Angleterre",
+  "editorial": [
+    "Quatrième album pour The Amazons, quatuor de Reading formé au début des années deux mille dix, publié le 9 mai 2025 chez Nettwerk. Après un troisième disque entré dans le top 5 britannique, le groupe aurait pu consolider tranquillement ; il a choisi de durcir. 21st Century Fiction est de loin leur album le plus lourd, le plus sombre et le plus frontal, écrit par le chanteur Matthew Thomson au moment de quitter sa trentaine, entre le chaos du monde extérieur et celui, plus banal, d’une vie qu’il faut bien continuer à mener.",
+    "Le disque troque l’indie rock poli des débuts contre un rock’n’roll à cran, avec des riffs qui mordent et une section rythmique qui pousse sans relâche. « Living A Lie » et « Night After Night » ouvrent la marche, mais l’album a la bonne idée de ne pas rester sur un seul régime : il pioche du côté de la country, glisse une ou deux lignes de basse franchement funk, laisse respirer les morceaux les plus calmes. Treize titres qui rassemblent ce que le groupe faisait de mieux sur chacun de ses disques précédents, sans jamais donner l’impression de se citer lui-même.",
+    "La critique britannique a été à peu près unanime, ce qui n’est pas si fréquent pour un quatrième album de groupe de rock : leur meilleur à ce jour, plus frais et plus personnel que les précédents. Un épilogue est venu compléter l’ensemble en août dernier. Reste l’essentiel, un groupe qui, dix ans après ses premiers singles, a enfin trouvé exactement le disque qu’il voulait faire."
+  ],
+  "video": {
+    "youtubeId": "WdnaWpamxoo",
+    "title": "Night After Night — The Amazons · 21st Century Fiction, 2025"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/6PXuxQUn7Ar2AKt2BSseX2",
+    "appleMusic": "https://music.apple.com/fr/album/21st-century-fiction/1773034517",
+    "deezer": "https://www.deezer.com/fr/album/654032111",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mFPl9n2QOuPp9OKdjpDmm5wMz1RTjOLNk"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21190907/The-Amazons-21St-Century-Finction-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21190909/The-Amazons-21St-Century-Finction-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B0DNSSY162/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "21st-century-fiction",
+      "title": "21st Century Fiction",
+      "year": 2025,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "/covers/the-amazons-21st-century-fiction.jpg"
+    },
+    {
+      "id": "how-will-i-know-if-heaven-will-find-me",
+      "title": "How Will I Know If Heaven Will Find Me?",
+      "year": 2022,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/5802a3d060e3d31cf0b178e91bc18e14/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "future-dust",
+      "title": "Future Dust",
+      "year": 2019,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/b0005467c399bd8aa01d1a81f5b035ec/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "the-amazons",
+      "title": "The Amazons",
+      "year": 2017,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/4f40ba93c3d6aa23f73dbaaf964a333c/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

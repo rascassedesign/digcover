@@ -1,0 +1,66 @@
+{
+  "id": "charizma-peanut-butter-wolf-big-shots",
+  "number": "121",
+  "publishedAt": "2026-09-16",
+  "artist": {
+    "name": "CHARIZMA & PEANUT BUTTER WOLF",
+    "origin": "San Jose, États-Unis"
+  },
+  "featuredAlbum": {
+    "id": "big-shots",
+    "title": "Big Shots",
+    "year": 2003,
+    "label": "Stones Throw Records",
+    "genres": [
+      "Hip Hop",
+      "Boom Bap",
+      "West Coast Hip Hop"
+    ],
+    "trackCount": 15,
+    "type": "Album",
+    "coverUrl": "/covers/charizma-peanut-butter-wolf-big-shots.jpg"
+  },
+  "meta": "2003 · Stones Throw Records · Hip Hop · Boom Bap · États-Unis",
+  "editorial": [
+    "Big Shots est un album posthume, et c’est toute sa raison d’être. Charizma, de son vrai nom Charles Hicks, et Peanut Butter Wolf, Chris Manak derrière les platines, se rencontrent à San Jose à la toute fin des années quatre-vingt. Entre 1991 et 1993 ils enregistrent une quantité considérable de morceaux pour Hollywood BASIC, un label qui ne sortira jamais rien. Le 16 décembre 1993, Charizma est tué par balle au cours d’un vol de voiture. Il a vingt ans. Peanut Butter Wolf fonde Stones Throw trois ans plus tard, et il faudra attendre 2003 pour que ces bandes deviennent enfin un disque.",
+    "Quinze titres, quinze morceaux de hip-hop de la côte ouest tel qu’il se pratiquait avant que le G-funk ne prenne toute la place : des boucles de jazz et de soul crépitantes, des scratches partout, un flow bavard et joueur qui ne cherche jamais la menace. « My World Premiere », « Methods » ou « Red Light, Green Light » avancent avec une insouciance désarmante quand on sait ce qui a suivi. Peanut Butter Wolf produit à l’ancienne, au sampler et à la platine, et la patine des bandes d’origine n’a pas été gommée : on entend l’époque dans le grain même du disque.",
+    "Big Shots n’est pas un hommage funèbre, c’est un disque qui existe enfin. Il a fait de Charizma une figure connue d’une génération qui n’était pas née quand il enregistrait, et il a donné à Stones Throw une part de son identité, celle d’un label qui publie ce qui mérite d’être entendu sans se soucier du calendrier. Dix ans séparent l’enregistrement de la sortie, vingt-trois de plus ont passé depuis. Le disque, lui, n’a toujours pas pris une ride."
+  ],
+  "video": {
+    "youtubeId": "mRLAOccUj4M",
+    "title": "My World Premiere — Charizma & Peanut Butter Wolf · Big Shots, 2003"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/5X7RjKNHfzPbsGclNzKOuX",
+    "appleMusic": "https://music.apple.com/fr/album/big-shots/18748361",
+    "deezer": "https://www.deezer.com/fr/album/54303352",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kspXMFt6ECdYweWBpH4KffTLK8V6PYNRw"
+  },
+  "vinyl": [
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B0000E69HW/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "circa-1990-1993",
+      "title": "Circa 1990-1993",
+      "year": 2014,
+      "type": "Album",
+      "trackCount": 40,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/448000c40cab40ce42b35f3f6450de15/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "big-shots",
+      "title": "Big Shots",
+      "year": 2003,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "/covers/charizma-peanut-butter-wolf-big-shots.jpg"
+    }
+  ]
+}

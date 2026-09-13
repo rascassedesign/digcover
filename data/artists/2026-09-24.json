@@ -1,0 +1,103 @@
+{
+  "id": "nirvana-nevermind",
+  "number": "127",
+  "publishedAt": "2026-09-24",
+  "artist": {
+    "name": "NIRVANA",
+    "origin": "Aberdeen, États-Unis"
+  },
+  "featuredAlbum": {
+    "id": "nevermind",
+    "title": "Nevermind",
+    "year": 1991,
+    "label": "DGC Records",
+    "genres": [
+      "Grunge",
+      "Rock alternatif",
+      "Punk Rock"
+    ],
+    "trackCount": 12,
+    "type": "Album",
+    "coverUrl": "/covers/nirvana-nevermind.jpg"
+  },
+  "meta": "1991 · DGC Records · Grunge · Rock alternatif · États-Unis",
+  "editorial": [
+    "Il y a trente-cinq ans jour pour jour, le 24 septembre 1991, DGC publie Nevermind avec un tirage initial de quarante-six mille exemplaires, ce que le label jugeait raisonnable pour un groupe de Seattle signé chez Sub Pop deux ans plus tôt. Kurt Cobain, Krist Novoselic et Dave Grohl, arrivé à la batterie un an auparavant, ont enregistré à Van Nuys avec Butch Vig avant de confier le mixage à Andy Wallace. Le disque atteindra la première place du Billboard en janvier, délogeant Michael Jackson, et se vendra à plus de trente millions d’exemplaires.",
+    "Tout tient dans un principe tenu de bout en bout : des mélodies pop enfouies sous une distorsion de groupe punk, calme sur les couplets, saturé sur les refrains. « Smells Like Teen Spirit » a écrasé le reste dans la mémoire collective, mais Nevermind est un album remarquablement séquencé, qui va de « In Bloom » à « Lithium », s’autorise l’acoustique de « Polly » et finit en apnée avec « Something in the Way ». La production de Vig et Wallace, jugée trop propre par Cobain lui-même, est précisément ce qui a permis à ce disque de passer à la radio et de tout emporter.",
+    "On raconte souvent l’histoire à l’envers, comme si Nevermind avait créé une génération. Il l’a plutôt rendue audible : les majors ont vidé les clubs de Seattle dans les mois qui ont suivi, et le mot grunge est devenu un rayon de magasin. Trente-cinq ans plus tard, débarrassé du bruit qui l’entoure, il reste douze chansons tendues, courtes, écrites par quelqu’un qui savait exactement ce qu’il faisait. C’est la seule chose qui ne s’est jamais démodée."
+  ],
+  "video": {
+    "youtubeId": "hTWKbfoikeg",
+    "title": "Smells Like Teen Spirit — Nirvana · Nevermind, 1991"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/6okv1avxEgYSdc2JYy6ZEi",
+    "appleMusic": "https://music.apple.com/fr/album/nevermind/1440783617",
+    "deezer": "https://www.deezer.com/fr/album/1262014",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kEQJGO2SZ0k-vJ8b-F2AJLfKnw0cFydNg"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a1794240/Nirvana-Nevermind-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a533553/Nirvana-Nevermind-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B0000088DC/",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B000003TA4/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "mtv-unplugged-in-new-york",
+      "title": "MTV Unplugged In New York",
+      "year": 1994,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/fe1082c5ef54876802146897e76b592e/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "in-utero",
+      "title": "In Utero",
+      "year": 1993,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/4d0dfaf6d522f5323aebcc85903d92ac/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "nevermind",
+      "title": "Nevermind",
+      "year": 1991,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "/covers/nirvana-nevermind.jpg"
+    },
+    {
+      "id": "bleach",
+      "title": "Bleach",
+      "year": 1989,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/5c4474eb462a904d3b3e0ac13213e836/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

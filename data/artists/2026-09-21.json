@@ -1,0 +1,89 @@
+{
+  "id": "fink-the-city-is-coming-to-erase-it-all",
+  "number": "124",
+  "publishedAt": "2026-09-21",
+  "artist": {
+    "name": "FINK",
+    "origin": "Cornouailles, Angleterre"
+  },
+  "featuredAlbum": {
+    "id": "the-city-is-coming-to-erase-it-all",
+    "title": "The City Is Coming To Erase It All",
+    "year": 2026,
+    "label": "R'COUP'D",
+    "genres": [
+      "Folk",
+      "Blues",
+      "Acoustique"
+    ],
+    "trackCount": 8,
+    "type": "Album",
+    "coverUrl": "/covers/fink-the-city-is-coming-to-erase-it-all.jpg"
+  },
+  "meta": "2026 · R'COUP'D · Folk · Blues · Angleterre",
+  "editorial": [
+    "Fink, c’est Fin Greenall, un ancien DJ et producteur de musique électronique passé par Ninja Tune avant de reposer une guitare acoustique sur ses genoux au milieu des années deux mille. Vingt ans plus tard, entouré de Tim Thornton et Guy Whittaker, il publie son neuvième album, enregistré à Zennor, en Cornouailles, où le groupe s’était déjà installé pour le précédent. La règle du jeu, posée avec le producteur Sam Okell : si l’objet n’existait pas en 1974, il est interdit de s’en servir. Jusqu’aux cordes de guitare.",
+    "Huit morceaux seulement pour presque cinquante minutes, chacun prenant le temps de se déployer. Le disque assume ouvertement sa filiation avec les pionniers du folk anglais des années soixante-dix, Michael Chapman en tête, mais l’oreille électronique de Greenall continue d’organiser l’espace, et c’est précisément ce qui empêche l’exercice de tourner à la reconstitution. « Wishing For Blue Sky » ouvre l’album en épopée tranquille, exactement le morceau que Fink cherchait depuis des années. Les arrangements de cordes laissent l’esprit vagabonder, les textes restent simples et n’en frappent que mieux.",
+    "C’est probablement l’album le plus abouti du groupe, celui où la promesse des débuts en formation complète se réalise enfin. Le titre annonce une menace, la ville qui vient tout effacer, et le disque y répond par la lenteur, le bois et le vent de Cornouailles. Sorti en juin dernier, il n’a pas fait énormément de bruit, ce qui est finalement assez cohérent avec son propos. Pour ouvrir une semaine, c’est une manière élégante de commencer par ralentir."
+  ],
+  "video": {
+    "youtubeId": "fTc3h3uh3-c",
+    "title": "Wishing For Blue Sky — Fink · The City Is Coming To Erase It All, 2026"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/5hyjzZQKXifH4Xa0gyc0F4",
+    "appleMusic": "https://music.apple.com/fr/album/the-city-is-coming-to-erase-it-all/1873300487",
+    "deezer": "https://www.deezer.com/fr/album/908432652",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kBHkI4ibxGp2a9_YuDv3fbjpo0x7PAsXo"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a22777339/Fink-The-City-Coming-To-Erase-It-All-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a22777337/Fink-The-City-Coming-To-Erase-It-All-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    }
+  ],
+  "discography": [
+    {
+      "id": "the-city-is-coming-to-erase-it-all",
+      "title": "The City Is Coming To Erase It All",
+      "year": 2026,
+      "type": "Album",
+      "trackCount": 8,
+      "coverUrl": "/covers/fink-the-city-is-coming-to-erase-it-all.jpg"
+    },
+    {
+      "id": "beauty-in-your-wake",
+      "title": "Beauty In Your Wake",
+      "year": 2024,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/bed6b77eb0fb46d577cb0f21953064e8/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "iiuii",
+      "title": "IIUII",
+      "year": 2021,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/77f278b60cf090c5873945181a7143b8/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "bloom-innocent",
+      "title": "Bloom Innocent",
+      "year": 2019,
+      "type": "Album",
+      "trackCount": 8,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/3507bee6464874e9080e4ebf138d8d33/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

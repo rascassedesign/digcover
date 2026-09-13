@@ -1,0 +1,96 @@
+{
+  "id": "arctic-monkeys-whatever-people-say-i-am-thats-what-im-not",
+  "number": "120",
+  "publishedAt": "2026-09-15",
+  "artist": {
+    "name": "ARCTIC MONKEYS",
+    "origin": "Sheffield, Angleterre"
+  },
+  "featuredAlbum": {
+    "id": "whatever-people-say-i-am-thats-what-im-not",
+    "title": "Whatever People Say I Am, That's What I'm Not",
+    "year": 2006,
+    "label": "Domino Recording Co",
+    "genres": [
+      "Indie Rock",
+      "Post-Punk Revival",
+      "Garage Rock"
+    ],
+    "trackCount": 13,
+    "type": "Album",
+    "coverUrl": "/covers/arctic-monkeys-whatever-people-say-i-am-thats-what-im-not.jpg"
+  },
+  "meta": "2006 · Domino Recording Co · Indie Rock · Post-Punk Revival · Angleterre",
+  "editorial": [
+    "Le 23 janvier 2006, quatre garçons de High Green, dans la banlieue de Sheffield, publient chez Domino un premier album qui devient immédiatement le disque le plus rapidement vendu de l’histoire britannique, avec 363 735 exemplaires écoulés en une semaine. Arctic Monkeys n’ont pas vingt ans, ils doivent leur notoriété à des démos distribuées gratuitement en concert puis relayées sur internet par leurs propres fans, et personne dans l’industrie n’a vu venir la chose. Alex Turner, Jamie Cook, Andy Nicholson et Matt Helders ont enregistré en quelques semaines avec Jim Abbiss.",
+    "Ce qui frappe encore, c’est la précision du regard. Whatever People Say I Am, That’s What I’m Not raconte une nuit de sortie en province du début à la fin : la file d’attente, le videur, le taxi, la fille sur la piste, le retour au petit matin. « I Bet You Look Good on the Dancefloor » et « When the Sun Goes Down » ont fait les gros titres, mais l’album vaut surtout par sa langue, un anglais du Yorkshire truffé de détails que personne ne mettait alors dans des chansons. Musicalement, c’est nerveux, sec, joué vite, sans réverbération ni fioriture : treize titres en quarante minutes qui filent comme la nuit qu’ils décrivent.",
+    "Le Mercury Prize suivra, puis six albums qui éloigneront progressivement le groupe de ce point de départ. C’est précisément ce qui rend ce premier disque si particulier : il documente un moment qui ne pouvait pas durer, celui d’un groupe adolescent qui parle de son quartier avant que le quartier ne devienne un souvenir. Vingt ans plus tard, il n’a pas vieilli d’une heure, parce qu’il n’a jamais essayé d’être autre chose que ce qu’il était."
+  ],
+  "video": {
+    "youtubeId": "pK7egZaT3hs",
+    "title": "I Bet You Look Good On The Dancefloor — Arctic Monkeys · Whatever People Say I Am, That's What I'm Not, 2006"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/50Zz8CkIhATKUlQMbHO3k1",
+    "appleMusic": "https://music.apple.com/fr/album/whatever-people-say-i-am-thats-what-im-not/111153953",
+    "deezer": "https://www.deezer.com/fr/album/401340",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nbQ-Z3A6g3hfs2F5tpbNLjdiZ8H6S4U7U"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a1802390/Arctic-Monkeys-Whatever-People-Say-I-Am-That-s-What-I-m-Not-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a1782313/Arctic-Monkeys-Whatever-people-say-I-am-that-s-what-I-m-not-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B000E116BM/",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "am",
+      "title": "AM",
+      "year": 2013,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/64e54e307bd5e2bdb27ffeb662fd910d/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "humbug",
+      "title": "Humbug",
+      "year": 2009,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/13cdeb23547351f3ea543a2f5b4b9a4b/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "favourite-worst-nightmare",
+      "title": "Favourite Worst Nightmare",
+      "year": 2007,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/d7a4f9f1af8736457de34f28d50ef496/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "whatever-people-say-i-am-thats-what-im-not",
+      "title": "Whatever People Say I Am, That's What I'm Not",
+      "year": 2006,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "/covers/arctic-monkeys-whatever-people-say-i-am-thats-what-im-not.jpg"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "norah-jones-little-broken-hearts",
+  "number": "122",
+  "publishedAt": "2026-09-17",
+  "artist": {
+    "name": "NORAH JONES",
+    "origin": "New York, États-Unis"
+  },
+  "featuredAlbum": {
+    "id": "little-broken-hearts",
+    "title": "...Little Broken Hearts",
+    "year": 2012,
+    "label": "Blue Note Records",
+    "genres": [
+      "Pop",
+      "Dream Pop",
+      "Singer & Songwriter"
+    ],
+    "trackCount": 12,
+    "type": "Album",
+    "coverUrl": "/covers/norah-jones-little-broken-hearts.jpg"
+  },
+  "meta": "2012 · Blue Note Records · Pop · Dream Pop · États-Unis",
+  "editorial": [
+    "En 2012, Norah Jones a déjà vendu des dizaines de millions de disques et récolté une pile de Grammy Awards avec une musique douce, jazz, confortable. ...Little Broken Hearts, son cinquième album, arrive donc comme une rupture parfaitement délibérée. Elle le confie entièrement à Danger Mouse, avec qui elle avait travaillé sur le projet Rome, et lui laisse la main sur le son. La pochette, empruntée à l’affiche du Mudhoney de Russ Meyer, annonce d’emblée la couleur : ce ne sera pas un disque d’ambiance pour dîner entre amis.",
+    "Douze chansons écrites à deux, toutes tournées autour d’une même séparation, et pas une once de sentimentalité. La voix reste celle qu’on connaît, posée, presque douce ; ce qu’elle raconte l’est nettement moins. « Miriam » est une chanson de meurtre chantée sur le ton de la berceuse, « Happy Pills » une chanson de rupture presque guillerette, « She’s 22 » une humiliation ordinaire regardée bien en face. Danger Mouse enveloppe l’ensemble d’un brouillard d’orgues, de guitares saturées et de boîtes à rythmes feutrées qui tire le disque vers la pop psychédélique plutôt que vers le jazz.",
+    "L’album entre à la deuxième place du Billboard et divise une partie du public de la première heure, ce qui était probablement le but recherché. Avec le recul, c’est le disque qui a rendu la suite possible : Day Breaks, Pick Me Up Off The Floor, Visions, autant d’albums d’une artiste qui n’a plus rien à prouver et qui choisit désormais ses collaborateurs plutôt que ses formats. ...Little Broken Hearts reste le moment où elle a décidé d’aller voir ailleurs, et où elle y a trouvé quelque chose."
+  ],
+  "video": {
+    "youtubeId": "a9s0DCQJq4I",
+    "title": "Happy Pills — Norah Jones · ...Little Broken Hearts, 2012"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/3N9ECfsk4OUDKhmhPT3OPX",
+    "appleMusic": "https://music.apple.com/fr/album/little-broken-hearts/716742697",
+    "deezer": "https://www.deezer.com/fr/album/1700522",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lE298erO4LmePkCBZYpNPhW6nnKn3xEGE"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a9268981/Norah-Jones-Little-broken-hearts-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a18039664/Norah-Jones-Little-Broken-Hearts-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B00723NWJE/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "day-breaks",
+      "title": "Day Breaks",
+      "year": 2016,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/1784c3860bc017bf67733fb2b23460c1/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "little-broken-hearts",
+      "title": "...Little Broken Hearts",
+      "year": 2012,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "/covers/norah-jones-little-broken-hearts.jpg"
+    },
+    {
+      "id": "the-fall",
+      "title": "The Fall",
+      "year": 2009,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/617613ff7fae913f9c69ebabb87833df/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "not-too-late",
+      "title": "Not Too Late",
+      "year": 2007,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/928ff77cf6dce6cb626ab1bd843d9995/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

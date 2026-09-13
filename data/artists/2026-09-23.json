@@ -1,0 +1,80 @@
+{
+  "id": "fugees-blunted-on-reality",
+  "number": "126",
+  "publishedAt": "2026-09-23",
+  "artist": {
+    "name": "FUGEES",
+    "origin": "South Orange, États-Unis"
+  },
+  "featuredAlbum": {
+    "id": "blunted-on-reality",
+    "title": "Blunted on Reality",
+    "year": 1994,
+    "label": "Ruffhouse / Columbia",
+    "genres": [
+      "Hip Hop",
+      "East Coast Hip Hop",
+      "Conscious Hip Hop"
+    ],
+    "trackCount": 18,
+    "type": "Album",
+    "coverUrl": "/covers/fugees-blunted-on-reality.jpg"
+  },
+  "meta": "1994 · Ruffhouse / Columbia · Hip Hop · East Coast Hip Hop · États-Unis",
+  "editorial": [
+    "Avant The Score et ses vingt millions d’exemplaires, il y a eu ça. Blunted on Reality, premier album des Fugees, sort le 1er février 1994 chez Ruffhouse et Columbia. Wyclef Jean, Pras Michel et Lauryn Hill, tout juste sortis du lycée dans le New Jersey, ont alors une petite vingtaine d’années et un nom de groupe emprunté à l’insulte qui visait les réfugiés haïtiens. Le disque se classe vingtième au Top Heatseekers, soixante-deuxième au classement R&B, et passe globalement inaperçu.",
+    "Produit en grande partie par Salaam Remi et par les frères Fugee, l’album fonctionne comme un disque de crew : les trois voix se relaient, se coupent la parole, se répondent, dans un esprit plus proche d’A Tribe Called Quest ou de Digable Planets que de ce que le groupe deviendra. « Nappy Heads », « Vocab » et « Boof Baf » en sont les points d’ancrage, portés par des boucles de jazz et un débit rapide, presque ragga par moments. Lauryn Hill y chante déjà, mais peu : c’est encore un disque de rappeurs, avec ce que cela suppose de démonstration et d’énergie brute.",
+    "Le groupe lui-même a longtemps renié ce premier essai, jugé trop encadré par son label. C’est peut-être exact, et c’est surtout ce qui le rend précieux aujourd’hui : on y entend trois personnes chercher, avec dix-huit titres et pas encore de formule. Deux ans plus tard, The Score trouverait la formule et changerait d’échelle. Blunted on Reality reste le document de ce qu’ils étaient avant, et il tient largement debout tout seul."
+  ],
+  "video": {
+    "youtubeId": "s8sNnNRhQ2g",
+    "title": "Nappy Heads — Fugees · Blunted on Reality, 1994"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/0SHdsrvo4oGJiUlYLaqCcu",
+    "appleMusic": "https://music.apple.com/fr/album/blunted-on-reality/169704381",
+    "deezer": "https://www.deezer.com/fr/album/111801",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nummE7LfMSUttBreWvfOnqMFj5zEPvrxQ"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a12437546/Fugees-Blunted-On-Reality-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a16245581/Fugees-Blunted-On-Reality-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B01LTHLY9I/",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "the-score",
+      "title": "The Score",
+      "year": 1996,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/cbc404543f45cf93465906b61ec85687/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "blunted-on-reality",
+      "title": "Blunted on Reality",
+      "year": 1994,
+      "type": "Album",
+      "trackCount": 18,
+      "coverUrl": "/covers/fugees-blunted-on-reality.jpg"
+    }
+  ]
+}

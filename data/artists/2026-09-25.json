@@ -1,0 +1,66 @@
+{
+  "id": "gliiico-the-oath",
+  "number": "128",
+  "publishedAt": "2026-09-25",
+  "artist": {
+    "name": "GLIIICO",
+    "origin": "Tokyo, Japon"
+  },
+  "featuredAlbum": {
+    "id": "the-oath",
+    "title": "The Oath",
+    "year": 2024,
+    "label": "Cantora Records",
+    "genres": [
+      "Rock indé",
+      "Psychédélique",
+      "Pop Indé"
+    ],
+    "trackCount": 7,
+    "type": "Album",
+    "coverUrl": "/covers/gliiico-the-oath.jpg"
+  },
+  "meta": "2024 · Cantora Records · Rock indé · Psychédélique · Japon",
+  "editorial": [
+    "Gliiico, ce sont trois frères, Nico, Kai et Kio de Torres, nés à Vancouver et installés à Tokyo. Après quatre ans de singles épars, ils publient le 25 octobre 2024 The Oath, leur premier disque véritablement pensé comme un ensemble, chez Cantora Records, label de Brooklyn qui a vu passer MGMT et Bear Hands. Sept morceaux, vingt-quatre minutes : un format court, parfaitement assumé, qui va à l’essentiel et n’essaie jamais de faire passer une poignée de chansons pour une fresque.",
+    "Le penchant psychédélique de la fratrie se lit immédiatement, quelque part entre Tame Impala, Mac DeMarco et Toro y Moi, avec un goût prononcé pour les guitares légèrement flottantes et les basses rondes. « Amiri Jeans » et « Mutron » installent l’humeur, « Tragedy », en duo avec la chanteuse japonaise Chara, est le morceau qui a fait connaître le groupe bien au-delà de son cercle. L’ensemble, en partie inspiré par Game of Thrones, tient surtout par sa production : chaude, un peu voilée, jamais surchargée, avec ce côté fait maison qui n’a rien d’un défaut ici.",
+    "Une version augmentée de deux titres est parue en février 2025, et un deuxième album, The Veil, a suivi en août dernier. The Oath reste le point d’entrée, celui où trois frères trouvent leur son sans avoir eu besoin de le chercher très loin. Pour refermer la semaine avec un disque qu’on peut écouter deux fois de suite sans s’en apercevoir, c’est un très bon candidat."
+  ],
+  "video": {
+    "youtubeId": "PRWWUjoBBxc",
+    "title": "Tragedy (feat. Chara) — Gliiico · The Oath, 2024"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/1WzOpvxtUmIMfVRsZUA5Wi",
+    "appleMusic": "https://music.apple.com/fr/album/the-oath/1848179257",
+    "deezer": "https://www.deezer.com/fr/album/842714012",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_m2qVMPh50BujuhanGefEeaNGqJxmjy6MQ"
+  },
+  "vinyl": [],
+  "discography": [
+    {
+      "id": "the-veil",
+      "title": "The Veil",
+      "year": 2026,
+      "type": "Album",
+      "trackCount": 8,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/b231cc9dcb8404bb0457892fe48e592b/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "the-oath",
+      "title": "The Oath",
+      "year": 2024,
+      "type": "Album",
+      "trackCount": 7,
+      "coverUrl": "/covers/gliiico-the-oath.jpg"
+    },
+    {
+      "id": "ephemeral",
+      "title": "Ephemeral",
+      "year": 2021,
+      "type": "Album",
+      "trackCount": 8,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/e63fa3ac0df1b8dc780ed2ba32993adb/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}
