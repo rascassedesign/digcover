@@ -1,0 +1,79 @@
+{
+  "id": "black-star-mos-def-talib-kweli-are-black-star",
+  "number": "130",
+  "publishedAt": "2026-09-29",
+  "artist": {
+    "name": "BLACK STAR",
+    "origin": "Brooklyn, États-Unis"
+  },
+  "featuredAlbum": {
+    "id": "mos-def-talib-kweli-are-black-star",
+    "title": "Mos Def & Talib Kweli Are Black Star",
+    "year": 1998,
+    "label": "Rawkus Records",
+    "genres": [
+      "Hip-Hop",
+      "Boom Bap",
+      "Rap Conscient"
+    ],
+    "trackCount": 13,
+    "type": "Album",
+    "coverUrl": "/covers/black-star-mos-def-talib-kweli-are-black-star.jpg"
+  },
+  "meta": "1998 · Rawkus Records · Hip-Hop · Boom Bap · États-Unis",
+  "editorial": [
+    "Il y a vingt-huit ans jour pour jour, le 29 septembre 1998, Rawkus Records publie Mos Def & Talib Kweli Are Black Star. Les deux rappeurs de Brooklyn se croisent depuis quelques années sur les scènes ouvertes de New York, et ils partagent un public, des amitiés et une idée assez haute de ce que le rap peut dire. Le nom du duo vient de la Black Star Line, la compagnie maritime fondée par Marcus Garvey en 1919 pour relier l’Amérique noire à l’Afrique. Tout le programme est là, avant même la première mesure.",
+    "Hi-Tek, le complice de Kweli venu de Cincinnati, signe la plus grande partie des productions, épaulé notamment par 88-Keys, J. Rawls et Da Beatminerz. Le son est chaud, jazzé, tout en boucles de basse et en caisses claires feutrées, et il laisse toute la place aux deux voix qui se relaient comme dans une conversation. « Definition » répond à la mort de Tupac et de Biggie en reprenant un refrain de Boogie Down Productions, « Respiration », avec Common, fait de New York la nuit un poème à trois voix, et « Thieves in the Night » emprunte ses premiers mots à L’Œil le plus bleu de Toni Morrison.",
+    "Le disque ne dépasse pas la cinquante-troisième place du Billboard, mais son influence déborde largement ses ventes. Il ouvre la voie à Black on Both Sides de Mos Def en 1999 et à Train of Thought, signé par Kweli et Hi-Tek l’année suivante, et il pose les bases de tout un rap conscient new-yorkais. Il faudra attendre vingt-quatre ans pour un deuxième album, No Fear of Time, produit par Madlib en 2022. Le premier, lui, n’a pas bougé : treize titres qui prouvent qu’on peut réfléchir et faire hocher la tête en même temps."
+  ],
+  "video": {
+    "youtubeId": "eeTnog5RRQo",
+    "title": "Respiration (feat. Common) — Black Star · Mos Def & Talib Kweli Are Black Star, 1998"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/6GRzmk9UGL7odxprOPop1Q",
+    "appleMusic": "https://music.apple.com/fr/album/mos-def-talib-kweli-are-black-star/1440799801",
+    "deezer": "https://www.deezer.com/fr/album/240229",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lMIwPM1mVDv_1cFNhbNehhXcXbhFEvWFk"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a740091/Mos-Def-Black-Star-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a1332184/Black-Star-Black-Star-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B0FB25RQ2R/",
+      "format": "Vinyle Picture Disc",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B000067CLT/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "mos-def-talib-kweli-are-black-star",
+      "title": "Mos Def & Talib Kweli Are Black Star",
+      "year": 1998,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "/covers/black-star-mos-def-talib-kweli-are-black-star.jpg"
+    }
+  ]
+}

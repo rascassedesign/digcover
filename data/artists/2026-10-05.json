@@ -1,0 +1,95 @@
+{
+  "id": "billie-eilish-when-we-all-fall-asleep-where-do-we-go",
+  "number": "134",
+  "publishedAt": "2026-10-05",
+  "artist": {
+    "name": "BILLIE EILISH",
+    "origin": "Los Angeles, États-Unis"
+  },
+  "featuredAlbum": {
+    "id": "when-we-all-fall-asleep-where-do-we-go",
+    "title": "When We All Fall Asleep, Where Do We Go?",
+    "year": 2019,
+    "label": "Darkroom / Interscope",
+    "genres": [
+      "Pop",
+      "Electro-Pop",
+      "Dark Pop"
+    ],
+    "trackCount": 14,
+    "type": "Album",
+    "coverUrl": "/covers/billie-eilish-when-we-all-fall-asleep-where-do-we-go.jpg"
+  },
+  "meta": "2019 · Darkroom / Interscope · Pop · Electro-Pop · États-Unis",
+  "editorial": [
+    "When We All Fall Asleep, Where Do We Go? sort le 29 mars 2019 chez Darkroom et Interscope. Billie Eilish a dix-sept ans, et l’album a été écrit, enregistré et produit avec son frère Finneas O’Connell dans une petite chambre de la maison familiale, à Highland Park, un quartier de Los Angeles. Pas de grand studio ni d’armée de producteurs : un ordinateur, quelques micros, et deux enfants élevés dans une maison où la musique faisait partie du quotidien. Le disque entre directement à la première place aux États-Unis comme au Royaume-Uni.",
+    "Tout l’album tient dans un contraste : une voix presque chuchotée, collée au micro, et des basses si profondes qu’elles font trembler les enceintes. « bad guy » en est la carte de visite, avec ses claquements de doigts et sa pirouette finale, et il finit par déloger « Old Town Road » de la tête du Billboard après dix-neuf semaines. Autour, « bury a friend » se place du point de vue du monstre caché sous le lit, « when the party’s over » ralentit tout jusqu’au murmure, et « xanny » regarde les fêtes de ses amis avec une lucidité désarmante.",
+    "En janvier 2020, Billie Eilish rafle les quatre grandes catégories des Grammy, album, enregistrement, chanson et révélation de l’année, ce que personne n’avait fait depuis 1981. Depuis, Happier Than Ever et Hit Me Hard and Soft ont prouvé que le tandem fraternel n’était pas un accident. Mais c’est ici que se trouve le choc originel, celui d’une adolescente qui a imposé au monde entier ses peurs, son humour noir et ses nuits blanches, avec une pop qui ne ressemblait à rien d’autre. Sept ans plus tard, elle ne ressemble toujours à rien d’autre."
+  ],
+  "video": {
+    "youtubeId": "DyDfgMOUjCI",
+    "title": "bad guy — Billie Eilish · When We All Fall Asleep, Where Do We Go?, 2019"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/0S0KGZnfBGSIssfF54WSJh",
+    "appleMusic": "https://music.apple.com/fr/album/when-we-all-fall-asleep-where-do-we-go/1450695723",
+    "deezer": "https://www.deezer.com/fr/album/91598612",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mHeA8ArGIJHCD7nReACfktWaKz_ogNTlA"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a13291557/Billie-Eilish-When-We-All-Fall-Asleep-Where-Do-We-Go-Edition-Limitee-Vinyle-Jaune-Pale-Vinyle-album",
+      "format": "Vinyle Jaune Pâle",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a13338789/Billie-Eilish-When-We-All-Fall-Asleep-Where-Do-We-Go-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B07N3RG76T/",
+      "format": "Vinyle Jaune Pâle",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B07N264JB8/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "hit-me-hard-and-soft",
+      "title": "HIT ME HARD AND SOFT",
+      "year": 2024,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/5d284b31cb9ddeb1a0c79aede5a94e1c/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "happier-than-ever",
+      "title": "Happier Than Ever",
+      "year": 2021,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/bb2880548dd3bc71fb97def2eedec130/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "when-we-all-fall-asleep-where-do-we-go",
+      "title": "When We All Fall Asleep, Where Do We Go?",
+      "year": 2019,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "/covers/billie-eilish-when-we-all-fall-asleep-where-do-we-go.jpg"
+    }
+  ]
+}

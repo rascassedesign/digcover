@@ -1,0 +1,103 @@
+{
+  "id": "turnstile-glow-on",
+  "number": "131",
+  "publishedAt": "2026-09-30",
+  "artist": {
+    "name": "TURNSTILE",
+    "origin": "Baltimore, États-Unis"
+  },
+  "featuredAlbum": {
+    "id": "glow-on",
+    "title": "Glow On",
+    "year": 2021,
+    "label": "Roadrunner Records",
+    "genres": [
+      "Hardcore Punk",
+      "Rock alternatif",
+      "Post-hardcore"
+    ],
+    "trackCount": 15,
+    "type": "Album",
+    "coverUrl": "/covers/turnstile-glow-on.jpg"
+  },
+  "meta": "2021 · Roadrunner Records · Hardcore Punk · Rock alternatif · États-Unis",
+  "editorial": [
+    "Turnstile vient de la scène hardcore de Baltimore, celle des salles minuscules et des plongeons depuis la scène, et rien ne laissait prévoir que ce groupe-là finirait dans les classements de fin d’année de Rolling Stone ou de Pitchfork. Glow On, leur troisième album, sort le 27 août 2021 chez Roadrunner. Il a été enregistré à l’été 2020, en pleine pandémie, aux Phantom Studios de Gallatin, dans le Tennessee, sous la direction de Mike Elizondo, un producteur passé par Eminem, Fiona Apple ou twenty one pilots. Le choix en disait déjà long sur l’ambition.",
+    "Les riffs sont toujours là, lourds et secs, et la voix de Brendan Yates garde toute l’urgence du hardcore. Mais tout autour, le groupe ouvre les fenêtres : des nappes de synthé, des percussions inattendues, une basse qui lorgne vers le funk, des refrains qui empruntent à la dream pop. Dev Hynes, alias Blood Orange, vient poser sa voix sur « Alien Love Call » et « Lonely Dezires », deux morceaux flottants, l’un au cœur du disque, l’autre pour le refermer. Quinze titres courts, qui ne restent jamais longtemps au même endroit.",
+    "Glow On entre à la trentième place du Billboard 200, une première pour le groupe, et vaut à « Holiday » et « Blackout » des nominations aux Grammy. Surtout, il attire vers le hardcore un public qui n’y avait jamais mis les pieds, sans que la scène d’origine crie à la trahison. Turnstile a confirmé l’an dernier avec Never Enough, mais c’est ici que tout a basculé. Cinq ans après, Glow On reste la démonstration qu’un genre réputé fermé pouvait sonner comme une fête."
+  ],
+  "video": {
+    "youtubeId": "D6yaJur9JUE",
+    "title": "HOLIDAY — Turnstile · Glow On, 2021"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/2NrYPcMmQBlbBxopc2XlzS",
+    "appleMusic": "https://music.apple.com/fr/album/glow-on/1576430192",
+    "deezer": "https://www.deezer.com/fr/album/251184752",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kAbxBZW77nalziKTiaUDgQcsPhlDy_Mto"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a16125983/Turnstile-Glow-On-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a16125979/Turnstile-Glow-On-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B099BN2RS8/",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B099BYQNKY/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "never-enough",
+      "title": "Never Enough",
+      "year": 2025,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/d6d1ed862d5d4050f80c8f6f5c8fbe94/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "glow-on",
+      "title": "Glow On",
+      "year": 2021,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "/covers/turnstile-glow-on.jpg"
+    },
+    {
+      "id": "time-space",
+      "title": "Time & Space",
+      "year": 2018,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/651f865a3374fbfff698dac8083a1e53/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "nonstop-feeling",
+      "title": "Nonstop Feeling",
+      "year": 2015,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/2101ddae4f2c0f9b78229b07944c5435/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

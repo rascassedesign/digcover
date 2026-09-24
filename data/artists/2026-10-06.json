@@ -1,0 +1,88 @@
+{
+  "id": "wilder-woods-curioso",
+  "number": "135",
+  "publishedAt": "2026-10-06",
+  "artist": {
+    "name": "WILDER WOODS",
+    "origin": "Greenville, États-Unis"
+  },
+  "featuredAlbum": {
+    "id": "curioso",
+    "title": "Curioso",
+    "year": 2025,
+    "label": "Dualtone",
+    "genres": [
+      "Rock",
+      "Folk Rock",
+      "Soul"
+    ],
+    "trackCount": 10,
+    "type": "Album",
+    "coverUrl": "/covers/wilder-woods-curioso.jpg"
+  },
+  "meta": "2025 · Dualtone · Rock · Folk Rock · États-Unis",
+  "editorial": [
+    "Derrière Wilder Woods se cache Bear Rinehart, chanteur de NEEDTOBREATHE, groupe de Caroline du Sud qui remplit les salles américaines depuis une vingtaine d’années. Le nom de ce projet solo, il l’a emprunté à ses deux fils aînés, Wilder et Woods. Curioso, troisième album, sort le 7 février 2025 chez Dualtone, après un premier disque éponyme en 2019 et Fever / Sky en 2023. Le titre vient d’un souvenir d’enfance : la vitrine à bibelots de sa grand-mère, ce meuble où rien ne va avec rien et où tout finit pourtant par trouver sa place.",
+    "C’est exactement la logique du disque. Rinehart ne cherche pas de fil narratif, il assemble des morceaux qui ont chacun leur humeur, de l’ouverture « Swimming In The Ocean » jusqu’au final « Wild Fire ». L’enregistrement, auquel le producteur Cason Cooley a largement contribué, s’est fait comme un concert : batterie, basse, guitare et piano dans la même pièce, avec le moins de retouches possible, pour garder l’élan que le groupe trouve sur scène. Jim James, de My Morning Jacket, passe sur « Time On My Hands », Anna Graves sur « Offering », Maggie Rose sur « Wild Fire ». La voix de Rinehart, rugueuse et pleine de soul, fait le reste.",
+    "Curioso n’a pas fait grand bruit de ce côté de l’Atlantique, et c’est dommage. On y entend un musicien installé, qui pourrait se contenter de refaire ce qui marche avec son groupe et qui préfère aller voir ailleurs, quitte à s’éparpiller un peu. Le disque a depuis trouvé son prolongement sur scène, avec un album live enregistré au Ryman Auditorium de Nashville. Pour découvrir Wilder Woods, c’est la bonne porte d’entrée : la plus libre, et la plus chaleureuse aussi."
+  ],
+  "video": {
+    "youtubeId": "AvAlNsZ8tuc",
+    "title": "Time On My Hands (feat. Jim James) — Wilder Woods · Curioso, 2025"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/3GQfiWf3Hmkn7wW7FsQTKr",
+    "appleMusic": "https://music.apple.com/fr/album/curioso/1766357478",
+    "deezer": "https://www.deezer.com/fr/album/638610531",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nIFvBGtyIq1eixMX_3IaLW0aw3Bfo8dfk"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a20971463/Wilder-Woods-Curioso-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B0DGV9CYNP/",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B0DGV9ZC8B/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "curioso",
+      "title": "Curioso",
+      "year": 2025,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "/covers/wilder-woods-curioso.jpg"
+    },
+    {
+      "id": "fever-sky",
+      "title": "FEVER / SKY",
+      "year": 2023,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/7502ff311d8ffa6c7e79b679de5b1f79/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "wilder-woods",
+      "title": "Wilder Woods",
+      "year": 2019,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/703eaf09e6aae0dacb5dce3fd8201d20/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

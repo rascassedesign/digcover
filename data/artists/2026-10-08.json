@@ -1,0 +1,103 @@
+{
+  "id": "charles-bradley-victim-of-love",
+  "number": "137",
+  "publishedAt": "2026-10-08",
+  "artist": {
+    "name": "CHARLES BRADLEY",
+    "origin": "Brooklyn, États-Unis"
+  },
+  "featuredAlbum": {
+    "id": "victim-of-love",
+    "title": "Victim of Love",
+    "year": 2013,
+    "label": "Dunham / Daptone Records",
+    "genres": [
+      "Soul",
+      "Psychedelic Soul",
+      "Funk"
+    ],
+    "trackCount": 11,
+    "type": "Album",
+    "coverUrl": "/covers/charles-bradley-victim-of-love.jpg"
+  },
+  "meta": "2013 · Dunham / Daptone Records · Soul · Psychedelic Soul · États-Unis",
+  "editorial": [
+    "Charles Bradley a soixante-quatre ans quand paraît Victim of Love, le 2 avril 2013, et derrière lui une vie qui ressemble à un roman. Né en Floride en 1948, élevé à Brooklyn, il a connu la rue, les petits boulots et les cuisines de toute l’Amérique, et pendant des années il ne chante que sous le nom de Black Velvet, en sosie de James Brown dans les clubs. C’est là que Gabriel Roth, cofondateur du label Daptone, le repère au début des années 2000. Son premier album, No Time for Dreaming, sort en 2011 : il a alors soixante-deux ans.",
+    "Victim of Love paraît chez Dunham, la branche de Daptone confiée au guitariste Thomas Brenneck, qui produit le disque avec le Menahan Street Band. Là où le premier album était brut et douloureux, celui-ci s’ouvre à l’amour et s’autorise des couleurs psychédéliques, dans la lignée des Temptations du début des années soixante-dix. « Strictly Reserved for You » ouvre le bal, « Love Bug Blues » tire franchement vers le funk, et le morceau-titre est une ballade à fendre l’âme. Bradley chante chaque note comme si c’était la dernière, avec ce grain rauque qui a fait comparer sa voix à celle d’Otis Redding.",
+    "L’album entre dans le top 10 aux Pays-Bas et en Flandre, et Bradley devient enfin ce qu’il aurait dû être depuis quarante ans : une voix majeure de la soul, applaudie sur les scènes du monde entier. Un troisième disque, Changes, suivra en 2016. Charles Bradley meurt d’un cancer le 23 septembre 2017, à soixante-huit ans. Victim of Love reste le plus lumineux de ses enregistrements, celui d’un homme qui a attendu toute sa vie qu’on l’écoute et qui, le moment venu, n’a voulu parler que d’amour."
+  ],
+  "video": {
+    "youtubeId": "rgnQYvzRDiQ",
+    "title": "Strictly Reserved for You — Charles Bradley · Victim of Love, 2013"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/4eDPyEFzn5KScDI8f50POB",
+    "appleMusic": "https://music.apple.com/fr/album/victim-of-love-feat-menahan-street-band/1485008286",
+    "deezer": "https://www.deezer.com/fr/album/115388112",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nXIh0zCxmsSie4aA5lWsGh1saucKapHY4"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a5556962/Charles-Bradley-Victim-of-Love-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a5556935/Charles-Bradley-Victim-of-love-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B00B23Z13U/",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B00B23Z2IE/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "black-velvet",
+      "title": "Black Velvet",
+      "year": 2018,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/ec607ce24deed0efb41df9fa6ab934f7/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "changes",
+      "title": "Changes",
+      "year": 2016,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/25ae6b3ff8c4a6cad5754b90c4ee3d4e/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "victim-of-love",
+      "title": "Victim of Love",
+      "year": 2013,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "/covers/charles-bradley-victim-of-love.jpg"
+    },
+    {
+      "id": "no-time-for-dreaming",
+      "title": "No Time For Dreaming",
+      "year": 2011,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/7f4f1d9e0294c843d31a3b0ee961fce7/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

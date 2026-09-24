@@ -1,0 +1,88 @@
+{
+  "id": "laura-misch-lithic",
+  "number": "138",
+  "publishedAt": "2026-10-09",
+  "artist": {
+    "name": "LAURA MISCH",
+    "origin": "Londres, Angleterre"
+  },
+  "featuredAlbum": {
+    "id": "lithic",
+    "title": "Lithic",
+    "year": 2026,
+    "label": "One Little Independent",
+    "genres": [
+      "Nu Jazz",
+      "Électronique",
+      "Ambient"
+    ],
+    "trackCount": 12,
+    "type": "Album",
+    "coverUrl": "/covers/laura-misch-lithic.jpg"
+  },
+  "meta": "2026 · One Little Independent · Nu Jazz · Électronique · Angleterre",
+  "editorial": [
+    "Laura Misch est saxophoniste, chanteuse et productrice, installée dans le sud de Londres, et sœur du musicien Tom Misch. Après Sample the Sky en 2023, un premier album aérien tout en harpes et en harmonies vocales, elle a voulu redescendre sur terre, au sens propre. Lithic, paru le 5 juin chez One Little Independent, a été en grande partie conçu en plein air : dans les grottes et les carrières de Cornouailles, dans une cabane perchée sur l’île grecque de Tinos, et à Hydra, là même où Angus & Julia Stone ont trouvé le titre de leur dernier disque, présenté ici vendredi dernier.",
+    "Le titre dit tout : lithique, ce qui a trait à la pierre. Misch a improvisé dans ces espaces caverneux, laissant l’écho faire naître les rythmes, puis a tout retravaillé avec le producteur Matt Karmil. Son saxophone passe à travers l’électronique et se mêle aux enregistrements de terrain, à la pluie, aux cordes, au xylophone. « Echoes » et « Siren » ont un vrai pouls, presque dansant, « Fo(r)est » se dissout dans l’averse, et le pianiste Alfa Mist, complice de longue date, vient éclairer « Jealousea ». « Kairos » emprunte son nom aux Grecs anciens, pour qui c’était le temps du moment opportun, pas celui des heures qui passent.",
+    "Il y a quelque chose de géologique dans l’écoute, un temps long qui demande qu’on s’y abandonne. Misch le résume elle-même : tenir une pierre dans la main, c’est tenir le présent et toute l’histoire en même temps. Le disque a trouvé sa forme scénique au Barbican de Londres en juillet, un concert publié depuis en album live. Pour refermer ces deux semaines, voici un disque qui ralentit tout, à écouter au casque, fenêtre ouverte si possible."
+  ],
+  "video": {
+    "youtubeId": "RiqpE7jaivU",
+    "title": "Echoes — Laura Misch · Lithic, 2026"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/2eFG4wew1DIqnqygr3UeYN",
+    "appleMusic": "https://music.apple.com/fr/album/lithic/1870681009",
+    "deezer": "https://www.deezer.com/fr/album/900672582",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lxLNvwYt_oVxMLf4GYo8FzqmmPEgUeP9s"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a22963576/Laura-Misch-Lithic-Edition-Limitee-CD-album",
+      "format": "CD Édition Limitée",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B0GJ64HNJS/",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B0GJ68FWPY/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "lithic",
+      "title": "Lithic",
+      "year": 2026,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "/covers/laura-misch-lithic.jpg"
+    },
+    {
+      "id": "sample-the-earth",
+      "title": "Sample The Earth",
+      "year": 2024,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/a7bfa3cec3e33e218905817481fd3e65/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "sample-the-sky",
+      "title": "Sample The Sky",
+      "year": 2023,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/e6826f32c1a75398db35b88d2e47448b/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

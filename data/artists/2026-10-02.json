@@ -1,0 +1,110 @@
+{
+  "id": "angus-julia-stone-karaoke-bar",
+  "number": "133",
+  "publishedAt": "2026-10-02",
+  "artist": {
+    "name": "ANGUS & JULIA STONE",
+    "origin": "Sydney, Australie"
+  },
+  "featuredAlbum": {
+    "id": "karaoke-bar",
+    "title": "Karaoke Bar",
+    "year": 2026,
+    "label": "Virgin Music",
+    "genres": [
+      "Indie Folk",
+      "Folk",
+      "Singer-Songwriter"
+    ],
+    "trackCount": 10,
+    "type": "Album",
+    "coverUrl": "/covers/angus-julia-stone-karaoke-bar.jpg"
+  },
+  "meta": "2026 · Virgin Music · Indie Folk · Folk · Australie",
+  "editorial": [
+    "Le nouvel album d’Angus & Julia Stone est paru il y a tout juste un mois, le 4 septembre, et il est né d’une soirée. Sur l’île grecque d’Hydra, à quelques pas de l’ancienne maison de Leonard Cohen, le frère et la sœur poussent la porte d’un bar à karaoké et se retrouvent à chanter avec une salle d’inconnus. Le titre était trouvé, l’humeur aussi. Karaoke Bar a ensuite pris forme entre la Grèce, la France et l’Australie, au fil des rencontres et des endroits traversés, et le duo l’a produit lui-même.",
+    "Dix chansons, trente-cinq minutes, et le sentiment d’un duo qui s’autorise enfin à s’amuser. Les voix des Stone se croisent toujours comme personne, l’une rauque et nonchalante, l’autre fragile et haut perchée, mais le son a pris de l’air. Thomas Bartlett, pianiste et producteur new-yorkais, y ajoute ses claviers, du Mellotron, quelques synthés discrets. « Monroe » et « Celestial Bodies » ont la douceur qu’on leur connaît, « Take Me Back to Japan » et « Mexico City » prolongent le carnet de voyage, et « The Cherry Farm », dernier extrait avant la sortie, file en moins de trois minutes.",
+    "Le disque est entré directement à la première place des ventes en Australie. Il ne bouleverse pas la recette, et c’est précisément ce qu’on attend de lui : Julia le décrit comme une célébration de la joie que procure la musique, celle avec laquelle on a tous grandi. Deux ans après Cape Forestier, Karaoke Bar sonne comme un disque de vacances qui se prolongent. Pour terminer la semaine, difficile de trouver plus doux."
+  ],
+  "video": {
+    "youtubeId": "QAFqzxnFZyE",
+    "title": "Karaoke Bar — Angus & Julia Stone · Karaoke Bar, 2026"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/7DLnvFVKBQog7Iu0fZgrvc",
+    "appleMusic": "https://music.apple.com/fr/album/karaoke-bar/1895238549",
+    "deezer": "https://www.deezer.com/fr/album/967827501",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nyLYmvmSZSs5RMHVVM0ebYBHv_N8soNrM"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a23069900/Angus-et-Julia-Stone-Karaoke-Bar-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a23069907/Angus-et-Julia-Stone-Karaoke-Bar-Exclusivite-Fnac-Vinyle-Or-Transparent-Marbre-Fume-Vinyle-album",
+      "format": "Vinyle Or Transparent Marbré Fumé",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a23069898/Angus-et-Julia-Stone-Karaoke-Bar-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B0GZ89VK6L/",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B0GZ86BQBR/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "karaoke-bar",
+      "title": "Karaoke Bar",
+      "year": 2026,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "/covers/angus-julia-stone-karaoke-bar.jpg"
+    },
+    {
+      "id": "cape-forestier",
+      "title": "Cape Forestier",
+      "year": 2024,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/79fd317b2118e2313f93276356b34027/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "snow",
+      "title": "Snow",
+      "year": 2017,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/6f618b9fb51044a953c2eeeeb17273cd/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "down-the-way",
+      "title": "Down The Way",
+      "year": 2010,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/98b708b29c6fd4c48eaf07d666a8551d/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

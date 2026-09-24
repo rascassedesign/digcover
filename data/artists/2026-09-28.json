@@ -1,0 +1,103 @@
+{
+  "id": "the-who-quadrophenia",
+  "number": "129",
+  "publishedAt": "2026-09-28",
+  "artist": {
+    "name": "THE WHO",
+    "origin": "Londres, Angleterre"
+  },
+  "featuredAlbum": {
+    "id": "quadrophenia",
+    "title": "Quadrophenia",
+    "year": 1973,
+    "label": "Track Records",
+    "genres": [
+      "Rock",
+      "Hard Rock",
+      "Art Rock"
+    ],
+    "trackCount": 17,
+    "type": "Album",
+    "coverUrl": "/covers/the-who-quadrophenia.jpg"
+  },
+  "meta": "1973 · Track Records · Rock · Hard Rock · Angleterre",
+  "editorial": [
+    "Quadrophenia est le seul album des Who écrit de bout en bout par Pete Townshend, et c’est le second opéra rock du groupe après Tommy en 1969. Paru à l’automne 1973, c’est un double album de dix-sept titres, produit par le groupe lui-même et enregistré en partie à Ramport, le studio que les Who sont en train d’aménager à Battersea. Il raconte l’histoire de Jimmy, jeune mod londonien de 1965, dont la personnalité se fracture en quatre. Chacune de ces facettes correspond à un membre du groupe et possède son propre thème musical, qui revient d’un morceau à l’autre.",
+    "Le récit tient en peu de choses : un garçon mal dans sa peau, des parents qui ne comprennent rien, des amphétamines, les bagarres sur la plage de Brighton, et ce train de « 5:15 » qui le ramène vers la mer. Musicalement, c’est l’album le plus ambitieux du groupe, chargé de synthétiseurs, de cuivres joués par John Entwistle et de bruits de vagues. Roger Daltrey y chante comme jamais, jusqu’à ce « Love, Reign O’er Me » final où Jimmy, seul sur un rocher sous la pluie, trouve enfin quelque chose qui ressemble à la paix. Keith Moon, lui, prend le micro le temps de « Bell Boy ».",
+    "À sa sortie, Quadrophenia se classe deuxième des ventes au Royaume-Uni comme aux États-Unis, mais le groupe peine à le jouer sur scène, les bandes préenregistrées déraillant soir après soir. C’est le cinéma qui lui offre une seconde vie : en 1979, le film de Franc Roddam, avec Phil Daniels et Sting, relance tout un revival mod en Angleterre. Cinquante-trois ans après, le disque se tient toujours droit. Il reste la plus belle chose que Townshend ait écrite sur l’adolescence, cet âge où l’on appartient à une bande avant de savoir qui l’on est."
+  ],
+  "video": {
+    "youtubeId": "XC9YY1urT8Q",
+    "title": "5:15 — The Who · Quadrophenia, 1973"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/4xPW8u40tJ61BJpchvlz5x",
+    "appleMusic": "https://music.apple.com/fr/album/quadrophenia-remastered/1442456941",
+    "deezer": "https://www.deezer.com/fr/album/124343",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nppBsbgaHseVYUoU6qUa5-djytmwOqScY"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a3793588/The-Who-Quadrophenia-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a1187280/The-Who-Quadrophenia-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B0CLVR5TH1/",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B000007620/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "who-are-you",
+      "title": "Who Are You",
+      "year": 1978,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/2eb414b06ebd9f8e8b397578283fb165/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "quadrophenia",
+      "title": "Quadrophenia",
+      "year": 1973,
+      "type": "Album",
+      "trackCount": 17,
+      "coverUrl": "/covers/the-who-quadrophenia.jpg"
+    },
+    {
+      "id": "whos-next",
+      "title": "Who's Next",
+      "year": 1971,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/6f1154d784ba6eb8540a6a9be716ce79/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "tommy",
+      "title": "Tommy",
+      "year": 1969,
+      "type": "Album",
+      "trackCount": 24,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/93f4ab6d46cc9d96afa34c871123f69d/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

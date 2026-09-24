@@ -1,0 +1,73 @@
+{
+  "id": "bush-babees-gravity",
+  "number": "136",
+  "publishedAt": "2026-10-07",
+  "artist": {
+    "name": "BUSH BABEES",
+    "origin": "Brooklyn, États-Unis"
+  },
+  "featuredAlbum": {
+    "id": "gravity",
+    "title": "Gravity",
+    "year": 1996,
+    "label": "Warner Bros. Records",
+    "genres": [
+      "Hip-Hop",
+      "Jazz Rap",
+      "Boom Bap"
+    ],
+    "trackCount": 15,
+    "type": "Album",
+    "coverUrl": "/covers/bush-babees-gravity.jpg"
+  },
+  "meta": "1996 · Warner Bros. Records · Hip-Hop · Jazz Rap · États-Unis",
+  "editorial": [
+    "Gravity aura trente ans la semaine prochaine : il sort le 15 octobre 1996 chez Warner Bros. Da Bush Babees, ce sont trois MC de Brooklyn nourris de culture jamaïcaine, Mr. Man, Y-Tee et Kaos, proches de la galaxie Native Tongues de A Tribe Called Quest et De La Soul. Leur premier album, Ambushed, paru en 1994, était nerveux, un peu brouillon, porté par une énergie de cour de récréation. Pour le deuxième, enregistré aux Battery Studios de New York, le trio prend son temps et s’entoure de ce que la ville compte de mieux.",
+    "La liste des producteurs ressemble à un annuaire du bon goût new-yorkais. The Ummah, le collectif de Q-Tip, Ali Shaheed Muhammad et Jay Dee, signe le morceau-titre et « 3 MC’s », Posdnuos de De La Soul produit « The Love Song », Rahzel, le beatboxer des Roots, s’occupe de « The Beat Down », et Mr. Man se charge d’une bonne partie du reste. Le son est plus posé, plus soul, avec les accents dancehall de « In Meh Dreams » en prime. Et sur trois titres apparaît un jeune rappeur de Brooklyn encore inconnu du grand public : Mos Def, qu’on retrouvait ici même la semaine dernière avec Black Star.",
+    "« The Love Song » grimpe timidement dans les classements rap, la critique salue le disque, mais Warner rend sa liberté au groupe une fois la promotion terminée. Gravity rejoint alors la catégorie des classiques cachés, ceux qu’on se transmet entre amateurs, jusqu’à une réédition en 2021 qui l’a remis en circulation. Il n’a rien perdu de sa fraîcheur : quinze titres de hip-hop new-yorkais de l’âge d’or, chaleureux et joueurs, portés par trois voix qui ont trouvé leur place. Un disque qui mérite bien mieux qu’une note de bas de page."
+  ],
+  "video": {
+    "youtubeId": "QMfyWJn70cE",
+    "title": "The Love Song (feat. Mos Def) — Da Bush Babees · Gravity, 1996"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/4gbSDXsENOjJAn5geXjKLr",
+    "appleMusic": "https://music.apple.com/fr/album/gravity/1672766270",
+    "deezer": "https://www.deezer.com/fr/album/319327577",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_llRykATK8YVEFUhBHaHNENvJ2zoCnn1vo"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a9089202/Da-Bush-Babees-Gravity-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B000024RRC/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "gravity",
+      "title": "Gravity",
+      "year": 1996,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "/covers/bush-babees-gravity.jpg"
+    },
+    {
+      "id": "ambushed",
+      "title": "Ambushed",
+      "year": 1994,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/030c74fbdeb457380b12e5ec66f50ffc/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

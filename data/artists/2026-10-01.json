@@ -1,0 +1,103 @@
+{
+  "id": "akhenaton-meteque-et-mat",
+  "number": "132",
+  "publishedAt": "2026-10-01",
+  "artist": {
+    "name": "AKHENATON",
+    "origin": "Marseille, France"
+  },
+  "featuredAlbum": {
+    "id": "meteque-et-mat",
+    "title": "Métèque et Mat",
+    "year": 1995,
+    "label": "Delabel",
+    "genres": [
+      "Rap français",
+      "Rap marseillais",
+      "Boom Bap"
+    ],
+    "trackCount": 20,
+    "type": "Album",
+    "coverUrl": "/covers/akhenaton-meteque-et-mat.jpg"
+  },
+  "meta": "1995 · Delabel · Rap français · Rap marseillais · France",
+  "editorial": [
+    "En 1995, IAM est au sommet, et Philippe Fragione, alias Akhenaton, se sent un peu à l’étroit dans le groupe qu’il a fondé. Il s’offre une échappée en solo : Métèque et Mat sort le 20 octobre 1995 chez Delabel, deux ans après Ombre est lumière. Le disque est coproduit avec l’ingénieur américain Nicholas Sansano et enregistré entre Plan-de-Cuques, aux portes de Marseille, Naples et New York. Trois villes qui résument assez bien le propos, celui d’un fils de famille napolitaine né à Marseille, qui a trouvé le hip-hop en Amérique.",
+    "C’est un album profondément autobiographique. Akhenaton y raconte l’enfance marseillaise, la famille, l’Italie des origines, la foi, les petites humiliations et les grandes fiertés, avec cette écriture précise et imagée qui fait déjà sa réputation. De « La Cosca » à « J’ai pas de face », en passant par « Je ne suis pas à plaindre », « Prométhée » ou « Un brin de haine », il montre toute l’étendue de sa palette. « Bad Boys de Marseille » devient un hymne, surtout dans sa deuxième partie avec la Fonky Family et Shurik’n. Aux platines, Cut Killer.",
+    "Les premiers extraits peinent, puis le remix de « Bad Boys de Marseille » relance tout, et le disque est certifié or huit mois après sa sortie. Il a depuis pris sa vraie place, celle de l’un des plus grands albums solo du rap français, qui a montré qu’un rappeur pouvait parler de lui sans rien lâcher de son exigence. Longtemps introuvable en vinyle, il a été réédité en triple album, puis en édition deluxe cette année. Trente et un ans plus tard, il n’a pas pris une ride."
+  ],
+  "video": {
+    "youtubeId": "_AKNGgSmhoY",
+    "title": "Bad Boys de Marseille — Akhenaton · Métèque et Mat, 1995"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/04kGW4EKUSReZZerYRfFxK",
+    "appleMusic": "https://music.apple.com/fr/album/m%C3%A9t%C3%A8que-et-mat/697330972",
+    "deezer": "https://www.deezer.com/fr/album/302028",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_k8m18yp5lRIXgwLz2tMUqhyTjKCQU67bU"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a10127389/Akhenaton-Meteque-et-Mat-Edition-Limitee-Vinyle-album",
+      "format": "Triple Vinyle Édition Limitée",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a708827/Akhenaton-Meteque-et-mat-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B01LZYAVC4/",
+      "format": "Triple Vinyle",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B00000G5YY/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "je-suis-en-vie",
+      "title": "Je suis en vie",
+      "year": 2014,
+      "type": "Album",
+      "trackCount": 19,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/4e5b861d873515a1a6cce5f12ca3a64a/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "soldats-de-fortune",
+      "title": "Soldats de Fortune",
+      "year": 2006,
+      "type": "Album",
+      "trackCount": 23,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/5082318f5f464c40034292d32841a10d/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "sol-invictus",
+      "title": "Sol Invictus",
+      "year": 2001,
+      "type": "Album",
+      "trackCount": 19,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/dd331123e326b7c9d20f71644e230898/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "meteque-et-mat",
+      "title": "Métèque et Mat",
+      "year": 1995,
+      "type": "Album",
+      "trackCount": 20,
+      "coverUrl": "/covers/akhenaton-meteque-et-mat.jpg"
+    }
+  ]
+}
