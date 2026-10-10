@@ -1,0 +1,88 @@
+{
+  "id": "the-mystery-lights-the-mystery-lights",
+  "number": "143",
+  "publishedAt": "2026-10-16",
+  "artist": {
+    "name": "THE MYSTERY LIGHTS",
+    "origin": "New York, États-Unis"
+  },
+  "featuredAlbum": {
+    "id": "the-mystery-lights",
+    "title": "The Mystery Lights",
+    "year": 2016,
+    "label": "Wick Records",
+    "genres": [
+      "Garage Rock",
+      "Psychedelic Rock",
+      "Rock"
+    ],
+    "trackCount": 11,
+    "type": "Album",
+    "coverUrl": "/covers/the-mystery-lights-the-mystery-lights.jpg"
+  },
+  "meta": "2016 · Wick Records · Garage Rock · Psychedelic Rock · États-Unis",
+  "editorial": [
+    "Mike Brandon et L.A. Solano jouent ensemble depuis l’adolescence, sous toutes sortes de noms et de formations. Tout a commencé à Salinas, en Californie, avec un groupe punk de lycée. Un jour, ils plient bagage pour New York, s’installent dans un sous-sol du Queens et se font un public un concert après l’autre, dans les bars de Brooklyn et du Bowery. Quand Daptone, la maison new-yorkaise de la soul à l’ancienne, lance une branche consacrée au rock, Wick Records, les Mystery Lights en deviennent la toute première signature.",
+    "Leur premier album paraît le 24 juin 2016. Il a été enregistré en une semaine, en live, sur un magnétophone analogique à bande deux pouces, au House of Soul, le studio de Daptone à Bushwick, avec Wayne Gordon, cofondateur de Wick, à la coproduction. L’idée était de capter l’énergie de la scène, et ça s’entend : orgue en avant, guitares saturées, chant qui part dans les aigus, comme une compilation Pebbles retrouvée au fond d’un carton. « Follow Me Home » donne le ton, « Too Many Girls » mord, « Without Me » fait penser à Television, et « Flowers in My Hair, Demons in My Head » ondule comme un sortilège.",
+    "Le NME parle de l’un des meilleurs groupes garage de New York, et une critique anglaise résume l’affaire d’une formule : ce n’est pas du plagiat, c’est de la dévotion. Le groupe a depuis publié Too Much Tension! en 2019 et Purgatory en 2024. Pour finir la semaine, un écho à la fiche de Charles Bradley, jeudi dernier : même maison, Daptone, même amour du son d’époque gravé sur bande, mais cette fois avec des amplis qui crachent. Un disque à jouer fort, de préférence un vendredi soir."
+  ],
+  "video": {
+    "youtubeId": "3Gum5k7T3yQ",
+    "title": "Follow Me Home — The Mystery Lights · The Mystery Lights, 2016"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/0jy04CshSX4BLexDNuuwE5",
+    "appleMusic": "https://music.apple.com/fr/album/the-mystery-lights/1488031406",
+    "deezer": "https://www.deezer.com/fr/album/119123002",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_niGjnj6Lvn9xagHAwIcH8uQ52gD7uo_EY"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a9718473/The-Mystery-Lights-The-Mystery-Lights-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a9718435/The-Mystery-Lights-The-Mystery-Lights-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B01DTMRZXU/",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "purgatory",
+      "title": "Purgatory",
+      "year": 2024,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/21e4915fbaabac787b0179028ff94a7d/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "too-much-tension",
+      "title": "Too Much Tension!",
+      "year": 2019,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/cb898f55eedf73fb9c3df7871f7b8661/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "the-mystery-lights",
+      "title": "The Mystery Lights",
+      "year": 2016,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "/covers/the-mystery-lights-the-mystery-lights.jpg"
+    }
+  ]
+}

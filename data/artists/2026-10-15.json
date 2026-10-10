@@ -1,0 +1,104 @@
+{
+  "id": "jeru-the-damaja-wrath-of-the-math",
+  "number": "142",
+  "publishedAt": "2026-10-15",
+  "artist": {
+    "name": "JERU THE DAMAJA",
+    "origin": "Brooklyn, États-Unis"
+  },
+  "featuredAlbum": {
+    "id": "wrath-of-the-math",
+    "title": "Wrath of the Math",
+    "year": 1996,
+    "label": "Payday / FFRR",
+    "genres": [
+      "Hip-Hop",
+      "Boom Bap",
+      "East Coast Hip Hop"
+    ],
+    "trackCount": 15,
+    "type": "Album",
+    "coverUrl": "/covers/jeru-the-damaja-wrath-of-the-math.jpg"
+  },
+  "meta": "1996 · Payday / FFRR · Hip-Hop · Boom Bap · États-Unis",
+  "editorial": [
+    "Il y a trente ans jour pour jour, le 15 octobre 1996, Jeru the Damaja publiait Wrath of the Math. Kendrick Jeru Davis a grandi à East New York, à Brooklyn, et il est entré dans le rap par la porte de Gang Starr : on l’entend en 1992 sur « I’m the Man », aux côtés de Guru et de Lil Dap. Deux ans plus tard, The Sun Rises in the East, entièrement produit par DJ Premier, impose sa voix grave de prêcheur de rue et des textes nourris d’afrocentrisme, de défense de la culture hip-hop et de méfiance envers l’argent roi.",
+    "Le deuxième album reprend la même équipe. Enregistré aux studios D&D de New York entre août 1995 et juin 1996, il est de nouveau produit de bout en bout par Premier, avec Guru à la production exécutive. Jeru l’écrit en toutes lettres dans le livret : ce disque a été créé pour « sauver le hip-hop ». « One Day » raconte l’enlèvement d’un personnage nommé Hip-Hop par Puff Daddy et l’écurie Bad Boy, « Ya Playin’ Yaself », premier single, renvoie les faux durs à leur propre jeu, et plusieurs titres prolongent ceux du premier disque, comme « Revenge of the Prophet (Part 5) ». Afu-Ra, seul invité, vient sur « Physical Stamina ».",
+    "L’album se classe troisième des ventes hip-hop et R&B aux États-Unis, et « One Day » prend la tête du classement rap. La critique est bonne, un ton en dessous de l’enthousiasme qui avait accueilli le premier disque, même si certains, comme AllMusic, le placent à la même hauteur. Après lui, Jeru se brouille avec Premier et Guru et ne revient qu’en 1999 avec Heroz4hire, sur son propre label. Wrath of the Math reste ainsi sa dernière collaboration avec l’homme des platines de Gang Starr, et l’un des plus purs exemples de ce que Premier savait faire : des boucles sèches, une caisse claire qui claque, et toute la place pour la voix."
+  ],
+  "video": {
+    "youtubeId": "QC4go-6qkHw",
+    "title": "Ya Playin’ Yaself — Jeru the Damaja · Wrath of the Math, 1996"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/7jvuTIYaBYqbTcLZZwXlIZ",
+    "appleMusic": "https://music.apple.com/fr/album/wrath-of-the-math/1443468931",
+    "deezer": "https://www.deezer.com/fr/album/248407",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nOh5RUXlMgV8Nv6NFtBhTAZ3vraHfO-oU"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a1824885/Jeru-the-Damaja-Wrath-Of-the-Math-Vinyle-album",
+      "format": "Vinyle Import",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a1692397/Jeru-the-Damaja-Wrath-of-the-math-explicit-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B000003R6G/",
+      "format": "Vinyle",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "still-rising",
+      "title": "Still Rising",
+      "year": 2007,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/21cb2dab2d503ce1abf21251ad591e6b/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "divine-design",
+      "title": "Divine Design",
+      "year": 2003,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/c036bb8a8c043061beb32d122d38c514/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "heroz4hire",
+      "title": "Heroz4hire",
+      "year": 1999,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/83e7765858920c817f0da607a304725d/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "wrath-of-the-math",
+      "title": "Wrath of the Math",
+      "year": 1996,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "/covers/jeru-the-damaja-wrath-of-the-math.jpg"
+    },
+    {
+      "id": "the-sun-rises-in-the-east",
+      "title": "The Sun Rises in the East",
+      "year": 1994,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/023c27e0f071b8f25b744c605de9e65b/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

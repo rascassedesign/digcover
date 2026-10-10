@@ -1,0 +1,103 @@
+{
+  "id": "my-chemical-romance-the-black-parade",
+  "number": "148",
+  "publishedAt": "2026-10-23",
+  "artist": {
+    "name": "MY CHEMICAL ROMANCE",
+    "origin": "Newark, États-Unis"
+  },
+  "featuredAlbum": {
+    "id": "the-black-parade",
+    "title": "The Black Parade",
+    "year": 2006,
+    "label": "Reprise Records",
+    "genres": [
+      "Emo",
+      "Alternative Rock",
+      "Pop Punk"
+    ],
+    "trackCount": 14,
+    "type": "Album",
+    "coverUrl": "/covers/my-chemical-romance-the-black-parade.jpg"
+  },
+  "meta": "2006 · Reprise Records · Emo · Alternative Rock · États-Unis",
+  "editorial": [
+    "Il y a vingt ans jour pour jour, le 23 octobre 2006, My Chemical Romance publiait The Black Parade en Europe, la veille de sa sortie américaine. Le groupe de Newark, dans le New Jersey, est alors porté par le succès de Three Cheers for Sweet Revenge, et son chanteur, Gerard Way, veut voir plus grand. Avec le producteur Rob Cavallo, celui de Dookie de Green Day, les cinq musiciens s’enferment d’avril à août 2006 au Paramour Mansion, une vieille demeure de Los Angeles où ils disent avoir eu peur pendant tout l’enregistrement.",
+    "The Black Parade est un album concept. Il suit le Patient, un homme qui meurt d’un cancer, et à qui la mort apparaît sous la forme d’un souvenir d’enfance : son père l’emmenant voir passer une fanfare. Le disque passe du punk à l’opéra rock, regarde du côté de Queen et de Bowie sans s’en cacher, et Liza Minnelli vient chanter sur « Mama ». « Welcome to the Black Parade », marche lente qui explose en hymne, devient le premier numéro un du groupe au Royaume-Uni, suivi de « Famous Last Words », « I Don’t Love You » et « Teenagers ».",
+    "L’album démarre deuxième aux États-Unis comme au Royaume-Uni, et finit quadruple disque de platine dans les deux pays. Le groupe part en tournée sous l’identité de la Black Parade, en uniformes noirs, avant de la mettre au placard en 2007. Vingt ans plus tard, il est souvent cité comme l’album emblématique de l’emo. My Chemical Romance, reformé, le rejoue en entier sur scène depuis 2025, et une édition anniversaire paraît aujourd’hui même. Pour refermer ces deux semaines, impossible de résister à une fanfare."
+  ],
+  "video": {
+    "youtubeId": "RRKJiM9Njr8",
+    "title": "Welcome to the Black Parade — My Chemical Romance · The Black Parade, 2006"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/0FZK97MXMm5mUQ8mtudjuK",
+    "appleMusic": "https://music.apple.com/fr/album/the-black-parade/1156310650",
+    "deezer": "https://www.deezer.com/fr/album/81797",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_ne_HSgrl27Y4cfAMhcSWjbVhcafZ4wmMA"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a7974084/My-Chemical-Romance-The-Black-Parade-Vinyle-album",
+      "format": "Double Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a23623969/My-Chemical-Romance-The-Black-Parade-20th-Anniversary-Edition-Deluxe-Vinyle-album",
+      "format": "Vinyle 20th Anniversary Deluxe",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B0HCWNCF1L/",
+      "format": "Vinyle",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B0HJ9C7Q6D/",
+      "format": "Vinyle 20th Anniversary Deluxe",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "danger-days-the-true-lives-of-the-fabulous-killjoys",
+      "title": "Danger Days: The True Lives of the Fabulous Killjoys",
+      "year": 2010,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/44c297f29b81346405a58f4e2df19f14/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "the-black-parade",
+      "title": "The Black Parade",
+      "year": 2006,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "/covers/my-chemical-romance-the-black-parade.jpg"
+    },
+    {
+      "id": "three-cheers-for-sweet-revenge",
+      "title": "Three Cheers for Sweet Revenge",
+      "year": 2004,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/9aba5b418a311c0bbefb6699ebc58a4b/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "i-brought-you-my-bullets-you-brought-me-your-love",
+      "title": "I Brought You My Bullets, You Brought Me Your Love",
+      "year": 2002,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/dafef999cc8651971389bedbd79643b8/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "dinaa-finalement",
+  "number": "145",
+  "publishedAt": "2026-10-20",
+  "artist": {
+    "name": "DINAA",
+    "origin": "Toulouse, France"
+  },
+  "featuredAlbum": {
+    "id": "finalement",
+    "title": "Finalement",
+    "year": 2025,
+    "label": "Palace Prod / DEMAIN",
+    "genres": [
+      "Chanson française",
+      "Folk",
+      "Neo-Soul"
+    ],
+    "trackCount": 8,
+    "type": "EP",
+    "coverUrl": "/covers/dinaa-finalement.jpg"
+  },
+  "meta": "2025 · Palace Prod / DEMAIN · Chanson française · Folk · France",
+  "editorial": [
+    "Dinaa s’est fait connaître encore lycéenne, avec une reprise d’« Angoisse » du rappeur A2H filmée et postée sur les réseaux. A2H lui écrit pour la féliciter. Le lendemain, elle publie une chanson à elle, « Lisa », et il lui demande si elle écrit. Quelques mois plus tard, elle lui fait écouter ses morceaux sur son canapé, puis signe chez Palace Prod, son label, en licence avec DEMAIN, la branche française de [PIAS]. Toulousaine d’adoption, elle a étudié les langues, et c’est son beau-père qui lui a appris la guitare manouche. Son nom de scène tient à un détail : une Dina existait déjà sur Instagram, elle a ajouté un a.",
+    "Après un premier EP, Les rêves qui parlent, en 2024, et des premières parties de Texas et de Big Flo et Oli, Finalement paraît le 21 février 2025. Elle a alors vingt ans. Huit titres entre folk et neo-soul, écrits à fleur de peau, où se croisent des mondes en guerre et des guerres intimes. « Que reste-t-il ? » est née en faisant défiler les sites d’actualité, « Mi Fa seul » raconte les nuits agitées, et la chanson-titre, sortie dès septembre 2024, referme un chapitre pour en ouvrir un autre. Son écriture est patiente : elle part souvent d’un texte posé sur une instru, qu’elle laisse reposer des mois avant d’en faire une chanson.",
+    "Le disque l’emmène sur scène, jusqu’à trois soirs de suite à la Boule Noire, à Paris, en septembre 2025, et « Que reste-t-il ? » dépasse les sept cent mille vues sur YouTube. Dinaa a depuis sorti un premier album, Maison vide, en mars 2026. Finalement reste le moment où sa voix s’est trouvée : une écriture simple et précise, une guitare, et cette manière de chanter les choses lourdes sans jamais les alourdir. Une respiration au milieu d’une semaine qui va du metal de l’Iowa au rap de Queensbridge."
+  ],
+  "video": {
+    "youtubeId": "QsUh8UQcyxE",
+    "title": "Finalement — Dinaa · Finalement, 2025"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/3SpWrOOExhDCRlUYhRzf2j",
+    "appleMusic": "https://music.apple.com/fr/album/finalement/1793394254",
+    "deezer": "https://www.deezer.com/fr/album/705043621",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kcLp_AedH0ftjp7YtUKVQPgUzoLy0mPNM"
+  },
+  "vinyl": [],
+  "discography": [
+    {
+      "id": "maison-vide",
+      "title": "Maison vide",
+      "year": 2026,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/29403d954930cdf18e97320dddf7fc1f/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "finalement",
+      "title": "Finalement",
+      "year": 2025,
+      "type": "EP",
+      "trackCount": 8,
+      "coverUrl": "/covers/dinaa-finalement.jpg"
+    },
+    {
+      "id": "les-reves-qui-parlent",
+      "title": "Les rêves qui parlent",
+      "year": 2024,
+      "type": "EP",
+      "trackCount": 8,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/c66ce38c74be6abb1df8d838b83369ea/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

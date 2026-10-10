@@ -1,0 +1,112 @@
+{
+  "id": "passi-les-tentations",
+  "number": "141",
+  "publishedAt": "2026-10-14",
+  "artist": {
+    "name": "PASSI",
+    "origin": "Sarcelles, France"
+  },
+  "featuredAlbum": {
+    "id": "les-tentations",
+    "title": "Les Tentations",
+    "year": 1997,
+    "label": "V2 Music",
+    "genres": [
+      "Rap français",
+      "Boom Bap",
+      "Hip-Hop"
+    ],
+    "trackCount": 18,
+    "type": "Album",
+    "coverUrl": "/covers/passi-les-tentations.jpg"
+  },
+  "meta": "1997 · V2 Music · Rap français · Boom Bap · France",
+  "editorial": [
+    "Passi Balende est né à Brazzaville en 1972 et a grandi à Sarcelles, dans le Val-d’Oise. Au début des années quatre-vingt-dix, il fonde avec Stomy Bugsy le Ministère A.M.E.R., groupe au verbe dur dont les deux albums, Pourquoi tant de haine en 1992 et 95200 en 1994, font une référence du rap de banlieue. Autour d’eux se forme le Secteur Ä, collectif où l’on croise Doc Gynéco, les Neg’ Marrons ou Ärsenik, passés ici il y a quelques semaines. Après 95200, Stomy et Passi partent chacun de leur côté, et Passi signe chez V2, le label de Thierry Chassagne.",
+    "Les Tentations paraît en octobre 1997. La moitié des productions est signée Akhenaton, dont Métèque et Mat est passé ici il y a deux semaines : le Marseillais d’IAM partage aussi le micro avec Passi sur « Le sang de la vendetta » et « Le monde est à moi ». Stomy Bugsy vient sur « Le keur sambo », Hamed Daye sur « Sur la selette », et Bisso Na Bisso, le collectif des rappeurs d’origine congolaise que Passi va réunir, sur « L’union ». Le premier single, « Je zappe et je mate », regarde le monde à travers l’écran de télévision et dénonce l’indifférence devant les drames qui défilent entre deux programmes.",
+    "Le succès est immédiat et sans précédent : Les Tentations devient le premier album de rap français certifié disque d’or en trois semaines, et dépasse le demi-million d’exemplaires avant la fin de 1998. Dans la foulée, Passi fonde son label, Issap Productions, et emmène Bisso Na Bisso jusqu’à l’album. Vingt ans plus tard, une édition anniversaire en double vinyle est venue rappeler la place du disque. Écouté aujourd’hui, il garde cette gravité un peu théâtrale qui faisait la singularité de Passi : une voix posée, des textes qui pèsent chaque mot, et la banlieue nord racontée sans fard."
+  ],
+  "video": {
+    "youtubeId": "HRLmmnzbQHE",
+    "title": "Je zappe et je mate — Passi · Les Tentations, 1997"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/6x6I3lpDmXNGGrRdaC6ktL",
+    "appleMusic": "https://music.apple.com/fr/album/les-tentations/1664149384",
+    "deezer": "https://www.deezer.com/fr/album/396148677",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kb1yFR9GwhGHDBJlqQxAwogUV6tAGflAg"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a11103720/Passi-Tentations-20eme-anniversaires-Double-Vinyle-Vinyle-album",
+      "format": "Double Vinyle 20e Anniversaire",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a715568/Passi-Les-tentations-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B076BK63YX/",
+      "format": "Vinyle",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "bande-originale",
+      "title": "Bande originale",
+      "year": 2026,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/d5afcd8134fcbfe196a5fbe08e101abc/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "ere-afrique",
+      "title": "Ère Afrique",
+      "year": 2013,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/2b3dc6288d81c26b802b551a3f15682b/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "evolution",
+      "title": "Évolution",
+      "year": 2007,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/197216bacaf2b28450f67348efcbdfea/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "odyssee",
+      "title": "Odyssée",
+      "year": 2004,
+      "type": "Album",
+      "trackCount": 17,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/ac56ad13a913fb45451e448866c884e9/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "genese",
+      "title": "Genèse",
+      "year": 2000,
+      "type": "Album",
+      "trackCount": 17,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/831160fd0c3a52ff6a664ecdb17e3df0/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "les-tentations",
+      "title": "Les Tentations",
+      "year": 1997,
+      "type": "Album",
+      "trackCount": 18,
+      "coverUrl": "/covers/passi-les-tentations.jpg"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "nas-illmatic",
+  "number": "146",
+  "publishedAt": "2026-10-21",
+  "artist": {
+    "name": "NAS",
+    "origin": "Queens, États-Unis"
+  },
+  "featuredAlbum": {
+    "id": "illmatic",
+    "title": "Illmatic",
+    "year": 1994,
+    "label": "Columbia",
+    "genres": [
+      "Hip-Hop",
+      "Boom Bap",
+      "East Coast Hip Hop"
+    ],
+    "trackCount": 10,
+    "type": "Album",
+    "coverUrl": "/covers/nas-illmatic.jpg"
+  },
+  "meta": "1994 · Columbia · Hip-Hop · Boom Bap · États-Unis",
+  "editorial": [
+    "Nasir Jones a grandi dans les Queensbridge Houses, le plus grand ensemble de logements sociaux d’Amérique du Nord, dans le Queens. Fils du cornettiste de jazz Olu Dara, il commence à écrire les textes de son premier album à seize ans. On l’entend pour la première fois en 1991, sur le couplet d’ouverture de « Live at the Barbeque », du groupe Main Source. MC Serch, ancien de 3rd Bass, devient son producteur exécutif et l’aide à signer chez Columbia.",
+    "Illmatic paraît le 19 avril 1994. Nas a vingt ans. Dix titres, moins de quarante minutes, et une liste de producteurs qui ressemble à une équipe de rêve : DJ Premier, Large Professor, Pete Rock, Q-Tip et L.E.S. Premier, croisé la semaine dernière aux manettes de Jeru the Damaja, signe « N.Y. State of Mind », « Memory Lane » et « Represent ». Sur « Life’s a Bitch », AZ pose un couplet et Olu Dara joue un solo de cornet pour son fils. The Source lui accorde la note maximale, cinq micros, une rareté pour un premier album.",
+    "Pourtant les ventes démarrent lentement : douzième du Billboard 200 à sa sortie, l’album n’est certifié disque d’or qu’en 1996, et platine qu’en 2001. Il a fallu du temps pour que tout le monde comprenne. Illmatic est aujourd’hui cité parmi les plus grands albums de l’histoire du rap, et la Bibliothèque du Congrès l’a fait entrer en 2021 dans son registre national des enregistrements. En décembre 2025, Nas a enfin sorti Light-Years, l’album entièrement produit par Premier dont il parlait depuis 2006. Trente ans plus tard, la boucle est bouclée."
+  ],
+  "video": {
+    "youtubeId": "e5PnuIRnJW8",
+    "title": "The World Is Yours — Nas · Illmatic, 1994"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/3kEtdS2pH6hKcMU9Wioob1",
+    "appleMusic": "https://music.apple.com/fr/album/illmatic/662324135",
+    "deezer": "https://www.deezer.com/fr/album/7654077",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lh8IDILeWhuRYlJsOS7DndJkBr94VnKcY"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a3089065/Nas-Illmatic-Vinyle-album",
+      "format": "Vinyle Import",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a6989529/Nas-Illmatic-XX-Vinyle-album",
+      "format": "Vinyle Illmatic XX",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B00004WX4X/",
+      "format": "Vinyle",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "king-s-disease-iii",
+      "title": "King's Disease III",
+      "year": 2022,
+      "type": "Album",
+      "trackCount": 17,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/1367ce7747d230251ba89d5b8d12ebe1/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "king-s-disease",
+      "title": "King's Disease",
+      "year": 2020,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/d51b4a6193f13ea9e8f67f45f943990a/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "life-is-good",
+      "title": "Life Is Good",
+      "year": 2012,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/5a3c48143d14e2f7f60ad13b0ca200f7/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "hip-hop-is-dead",
+      "title": "Hip Hop Is Dead",
+      "year": 2006,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/5fbd95b73afe9965d4f3109223831dd3/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "god-s-son",
+      "title": "God's Son",
+      "year": 2002,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/d4aec7d513fc0faf13628b0c5a4d4a43/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "stillmatic",
+      "title": "Stillmatic",
+      "year": 2001,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/b9ed773b84b829f75470b4c260c95de4/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "it-was-written",
+      "title": "It Was Written",
+      "year": 1996,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/dc3d7abec463b08a0586c4e5680e2c22/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "illmatic",
+      "title": "Illmatic",
+      "year": 1994,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "/covers/nas-illmatic.jpg"
+    }
+  ]
+}

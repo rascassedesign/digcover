@@ -1,0 +1,120 @@
+{
+  "id": "odezenne-ovni",
+  "number": "139",
+  "publishedAt": "2026-10-12",
+  "artist": {
+    "name": "ODEZENNE",
+    "origin": "Bordeaux, France"
+  },
+  "featuredAlbum": {
+    "id": "ovni",
+    "title": "OVNI",
+    "year": 2011,
+    "label": "Universeul",
+    "genres": [
+      "Rap français",
+      "Alternative Hip-Hop",
+      "Électronique"
+    ],
+    "trackCount": 15,
+    "type": "Album",
+    "coverUrl": "/covers/odezenne-ovni.jpg"
+  },
+  "meta": "2011 · Universeul · Rap français · Alternative Hip-Hop · France",
+  "editorial": [
+    "Odezenne naît à Bordeaux au milieu des années 2000. Alix Caillet et Mattia Lucchini se connaissent depuis le collège, Jacques Cormary les rejoint, et le nom du groupe est celui de leur ancienne proviseure, lâché un jour dans un freestyle et gardé parce qu’il les faisait rire. En 2007, ils fondent leur propre label, Universeul, avec l’ambition affichée d’en faire une « major indépendante ». Leur premier disque, sans. chantilly, paraît fin 2008 et circule d’abord de main en main : le bouche-à-oreille fait ce que la promotion ne fait pas.",
+    "OVNI sort en mars 2011, après onze mois de travail. Le titre se lit de deux façons : Orchestre virtuose national incompétent, et l’acronyme des soucoupes volantes. C’est un album concept, présenté comme un « street album », et pour la première fois le groupe trouve sa place en magasin. Les productions changent de couleur à chaque plage, dubstep sur « Boom boom », électro rétro sur « Méli-mélo », interludes 8 bits sur « Maison close ». Par-dessus, Alix et Jacques posent un rap à moitié parlé, ironique, souvent tendre, qui ne ressemble à rien de ce qu’on entendait alors en France.",
+    "Le disque se fait connaître par une série de vidéos autoproduites, puis par des clips, dont celui de « Gomez », réalisé par Selim Bentounes. En 2012, la popularité grandissante pousse le groupe à le rééditer augmenté de cinq titres : c’est l’édition Louis XIV, celle qu’on trouve aujourd’hui sur les plateformes. Les festivals suivent, des Vieilles Charrues aux Eurockéennes. Puis Odezenne part sept mois à Berlin, au 2 de la Dolziger Straße, d’où naîtra le disque suivant. OVNI reste le moment où trois Bordelais ont trouvé leur ton, quelque part entre le rap et la chanson, sans jamais choisir."
+  ],
+  "video": {
+    "youtubeId": "l6JilujXyPE",
+    "title": "Gomez — Odezenne · OVNI, 2011"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/4B4FWtlWqXKsspGHer0S6h",
+    "appleMusic": "https://music.apple.com/fr/album/ovni-orchestre-virtuose-national-incomp%C3%A9tent-edition/499528281",
+    "deezer": "https://www.deezer.com/fr/album/1534012",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nEVjXpi_Q3xDE0EV40bx1iZKF3UURXi2A"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a4890319/Odezenne-Ovni-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a4816740/Odezenne-Ovni-edition-Louis-XIV-Digipack-CD-album",
+      "format": "CD Édition Louis XIV",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B07KZ3NWX7/",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "doula-hypercouleurs",
+      "title": "DOULA (hypercouleurs)",
+      "year": 2025,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/99d3ee1db12e241010dddf030872afe1/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "doula-des-couloirs-des-portieres",
+      "title": "DOULA (des couloirs des portières)",
+      "year": 2025,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/1351fdccd27ad6fa92b1c48275067437/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "1200-metres-en-tout",
+      "title": "1200 mètres en tout",
+      "year": 2022,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/2f9ff79355a793051c8b370a3b1bfdfb/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "au-baccara",
+      "title": "Au Baccara",
+      "year": 2018,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/9b587e992f42314b280effde0582eabc/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "dolziger-str-2",
+      "title": "Dolziger Str. 2",
+      "year": 2015,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/a0ac88e0a696d63954492687f82e81af/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "ovni",
+      "title": "OVNI",
+      "year": 2011,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "/covers/odezenne-ovni.jpg"
+    },
+    {
+      "id": "sans-chantilly",
+      "title": "sans. chantilly",
+      "year": 2008,
+      "type": "Album",
+      "trackCount": 20,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/a0f2bd63cc470bae5fbf60e9ad6aa8f2/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

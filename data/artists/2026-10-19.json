@@ -1,0 +1,120 @@
+{
+  "id": "slipknot-vol-3-the-subliminal-verses",
+  "number": "144",
+  "publishedAt": "2026-10-19",
+  "artist": {
+    "name": "SLIPKNOT",
+    "origin": "Des Moines, États-Unis"
+  },
+  "featuredAlbum": {
+    "id": "vol-3-the-subliminal-verses",
+    "title": "Vol. 3: (The Subliminal Verses)",
+    "year": 2004,
+    "label": "Roadrunner Records",
+    "genres": [
+      "Nu Metal",
+      "Metal alternatif",
+      "Heavy Metal"
+    ],
+    "trackCount": 14,
+    "type": "Album",
+    "coverUrl": "/covers/slipknot-vol-3-the-subliminal-verses.jpg"
+  },
+  "meta": "2004 · Roadrunner Records · Nu Metal · Metal alternatif · États-Unis",
+  "editorial": [
+    "Quand Slipknot entre en studio à l’été 2003, le groupe de Des Moines, dans l’Iowa, sort d’une période où il a bien failli se dissoudre. Après Iowa, en 2001, ses neuf membres masqués se sont dispersés dans des projets parallèles : Corey Taylor et Jim Root ont relancé Stone Sour, Joey Jordison joue avec les Murderdolls. Pour le troisième album, ils se retrouvent avec Rick Rubin, le producteur de Slayer, des Beastie Boys et de Johnny Cash, à The Mansion, la grande maison de Laurel Canyon, à Los Angeles, où les Red Hot Chili Peppers avaient enregistré Blood Sugar Sex Magik.",
+    "Les séances, de juillet 2003 à janvier 2004, sont longues et pénibles : Taylor a raconté depuis qu’il buvait énormément pendant l’enregistrement. Mais le disque qui en sort ouvre des portes que Slipknot gardait fermées. On y entend des structures plus mélodiques, des solos, des guitares acoustiques, et bien moins de jurons qu’avant, au point que l’édition standard paraît sans l’étiquette Parental Advisory. « Duality » devient l’hymne du groupe, « Vermilion » et sa deuxième partie acoustique dévoilent une face jamais entendue, et « Before I Forget » remportera le Grammy de la meilleure performance metal.",
+    "Vol. 3: (The Subliminal Verses) paraît le 25 mai 2004 chez Roadrunner. Il démarre deuxième du Billboard 200 avec plus de 240 000 exemplaires vendus la première semaine et devient disque de platine aux États-Unis dès février 2005. La critique se divise, certains regrettent la rage brute des débuts, d’autres saluent l’étendue de la palette. Avec le recul, c’est l’album charnière, celui qui a permis à Slipknot de durer, et le clip de « Duality » a passé le demi-milliard de vues sur YouTube. Pour ouvrir cette deuxième semaine, de quoi se réveiller franchement."
+  ],
+  "video": {
+    "youtubeId": "6fVE8kSM43I",
+    "title": "Duality — Slipknot · Vol. 3: (The Subliminal Verses), 2004"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/3kVZ0rQgW6yZpiTmDP2Bpm",
+    "appleMusic": "https://music.apple.com/fr/album/vol-3-the-subliminal-verses/926184050",
+    "deezer": "https://www.deezer.com/fr/album/356130",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nHC6aFPWK_JpeKV6s9fQbA-84Yve0t8C4"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a16971966/Slipknot-Volume-3-The-Subliminal-Verses-Edition-Limitee-Vinyle-Violet-Vinyle-album",
+      "format": "Vinyle Violet Édition Limitée",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a1913605/Slipknot-Volume-3-The-subliminal-verses-Edition-limitee-CD-album",
+      "format": "CD Édition Limitée",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B09YMP65S4/",
+      "format": "Vinyle Violet",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "the-end-so-far",
+      "title": "The End, So Far",
+      "year": 2022,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/31555f2bdb8e31223812c8192a67e32d/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "we-are-not-your-kind",
+      "title": "We Are Not Your Kind",
+      "year": 2019,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/fdc2196c15fbf2ee91881a78af4da153/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "5-the-gray-chapter",
+      "title": ".5: The Gray Chapter",
+      "year": 2014,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/4a7b3f4140c426d957a41db4ca408165/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "all-hope-is-gone",
+      "title": "All Hope Is Gone",
+      "year": 2008,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/3d4d0fe601be67cb2e13654d40d7101a/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "vol-3-the-subliminal-verses",
+      "title": "Vol. 3: (The Subliminal Verses)",
+      "year": 2004,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "/covers/slipknot-vol-3-the-subliminal-verses.jpg"
+    },
+    {
+      "id": "iowa",
+      "title": "Iowa",
+      "year": 2001,
+      "type": "Album",
+      "trackCount": 14,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/bd6de90f61e585e94dca0b70a17580c8/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "slipknot",
+      "title": "Slipknot",
+      "year": 1999,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/233c70bda781ca0e8403749398b5a026/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

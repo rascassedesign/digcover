@@ -1,0 +1,111 @@
+{
+  "id": "leon-bridges-happiness-anytime",
+  "number": "140",
+  "publishedAt": "2026-10-13",
+  "artist": {
+    "name": "LEON BRIDGES",
+    "origin": "Fort Worth, États-Unis"
+  },
+  "featuredAlbum": {
+    "id": "happiness-anytime",
+    "title": "Happiness Anytime",
+    "year": 2026,
+    "label": "Columbia",
+    "genres": [
+      "Soul",
+      "R&B",
+      "Afrobeat"
+    ],
+    "trackCount": 12,
+    "type": "Album",
+    "coverUrl": "/covers/leon-bridges-happiness-anytime.jpg"
+  },
+  "meta": "2026 · Columbia · Soul · R&B · États-Unis",
+  "editorial": [
+    "Leon Bridges est apparu en 2015 avec Coming Home, un premier album de soul à l’ancienne qui sonnait comme un disque retrouvé du début des années soixante. Le chanteur de Fort Worth, au Texas, a ensuite élargi sa palette : Good Thing en 2018, Gold-Diggers Sound en 2021, les deux EP Texas Sun et Texas Moon avec le trio Khruangbin, puis Leon en 2024, plus country et plus intime. Happiness Anytime, son cinquième album, est paru le 25 septembre chez Columbia, il y a à peine plus de deux semaines.",
+    "Cette fois, Bridges est allé chercher deux membres de Jungle, Josh Lloyd-Watson et Lydia Kitto, croisés à plusieurs reprises sur les festivals. Leur première séance d’écriture a donné six chansons, la moitié du disque, et le bassiste Pino Palladino les a rejoints aux studios Chaplin, à Los Angeles, pour terminer le travail. Les références assumées s’appellent Fela Kuti, Jorge Ben et le Paul Simon de The Rhythm of the Saints. « Light the Way » ouvre sur des cuivres afrobeat, « Tears of Joy » a un parfum de Graceland, et Lydia Kitto vient chanter sur « All Day, All Night », seule invitée de l’album.",
+    "Le projet est d’abord sorti en deux EP de quatre titres, en juillet puis en août, avant d’être réuni en douze morceaux. Le titre dit tout : un disque qui cherche la joie sans la forcer. La production reste légère, laisse de l’espace, et la voix de Bridges, toujours aussi soyeuse, n’a jamais semblé aussi détendue. La critique y entend un retour à la chaleur de Coming Home, avec plus de souplesse dans les hanches. Un album de fin d’été arrivé un peu tard, qui tombe finalement bien : il a tout ce qu’il faut pour éclairer octobre."
+  ],
+  "video": {
+    "youtubeId": "hMdaNKudOSc",
+    "title": "Talk It Over — Leon Bridges · Happiness Anytime, 2026"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/2TSVHmU9pkzCVaJk3GGXGO",
+    "appleMusic": "https://music.apple.com/fr/album/happiness-anytime/6789289866",
+    "deezer": "https://www.deezer.com/fr/album/1100474172",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mjWlfUXK0Rp4m7_B-0DP2zviOVI86lV-U"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a23363919/Leon-Bridges-Happiness-Anytime-Exclusivite-Fnac-Vinyle-Rouge-Vinyle-album",
+      "format": "Vinyle Rouge Exclusivité Fnac",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a23363918/Leon-Bridges-Happiness-Anytime-Vinyle-Blanc-Opaque-Vinyle-album",
+      "format": "Vinyle Blanc Opaque",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a23363917/Leon-Bridges-Happiness-Anytime-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B0H8VBCTQ7/",
+      "format": "Vinyle Blanc Opaque",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "happiness-anytime",
+      "title": "Happiness Anytime",
+      "year": 2026,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "/covers/leon-bridges-happiness-anytime.jpg"
+    },
+    {
+      "id": "leon",
+      "title": "Leon",
+      "year": 2024,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/f5ce04b5b9286825adb73f2bb6c75737/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "gold-diggers-sound",
+      "title": "Gold-Diggers Sound",
+      "year": 2021,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/37b7dffd8f8ac92d925246b3826913f6/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "good-thing",
+      "title": "Good Thing",
+      "year": 2018,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/88ecfbe2ccafdc05ca9d61327b4f5206/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "coming-home",
+      "title": "Coming Home",
+      "year": 2015,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/a188f1f254609cfa4bf30711c8b13b8f/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

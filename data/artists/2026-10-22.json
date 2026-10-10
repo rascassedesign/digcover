@@ -1,0 +1,87 @@
+{
+  "id": "olivia-dean-the-art-of-loving",
+  "number": "147",
+  "publishedAt": "2026-10-22",
+  "artist": {
+    "name": "OLIVIA DEAN",
+    "origin": "Londres, Angleterre"
+  },
+  "featuredAlbum": {
+    "id": "the-art-of-loving",
+    "title": "The Art of Loving",
+    "year": 2025,
+    "label": "Capitol / Polydor",
+    "genres": [
+      "Soul",
+      "Pop",
+      "R&B"
+    ],
+    "trackCount": 12,
+    "type": "Album",
+    "coverUrl": "/covers/olivia-dean-the-art-of-loving.jpg"
+  },
+  "meta": "2025 · Capitol / Polydor · Soul · Pop · Angleterre",
+  "editorial": [
+    "Olivia Dean a grandi à Londres, dans une famille où l’on écoutait beaucoup Lauryn Hill, au point que son deuxième prénom lui rend hommage. Après Messy, un premier album paru en 2023, elle revient le 26 septembre 2025 avec The Art of Loving. La plupart des chansons ont été écrites et enregistrées en huit semaines, au printemps 2025, dans un studio de l’est de Londres. Le titre lui vient d’une exposition de Mickalene Thomas à Los Angeles, All About Love, elle-même inspirée du livre que bell hooks a consacré à l’amour.",
+    "Douze titres, trente-quatre minutes, et un sujet unique : l’amour sous toutes ses formes, celui qu’on donne, celui qu’on attend, celui qu’on se doit à soi-même. La soul de Dean a un pied dans les classiques, avec des cuivres et des cordes qui ne pèsent jamais, et une voix chaude qui ne force rien. « Nice to Each Other » ouvre la série des singles, suivie de « Lady Lady », « So Easy (To Fall in Love) » et surtout « Man I Need », qui devient un tube mondial : son clip dépasse aujourd’hui les cent vingt millions de vues.",
+    "L’album entre directement à la première place au Royaume-Uni, pendant que « Man I Need » occupe le sommet des singles : aucune chanteuse britannique en solo n’avait réussi ce doublé depuis Adele en 2021. Il monte jusqu’à la troisième place aux États-Unis. En février 2026, Olivia Dean reçoit le Grammy de la révélation de l’année et se présente, dans son discours, comme la petite-fille d’une immigrée. Suivent le Brit Award de l’album britannique de l’année et le MOBO de l’album de l’année. Un an après sa sortie, le disque n’a rien perdu de sa douceur."
+  ],
+  "video": {
+    "youtubeId": "oIv_Y2RPQ_A",
+    "title": "Man I Need — Olivia Dean · The Art of Loving, 2025"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/0l8zYqoUeBYg47Gmevq9HZ",
+    "appleMusic": "https://music.apple.com/fr/album/the-art-of-loving/1817609404",
+    "deezer": "https://www.deezer.com/fr/album/823933891",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kJITuCoydmO0FHV8FQD1J8LKehNNtpUys"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21673276/Olivia-Dean-The-Art-Of-Loving-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a23439208/Olivia-Dean-The-Art-Of-Loving-Edition-Limitee-Exclusivite-Fnac-Vinyle-Rose-Vinyle-album",
+      "format": "Vinyle Rose Exclusivité Fnac",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21673274/Olivia-Dean-The-Art-Of-Loving-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B0F9PYYSZT/",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "the-art-of-loving",
+      "title": "The Art of Loving",
+      "year": 2025,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "/covers/olivia-dean-the-art-of-loving.jpg"
+    },
+    {
+      "id": "messy",
+      "title": "Messy",
+      "year": 2023,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/0f3f905b35a640121180f26a422dcfd7/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}
