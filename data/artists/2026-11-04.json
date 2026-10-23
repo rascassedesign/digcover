@@ -1,0 +1,81 @@
+{
+  "id": "the-do-shake-shook-shaken",
+  "number": "156",
+  "publishedAt": "2026-11-04",
+  "artist": {
+    "name": "THE DØ",
+    "origin": "Paris, France"
+  },
+  "featuredAlbum": {
+    "id": "shake-shook-shaken",
+    "title": "Shake Shook Shaken",
+    "year": 2014,
+    "label": "Cinq7 / Wagram",
+    "genres": [
+      "Indie Pop",
+      "Électronique",
+      "Art Pop"
+    ],
+    "trackCount": 12,
+    "type": "Album",
+    "coverUrl": "/covers/the-do-shake-shook-shaken.jpg"
+  },
+  "meta": "2014 · Cinq7 / Wagram · Indie Pop · Électronique · France",
+  "editorial": [
+    "Le 29 septembre 2014, The Dø publie Shake Shook Shaken, son troisième album. Le duo réunit la chanteuse franco-finlandaise Olivia Merilahti et le multi-instrumentiste Dan Levy, et il a connu un succès rare pour un groupe français qui chante en anglais : son premier album, A Mouthful, s’est classé numéro un en France en 2008. Après Both Ways Open Jaws, en 2011, les deux traversent trois années difficiles, entre la fin de leur histoire de couple et un deuil familial. Le titre, le verbe secouer conjugué à trois temps, vient de là.",
+    "Pour l’enregistrer, Dan Levy s’installe dans un ancien château d’eau de Normandie, que le duo a racheté et transformé en studio, tandis qu’Olivia Merilahti écrit depuis Paris et fait des allers-retours. Le son change du tout au tout : moins de guitares et de folk, beaucoup de synthétiseurs et de boîtes à rythmes, et Levy raconte que l’essentiel des sons vient des réglages par défaut de son logiciel. Rien de froid pourtant. « Keep Your Lips Sealed », « Despair, Hangover & Ecstasy » ou « Lick My Wounds » ont des refrains de pop, et la voix de Merilahti, claire et un peu acide, tient tout ensemble.",
+    "Le disque entre septième des ventes en France, y reste cinquante semaines d’affilée et remporte la Victoire de la musique de l’album rock en 2015, drôle de titre pour un album presque sans guitare. Depuis, The Dø s’est fait discret, et Shake Shook Shaken reste à ce jour son dernier album studio. Il montre qu’on peut changer entièrement de manière sans rien perdre de sa voix. Pour le milieu de la semaine, de quoi danser un peu, même avec le cœur en vrac."
+  ],
+  "video": {
+    "youtubeId": "eAXmgId3NTQ",
+    "title": "Despair, Hangover & Ecstasy — The Dø · Shake Shook Shaken, 2014"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/0q44mFwXE2oJiDGf7YXAcn",
+    "appleMusic": "https://music.apple.com/fr/album/shake-shook-shaken/896186560",
+    "deezer": "https://www.deezer.com/fr/album/8729983",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lIaHpN8VUkP0WkXvMvutKJQY2dQBOz0OU"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a12699890/The-Do-Shake-Shook-Shaken-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B0BD5VJB5L/",
+      "format": "Double Vinyle 45 tours",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "shake-shook-shaken",
+      "title": "Shake Shook Shaken",
+      "year": 2014,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "/covers/the-do-shake-shook-shaken.jpg"
+    },
+    {
+      "id": "both-ways-open-jaws",
+      "title": "Both Ways Open Jaws",
+      "year": 2011,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/43efd506ba0216dce4258d63749edd0c/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "a-mouthful",
+      "title": "A Mouthful",
+      "year": 2008,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/aa9a4d50241b64582e6b44d1a4f8ecd0/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

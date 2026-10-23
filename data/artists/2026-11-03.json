@@ -1,0 +1,81 @@
+{
+  "id": "dr-dre-the-chronic",
+  "number": "155",
+  "publishedAt": "2026-11-03",
+  "artist": {
+    "name": "DR. DRE",
+    "origin": "Compton, États-Unis"
+  },
+  "featuredAlbum": {
+    "id": "the-chronic",
+    "title": "The Chronic",
+    "year": 1992,
+    "label": "Death Row Records",
+    "genres": [
+      "Hip-Hop",
+      "G-Funk",
+      "West Coast Hip Hop"
+    ],
+    "trackCount": 16,
+    "type": "Album",
+    "coverUrl": "/covers/dr-dre-the-chronic.jpg"
+  },
+  "meta": "1992 · Death Row Records · Hip-Hop · G-Funk · États-Unis",
+  "editorial": [
+    "Le 15 décembre 1992, Dr. Dre publie The Chronic, son premier album solo. Il vient de quitter N.W.A et Ruthless Records, le label d’Eazy-E, après un conflit d’argent, et il a monté avec Suge Knight une nouvelle maison, Death Row Records. Enregistré d’avril à juin 1992 à Los Angeles, The Chronic est le premier album du label, et il va en faire en quelques mois la puissance dominante du rap américain. Son titre désigne l’herbe de bonne qualité, sa pochette imite un paquet de feuilles à rouler. Le programme est clair.",
+    "The Chronic installe un son, le G-funk. Dre ralentit le tempo, ressort les disques de Parliament et de Funkadelic, fait rejouer basses et claviers par des musiciens, Colin Wolfe en tête, et pose par-dessus des lignes de synthétiseur aiguës qui sifflent comme un vieux Moog. Le reste, c’est une distribution. Snoop Doggy Dogg, presque inconnu, est sur douze des seize titres, entouré de Daz Dillinger, Kurupt, RBX, The Lady of Rage, Warren G ou Nate Dogg. « Nuthin’ But a ‘G’ Thang », bâti sur un morceau de Leon Haywood, monte à la deuxième place du Billboard, « Let Me Ride » vaut un Grammy à Dre, et « Fuck Wit Dre Day » règle ses comptes avec Eazy-E.",
+    "L’album se classe troisième au Billboard 200, reste huit mois dans le top 10 et devient triple disque de platine dès 1993. Moins d’un an après sa sortie, Dre produit Doggystyle, le premier album de Snoop, puis quitte Death Row en 1996 pour fonder Aftermath, où il signera Eminem et 50 Cent. En 2019, la Bibliothèque du Congrès a fait entrer The Chronic dans son registre des enregistrements à préserver. Pour un mardi de novembre, un peu de soleil californien ne se refuse pas."
+  ],
+  "video": {
+    "youtubeId": "8GliyDgAGQI",
+    "title": "Nuthin’ But a ‘G’ Thang — Dr. Dre · The Chronic, 1992"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/2V5rhszUpCudPcb01zevOt",
+    "appleMusic": "https://music.apple.com/fr/album/the-chronic/1668460963",
+    "deezer": "https://www.deezer.com/fr/album/402935287",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lQNYoHJJhN665eKwDhmirS77MGlw3xRoY"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a17744111/Dr-Dre-The-Chronic-Edition-Limitee-Vinyle-album",
+      "format": "Double Vinyle Édition Limitée",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a1879060/Dr-Dre-The-Chronic-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    }
+  ],
+  "discography": [
+    {
+      "id": "compton",
+      "title": "Compton",
+      "year": 2015,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/5a47ea3a310488ab5dbae15eb8371aba/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "2001",
+      "title": "2001",
+      "year": 1999,
+      "type": "Album",
+      "trackCount": 23,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/0d9a24d054cbc5ab11843beed9f1422b/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "the-chronic",
+      "title": "The Chronic",
+      "year": 1992,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "/covers/dr-dre-the-chronic.jpg"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "nina-simone-i-put-a-spell-on-you",
+  "number": "157",
+  "publishedAt": "2026-11-05",
+  "artist": {
+    "name": "NINA SIMONE",
+    "origin": "Tryon, États-Unis"
+  },
+  "featuredAlbum": {
+    "id": "i-put-a-spell-on-you",
+    "title": "I Put a Spell on You",
+    "year": 1965,
+    "label": "Philips Records",
+    "genres": [
+      "Jazz Vocal",
+      "Soul",
+      "Blues"
+    ],
+    "trackCount": 12,
+    "type": "Album",
+    "coverUrl": "/covers/nina-simone-i-put-a-spell-on-you.jpg"
+  },
+  "meta": "1965 · Philips Records · Jazz Vocal · Soul · États-Unis",
+  "editorial": [
+    "En juin 1965, Nina Simone publie I Put a Spell on You chez Philips, le label qui l’a signée l’année précédente. Née Eunice Waymon en 1933 à Tryon, en Caroline du Nord, elle rêvait de devenir la première grande pianiste classique noire américaine, avant que le Curtis Institute de Philadelphie ne lui ferme sa porte, un refus qu’elle a toujours attribué au racisme. Elle s’est mise à chanter dans un bar d’Atlantic City pour gagner sa vie, et n’a jamais cessé depuis de mêler Bach, le jazz, le blues et la chanson. À trente-deux ans, elle a déjà plus d’une dizaine d’albums derrière elle.",
+    "Le disque est enregistré à New York entre 1964 et 1965, avec les arrangements de Hal Mooney et Horace Ott et la guitare de Rudy Stevenson, qui signe aussi deux titres. Il s’ouvre sur « I Put a Spell on You », la chanson hurlée par Screamin’ Jay Hawkins en 1956, que Simone transforme en envoûtement lent et grave. Suivent deux chansons de Charles Aznavour, un « Ne me quitte pas » de Jacques Brel chanté en français, et surtout « Feeling Good », tirée d’une comédie musicale d’Anthony Newley et Leslie Bricusse, qu’elle fait sienne au point qu’on oublie qu’elle n’en est pas l’autrice. Les cordes sont luxueuses, mais ce sont le piano et la voix qui mènent.",
+    "C’est l’un de ses disques les plus accessibles, et l’un des plus réussis. Il grimpe jusqu’à la dix-huitième place des classements britanniques, et sa chanson-titre devient l’une des versions les plus célèbres de ce standard. « Feeling Good » sera reprise des dizaines de fois, de Muse à Michael Bublé. En 1991, Nina Simone donnera d’ailleurs le titre de l’album à son autobiographie. Pour un jeudi de novembre, trente-quatre minutes de sortilège."
+  ],
+  "video": {
+    "youtubeId": "WCjzNfJLHa0",
+    "title": "I Put a Spell on You — Nina Simone · I Put a Spell on You, 1965"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/3ofZeSWPHZOE5WC2tNZDez",
+    "appleMusic": "https://music.apple.com/fr/album/i-put-a-spell-on-you/1445667726",
+    "deezer": "https://www.deezer.com/fr/album/79884472",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_nA6emkKCvTJh_INFhq9zqv_TT1UbsXnhI"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a9662353/Nina-Simone-I-put-a-spell-on-you-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B01CHBHMAA/",
+      "format": "Vinyle",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B000DZ7V6S/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "wild-is-the-wind",
+      "title": "Wild Is the Wind",
+      "year": 1966,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/ffeb1e864ca7e6b6f612572486eb4dc3/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "i-put-a-spell-on-you",
+      "title": "I Put a Spell on You",
+      "year": 1965,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "/covers/nina-simone-i-put-a-spell-on-you.jpg"
+    },
+    {
+      "id": "pastel-blues",
+      "title": "Pastel Blues",
+      "year": 1965,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/61090513a8b756be9d25bd2d1bbab432/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "little-girl-blue",
+      "title": "Little Girl Blue",
+      "year": 1959,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/0270e11bf2081fb05b84be2807958d0e/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "pink-floyd-meddle",
+  "number": "153",
+  "publishedAt": "2026-10-30",
+  "artist": {
+    "name": "PINK FLOYD",
+    "origin": "Londres, Royaume-Uni"
+  },
+  "featuredAlbum": {
+    "id": "meddle",
+    "title": "Meddle",
+    "year": 1971,
+    "label": "Harvest Records",
+    "genres": [
+      "Psychedelic Rock",
+      "Progressive Rock"
+    ],
+    "trackCount": 6,
+    "type": "Album",
+    "coverUrl": "/covers/pink-floyd-meddle.jpg"
+  },
+  "meta": "1971 · Harvest Records · Psychedelic Rock · Progressive Rock · Royaume-Uni",
+  "editorial": [
+    "Il y a cinquante-cinq ans jour pour jour, le 30 octobre 1971, Pink Floyd publiait Meddle aux États-Unis, une semaine avant sa sortie britannique chez Harvest. Le groupe sort d’Atom Heart Mother, un disque ambitieux, avec orchestre et chœurs, dont il dira lui-même beaucoup de mal, et il cherche une autre manière de travailler. De janvier à septembre 1971, entre Abbey Road, AIR et Morgan Studios à Londres, Roger Waters, David Gilmour, Richard Wright et Nick Mason enregistrent des dizaines de fragments sans titre, qu’ils appellent les « Nothings ». C’est de ce bric-à-brac que naît le morceau qui occupe toute la face B.",
+    "Cette face B, c’est « Echoes », vingt-trois minutes et demie. Elle s’ouvre sur une seule note de piano passée dans une enceinte Leslie, un « ping » de sonar que Wright ne parviendra jamais à refaire en studio, si bien que le groupe garde celui de la démo. Viennent ensuite les voix mêlées de Gilmour et Wright, un long passage où la guitare pousse des cris d’oiseaux de mer, puis une lente remontée vers la lumière. En face A, « One of These Days » tourne autour d’une ligne de basse obsédante passée dans un écho Binson, et Nick Mason n’y prononce qu’une phrase, enregistrée en accéléré. Il y a même « Seamus », un blues où chante un chien, celui de Steve Marriott, que Gilmour gardait.",
+    "Meddle atteint la troisième place au Royaume-Uni, et sa pochette signée Hipgnosis, une oreille sous l’eau, résume son programme : un disque qui s’écoute comme on écoute la mer. Début octobre 1971, avant même sa sortie, le groupe joue « Echoes » et « One of These Days » dans l’amphithéâtre vide de Pompéi, pour le film Live at Pompeii, restauré en 2025. C’est de là que vient la vidéo de cette fiche. Deux ans avant The Dark Side of the Moon, on y entend déjà tout ce qui fera Pink Floyd : le temps long, l’espace, et une patience que peu de groupes de rock se sont autorisée. Pour finir la semaine, vingt-trois minutes d’« Echoes », ça se mérite."
+  ],
+  "video": {
+    "youtubeId": "hDoK1Hbk0SI",
+    "title": "One of These Days (Live at Pompeii) — Pink Floyd · Meddle, 1971"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/468ZwCchVtzEbt9BHmXopb",
+    "appleMusic": "https://music.apple.com/fr/album/meddle-2016-remaster/1065973614",
+    "deezer": "https://www.deezer.com/fr/album/12114236",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_n_fyQF2s8mD_vYN-7uQyvNgwXd5xZNrFY"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a9662349/Pink-Floyd-Meddle-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a11061171/Pink-Floyd-Meddle-Edition-remasterisee-CD-album",
+      "format": "CD Édition Remasterisée",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B01DSV6WZO/",
+      "format": "Vinyle 180 g",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "wish-you-were-here",
+      "title": "Wish You Were Here",
+      "year": 1975,
+      "type": "Album",
+      "trackCount": 5,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/cb029c785b8d0cd624ddee9d4127ceff/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "the-dark-side-of-the-moon",
+      "title": "The Dark Side of the Moon",
+      "year": 1973,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/e635a8510c1a74bc089b3566ebbb9cb8/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "meddle",
+      "title": "Meddle",
+      "year": 1971,
+      "type": "Album",
+      "trackCount": 6,
+      "coverUrl": "/covers/pink-floyd-meddle.jpg"
+    },
+    {
+      "id": "atom-heart-mother",
+      "title": "Atom Heart Mother",
+      "year": 1970,
+      "type": "Album",
+      "trackCount": 5,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/edbe26d63bf8bbd99c6e6117a987a646/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

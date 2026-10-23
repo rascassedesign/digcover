@@ -1,0 +1,57 @@
+{
+  "id": "blair-huber-eclipse",
+  "number": "154",
+  "publishedAt": "2026-11-02",
+  "artist": {
+    "name": "BLAIR / HUBER",
+    "origin": "Francfort, Allemagne"
+  },
+  "featuredAlbum": {
+    "id": "eclipse",
+    "title": "ECLIPSE",
+    "year": 2026,
+    "label": "LEITER",
+    "genres": [
+      "Jazz",
+      "Nu Jazz"
+    ],
+    "trackCount": 9,
+    "type": "Album",
+    "coverUrl": "/covers/blair-huber-eclipse.jpg"
+  },
+  "meta": "2026 · LEITER · Jazz · Nu Jazz · Allemagne",
+  "editorial": [
+    "Le 16 octobre dernier, il y a un peu plus de deux semaines, le label berlinois LEITER a publié ECLIPSE, le premier album de Blair / Huber. Derrière ce nom, deux musiciens de Francfort : le saxophoniste Darius Blair et le guitariste Niko Huber. Ils se sont rencontrés dans un orchestre de jeunes de la Hesse, se connaissent depuis plus de dix ans, et ont commencé à jouer en duo au début de la pandémie. Un premier EP, IN A NEW ORDER, est sorti au printemps. ECLIPSE est le premier vrai pas.",
+    "L’album a été enregistré en deux longues journées, en janvier 2026, au Funkhaus de Berlin, dans le Saal 3, le studio de Nils Frahm, avec l’ingénieur du son Antonio Pulli. Le dispositif est minimal : un saxophone, une guitare, et quelques invités. Noah Fürbringer, batteur du Moses Yoofee Trio, joue sur « PRISM BREAK », et le percussionniste Khadim Seck sur « TITAN » et « 01/01/25 ». Les deux musiciens disent chercher une langue commune entre le hip-hop et le jazz, et citent Immanuel Wilkins ou Julian Lage parmi leurs repères. Le saxophone de Blair y tient le premier rôle.",
+    "Neuf titres, moins d’une demi-heure : ECLIPSE va droit au but, au point que la critique d’All About Jazz l’a trouvé un peu court. Le site marlbank, lui, l’a placé en tête de sa sélection de jazz européen de l’année, en saluant tout particulièrement « PURPLE DUST ». Il est encore trop tôt pour dire s’il tiendra la distance, mais il a déjà le mérite d’un disque de duo qui laisse respirer chaque note. Pour ouvrir la semaine, une découverte toute fraîche."
+  ],
+  "video": {
+    "youtubeId": "ParJiXoxQDs",
+    "title": "PRISM BREAK — Blair / Huber · ECLIPSE, 2026"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/4wgZLKCgzNN0Wp7AXxnSpp",
+    "appleMusic": "https://music.apple.com/fr/album/eclipse/6788838643",
+    "deezer": "https://www.deezer.com/fr/album/1045332862",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lB541VZJJumLJcixM1LbmRQ3YO9QuVeUw"
+  },
+  "vinyl": [],
+  "discography": [
+    {
+      "id": "eclipse",
+      "title": "ECLIPSE",
+      "year": 2026,
+      "type": "Album",
+      "trackCount": 9,
+      "coverUrl": "/covers/blair-huber-eclipse.jpg"
+    },
+    {
+      "id": "in-a-new-order",
+      "title": "IN A NEW ORDER",
+      "year": 2026,
+      "type": "EP",
+      "trackCount": 4,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/0e35120ccd5cedb3506b27f46284919b/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

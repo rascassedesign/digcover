@@ -1,0 +1,81 @@
+{
+  "id": "kheops-sad-hill",
+  "number": "152",
+  "publishedAt": "2026-10-29",
+  "artist": {
+    "name": "KHEOPS",
+    "origin": "Marseille, France"
+  },
+  "featuredAlbum": {
+    "id": "sad-hill",
+    "title": "Sad Hill",
+    "year": 1997,
+    "label": "Delabel",
+    "genres": [
+      "Hip-Hop",
+      "Rap français",
+      "Boom Bap"
+    ],
+    "trackCount": 20,
+    "type": "Album",
+    "coverUrl": "/covers/kheops-sad-hill.jpg"
+  },
+  "meta": "1997 · Delabel · Hip-Hop · Rap français · France",
+  "editorial": [
+    "En 1997, le rap français vit une année dont il parle encore. IAM a sorti L’École du micro d’argent au printemps, et son DJ, Kheops, prépare de son côté un projet à part. Le 14 novembre, Delabel publie Sad Hill, un double album de vingt titres où il réunit, autour de ses productions, une bonne partie de la scène de l’époque. Le titre vient du cimetière où se joue le duel final du Bon, la Brute et le Truand de Sergio Leone. Le clin d’œil dit bien l’esprit du disque : une affiche de western, avec une tête d’affiche par morceau.",
+    "La force de Sad Hill tient dans sa distribution, qui fait se croiser Marseille et la région parisienne à une époque où l’on aime opposer les deux. IAM ouvre sur le morceau-titre, Shurik’n pose « Si j’avais su », Akhenaton apparaît sur le remix de « Def Bond ». Côté Paris, Stomy Bugsy signe « Le Playboy de Sarcelles », Passi « Les Meufs du show-biz », et Oxmo Puccino, un an avant son premier album, livre « Mama Lova ». On croise aussi Fabe, Pit Baccardi, Le 3ème Œil, Faf Larage, Freeman ou les X-Men. Kheops tient l’ensemble en chef d’orchestre discret, sans jamais tirer la couverture à lui.",
+    "Le disque marque son époque, et Kheops lui donne une suite, Sad Hill Impact, en 2000. Près de trente ans plus tard, c’est un instantané rare : une génération entière réunie sur un même album, juste avant que chacun ne trace sa route. On y retrouve d’ailleurs plusieurs voix déjà programmées ici, d’IAM à Passi en passant par Shurik’n, Akhenaton et Fabe. Vingt titres, une trentaine de voix, et un DJ qui s’efface derrière ses invités : pour la veille du vendredi, une réunion de famille."
+  ],
+  "video": {
+    "youtubeId": "NalVKZt6JS4",
+    "title": "Sad Hill — Kheops feat. IAM · Sad Hill, 1997"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/5V8FKTWUoXLFnIKXU0lFtt",
+    "appleMusic": "https://music.apple.com/fr/album/sad-hill/734907595",
+    "deezer": "https://www.deezer.com/fr/album/6628463",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mUPUAGBGVKGXQjRdrbTOkmkTd9Lro0VUA"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a21306268/Kheops-Sad-Hill-Edition-Limitee-Vinyle-album",
+      "format": "Vinyle Édition Limitée",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B01G99N4QM/",
+      "format": "Vinyle",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "feu-sous-la-peau",
+      "title": "Feu Sous La Peau",
+      "year": 2025,
+      "type": "EP",
+      "trackCount": 4,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/b79715a1a593dab6f8c4ba0a349f5e2d/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "sad-hill-impact",
+      "title": "Sad Hill Impact",
+      "year": 2000,
+      "type": "Album",
+      "trackCount": 19,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/8f8a0978bd42f608baddedf464c3c7a4/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "sad-hill",
+      "title": "Sad Hill",
+      "year": 1997,
+      "type": "Album",
+      "trackCount": 20,
+      "coverUrl": "/covers/kheops-sad-hill.jpg"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "limp-bizkit-chocolate-starfish-and-the-hot-dog-flavored-water",
+  "number": "158",
+  "publishedAt": "2026-11-06",
+  "artist": {
+    "name": "LIMP BIZKIT",
+    "origin": "Jacksonville, États-Unis"
+  },
+  "featuredAlbum": {
+    "id": "chocolate-starfish-and-the-hot-dog-flavored-water",
+    "title": "Chocolate Starfish and the Hot Dog Flavored Water",
+    "year": 2000,
+    "label": "Flip / Interscope",
+    "genres": [
+      "Nu Metal",
+      "Rap Rock"
+    ],
+    "trackCount": 15,
+    "type": "Album",
+    "coverUrl": "/covers/limp-bizkit-chocolate-starfish-and-the-hot-dog-flavored-water.jpg"
+  },
+  "meta": "2000 · Flip / Interscope · Nu Metal · Rap Rock · États-Unis",
+  "editorial": [
+    "Le 17 octobre 2000, Limp Bizkit publie Chocolate Starfish and the Hot Dog Flavored Water chez Flip et Interscope. Le groupe de Jacksonville, en Floride, sort de Significant Other, qui l’a propulsé en tête des ventes américaines en 1999, et Fred Durst est devenu l’une des figures les plus visibles, et les plus détestées, de la musique de son pays. Rick Rubin commence l’album et s’en va au bout d’une semaine. C’est finalement Terry Date, l’homme de Deftones et de Pantera, qui le produit avec le groupe. Le titre, lui, est une blague : un surnom peu flatteur que Durst se donne, et une idée absurde de Wes Borland devant des bouteilles d’eau aromatisée.",
+    "Le disque pousse tous les curseurs à fond : quinze titres, plus d’une heure et quart, les guitares lourdes de Borland, les scratchs de DJ Lethal et le flow vindicatif de Durst. « My Generation » et « Hot Dog » cognent, « Take a Look Around » détourne le thème de Mission impossible pour le film de John Woo, et « Rollin’ » devient un hymne de stade, décliné en version rap avec DMX, Method Man et Redman, produite par Swizz Beatz. On y croise aussi Xzibit sur « Getcha Groove On » et Scott Weiland, le chanteur des Stone Temple Pilots, sur « Hold On ». Rien n’est subtil, et c’est exactement le propos.",
+    "La première semaine, l’album s’écoule à 1 054 511 exemplaires aux États-Unis, le plus gros démarrage pour un album de rock depuis que les ventes y sont mesurées par SoundScan, en 1991. Il se classe premier dans une dizaine de pays, de l’Allemagne au Royaume-Uni, et finit sextuple disque de platine aux États-Unis. La critique est sévère, et les lecteurs de Kerrang! l’élisent même pire album de l’année. Vingt-six ans plus tard, il reste le portrait le plus fidèle du nu metal à son apogée, avec ses excès et sa bonne humeur adolescente. Pour refermer ces deux semaines, rien de tel qu’un dernier tour de « Rollin’ »."
+  ],
+  "video": {
+    "youtubeId": "RYnFIRc0k6E",
+    "title": "Rollin’ (Air Raid Vehicle) — Limp Bizkit · Chocolate Starfish and the Hot Dog Flavored Water, 2000"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/5mi7FKaWE5CtcOjdyxScA7",
+    "appleMusic": "https://music.apple.com/fr/album/chocolate-starfish-and-the-hot-dog-flavored-water/1440846583",
+    "deezer": "https://www.deezer.com/fr/album/10819194",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mw7rdm3ZPra2XNF6uu1G2VLctu5sXQVvk"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a1137160/Limp-Bizkit-Chocolate-starfish-and-the-hot-dog-flavored-water-Vinyle-album",
+      "format": "Double Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a2502260/Limp-Bizkit-Chocolate-starfish-and-the-hot-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B0CNHC54HJ/",
+      "format": "Double Vinyle",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B00004XOWM/",
+      "format": "CD",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "results-may-vary",
+      "title": "Results May Vary",
+      "year": 2003,
+      "type": "Album",
+      "trackCount": 18,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/4e4079efc832fe8d0fbb2c4ffd36da17/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "chocolate-starfish-and-the-hot-dog-flavored-water",
+      "title": "Chocolate Starfish and the Hot Dog Flavored Water",
+      "year": 2000,
+      "type": "Album",
+      "trackCount": 15,
+      "coverUrl": "/covers/limp-bizkit-chocolate-starfish-and-the-hot-dog-flavored-water.jpg"
+    },
+    {
+      "id": "significant-other",
+      "title": "Significant Other",
+      "year": 1999,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/997093089e97966606459e719848329f/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "three-dollar-bill-yall",
+      "title": "Three Dollar Bill, Y'all $",
+      "year": 1997,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/0b19a0f3df671d1d5be81b6b8b9f640f/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

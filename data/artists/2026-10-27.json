@@ -1,0 +1,94 @@
+{
+  "id": "amy-winehouse-back-to-black",
+  "number": "150",
+  "publishedAt": "2026-10-27",
+  "artist": {
+    "name": "AMY WINEHOUSE",
+    "origin": "Londres, Royaume-Uni"
+  },
+  "featuredAlbum": {
+    "id": "back-to-black",
+    "title": "Back to Black",
+    "year": 2006,
+    "label": "Island Records",
+    "genres": [
+      "Soul",
+      "R&B"
+    ],
+    "trackCount": 11,
+    "type": "Album",
+    "coverUrl": "/covers/amy-winehouse-back-to-black.jpg"
+  },
+  "meta": "2006 · Island Records · Soul · R&B · Royaume-Uni",
+  "editorial": [
+    "Il y a vingt ans jour pour jour, le 27 octobre 2006, Island Records publie Back to Black, le deuxième album d’Amy Winehouse. Trois ans plus tôt, la chanteuse du nord de Londres avait débuté avec Frank, un disque jazz et soul salué par la critique, mais dont elle se disait elle-même pas entièrement satisfaite. Entre les deux, une rupture, beaucoup de nuits à Camden, et des heures à écouter les girl groups des années 1960, les Shangri-Las en tête. C’est cette matière qu’elle apporte à deux producteurs : Salaam Remi, déjà présent sur Frank, et un nouveau venu, Mark Ronson.",
+    "Ronson produit six titres, dont « Rehab », « Back to Black » et « Love Is a Losing Game ». Remi signe les cinq autres, dont « Me & Mr Jones » et « Tears Dry on Their Own ». Pour retrouver le son de la Motown et de Stax, Ronson fait appel aux Dap-Kings, le groupe de Sharon Jones et l’orchestre maison de Daptone, à Brooklyn, la maison de Charles Bradley. Cuivres ronds, batterie sèche, chœurs à l’ancienne : le décor est rétro, mais ce que chante Amy Winehouse ne l’est pas. Elle parle d’alcool, de cure refusée, d’un amour qui la laisse au fond du trou, avec un humour noir que personne n’attendait d’une voix pareille.",
+    "Back to Black devient l’album le plus vendu de l’année 2007 au Royaume-Uni, puis s’écoule à quelque vingt millions d’exemplaires dans le monde. En février 2008, Amy Winehouse remporte cinq Grammy Awards, dont celui du meilleur album vocal pop. Elle meurt trois ans plus tard, le 23 juillet 2011, à 27 ans, sans avoir publié de troisième album. Une édition anniversaire est sortie vendredi dernier, avec des démos inédites et un concert enregistré au Paradiso d’Amsterdam en février 2007. L’original, lui, n’a pas pris une ride : onze chansons, trente-cinq minutes, et pas une de trop."
+  ],
+  "video": {
+    "youtubeId": "TJAfLE39ZZ8",
+    "title": "Back to Black — Amy Winehouse · Back to Black, 2006"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/097eYvf9NKjFnv4xA9s2oV",
+    "appleMusic": "https://music.apple.com/fr/album/back-to-black/1422677780",
+    "deezer": "https://www.deezer.com/fr/album/217795",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_l-ANj6gH8Ju8zsPmRkvtzIC2RFb6V_jbw"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a1975306/Amy-Winehouse-Back-To-Black-Vinyle-album",
+      "format": "Vinyle Standard",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a23477923/Amy-Winehouse-Back-To-Black-20th-Anniversary-Edition-Limitee-Vinyle-Transparent-Coffret-Vinyle-album",
+      "format": "Vinyle 20th Anniversary Édition Limitée",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a2171459/Amy-Winehouse-Back-To-Black-CD-album",
+      "format": "CD",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B000RL2208/",
+      "format": "Vinyle",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "lioness-hidden-treasures",
+      "title": "Lioness: Hidden Treasures",
+      "year": 2011,
+      "type": "Compilation",
+      "trackCount": 12,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/a3fb6cd3ee275742a9af9bf0e13e44ea/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "back-to-black",
+      "title": "Back to Black",
+      "year": 2006,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "/covers/amy-winehouse-back-to-black.jpg"
+    },
+    {
+      "id": "frank",
+      "title": "Frank",
+      "year": 2003,
+      "type": "Album",
+      "trackCount": 16,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/7baacf310cb67ceda09b945343a45fe2/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}

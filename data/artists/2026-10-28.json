@@ -1,0 +1,95 @@
+{
+  "id": "the-verve-urban-hymns",
+  "number": "151",
+  "publishedAt": "2026-10-28",
+  "artist": {
+    "name": "THE VERVE",
+    "origin": "Wigan, Royaume-Uni"
+  },
+  "featuredAlbum": {
+    "id": "urban-hymns",
+    "title": "Urban Hymns",
+    "year": 1997,
+    "label": "Hut Records",
+    "genres": [
+      "Alternative Rock",
+      "Britpop"
+    ],
+    "trackCount": 13,
+    "type": "Album",
+    "coverUrl": "/covers/the-verve-urban-hymns.jpg"
+  },
+  "meta": "1997 · Hut Records · Alternative Rock · Britpop · Royaume-Uni",
+  "editorial": [
+    "Le 29 septembre 1997, The Verve publie Urban Hymns sur le label Hut. Deux ans plus tôt, le groupe de Wigan, près de Manchester, n’existait plus : il s’était séparé en pleine tournée de A Northern Soul, en août 1995, avant de se reformer deux semaines plus tard sans son guitariste, Nick McCabe. Richard Ashcroft écrit seul, enregistre aux Olympic Studios de Londres avec Youth puis Chris Potter, et le disque n’avance pas. En janvier 1997, il rappelle McCabe. Plusieurs morceaux sont réenregistrés pour accueillir ses guitares, et c’est cette réconciliation qu’on entend sur l’album.",
+    "Urban Hymns s’ouvre sur « Bitter Sweet Symphony », construite sur une boucle de cordes empruntée à une version orchestrale de « The Last Time » des Rolling Stones, enregistrée en 1966 par l’Andrew Oldham Orchestra. Le clip, où Ashcroft remonte un trottoir londonien en bousculant tous les passants, fait le tour du monde. Le reste est plus intime. « The Drugs Don’t Work », ballade sur la mort qui approche, devient le premier numéro un du groupe au Royaume-Uni, et « Lucky Man » et « Sonnet » suivent. Entre les chansons, les longues dérives de McCabe, comme « Catching the Butterfly » ou « Neon Wilderness », rappellent d’où vient The Verve : du rock planant de ses débuts.",
+    "L’album se classe premier au Royaume-Uni, s’y vend à 250 000 exemplaires dès la première semaine et remporte le Brit Award du meilleur album britannique en 1998. La paix ne dure pas : McCabe cesse de tourner, et le groupe se sépare de nouveau en avril 1999. « Bitter Sweet Symphony », elle, a échappé à son auteur pendant plus de vingt ans. Après un litige avec ABKCO, l’éditeur des premiers Rolling Stones, Mick Jagger et Keith Richards en étaient crédités et en touchaient les droits. Ils les ont rendus à Richard Ashcroft en 2019. Pour le milieu de semaine, un disque grandiose qui n’oublie jamais d’être sincère."
+  ],
+  "video": {
+    "youtubeId": "1lyu1KKwC74",
+    "title": "Bitter Sweet Symphony — The Verve · Urban Hymns, 1997"
+  },
+  "streaming": {
+    "spotify": "https://open.spotify.com/intl-fr/album/52AeC4gwbxDfFlLHgK1ByD",
+    "appleMusic": "https://music.apple.com/fr/album/urban-hymns-remastered-2016/1440885112",
+    "deezer": "https://www.deezer.com/fr/album/46871442",
+    "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kwHm7IYsHPYkH7jgJx6nx0NSvHLUybCVA"
+  },
+  "vinyl": [
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a9980897/The-Verve-Urban-Hymns-Double-Vinyle-Gatefold-Vinyle-album",
+      "format": "Double Vinyle Gatefold",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Fnac",
+      "url": "https://www.fnac.com/a10832358/The-Verve-Urban-Hymns-20th-Anniversary-CD-album",
+      "format": "CD 20th Anniversary",
+      "logo": "/logos/shops/fnac.svg",
+      "color": "#F7A500"
+    },
+    {
+      "shop": "Amazon",
+      "url": "https://www.amazon.fr/dp/B01HCFGO32/",
+      "format": "Double Vinyle Gatefold",
+      "logo": "/logos/shops/amazon.svg",
+      "color": "#FF9900"
+    }
+  ],
+  "discography": [
+    {
+      "id": "forth",
+      "title": "Forth",
+      "year": 2008,
+      "type": "Album",
+      "trackCount": 11,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/26fd8d8d565b1f76c6807307bb21d905/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "urban-hymns",
+      "title": "Urban Hymns",
+      "year": 1997,
+      "type": "Album",
+      "trackCount": 13,
+      "coverUrl": "/covers/the-verve-urban-hymns.jpg"
+    },
+    {
+      "id": "a-northern-soul",
+      "title": "A Northern Soul",
+      "year": 1995,
+      "type": "Album",
+      "trackCount": 12,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/1d44458d7e056c819cfaffd16807a6c8/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+      "id": "a-storm-in-heaven",
+      "title": "A Storm in Heaven",
+      "year": 1993,
+      "type": "Album",
+      "trackCount": 10,
+      "coverUrl": "https://e-cdns-images.dzcdn.net/images/cover/b5298e5a04d43babfffecdd26a9121d7/1000x1000-000000-80-0-0.jpg"
+    }
+  ]
+}
